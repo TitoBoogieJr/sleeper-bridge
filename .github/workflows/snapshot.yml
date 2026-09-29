@@ -16,11 +16,80 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Fetch Sleeper league data
+      - name: Fetch Sleeper data
         run: |
+          set -e
+
+          LEAGUE_ID="1313649397514391552"
+
+          # Get the current NFL week from Sleeper
           curl --fail --silent --show-error \
-            "https://api.sleeper.app/v1/league/1313649397514391552" \
-            -o league-snapshot.json
+            "https://api.sleeper.app/v1/state/nfl" \
+            -o nfl-state.json
+
+          WEEK=$(python3 -c "import json; print(json.load(open('nfl-state.json'))['week'])")
+
+          echo "Current Sleeper NFL week: $WEEK"
+
+          # League settings
+          curl --fail --silent --show-error \
+            "https://api.sleeper.app/v1/league/$LEAGUE_ID" \
+            -o league.json
+
+          # League users / owners
+          curl --fail --silent --show-error \
+            "https://api.sleeper.app/v1/league/$LEAGUE_ID/users" \
+            -o users.json
+
+          # All 14 rosters
+          curl --fail --silent --show-error \
+            "https://api.sleeper.app/v1/league/$LEAGUE_ID/rosters" \
+            -o rosters.json
+
+          # Current week's matchups
+          curl --fail --silent --show-error \
+            "https://api.sleeper.app/v1/league/$LEAGUE_ID/matchups/$WEEK" \
+            -o matchups.json
+
+          # Current week's transactions
+          curl --fail --silent --show-error \
+            "https://api.sleeper.app/v1/league/$LEAGUE_ID/transactions/$WEEK" \
+            -o transactions.json
+
+      - name: Build combined snapshot
+        run: |
+          python3 <<'PY'
+          import json
+          from datetime import datetime, timezone
+
+          def load(filename):
+              with open(filename, "r", encoding="utf-8") as f:
+                  return json.load(f)
+
+          snapshot = {
+              "snapshot_generated_at": datetime.now(timezone.utc).isoformat(),
+              "nfl_state": load("nfl-state.json"),
+              "league": load("league.json"),
+              "users": load("users.json"),
+              "rosters": load("rosters.json"),
+              "matchups": load("matchups.json"),
+              "transactions": load("transactions.json"),
+          }
+
+          with open("league-snapshot.json", "w", encoding="utf-8") as f:
+              json.dump(snapshot, f, indent=2)
+
+          print("Combined Sleeper snapshot created.")
+          PY
+
+      - name: Clean temporary files
+        run: |
+          rm -f nfl-state.json
+          rm -f league.json
+          rm -f users.json
+          rm -f rosters.json
+          rm -f matchups.json
+          rm -f transactions.json
 
       - name: Commit snapshot
         run: |
