@@ -1,0 +1,31 @@
+name: Update Sleeper Snapshot
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-snapshot:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch Sleeper league data
+        run: |
+          curl --fail --silent --show-error \
+            "https://api.sleeper.app/v1/league/1313649397514391552" \
+            -o league-snapshot.json
+
+      - name: Commit snapshot
+        run: |
+          git config user.name "SleeperBridge Bot"
+          git config user.email "sleeperbridge@users.noreply.github.com"
+          git add league-snapshot.json
+          git diff --cached --quiet || git commit -m "Update Sleeper league snapshot"
+          git push
