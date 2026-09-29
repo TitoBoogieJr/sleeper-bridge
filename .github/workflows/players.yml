@@ -1,0 +1,46 @@
+name: Update Sleeper Players
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Once per day at 10:15 UTC
+    - cron: "15 10 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-players:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Download Sleeper NFL player database
+        run: |
+          curl --fail --silent --show-error \
+            "https://api.sleeper.app/v1/players/nfl" \
+            -o players.json
+
+          echo "Downloaded Sleeper NFL player database."
+
+      - name: Publish players to data branch
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git clone --branch snapshot-data \
+            "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" data
+
+          cp players.json data/players.json
+
+          cd data
+
+          git config user.name "SleeperBridge Bot"
+          git config user.email "sleeperbridge@users.noreply.github.com"
+
+          git add players.json
+
+          if git diff --cached --quiet; then
+            echo "No player database changes to commit."
+          else
+            git commit -m "Update Sleeper player database"
+            git push origin snapshot-data
+          fi
