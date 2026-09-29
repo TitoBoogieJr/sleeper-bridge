@@ -13,16 +13,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout source
         uses: actions/checkout@v4
+        with:
+          path: source
 
       - name: Fetch Sleeper data
+        working-directory: source
         run: |
           set -e
 
           LEAGUE_ID="1313649397514391552"
 
-          # Get the current NFL week from Sleeper
           curl --fail --silent --show-error \
             "https://api.sleeper.app/v1/state/nfl" \
             -o nfl-state.json
@@ -31,32 +33,28 @@ jobs:
 
           echo "Current Sleeper NFL week: $WEEK"
 
-          # League settings
           curl --fail --silent --show-error \
             "https://api.sleeper.app/v1/league/$LEAGUE_ID" \
             -o league.json
 
-          # League users / owners
           curl --fail --silent --show-error \
             "https://api.sleeper.app/v1/league/$LEAGUE_ID/users" \
             -o users.json
 
-          # All 14 rosters
           curl --fail --silent --show-error \
             "https://api.sleeper.app/v1/league/$LEAGUE_ID/rosters" \
             -o rosters.json
 
-          # Current week's matchups
           curl --fail --silent --show-error \
             "https://api.sleeper.app/v1/league/$LEAGUE_ID/matchups/$WEEK" \
             -o matchups.json
 
-          # Current week's transactions
           curl --fail --silent --show-error \
             "https://api.sleeper.app/v1/league/$LEAGUE_ID/transactions/$WEEK" \
             -o transactions.json
 
       - name: Build combined snapshot
+        working-directory: source
         run: |
           python3 <<'PY'
           import json
@@ -82,19 +80,33 @@ jobs:
           print("Combined Sleeper snapshot created.")
           PY
 
-      - name: Clean temporary files
+      - name: Publish snapshot to data branch
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
-          rm -f nfl-state.json
-          rm -f league.json
-          rm -f users.json
-          rm -f rosters.json
-          rm -f matchups.json
-          rm -f transactions.json
+          git clone --branch snapshot-data \
+            "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" data \
+          || {
+            git clone \
+              "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" data
+            cd data
+            git checkout --orphan snapshot-data
+            git rm -rf .
+            cd ..
+          }
 
-      - name: Commit snapshot
-        run: |
+          cp source/league-snapshot.json data/league-snapshot.json
+
+          cd data
+
           git config user.name "SleeperBridge Bot"
           git config user.email "sleeperbridge@users.noreply.github.com"
+
           git add league-snapshot.json
-          git diff --cached --quiet || git commit -m "Update Sleeper league snapshot"
-          git push
+
+          if git diff --cached --quiet; then
+            echo "No snapshot changes to commit."
+          else
+            git commit -m "Update Sleeper league snapshot"
+            git push origin snapshot-data
+          fi
