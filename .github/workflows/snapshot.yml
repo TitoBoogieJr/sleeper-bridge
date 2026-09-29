@@ -53,7 +53,17 @@ jobs:
             "https://api.sleeper.app/v1/league/$LEAGUE_ID/transactions/$WEEK" \
             -o transactions.json
 
-      - name: Build combined snapshot
+      - name: Get cached player database
+        env:
+          GH_TOKEN: ${{ github.token }}      
+        run:  |
+          git clone --depth 1 --branch snapshot-data \
+            "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" \
+            player-data
+            
+          cp player-data/players.json source/players.json  
+
+      - name: Build snapshots
         working-directory: source
         run: |
           python3 <<'PY'
@@ -74,10 +84,113 @@ jobs:
               "transactions": load("transactions.json"),
           }
 
+          players = load("players.json")
+
+          def player_info(player_id):
+            if not player_id:
+              return None
+
+            player = players.get(str(player_id), {})
+
+            full_name = player.get("full_name")
+
+            if not full_name:
+              first = player.get("first_name","")
+              last = player.get("last_name","")
+              full_name = f"{first} {last}".strip()
+
+            return {
+              "player_id": str(player_id),
+              "name": full_name or f"Unknown ({player_id})",
+              "position": player.get("position"),
+              "team": player.get("team"),
+              "status": player.get("status"),
+              "injury_status": player.get("injury_status"),
+              
+              }
+          
+          users = snapshot["users"]
+          rosters = snapshot["rosters"]
+
+          user_lookup = {
+            user["user_id"]: user
+            for user in users
+          }
+
+          readable_rosters = []
+
+          for roster in rosters:
+            owner = user_lookup.get(roster.get("owner_id"),{})
+            metadata = owner.get("metadata") or {}
+
+            player_ids = roster.get("players") or []
+            starter_ids = roster.get("starters") or []
+            reserve_ids = roster.get("reserve") or []
+
+            starter_set = set(starter_ids)
+            reserve_set = set(reserve_ids)
+
+            bench_ids = [
+              player_id
+              for player_id in player_ids
+              if player_id not in starter_set
+              and player_id not in reserve_set
+            ]
+
+            readable_rosters.append({
+              "roster_id": roster.get("roster_id"),
+              "owner_user_id": roster.get("owner_id"),
+              "username": owner.get("display_name"),
+              "team_name": (
+                  metadata.get("team_name")
+                  or owner.get("display_name")
+                ),
+
+              "record": {
+                "wins": (roster.get("settings") or {}).get("wins"),
+                "losses": (roster.get("settings") or {}).get("losses"),
+                "ties": (roster.get("settings") or {}).get("ties"),
+                "faab_used": (
+                  roster.get("settings") or {}
+                ).get("waiver_budget_used"),
+              },
+
+              "starters": [
+                player_info(player_id)
+                for player_id in starter_ids
+              ],
+
+              "bench": [
+                player_info(player_id)
+                for player_id in bench_ids
+              ],
+
+              "reserve": [
+                player_info(player_id)
+                for player_id in reserve_ids
+              ],
+                              
+            })
+
+          readable_snapshot = {
+              "snapshot_generated_at": snapshot["snapshot_generated_at"],
+              "current_week": snapshot["nfl_state"].get("week"),
+              "league": {
+                  "name": snapshot["league"].get("name"),
+                  "season": snapshot["league"].get("season"),
+                  "status": snapshot["league"].get("status"),
+                  "total_rosters": snapshot["league"].get("total_rosters"),
+              },
+              "rosters": readable_rosters,
+          }
+
           with open("league-snapshot.json", "w", encoding="utf-8") as f:
               json.dump(snapshot, f, indent=2)
 
-          print("Combined Sleeper snapshot created.")
+          with open("league-readable.json", "w", encoding="utf-8") as f:
+              json.dump(readable_snapshot, f, indent=2)
+
+          print("Raw and readable Sleeper snapshots created.")
           PY
 
       - name: Publish snapshot to data branch
@@ -96,13 +209,14 @@ jobs:
           }
 
           cp source/league-snapshot.json data/league-snapshot.json
+          cp source/league-readable.json data/league-readable.json
 
           cd data
 
           git config user.name "SleeperBridge Bot"
           git config user.email "sleeperbridge@users.noreply.github.com"
 
-          git add league-snapshot.json
+          git add league-snapshot.json league-readable.json
 
           if git diff --cached --quiet; then
             echo "No snapshot changes to commit."
