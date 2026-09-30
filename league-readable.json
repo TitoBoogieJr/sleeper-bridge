@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-09-30T02:18:52.223808+00:00",
+  "snapshot_generated_at": "2026-09-30T08:55:31.463370+00:00",
   "current_week": 4,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -37,12 +37,12 @@
           "injury_status": null
         },
         {
-          "player_id": "9226",
-          "name": "De'Von Achane",
+          "player_id": "4035",
+          "name": "Alvin Kamara",
           "position": "RB",
-          "team": "MIA",
-          "status": "Inactive",
-          "injury_status": "IR"
+          "team": "NO",
+          "status": "Active",
+          "injury_status": null
         },
         {
           "player_id": "9997",
@@ -111,14 +111,6 @@
           "injury_status": null
         },
         {
-          "player_id": "4035",
-          "name": "Alvin Kamara",
-          "position": "RB",
-          "team": "NO",
-          "status": "Active",
-          "injury_status": null
-        },
-        {
           "player_id": "5001",
           "name": "Dalton Schultz",
           "position": "TE",
@@ -143,6 +135,14 @@
           "team": "PIT",
           "status": "Inactive",
           "injury_status": "Out"
+        },
+        {
+          "player_id": "9226",
+          "name": "De'Von Achane",
+          "position": "RB",
+          "team": "MIA",
+          "status": "Inactive",
+          "injury_status": "IR"
         },
         {
           "player_id": "9753",
@@ -430,7 +430,7 @@
         "wins": 1,
         "losses": 5,
         "ties": 0,
-        "faab_used": 20
+        "faab_used": 47
       },
       "starters": [
         {
@@ -516,10 +516,18 @@
           "injury_status": null
         },
         {
-          "player_id": "12493",
-          "name": "Oronde Gadsden",
+          "player_id": "11643",
+          "name": "Jaylen Wright",
+          "position": "RB",
+          "team": "MIA",
+          "status": "Active",
+          "injury_status": "Out"
+        },
+        {
+          "player_id": "13330",
+          "name": "Kenyon Sadiq",
           "position": "TE",
-          "team": "LAC",
+          "team": "NYJ",
           "status": "Active",
           "injury_status": null
         },
@@ -972,7 +980,7 @@
         "wins": 3,
         "losses": 3,
         "ties": 0,
-        "faab_used": 0
+        "faab_used": 52
       },
       "starters": [
         {
@@ -1032,11 +1040,11 @@
           "injury_status": null
         },
         {
-          "player_id": "13545",
-          "name": "Trey Smack",
-          "position": "K",
-          "team": "GB",
-          "status": "Active",
+          "player_id": "0",
+          "name": "Unknown (0)",
+          "position": null,
+          "team": null,
+          "status": null,
           "injury_status": null
         },
         {
@@ -1058,6 +1066,14 @@
           "injury_status": null
         },
         {
+          "player_id": "12185",
+          "name": "Spencer Shrader",
+          "position": "K",
+          "team": "IND",
+          "status": "Active",
+          "injury_status": "Questionable"
+        },
+        {
           "player_id": "12487",
           "name": "Terrance Ferguson",
           "position": "TE",
@@ -1074,12 +1090,12 @@
           "injury_status": null
         },
         {
-          "player_id": "13296",
-          "name": "Caleb Douglas",
-          "position": "WR",
+          "player_id": "12495",
+          "name": "Ollie Gordon",
+          "position": "RB",
           "team": "MIA",
           "status": "Active",
-          "injury_status": "Out"
+          "injury_status": "Questionable"
         },
         {
           "player_id": "6804",
@@ -1239,7 +1255,7 @@
         "wins": 5,
         "losses": 1,
         "ties": 0,
-        "faab_used": 20
+        "faab_used": 40
       },
       "starters": [
         {
@@ -1307,15 +1323,31 @@
           "injury_status": null
         },
         {
-          "player_id": "CIN",
-          "name": "Cincinnati Bengals",
-          "position": "DEF",
-          "team": "CIN",
+          "player_id": "0",
+          "name": "Unknown (0)",
+          "position": null,
+          "team": null,
           "status": null,
           "injury_status": null
         }
       ],
       "bench": [
+        {
+          "player_id": "1479",
+          "name": "Keenan Allen",
+          "position": "WR",
+          "team": "IND",
+          "status": "Active",
+          "injury_status": null
+        },
+        {
+          "player_id": "3634",
+          "name": "Kalif Raymond",
+          "position": "WR",
+          "team": "CHI",
+          "status": "Active",
+          "injury_status": null
+        },
         {
           "player_id": "5844",
           "name": "T.J. Hockenson",
@@ -1338,6 +1370,14 @@
           "position": "WR",
           "team": "LAC",
           "status": "Active",
+          "injury_status": null
+        },
+        {
+          "player_id": "CHI",
+          "name": "Chicago Bears",
+          "position": "DEF",
+          "team": "CHI",
+          "status": null,
           "injury_status": null
         }
       ],
