@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-09-29T23:07:47.176787+00:00",
+  "snapshot_generated_at": "2026-09-30T02:18:52.223808+00:00",
   "nfl_state": {
     "week": 4,
     "leg": 4,
@@ -76,10 +76,10 @@
     },
     "avatar": null,
     "company_id": null,
-    "shard": 666,
-    "season": "2026",
-    "season_type": "regular",
     "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "shard": 666,
     "scoring_settings": {
       "sack": 1.0,
       "qb_hit": 0.0,
@@ -1017,7 +1017,7 @@
       "starters": [
         "8183",
         "9509",
-        "0",
+        "8136",
         "4983",
         "2133",
         "4217",
@@ -1849,7 +1849,7 @@
       "starters": [
         "8183",
         "9509",
-        "0",
+        "8136",
         "4983",
         "2133",
         "4217",
