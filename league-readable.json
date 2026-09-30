@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-09-30T08:55:31.463370+00:00",
+  "snapshot_generated_at": "2026-09-30T15:49:15.487937+00:00",
   "current_week": 4,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -125,9 +125,7 @@
           "team": "IND",
           "status": "Active",
           "injury_status": null
-        }
-      ],
-      "reserve": [
+        },
         {
           "player_id": "7021",
           "name": "Rico Dowdle",
@@ -135,7 +133,9 @@
           "team": "PIT",
           "status": "Inactive",
           "injury_status": "Out"
-        },
+        }
+      ],
+      "reserve": [
         {
           "player_id": "9226",
           "name": "De'Von Achane",
@@ -799,28 +799,20 @@
           "injury_status": null
         },
         {
+          "player_id": "12472",
+          "name": "Raheim Sanders",
+          "position": "RB",
+          "team": "CLE",
+          "status": "Active",
+          "injury_status": null
+        },
+        {
           "player_id": "3214",
           "name": "Hunter Henry",
           "position": "TE",
           "team": "NE",
           "status": "Active",
           "injury_status": null
-        },
-        {
-          "player_id": "4147",
-          "name": "Samaje Perine",
-          "position": "RB",
-          "team": "CIN",
-          "status": "Active",
-          "injury_status": null
-        },
-        {
-          "player_id": "7543",
-          "name": "Travis Etienne",
-          "position": "RB",
-          "team": "NO",
-          "status": "Active",
-          "injury_status": "Out"
         },
         {
           "player_id": "8134",
@@ -831,7 +823,16 @@
           "injury_status": null
         }
       ],
-      "reserve": []
+      "reserve": [
+        {
+          "player_id": "7543",
+          "name": "Travis Etienne",
+          "position": "RB",
+          "team": "NO",
+          "status": "Active",
+          "injury_status": "Out"
+        }
+      ]
     },
     {
       "roster_id": 7,
@@ -1040,12 +1041,12 @@
           "injury_status": null
         },
         {
-          "player_id": "0",
-          "name": "Unknown (0)",
-          "position": null,
-          "team": null,
-          "status": null,
-          "injury_status": null
+          "player_id": "12185",
+          "name": "Spencer Shrader",
+          "position": "K",
+          "team": "IND",
+          "status": "Active",
+          "injury_status": "Questionable"
         },
         {
           "player_id": "NYG",
@@ -1066,22 +1067,6 @@
           "injury_status": null
         },
         {
-          "player_id": "12185",
-          "name": "Spencer Shrader",
-          "position": "K",
-          "team": "IND",
-          "status": "Active",
-          "injury_status": "Questionable"
-        },
-        {
-          "player_id": "12487",
-          "name": "Terrance Ferguson",
-          "position": "TE",
-          "team": "LAR",
-          "status": "Active",
-          "injury_status": "Questionable"
-        },
-        {
           "player_id": "12492",
           "name": "Pat Bryant",
           "position": "WR",
@@ -1096,6 +1081,14 @@
           "team": "MIA",
           "status": "Active",
           "injury_status": "Questionable"
+        },
+        {
+          "player_id": "3271",
+          "name": "Tyler Higbee",
+          "position": "TE",
+          "team": "LAR",
+          "status": "Active",
+          "injury_status": null
         },
         {
           "player_id": "6804",
