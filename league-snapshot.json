@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-01T00:26:32.183674+00:00",
+  "snapshot_generated_at": "2026-10-01T06:27:13.054722+00:00",
   "nfl_state": {
     "week": 4,
     "leg": 4,
@@ -76,10 +76,11 @@
     },
     "avatar": null,
     "company_id": null,
+    "last_message_id": "1411192173885476864",
     "shard": 666,
+    "sport": "nfl",
     "season": "2026",
     "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "qb_hit": 0.0,
@@ -214,7 +215,6 @@
       "pts_allow_7_13": 3.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1411039663786885120",
     "draft_id": "1313649397531148288",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
@@ -222,16 +222,15 @@
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1790780580997,
+    "last_message_time": 1790816942240,
     "last_pinned_message_id": null,
-    "league_id": "1313649397514391552",
     "last_read_id": null,
+    "league_id": "1313649397514391552",
     "previous_league_id": "1263445199263117312",
     "bracket_id": null,
     "bracket_overrides_id": null,
     "group_id": null,
     "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -248,6 +247,7 @@
       "BN",
       "BN"
     ],
+    "loser_bracket_overrides_id": null,
     "total_rosters": 14
   },
   "users": [
@@ -402,7 +402,9 @@
       "league_id": "1313649397514391552",
       "metadata": {
         "allow_pn": "on",
-        "mention_pn": "on"
+        "avatar": "https://sleepercdn.com/uploads/2c33c1f7bd5224566ec7bd25a82c71bc.jpg",
+        "mention_pn": "on",
+        "team_name": "JSN Bourne"
       },
       "settings": null,
       "user_id": "1263695631499665408"
@@ -1267,9 +1269,9 @@
         "9488",
         "12519",
         "12518",
-        "9486",
+        "12534",
         "12711",
-        "KC"
+        "BAL"
       ],
       "taxi": null
     }
@@ -2119,7 +2121,7 @@
         "9488",
         "12519",
         "12518",
-        "9486",
+        "12534",
         "12711",
         "BAL"
       ],
@@ -2168,12 +2170,12 @@
       "adds": {
         "12472": 6
       },
-      "drops": {
-        "4147": 6
-      },
       "consenter_ids": [
         6
       ],
+      "drops": {
+        "4147": 6
+      },
       "roster_ids": [
         6
       ],
@@ -2193,12 +2195,12 @@
       "adds": {
         "3271": 8
       },
-      "drops": {
-        "12487": 8
-      },
       "consenter_ids": [
         8
       ],
+      "drops": {
+        "12487": 8
+      },
       "roster_ids": [
         8
       ],

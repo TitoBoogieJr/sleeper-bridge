@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-01T00:26:32.183674+00:00",
+  "snapshot_generated_at": "2026-10-01T06:27:13.054722+00:00",
   "current_week": 4,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -1843,7 +1843,7 @@
       "roster_id": 14,
       "owner_user_id": "1263695631499665408",
       "username": "jeredoliver",
-      "team_name": "jeredoliver",
+      "team_name": "JSN Bourne",
       "record": {
         "wins": 5,
         "losses": 1,
@@ -1900,10 +1900,10 @@
           "injury_status": null
         },
         {
-          "player_id": "9486",
-          "name": "Dontayvion Wicks",
-          "position": "WR",
-          "team": "PHI",
+          "player_id": "12534",
+          "name": "Kyle Monangai",
+          "position": "RB",
+          "team": "CHI",
           "status": "Active",
           "injury_status": null
         },
@@ -1916,10 +1916,10 @@
           "injury_status": null
         },
         {
-          "player_id": "KC",
-          "name": "Kansas City Chiefs",
+          "player_id": "BAL",
+          "name": "Baltimore Ravens",
           "position": "DEF",
-          "team": "KC",
+          "team": "BAL",
           "status": null,
           "injury_status": null
         }
@@ -1942,14 +1942,6 @@
           "injury_status": null
         },
         {
-          "player_id": "12534",
-          "name": "Kyle Monangai",
-          "position": "RB",
-          "team": "CHI",
-          "status": "Active",
-          "injury_status": null
-        },
-        {
           "player_id": "9225",
           "name": "Tank Bigsby",
           "position": "RB",
@@ -1958,10 +1950,18 @@
           "injury_status": null
         },
         {
-          "player_id": "BAL",
-          "name": "Baltimore Ravens",
+          "player_id": "9486",
+          "name": "Dontayvion Wicks",
+          "position": "WR",
+          "team": "PHI",
+          "status": "Active",
+          "injury_status": null
+        },
+        {
+          "player_id": "KC",
+          "name": "Kansas City Chiefs",
           "position": "DEF",
-          "team": "BAL",
+          "team": "KC",
           "status": null,
           "injury_status": null
         }
