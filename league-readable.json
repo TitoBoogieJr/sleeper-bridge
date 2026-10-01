@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-01T19:22:52.182651+00:00",
+  "snapshot_generated_at": "2026-10-01T23:22:28.447150+00:00",
   "current_week": 4,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -103,6 +103,14 @@
           "injury_status": null
         },
         {
+          "player_id": "11571",
+          "name": "Isaiah Davis",
+          "position": "RB",
+          "team": "NYJ",
+          "status": "Active",
+          "injury_status": null
+        },
+        {
           "player_id": "12514",
           "name": "Emeka Egbuka",
           "position": "WR",
@@ -125,7 +133,9 @@
           "team": "IND",
           "status": "Active",
           "injury_status": null
-        },
+        }
+      ],
+      "reserve": [
         {
           "player_id": "7021",
           "name": "Rico Dowdle",
@@ -133,9 +143,7 @@
           "team": "PIT",
           "status": "Active",
           "injury_status": "Out"
-        }
-      ],
-      "reserve": [
+        },
         {
           "player_id": "9226",
           "name": "De'Von Achane",
@@ -466,10 +474,10 @@
           "injury_status": null
         },
         {
-          "player_id": "11635",
-          "name": "Ladd McConkey",
+          "player_id": "11646",
+          "name": "Jalen Coker",
           "position": "WR",
-          "team": "LAC",
+          "team": "CAR",
           "status": "Active",
           "injury_status": "Questionable"
         },
@@ -482,12 +490,12 @@
           "injury_status": null
         },
         {
-          "player_id": "13298",
-          "name": "KC Concepcion",
-          "position": "WR",
-          "team": "CLE",
+          "player_id": "13330",
+          "name": "Kenyon Sadiq",
+          "position": "TE",
+          "team": "NYJ",
           "status": "Active",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "11539",
@@ -516,6 +524,14 @@
           "injury_status": null
         },
         {
+          "player_id": "11635",
+          "name": "Ladd McConkey",
+          "position": "WR",
+          "team": "LAC",
+          "status": "Active",
+          "injury_status": "Questionable"
+        },
+        {
           "player_id": "11643",
           "name": "Jaylen Wright",
           "position": "RB",
@@ -524,18 +540,10 @@
           "injury_status": "Questionable"
         },
         {
-          "player_id": "13330",
-          "name": "Kenyon Sadiq",
-          "position": "TE",
-          "team": "NYJ",
-          "status": "Active",
-          "injury_status": "Questionable"
-        },
-        {
-          "player_id": "6828",
-          "name": "AJ Dillon",
-          "position": "RB",
-          "team": "CAR",
+          "player_id": "13298",
+          "name": "KC Concepcion",
+          "position": "WR",
+          "team": "CLE",
           "status": "Active",
           "injury_status": null
         },
@@ -549,14 +557,6 @@
         }
       ],
       "reserve": [
-        {
-          "player_id": "11646",
-          "name": "Jalen Coker",
-          "position": "WR",
-          "team": "CAR",
-          "status": "Active",
-          "injury_status": "Questionable"
-        },
         {
           "player_id": "5859",
           "name": "A.J. Brown",
@@ -741,12 +741,12 @@
           "injury_status": "Questionable"
         },
         {
-          "player_id": "7525",
-          "name": "DeVonta Smith",
+          "player_id": "10213",
+          "name": "Tre Tucker",
           "position": "WR",
-          "team": "PHI",
+          "team": "LV",
           "status": "Active",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "5846",
@@ -765,12 +765,12 @@
           "injury_status": null
         },
         {
-          "player_id": "10213",
-          "name": "Tre Tucker",
+          "player_id": "7525",
+          "name": "DeVonta Smith",
           "position": "WR",
-          "team": "LV",
+          "team": "PHI",
           "status": "Active",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "11533",
@@ -1179,12 +1179,12 @@
           "injury_status": null
         },
         {
-          "player_id": "9504",
-          "name": "Kayshon Boutte",
+          "player_id": "9493",
+          "name": "Puka Nacua",
           "position": "WR",
-          "team": "HOU",
+          "team": "LAR",
           "status": "Active",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "7839",
@@ -1237,12 +1237,12 @@
           "injury_status": null
         },
         {
-          "player_id": "9493",
-          "name": "Puka Nacua",
+          "player_id": "9504",
+          "name": "Kayshon Boutte",
           "position": "WR",
-          "team": "LAR",
+          "team": "HOU",
           "status": "Active",
-          "injury_status": "Questionable"
+          "injury_status": null
         }
       ],
       "reserve": []
@@ -1568,10 +1568,10 @@
       },
       "starters": [
         {
-          "player_id": "4943",
-          "name": "Sam Darnold",
+          "player_id": "9758",
+          "name": "C.J. Stroud",
           "position": "QB",
-          "team": "SEA",
+          "team": "HOU",
           "status": "Active",
           "injury_status": null
         },
@@ -1642,6 +1642,14 @@
       ],
       "bench": [
         {
+          "player_id": "11566",
+          "name": "Jayden Daniels",
+          "position": "QB",
+          "team": "WAS",
+          "status": "Active",
+          "injury_status": "Questionable"
+        },
+        {
           "player_id": "11576",
           "name": "Braelon Allen",
           "position": "RB",
@@ -1658,18 +1666,18 @@
           "injury_status": null
         },
         {
-          "player_id": "8121",
-          "name": "Romeo Doubs",
-          "position": "WR",
-          "team": "NE",
+          "player_id": "4943",
+          "name": "Sam Darnold",
+          "position": "QB",
+          "team": "SEA",
           "status": "Active",
           "injury_status": null
         },
         {
-          "player_id": "9758",
-          "name": "C.J. Stroud",
-          "position": "QB",
-          "team": "HOU",
+          "player_id": "8121",
+          "name": "Romeo Doubs",
+          "position": "WR",
+          "team": "NE",
           "status": "Active",
           "injury_status": null
         }
@@ -1682,14 +1690,6 @@
           "team": "GB",
           "status": "Inactive",
           "injury_status": "IR"
-        },
-        {
-          "player_id": "11566",
-          "name": "Jayden Daniels",
-          "position": "QB",
-          "team": "WAS",
-          "status": "Active",
-          "injury_status": "Questionable"
         }
       ]
     },
@@ -1746,10 +1746,10 @@
           "injury_status": null
         },
         {
-          "player_id": "7600",
-          "name": "Pat Freiermuth",
+          "player_id": "9480",
+          "name": "Brenton Strange",
           "position": "TE",
-          "team": "PIT",
+          "team": "JAX",
           "status": "Active",
           "injury_status": null
         },
@@ -1770,10 +1770,10 @@
           "injury_status": null
         },
         {
-          "player_id": "JAX",
-          "name": "Jacksonville Jaguars",
+          "player_id": "BUF",
+          "name": "Buffalo Bills",
           "position": "DEF",
-          "team": "JAX",
+          "team": "BUF",
           "status": null,
           "injury_status": null
         }
@@ -1812,10 +1812,10 @@
           "injury_status": "Questionable"
         },
         {
-          "player_id": "CAR",
-          "name": "Carolina Panthers",
+          "player_id": "JAX",
+          "name": "Jacksonville Jaguars",
           "position": "DEF",
-          "team": "CAR",
+          "team": "JAX",
           "status": null,
           "injury_status": null
         }
