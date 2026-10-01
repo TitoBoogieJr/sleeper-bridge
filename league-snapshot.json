@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-01T13:49:17.823593+00:00",
+  "snapshot_generated_at": "2026-10-01T19:22:52.182651+00:00",
   "nfl_state": {
     "week": 4,
     "leg": 4,
@@ -214,20 +214,24 @@
       "pts_allow_7_13": 3.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1411192173885476864",
+    "last_message_id": "1411409990979211264",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1790816942240,
+    "last_message_time": 1790868873880,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "draft_id": "1313649397531148288",
+    "last_read_id": null,
     "league_id": "1313649397514391552",
     "previous_league_id": "1263445199263117312",
     "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -244,10 +248,6 @@
       "BN",
       "BN"
     ],
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 14
   },
   "users": [
@@ -759,6 +759,7 @@
         "10859",
         "11533",
         "11563",
+        "11630",
         "12048",
         "12472",
         "3214",
@@ -1596,6 +1597,7 @@
         "10859",
         "11533",
         "11563",
+        "11630",
         "12048",
         "12472",
         "3214",
@@ -1637,6 +1639,7 @@
         "10859": 0.0,
         "11533": 0.0,
         "11563": 0.0,
+        "11630": 0.0,
         "12048": 0.0,
         "12472": 0.0,
         "3214": 0.0,
@@ -2157,6 +2160,29 @@
     }
   ],
   "transactions": [
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1790868873853,
+      "settings": null,
+      "leg": 4,
+      "draft_picks": [],
+      "creator": "1263688729139097600",
+      "transaction_id": "1411409990865932288",
+      "adds": {
+        "11630": 6
+      },
+      "consenter_ids": [
+        6
+      ],
+      "drops": null,
+      "roster_ids": [
+        6
+      ],
+      "status_updated": 1790868873853,
+      "waiver_budget": []
+    },
     {
       "status": "complete",
       "type": "free_agent",
