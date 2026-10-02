@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-01T23:22:28.447150+00:00",
+  "snapshot_generated_at": "2026-10-02T02:30:36.697548+00:00",
   "current_week": 4,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -596,18 +596,18 @@
           "injury_status": null
         },
         {
-          "player_id": "4866",
-          "name": "Saquon Barkley",
-          "position": "RB",
-          "team": "PHI",
-          "status": "Active",
-          "injury_status": null
-        },
-        {
           "player_id": "12490",
           "name": "Bhayshul Tuten",
           "position": "RB",
           "team": "JAX",
+          "status": "Active",
+          "injury_status": null
+        },
+        {
+          "player_id": "12533",
+          "name": "Jacory Croskey-Merritt",
+          "position": "RB",
+          "team": "WAS",
           "status": "Active",
           "injury_status": null
         },
@@ -636,12 +636,12 @@
           "injury_status": null
         },
         {
-          "player_id": "4037",
-          "name": "Chris Godwin",
-          "position": "WR",
-          "team": "TB",
+          "player_id": "4866",
+          "name": "Saquon Barkley",
+          "position": "RB",
+          "team": "PHI",
           "status": "Active",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "5189",
@@ -662,20 +662,20 @@
       ],
       "bench": [
         {
-          "player_id": "12533",
-          "name": "Jacory Croskey-Merritt",
-          "position": "RB",
-          "team": "WAS",
-          "status": "Active",
-          "injury_status": null
-        },
-        {
           "player_id": "13305",
           "name": "Mike Washington",
           "position": "RB",
           "team": "LV",
           "status": "Active",
           "injury_status": null
+        },
+        {
+          "player_id": "4037",
+          "name": "Chris Godwin",
+          "position": "WR",
+          "team": "TB",
+          "status": "Active",
+          "injury_status": "Questionable"
         },
         {
           "player_id": "6819",
