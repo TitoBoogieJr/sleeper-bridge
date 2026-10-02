@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-02T09:34:34.904974+00:00",
+  "snapshot_generated_at": "2026-10-02T16:10:50.955430+00:00",
   "current_week": 4,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -662,15 +662,15 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "8126",
-          "name": "Wan'Dale Robinson",
+          "player_id": "11635",
+          "name": "Ladd McConkey",
           "position": "WR",
-          "team": "TEN",
+          "team": "LAC",
           "status": "Active",
-          "injury_status": null,
-          "age": 25,
-          "years_exp": 4,
-          "search_rank": 105,
+          "injury_status": "Questionable",
+          "age": 24,
+          "years_exp": 2,
+          "search_rank": 35,
           "depth_chart_position": "SWR"
         },
         {
@@ -686,18 +686,6 @@
           "depth_chart_position": "SWR"
         },
         {
-          "player_id": "9484",
-          "name": "Tucker Kraft",
-          "position": "TE",
-          "team": "GB",
-          "status": "Active",
-          "injury_status": null,
-          "age": 25,
-          "years_exp": 3,
-          "search_rank": 65,
-          "depth_chart_position": "TE"
-        },
-        {
           "player_id": "13330",
           "name": "Kenyon Sadiq",
           "position": "TE",
@@ -707,6 +695,18 @@
           "age": 21,
           "years_exp": 0,
           "search_rank": 109,
+          "depth_chart_position": "TE"
+        },
+        {
+          "player_id": "9484",
+          "name": "Tucker Kraft",
+          "position": "TE",
+          "team": "GB",
+          "status": "Active",
+          "injury_status": null,
+          "age": 25,
+          "years_exp": 3,
+          "search_rank": 65,
           "depth_chart_position": "TE"
         },
         {
@@ -748,18 +748,6 @@
           "depth_chart_position": "QB"
         },
         {
-          "player_id": "11635",
-          "name": "Ladd McConkey",
-          "position": "WR",
-          "team": "LAC",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "age": 24,
-          "years_exp": 2,
-          "search_rank": 35,
-          "depth_chart_position": "SWR"
-        },
-        {
           "player_id": "11643",
           "name": "Jaylen Wright",
           "position": "RB",
@@ -781,6 +769,18 @@
           "age": 22,
           "years_exp": 0,
           "search_rank": 110,
+          "depth_chart_position": "SWR"
+        },
+        {
+          "player_id": "8126",
+          "name": "Wan'Dale Robinson",
+          "position": "WR",
+          "team": "TEN",
+          "status": "Active",
+          "injury_status": null,
+          "age": 25,
+          "years_exp": 4,
+          "search_rank": 105,
           "depth_chart_position": "SWR"
         },
         {
