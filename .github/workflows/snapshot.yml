@@ -37,7 +37,7 @@ jobs:
 
           LEAGUE_ID="1313649397514391552"
 
-          # Get the current NFL week from Sleeper
+          # Get the current NFL week
           curl --fail --silent --show-error \
             "https://api.sleeper.app/v1/state/nfl" \
             -o nfl-state.json
@@ -46,42 +46,87 @@ jobs:
 
           echo "Current Sleeper NFL week: $WEEK"
 
+
           # Basic league information
           curl --fail --silent --show-error \
             "https://api.sleeper.app/v1/league/$LEAGUE_ID" \
             -o league.json
 
-          # League members / managers
+
+          # League managers
           curl --fail --silent --show-error \
             "https://api.sleeper.app/v1/league/$LEAGUE_ID/users" \
             -o users.json
+
 
           # Current rosters
           curl --fail --silent --show-error \
             "https://api.sleeper.app/v1/league/$LEAGUE_ID/rosters" \
             -o rosters.json
 
+
           # Current week's matchups
           curl --fail --silent --show-error \
             "https://api.sleeper.app/v1/league/$LEAGUE_ID/matchups/$WEEK" \
             -o matchups.json
 
-          # -----------------------------------------------------
-          # Download transactions for EVERY week so far.
-          #
-          # Previously we only downloaded the current week.
-          # Keeping all weeks lets us analyze waiver history,
-          # FAAB spending, adds, drops, etc.
-          # -----------------------------------------------------
 
+          # -----------------------------------------------------
+          # TRANSACTION HISTORY
+          #
+          # Download every week's transactions so we can analyze
+          # waiver claims, FAAB spending, adds and drops.
+          # -----------------------------------------------------
           mkdir -p transaction-weeks
 
           for TRANSACTION_WEEK in $(seq 1 "$WEEK"); do
+
             echo "Downloading transactions for Week $TRANSACTION_WEEK..."
 
             curl --fail --silent --show-error \
               "https://api.sleeper.app/v1/league/$LEAGUE_ID/transactions/$TRANSACTION_WEEK" \
               -o "transaction-weeks/week-$TRANSACTION_WEEK.json"
+
+          done
+
+
+          # -----------------------------------------------------
+          # DRAFT DATA
+          #
+          # First get every draft associated with this league.
+          #
+          # Sleeper can technically return multiple drafts, so
+          # we don't hard-code a draft ID.
+          # -----------------------------------------------------
+          curl --fail --silent --show-error \
+            "https://api.sleeper.app/v1/league/$LEAGUE_ID/drafts" \
+            -o drafts.json
+
+
+          mkdir -p draft-picks
+
+
+          # Extract each draft ID and download its picks.
+          for DRAFT_ID in $(python3 - <<'PY'
+          import json
+
+          with open("drafts.json", "r", encoding="utf-8") as f:
+              drafts = json.load(f)
+
+          for draft in drafts:
+              draft_id = draft.get("draft_id")
+
+              if draft_id:
+                  print(draft_id)
+          PY
+          ); do
+
+            echo "Downloading picks for draft $DRAFT_ID..."
+
+            curl --fail --silent --show-error \
+              "https://api.sleeper.app/v1/draft/$DRAFT_ID/picks" \
+              -o "draft-picks/$DRAFT_ID.json"
+
           done
 
 
@@ -89,15 +134,15 @@ jobs:
       # 3. GET OUR CACHED SLEEPER PLAYER DATABASE
       # ---------------------------------------------------------
       #
-      # players.yml downloads Sleeper's large player database
-      # once per day and stores it on the snapshot-data branch.
+      # players.yml downloads Sleeper's large NFL player database
+      # once per day and saves it on snapshot-data.
       #
-      # We reuse that cached copy here instead of downloading
-      # the entire database every 30 minutes.
+      # Reuse that copy here.
       # ---------------------------------------------------------
       - name: Get cached player database
         env:
           GH_TOKEN: ${{ github.token }}
+
         run: |
           git clone --depth 1 --branch snapshot-data \
             "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" \
@@ -107,10 +152,11 @@ jobs:
 
 
       # ---------------------------------------------------------
-      # 4. BUILD OUR READABLE SNAPSHOT FILES
+      # 4. BUILD READABLE DATA FILES
       # ---------------------------------------------------------
       - name: Build snapshots
         working-directory: source
+
         run: |
           python3 <<'PY'
 
@@ -122,19 +168,19 @@ jobs:
 
 
           # -----------------------------------------------------
-          # Small helper for loading JSON files
+          # JSON LOADER
           # -----------------------------------------------------
           def load(filename):
+
               with open(filename, "r", encoding="utf-8") as f:
                   return json.load(f)
 
 
-          # Timestamp shared by all files generated in this run
           generated_at = datetime.now(timezone.utc).isoformat()
 
 
           # -----------------------------------------------------
-          # Load the raw Sleeper data
+          # LOAD RAW SLEEPER DATA
           # -----------------------------------------------------
           nfl_state = load("nfl-state.json")
           league = load("league.json")
@@ -142,6 +188,7 @@ jobs:
           rosters = load("rosters.json")
           matchups = load("matchups.json")
           players = load("players.json")
+          drafts = load("drafts.json")
 
           current_week = nfl_state.get("week")
 
@@ -149,19 +196,24 @@ jobs:
           # -----------------------------------------------------
           # USER LOOKUP
           #
-          # Sleeper rosters reference managers by user ID.
-          # This lets us quickly turn a user ID into a username
-          # and team name.
+          # Sleeper identifies managers by user ID.
+          # This translates those IDs into readable names.
           # -----------------------------------------------------
           user_lookup = {
+
               user["user_id"]: user
+
               for user in users
           }
 
 
           def manager_info(owner_id):
 
-              owner = user_lookup.get(owner_id, {})
+              owner = user_lookup.get(
+                  owner_id,
+                  {}
+              )
+
               metadata = owner.get("metadata") or {}
 
               username = owner.get("display_name")
@@ -172,7 +224,9 @@ jobs:
               )
 
               return {
+
                   "username": username,
+
                   "team_name": team_name,
               }
 
@@ -180,166 +234,546 @@ jobs:
           # -----------------------------------------------------
           # PLAYER LOOKUP
           #
-          # Sleeper normally gives us player IDs.
-          # This translates those IDs into human-readable data.
+          # Converts a Sleeper player ID into readable player data.
           # -----------------------------------------------------
           def player_info(player_id):
 
               if not player_id:
                   return None
 
+
               player_id = str(player_id)
 
-              player = players.get(player_id, {})
+              player = players.get(
+                  player_id,
+                  {}
+              )
+
 
               full_name = player.get("full_name")
 
+
               if not full_name:
-                  first = player.get("first_name", "")
-                  last = player.get("last_name", "")
-                  full_name = f"{first} {last}".strip()
+
+                  first = player.get(
+                      "first_name",
+                      ""
+                  )
+
+                  last = player.get(
+                      "last_name",
+                      ""
+                  )
+
+                  full_name = (
+                      f"{first} {last}".strip()
+                  )
+
 
               return {
-                  "player_id": player_id,
-                  "name": full_name or f"Unknown ({player_id})",
-                  "position": player.get("position"),
-                  "team": player.get("team"),
-                  "status": player.get("status"),
-                  "injury_status": player.get("injury_status"),
 
-                  # Extra useful metadata for stash / keeper analysis
-                  "age": player.get("age"),
-                  "years_exp": player.get("years_exp"),
-                  "search_rank": player.get("search_rank"),
-                  "depth_chart_position": player.get(
-                      "depth_chart_position"
+                  "player_id": player_id,
+
+                  "name": (
+                      full_name
+                      or f"Unknown ({player_id})"
                   ),
+
+                  "position":
+                      player.get("position"),
+
+                  "team":
+                      player.get("team"),
+
+                  "status":
+                      player.get("status"),
+
+                  "injury_status":
+                      player.get("injury_status"),
+
+                  "age":
+                      player.get("age"),
+
+                  "years_exp":
+                      player.get("years_exp"),
+
+                  "search_rank":
+                      player.get("search_rank"),
+
+                  "depth_chart_position":
+                      player.get(
+                          "depth_chart_position"
+                      ),
               }
 
 
           # -----------------------------------------------------
-          # BUILD PLAYER OWNERSHIP MAP
-          #
-          # THIS IS IMPORTANT.
-          #
-          # Instead of searching for player names to determine
-          # whether someone is rostered, we use Sleeper's unique
-          # player IDs.
-          #
-          # This prevents false results like our Ollie Gordon
-          # availability mistake.
+          # BUILD DRAFT HISTORY
           # -----------------------------------------------------
+          #
+          # draft_history:
+          #     Human-readable record of every draft pick.
+          #
+          # draft_lookup:
+          #     Lets us instantly find the draft information for
+          #     a specific player ID.
+          #
+          # This is important because keeper cost follows the
+          # PLAYER even if that player is later traded.
+          # -----------------------------------------------------
+
+          draft_history = []
+
+          draft_lookup = {}
+
+
+          for draft in drafts:
+
+              draft_id = str(
+                  draft.get("draft_id")
+              )
+
+              season = draft.get("season")
+
+              draft_type = draft.get("type")
+
+              draft_status = draft.get("status")
+
+
+              filename = (
+                  f"draft-picks/{draft_id}.json"
+              )
+
+
+              if not os.path.exists(filename):
+                  continue
+
+
+              picks = load(filename)
+
+
+              for pick in picks:
+
+                  player_id = str(
+                      pick.get("player_id")
+                  )
+
+                  roster_id = pick.get(
+                      "roster_id"
+                  )
+
+                  picked_by = pick.get(
+                      "picked_by"
+                  )
+
+                  metadata = (
+                      pick.get("metadata")
+                      or {}
+                  )
+
+
+                  manager = manager_info(
+                      picked_by
+                  )
+
+
+                  # Sleeper stores keeper information inside
+                  # the draft pick metadata.
+                  is_keeper = bool(
+                      metadata.get("is_keeper")
+                  )
+
+
+                  readable_pick = {
+
+                      "draft_id":
+                          draft_id,
+
+                      "season":
+                          season,
+
+                      "draft_type":
+                          draft_type,
+
+                      "draft_status":
+                          draft_status,
+
+                      "player":
+                          player_info(player_id),
+
+                      "round":
+                          pick.get("round"),
+
+                      "pick_no":
+                          pick.get("pick_no"),
+
+                      "roster_id":
+                          roster_id,
+
+                      "picked_by_user_id":
+                          picked_by,
+
+                      "username":
+                          manager["username"],
+
+                      "team_name":
+                          manager["team_name"],
+
+                      "is_keeper":
+                          is_keeper,
+                  }
+
+
+                  draft_history.append(
+                      readable_pick
+                  )
+
+
+                  # Store draft information by player ID.
+                  #
+                  # This information stays attached to the player
+                  # regardless of who currently owns him.
+                  draft_lookup[player_id] = {
+
+                      "draft_id":
+                          draft_id,
+
+                      "season":
+                          season,
+
+                      "round":
+                          pick.get("round"),
+
+                      "pick_no":
+                          pick.get("pick_no"),
+
+                      "original_roster_id":
+                          roster_id,
+
+                      "original_owner_user_id":
+                          picked_by,
+
+                      "original_username":
+                          manager["username"],
+
+                      "original_team_name":
+                          manager["team_name"],
+
+                      "is_keeper":
+                          is_keeper,
+                  }
+
+
+          # -----------------------------------------------------
+          # KEEPER RULES
+          # -----------------------------------------------------
+          #
+          # YOUR LEAGUE RULES:
+          #
+          # 1. Round 1 players cannot be kept.
+          #
+          # 2. Round 2 players cannot be kept.
+          #
+          # 3. Players drafted in Rounds 3-14 can be kept at
+          #    the SAME round the following season.
+          #
+          # 4. Undrafted players / waiver pickups / free agents
+          #    can be kept for a Round 14 pick.
+          #
+          # 5. A player who was already used as a keeper THIS
+          #    season cannot be kept again next season.
+          #
+          # 6. Keeper eligibility follows the PLAYER through
+          #    trades. Trading him does not reset his draft cost.
+          # -----------------------------------------------------
+
+          def keeper_info(player_id):
+
+              player_id = str(player_id)
+
+              draft = draft_lookup.get(
+                  player_id
+              )
+
+
+              # -------------------------------------------------
+              # UNDRAFTED PLAYER
+              #
+              # No draft record means the player entered the
+              # league through waivers / free agency.
+              #
+              # League rule:
+              # keeper cost = Round 14.
+              # -------------------------------------------------
+              if not draft:
+
+                  return {
+
+                      "eligible_next_season": True,
+
+                      "cost_round": 14,
+
+                      "reason":
+                          "Undrafted player; keeper cost is Round 14",
+                  }
+
+
+              draft_round = draft.get(
+                  "round"
+              )
+
+              was_keeper = draft.get(
+                  "is_keeper",
+                  False
+              )
+
+
+              # -------------------------------------------------
+              # ALREADY KEPT THIS SEASON
+              #
+              # A player cannot be kept in consecutive seasons.
+              # -------------------------------------------------
+              if was_keeper:
+
+                  return {
+
+                      "eligible_next_season": False,
+
+                      "cost_round": None,
+
+                      "reason":
+                          "Already used as a keeper this season",
+                  }
+
+
+              # -------------------------------------------------
+              # ROUND 1 OR ROUND 2
+              #
+              # These players are not keeper eligible.
+              # -------------------------------------------------
+              if draft_round in (1, 2):
+
+                  return {
+
+                      "eligible_next_season": False,
+
+                      "cost_round": None,
+
+                      "reason":
+                          f"Drafted in Round {draft_round}; "
+                          "Rounds 1 and 2 cannot be kept",
+                  }
+
+
+              # -------------------------------------------------
+              # ROUND 3-14
+              #
+              # Eligible at original draft cost.
+              # -------------------------------------------------
+              return {
+
+                  "eligible_next_season": True,
+
+                  "cost_round": draft_round,
+
+                  "reason":
+                      f"Drafted in Round {draft_round}",
+              }
+
+
+          # -----------------------------------------------------
+          # CURRENT PLAYER OWNERSHIP
+          #
+          # This maps every rostered player ID to his current
+          # manager and roster location.
+          #
+          # Using IDs instead of names prevents false free-agent
+          # results like our Ollie Gordon mistake.
+          # -----------------------------------------------------
+
           ownership = {}
 
           readable_rosters = []
 
+
           for roster in rosters:
 
-              owner_id = roster.get("owner_id")
+              owner_id = roster.get(
+                  "owner_id"
+              )
 
-              manager = manager_info(owner_id)
+              manager = manager_info(
+                  owner_id
+              )
 
-              player_ids = roster.get("players") or []
-              starter_ids = roster.get("starters") or []
-              reserve_ids = roster.get("reserve") or []
 
-              # Convert IDs to strings so comparisons are consistent
-              player_ids = [str(x) for x in player_ids]
-              starter_ids = [str(x) for x in starter_ids]
-              reserve_ids = [str(x) for x in reserve_ids]
+              player_ids = [
 
-              starter_set = set(starter_ids)
-              reserve_set = set(reserve_ids)
+                  str(x)
 
-              bench_ids = [
-                  player_id
-                  for player_id in player_ids
-                  if player_id not in starter_set
-                  and player_id not in reserve_set
+                  for x in (
+                      roster.get("players")
+                      or []
+                  )
               ]
 
 
-              # Record exactly where every rostered player lives
+              starter_ids = [
+
+                  str(x)
+
+                  for x in (
+                      roster.get("starters")
+                      or []
+                  )
+              ]
+
+
+              reserve_ids = [
+
+                  str(x)
+
+                  for x in (
+                      roster.get("reserve")
+                      or []
+                  )
+              ]
+
+
+              starter_set = set(
+                  starter_ids
+              )
+
+              reserve_set = set(
+                  reserve_ids
+              )
+
+
+              bench_ids = [
+
+                  player_id
+
+                  for player_id in player_ids
+
+                  if player_id
+                  not in starter_set
+
+                  and player_id
+                  not in reserve_set
+              ]
+
+
+              # Record exactly where each player currently lives.
               for player_id in player_ids:
 
                   if player_id in starter_set:
+
                       location = "starter"
 
                   elif player_id in reserve_set:
+
                       location = "reserve"
 
                   else:
+
                       location = "bench"
 
+
                   ownership[player_id] = {
-                      "roster_id": roster.get("roster_id"),
-                      "owner_user_id": owner_id,
-                      "username": manager["username"],
-                      "team_name": manager["team_name"],
-                      "location": location,
+
+                      "roster_id":
+                          roster.get("roster_id"),
+
+                      "owner_user_id":
+                          owner_id,
+
+                      "username":
+                          manager["username"],
+
+                      "team_name":
+                          manager["team_name"],
+
+                      "location":
+                          location,
                   }
 
 
-              # Preserve our existing readable roster format
+              # Existing human-readable roster.
               readable_rosters.append({
 
-                  "roster_id": roster.get("roster_id"),
+                  "roster_id":
+                      roster.get("roster_id"),
 
-                  "owner_user_id": owner_id,
+                  "owner_user_id":
+                      owner_id,
 
-                  "username": manager["username"],
+                  "username":
+                      manager["username"],
 
-                  "team_name": manager["team_name"],
+                  "team_name":
+                      manager["team_name"],
 
                   "record": {
-                      "wins": (
-                          roster.get("settings") or {}
-                      ).get("wins"),
 
-                      "losses": (
-                          roster.get("settings") or {}
-                      ).get("losses"),
+                      "wins":
+                          (
+                              roster.get("settings")
+                              or {}
+                          ).get("wins"),
 
-                      "ties": (
-                          roster.get("settings") or {}
-                      ).get("ties"),
+                      "losses":
+                          (
+                              roster.get("settings")
+                              or {}
+                          ).get("losses"),
 
-                      "faab_used": (
-                          roster.get("settings") or {}
-                      ).get("waiver_budget_used"),
+                      "ties":
+                          (
+                              roster.get("settings")
+                              or {}
+                          ).get("ties"),
+
+                      "faab_used":
+                          (
+                              roster.get("settings")
+                              or {}
+                          ).get(
+                              "waiver_budget_used"
+                          ),
                   },
 
                   "starters": [
+
                       player_info(player_id)
-                      for player_id in starter_ids
+
+                      for player_id
+                      in starter_ids
                   ],
 
                   "bench": [
+
                       player_info(player_id)
-                      for player_id in bench_ids
+
+                      for player_id
+                      in bench_ids
                   ],
 
                   "reserve": [
+
                       player_info(player_id)
-                      for player_id in reserve_ids
+
+                      for player_id
+                      in reserve_ids
                   ],
               })
 
 
           # -----------------------------------------------------
           # BUILD LEAGUE PLAYER DATABASE
-          #
-          # This gives every fantasy-relevant player an explicit:
-          #
-          # rostered: true / false
-          #
-          # along with ownership information when applicable.
           # -----------------------------------------------------
-          league_players = []
 
-
-          # Positions we care about for normal fantasy analysis
           fantasy_positions = {
+
               "QB",
               "RB",
               "WR",
@@ -347,98 +781,246 @@ jobs:
           }
 
 
+          league_players = []
+
+
           for player_id, player in players.items():
 
-              position = player.get("position")
+              position = player.get(
+                  "position"
+              )
 
-              # Ignore kickers, IDP players, etc.
+
+              # Ignore IDP, kickers, etc.
               if position not in fantasy_positions:
                   continue
 
-              # Ignore players who aren't attached to an NFL team
+
+              # Ignore players not currently attached
+              # to an NFL team.
               if not player.get("team"):
                   continue
 
 
-              info = player_info(player_id)
+              player_id = str(
+                  player_id
+              )
 
-              owner = ownership.get(str(player_id))
+
+              info = player_info(
+                  player_id
+              )
 
 
+              owner = ownership.get(
+                  player_id
+              )
+
+
+              draft = draft_lookup.get(
+                  player_id
+              )
+
+
+              # -------------------------------------------------
+              # CURRENT OWNERSHIP
+              # -------------------------------------------------
               if owner:
 
                   info.update({
+
                       "rostered": True,
-                      "roster_id": owner["roster_id"],
-                      "owner_user_id": owner["owner_user_id"],
-                      "username": owner["username"],
-                      "team_name": owner["team_name"],
-                      "location": owner["location"],
+
+                      "roster_id":
+                          owner["roster_id"],
+
+                      "owner_user_id":
+                          owner["owner_user_id"],
+
+                      "username":
+                          owner["username"],
+
+                      "team_name":
+                          owner["team_name"],
+
+                      "location":
+                          owner["location"],
                   })
+
 
               else:
 
                   info.update({
+
                       "rostered": False,
+
                       "roster_id": None,
+
                       "owner_user_id": None,
+
                       "username": None,
+
                       "team_name": None,
-                      "location": "free_agent",
+
+                      "location":
+                          "free_agent",
                   })
 
 
-              league_players.append(info)
+              # -------------------------------------------------
+              # ORIGINAL DRAFT INFORMATION
+              #
+              # This does NOT change after a trade.
+              # -------------------------------------------------
+              info["draft"] = draft
+
+
+              # -------------------------------------------------
+              # CALCULATED KEEPER INFORMATION
+              # -------------------------------------------------
+              info["keeper"] = keeper_info(
+                  player_id
+              )
+
+
+              league_players.append(
+                  info
+              )
 
 
           # -----------------------------------------------------
-          # Sort players using Sleeper's search rank.
-          #
-          # Smaller search_rank numbers generally indicate
-          # more fantasy-relevant / commonly searched players.
-          #
-          # Players without a rank go to the bottom.
+          # SORT PLAYERS BY SLEEPER SEARCH RANK
           # -----------------------------------------------------
+
           league_players.sort(
+
               key=lambda p: (
-                  p.get("search_rank") is None,
+
                   p.get("search_rank")
-                  if p.get("search_rank") is not None
+                  is None,
+
+                  p.get("search_rank")
+
+                  if p.get("search_rank")
+                  is not None
+
                   else 999999
               )
           )
 
 
           # -----------------------------------------------------
-          # BUILD FREE AGENT LIST
-          #
-          # This is the file we'll use when asking:
-          #
-          # "Who should I stash?"
-          #
-          # Every player here is confirmed unrostered according
-          # to Sleeper player ID.
+          # CONFIRMED FREE AGENTS
           # -----------------------------------------------------
+
           free_agents = [
+
               player
+
               for player in league_players
+
               if not player["rostered"]
           ]
 
 
           # -----------------------------------------------------
-          # LOAD ALL TRANSACTION WEEKS
+          # KEEPER VALUE DATABASE
+          #
+          # Only CURRENTLY ROSTERED players belong here.
+          #
+          # This gives us a compact file for questions like:
+          #
+          # "Who are my keeper options?"
+          #
+          # "What keeper assets does Karolyn have?"
+          #
+          # "Which trade targets have cheap keeper costs?"
           # -----------------------------------------------------
+
+          keeper_players = [
+
+              player
+
+              for player in league_players
+
+              if player["rostered"]
+          ]
+
+
+          # Group keeper information by current manager.
+          keeper_teams = {}
+
+
+          for player in keeper_players:
+
+              roster_id = str(
+                  player["roster_id"]
+              )
+
+
+              if roster_id not in keeper_teams:
+
+                  keeper_teams[roster_id] = {
+
+                      "roster_id":
+                          player["roster_id"],
+
+                      "owner_user_id":
+                          player["owner_user_id"],
+
+                      "username":
+                          player["username"],
+
+                      "team_name":
+                          player["team_name"],
+
+                      "players": [],
+                  }
+
+
+              keeper_teams[
+                  roster_id
+              ]["players"].append({
+
+                  "player_id":
+                      player["player_id"],
+
+                  "name":
+                      player["name"],
+
+                  "position":
+                      player["position"],
+
+                  "nfl_team":
+                      player["team"],
+
+                  "location":
+                      player["location"],
+
+                  "draft":
+                      player["draft"],
+
+                  "keeper":
+                      player["keeper"],
+              })
+
+
+          # -----------------------------------------------------
+          # TRANSACTION HISTORY
+          # -----------------------------------------------------
+
           transaction_history = []
+
 
           transaction_files = glob.glob(
               "transaction-weeks/week-*.json"
           )
 
 
-          # Sort Week 1, Week 2, Week 3, etc. numerically
           transaction_files.sort(
+
               key=lambda filename: int(
+
                   os.path.basename(filename)
                   .replace("week-", "")
                   .replace(".json", "")
@@ -449,20 +1031,27 @@ jobs:
           for filename in transaction_files:
 
               week = int(
+
                   os.path.basename(filename)
                   .replace("week-", "")
                   .replace(".json", "")
               )
 
-              transactions = load(filename)
+
+              transactions = load(
+                  filename
+              )
+
 
               for transaction in transactions:
 
-                  # Keep the week with the transaction so we
-                  # know when the waiver/add/drop occurred.
-                  transaction_copy = dict(transaction)
+                  transaction_copy = dict(
+                      transaction
+                  )
 
-                  transaction_copy["week"] = week
+                  transaction_copy[
+                      "week"
+                  ] = week
 
                   transaction_history.append(
                       transaction_copy
@@ -470,30 +1059,47 @@ jobs:
 
 
           # -----------------------------------------------------
-          # BUILD READABLE TRANSACTION HISTORY
-          #
-          # Raw Sleeper transactions use player IDs and roster IDs.
-          # Here we translate those into player and manager names.
+          # READABLE TRANSACTION HISTORY
           # -----------------------------------------------------
+
           roster_lookup = {
-              roster["roster_id"]: roster
+
+              roster["roster_id"]:
+                  roster
+
               for roster in rosters
           }
 
 
           def roster_manager(roster_id):
 
-              roster = roster_lookup.get(roster_id, {})
+              roster = roster_lookup.get(
+                  roster_id,
+                  {}
+              )
 
-              owner_id = roster.get("owner_id")
+              owner_id = roster.get(
+                  "owner_id"
+              )
 
-              manager = manager_info(owner_id)
+              manager = manager_info(
+                  owner_id
+              )
+
 
               return {
-                  "roster_id": roster_id,
-                  "owner_user_id": owner_id,
-                  "username": manager["username"],
-                  "team_name": manager["team_name"],
+
+                  "roster_id":
+                      roster_id,
+
+                  "owner_user_id":
+                      owner_id,
+
+                  "username":
+                      manager["username"],
+
+                  "team_name":
+                      manager["team_name"],
               }
 
 
@@ -502,107 +1108,169 @@ jobs:
 
           for transaction in transaction_history:
 
-              adds = transaction.get("adds") or {}
-              drops = transaction.get("drops") or {}
+              adds = (
+                  transaction.get("adds")
+                  or {}
+              )
+
+              drops = (
+                  transaction.get("drops")
+                  or {}
+              )
+
 
               readable_adds = []
+
 
               for player_id, roster_id in adds.items():
 
                   readable_adds.append({
-                      "player": player_info(player_id),
-                      "destination": roster_manager(roster_id),
+
+                      "player":
+                          player_info(
+                              player_id
+                          ),
+
+                      "destination":
+                          roster_manager(
+                              roster_id
+                          ),
                   })
 
 
               readable_drops = []
 
+
               for player_id, roster_id in drops.items():
 
                   readable_drops.append({
-                      "player": player_info(player_id),
-                      "source": roster_manager(roster_id),
+
+                      "player":
+                          player_info(
+                              player_id
+                          ),
+
+                      "source":
+                          roster_manager(
+                              roster_id
+                          ),
                   })
 
 
-              settings = transaction.get("settings") or {}
+              settings = (
+                  transaction.get("settings")
+                  or {}
+              )
 
 
               readable_transactions.append({
 
-                  "transaction_id": transaction.get(
-                      "transaction_id"
-                  ),
+                  "transaction_id":
+                      transaction.get(
+                          "transaction_id"
+                      ),
 
-                  "week": transaction.get("week"),
+                  "week":
+                      transaction.get("week"),
 
-                  "type": transaction.get("type"),
+                  "type":
+                      transaction.get("type"),
 
-                  "status": transaction.get("status"),
+                  "status":
+                      transaction.get("status"),
 
-                  "created": transaction.get("created"),
+                  "created":
+                      transaction.get("created"),
 
-                  # Sleeper stores successful FAAB bid here
-                  "faab": settings.get("waiver_bid"),
+                  "faab":
+                      settings.get(
+                          "waiver_bid"
+                      ),
 
-                  "adds": readable_adds,
+                  "adds":
+                      readable_adds,
 
-                  "drops": readable_drops,
+                  "drops":
+                      readable_drops,
 
-                  "roster_ids": transaction.get(
-                      "roster_ids"
-                  ) or [],
+                  "roster_ids":
+                      transaction.get(
+                          "roster_ids"
+                      ) or [],
               })
 
 
           # -----------------------------------------------------
           # RAW SNAPSHOT
-          #
-          # Preserve the existing raw snapshot.
-          # We now include the combined transaction history.
           # -----------------------------------------------------
+
           snapshot = {
 
-              "snapshot_generated_at": generated_at,
+              "snapshot_generated_at":
+                  generated_at,
 
-              "nfl_state": nfl_state,
+              "nfl_state":
+                  nfl_state,
 
-              "league": league,
+              "league":
+                  league,
 
-              "users": users,
+              "users":
+                  users,
 
-              "rosters": rosters,
+              "rosters":
+                  rosters,
 
-              "matchups": matchups,
+              "matchups":
+                  matchups,
 
-              "transactions": transaction_history,
+              "transactions":
+                  transaction_history,
+
+              "drafts":
+                  drafts,
+
+              "draft_picks":
+                  draft_history,
           }
 
 
           # -----------------------------------------------------
           # READABLE LEAGUE SNAPSHOT
           # -----------------------------------------------------
+
           readable_snapshot = {
 
-              "snapshot_generated_at": generated_at,
+              "snapshot_generated_at":
+                  generated_at,
 
-              "current_week": current_week,
+              "current_week":
+                  current_week,
 
               "league": {
-                  "name": league.get("name"),
-                  "season": league.get("season"),
-                  "status": league.get("status"),
-                  "total_rosters": league.get(
-                      "total_rosters"
-                  ),
+
+                  "name":
+                      league.get("name"),
+
+                  "season":
+                      league.get("season"),
+
+                  "status":
+                      league.get("status"),
+
+                  "total_rosters":
+                      league.get(
+                          "total_rosters"
+                      ),
               },
 
-              "rosters": readable_rosters,
+              "rosters":
+                  readable_rosters,
           }
 
 
           # -----------------------------------------------------
-          # WRITE ALL GENERATED JSON FILES
+          # WRITE GENERATED FILES
           # -----------------------------------------------------
 
           with open(
@@ -610,7 +1278,12 @@ jobs:
               "w",
               encoding="utf-8"
           ) as f:
-              json.dump(snapshot, f, indent=2)
+
+              json.dump(
+                  snapshot,
+                  f,
+                  indent=2
+              )
 
 
           with open(
@@ -618,7 +1291,12 @@ jobs:
               "w",
               encoding="utf-8"
           ) as f:
-              json.dump(readable_snapshot, f, indent=2)
+
+              json.dump(
+                  readable_snapshot,
+                  f,
+                  indent=2
+              )
 
 
           with open(
@@ -626,9 +1304,15 @@ jobs:
               "w",
               encoding="utf-8"
           ) as f:
+
               json.dump({
-                  "snapshot_generated_at": generated_at,
-                  "players": league_players,
+
+                  "snapshot_generated_at":
+                      generated_at,
+
+                  "players":
+                      league_players,
+
               }, f, indent=2)
 
 
@@ -637,9 +1321,15 @@ jobs:
               "w",
               encoding="utf-8"
           ) as f:
+
               json.dump({
-                  "snapshot_generated_at": generated_at,
-                  "players": free_agents,
+
+                  "snapshot_generated_at":
+                      generated_at,
+
+                  "players":
+                      free_agents,
+
               }, f, indent=2)
 
 
@@ -648,6 +1338,7 @@ jobs:
               "w",
               encoding="utf-8"
           ) as f:
+
               json.dump(
                   transaction_history,
                   f,
@@ -660,33 +1351,105 @@ jobs:
               "w",
               encoding="utf-8"
           ) as f:
+
               json.dump({
-                  "snapshot_generated_at": generated_at,
-                  "transactions": readable_transactions,
+
+                  "snapshot_generated_at":
+                      generated_at,
+
+                  "transactions":
+                      readable_transactions,
+
+              }, f, indent=2)
+
+
+          # -----------------------------------------------------
+          # DRAFT FILE
+          # -----------------------------------------------------
+
+          with open(
+              "draft-readable.json",
+              "w",
+              encoding="utf-8"
+          ) as f:
+
+              json.dump({
+
+                  "snapshot_generated_at":
+                      generated_at,
+
+                  "drafts":
+                      drafts,
+
+                  "picks":
+                      draft_history,
+
+              }, f, indent=2)
+
+
+          # -----------------------------------------------------
+          # KEEPER VALUE FILE
+          #
+          # Organized by CURRENT owner.
+          # -----------------------------------------------------
+
+          with open(
+              "keeper-value-readable.json",
+              "w",
+              encoding="utf-8"
+          ) as f:
+
+              json.dump({
+
+                  "snapshot_generated_at":
+                      generated_at,
+
+                  "keeper_rules": {
+
+                      "minimum_draft_round": 3,
+
+                      "undrafted_cost_round": 14,
+
+                      "repeat_keepers_allowed":
+                          False,
+
+                      "keeper_cost":
+                          "Original draft round",
+                  },
+
+                  "teams":
+                      list(
+                          keeper_teams.values()
+                      ),
+
               }, f, indent=2)
 
 
           print(
               f"Created snapshots with "
               f"{len(league_players)} fantasy players, "
-              f"{len(free_agents)} free agents, and "
-              f"{len(readable_transactions)} transactions."
+              f"{len(free_agents)} free agents, "
+              f"{len(readable_transactions)} transactions, "
+              f"{len(draft_history)} draft picks, "
+              f"and {len(keeper_players)} rostered keeper records."
           )
 
           PY
 
 
       # ---------------------------------------------------------
-      # 5. PUBLISH GENERATED DATA TO snapshot-data BRANCH
+      # 5. PUBLISH GENERATED FILES TO snapshot-data
       # ---------------------------------------------------------
       - name: Publish snapshot to data branch
         env:
           GH_TOKEN: ${{ github.token }}
+
         run: |
 
           git clone --branch snapshot-data \
             "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" data \
           || {
+
             git clone \
               "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" data
 
@@ -700,7 +1463,7 @@ jobs:
           }
 
 
-          # Copy all generated snapshot files
+          # Existing snapshot files
           cp source/league-snapshot.json \
              data/league-snapshot.json
 
@@ -720,26 +1483,35 @@ jobs:
              data/transactions-readable.json
 
 
+          # New draft / keeper files
+          cp source/draft-readable.json \
+             data/draft-readable.json
+
+          cp source/keeper-value-readable.json \
+             data/keeper-value-readable.json
+
+
           cd data
 
 
-          git config user.name "SleeperBridge Bot"
+          git config user.name \
+            "SleeperBridge Bot"
 
           git config user.email \
             "sleeperbridge@users.noreply.github.com"
 
 
-          # Stage our generated files
           git add \
             league-snapshot.json \
             league-readable.json \
             league-players-readable.json \
             free-agents-readable.json \
             transactions-history.json \
-            transactions-readable.json
+            transactions-readable.json \
+            draft-readable.json \
+            keeper-value-readable.json
 
 
-          # Only commit if something actually changed
           if git diff --cached --quiet; then
 
             echo "No snapshot changes to commit."
