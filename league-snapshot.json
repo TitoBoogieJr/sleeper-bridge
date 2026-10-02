@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-02T02:50:12.054174+00:00",
+  "snapshot_generated_at": "2026-10-02T03:24:04.420121+00:00",
   "nfl_state": {
     "week": 4,
     "leg": 4,
@@ -1404,7 +1404,7 @@
       }
     },
     {
-      "points": 5.0,
+      "points": 7.0,
       "players": [
         "12501",
         "12517",
@@ -1445,7 +1445,7 @@
         0.0,
         0.0,
         0.0,
-        5.0
+        7.0
       ],
       "players_points": {
         "12501": 0.0,
@@ -1462,7 +1462,7 @@
         "7526": 0.0,
         "8144": 0.0,
         "9224": 0.0,
-        "PIT": 5.0
+        "PIT": 7.0
       }
     },
     {
@@ -1590,7 +1590,7 @@
       }
     },
     {
-      "points": 3.2,
+      "points": 14.0,
       "players": [
         "10213",
         "10859",
@@ -1627,7 +1627,7 @@
         0.0,
         0.0,
         0.0,
-        3.2,
+        14.0,
         0.0,
         0.0,
         0.0,
@@ -1638,11 +1638,11 @@
         "10859": 0.0,
         "11533": 0.0,
         "11563": 0.0,
-        "11630": 13.1,
+        "11630": 14.9,
         "12048": 0.0,
         "12472": 2.6,
         "3214": 0.0,
-        "5846": 3.2,
+        "5846": 14.0,
         "6770": 0.0,
         "6813": 0.0,
         "7525": 0.0,
@@ -1652,7 +1652,7 @@
       }
     },
     {
-      "points": 19.3,
+      "points": 21.6,
       "players": [
         "12512",
         "12526",
@@ -1686,7 +1686,7 @@
       ],
       "starters_points": [
         0.0,
-        16.3,
+        18.6,
         0.0,
         0.0,
         0.0,
@@ -1696,7 +1696,7 @@
         0.0
       ],
       "players_points": {
-        "12512": 16.3,
+        "12512": 18.6,
         "12526": 0.0,
         "13288": 0.0,
         "1945": 3.0,
@@ -1966,7 +1966,7 @@
       }
     },
     {
-      "points": 19.4,
+      "points": 22.6,
       "players": [
         "10222",
         "11566",
@@ -2005,7 +2005,7 @@
         0.0,
         0.0,
         8.5,
-        10.9,
+        14.1,
         0.0,
         0.0
       ],
@@ -2022,7 +2022,7 @@
         "7547": 0.0,
         "7588": 0.0,
         "8121": 0.0,
-        "8228": 10.9,
+        "8228": 14.1,
         "9758": 0.0,
         "MIN": 0.0
       }
@@ -2080,7 +2080,7 @@
         "11792": 0.0,
         "12529": 0.0,
         "13345": 0.0,
-        "13346": 8.9,
+        "13346": 10.9,
         "13414": 0.0,
         "4199": 0.0,
         "5022": 0.0,
@@ -6271,7 +6271,7 @@
       "picked_by_user_id": "713449654771056640",
       "username": "Tonay",
       "team_name": "Relaxed Slims",
-      "is_keeper": false
+      "is_keeper": true
     },
     {
       "draft_id": "1313649397531148288",
@@ -6371,7 +6371,7 @@
       "picked_by_user_id": "995178101929816064",
       "username": "ChaseyChase73",
       "team_name": "ChaseyChase73",
-      "is_keeper": false
+      "is_keeper": true
     },
     {
       "draft_id": "1313649397531148288",
@@ -6771,7 +6771,7 @@
       "picked_by_user_id": "1263686571970793472",
       "username": "billyfusco",
       "team_name": "Darkmeat Duck",
-      "is_keeper": false
+      "is_keeper": true
     },
     {
       "draft_id": "1313649397531148288",
@@ -7221,7 +7221,7 @@
       "picked_by_user_id": "979940216863608832",
       "username": "Naz514",
       "team_name": "MAYE-B I\u2019m a little Lucky",
-      "is_keeper": false
+      "is_keeper": true
     },
     {
       "draft_id": "1313649397531148288",
@@ -8321,7 +8321,7 @@
       "picked_by_user_id": "1263686542304485376",
       "username": "WestManBruce",
       "team_name": "WestManBruce",
-      "is_keeper": false
+      "is_keeper": true
     },
     {
       "draft_id": "1313649397531148288",
@@ -8521,7 +8521,7 @@
       "picked_by_user_id": "1263601129552355328",
       "username": "nathan697",
       "team_name": "Egbuka, I hardly know ya",
-      "is_keeper": false
+      "is_keeper": true
     },
     {
       "draft_id": "1313649397531148288",
@@ -8571,7 +8571,7 @@
       "picked_by_user_id": "735686232146886656",
       "username": "ONeal24",
       "team_name": "Ashy Larry strikes again",
-      "is_keeper": false
+      "is_keeper": true
     },
     {
       "draft_id": "1313649397531148288",
@@ -8596,7 +8596,7 @@
       "picked_by_user_id": "1263695631499665408",
       "username": "jeredoliver",
       "team_name": "JSN Bourne",
-      "is_keeper": false
+      "is_keeper": true
     },
     {
       "draft_id": "1313649397531148288",
@@ -9446,7 +9446,7 @@
       "picked_by_user_id": "1263709493192052736",
       "username": "KarolynRose",
       "team_name": "Magic Skol Bus",
-      "is_keeper": false
+      "is_keeper": true
     },
     {
       "draft_id": "1313649397531148288",
@@ -9521,7 +9521,7 @@
       "picked_by_user_id": "1263230668070977536",
       "username": "lionelesteban",
       "team_name": "Kittle El Cero Miedo",
-      "is_keeper": false
+      "is_keeper": true
     },
     {
       "draft_id": "1313649397531148288",

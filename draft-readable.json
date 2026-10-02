@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-02T02:50:12.054174+00:00",
+  "snapshot_generated_at": "2026-10-02T03:24:04.420121+00:00",
   "drafts": [
     {
       "created": 1767560932099,
@@ -1700,7 +1700,7 @@
       "picked_by_user_id": "713449654771056640",
       "username": "Tonay",
       "team_name": "Relaxed Slims",
-      "is_keeper": false
+      "is_keeper": true
     },
     {
       "draft_id": "1313649397531148288",
@@ -1800,7 +1800,7 @@
       "picked_by_user_id": "995178101929816064",
       "username": "ChaseyChase73",
       "team_name": "ChaseyChase73",
-      "is_keeper": false
+      "is_keeper": true
     },
     {
       "draft_id": "1313649397531148288",
@@ -2200,7 +2200,7 @@
       "picked_by_user_id": "1263686571970793472",
       "username": "billyfusco",
       "team_name": "Darkmeat Duck",
-      "is_keeper": false
+      "is_keeper": true
     },
     {
       "draft_id": "1313649397531148288",
@@ -2650,7 +2650,7 @@
       "picked_by_user_id": "979940216863608832",
       "username": "Naz514",
       "team_name": "MAYE-B I\u2019m a little Lucky",
-      "is_keeper": false
+      "is_keeper": true
     },
     {
       "draft_id": "1313649397531148288",
@@ -3750,7 +3750,7 @@
       "picked_by_user_id": "1263686542304485376",
       "username": "WestManBruce",
       "team_name": "WestManBruce",
-      "is_keeper": false
+      "is_keeper": true
     },
     {
       "draft_id": "1313649397531148288",
@@ -3950,7 +3950,7 @@
       "picked_by_user_id": "1263601129552355328",
       "username": "nathan697",
       "team_name": "Egbuka, I hardly know ya",
-      "is_keeper": false
+      "is_keeper": true
     },
     {
       "draft_id": "1313649397531148288",
@@ -4000,7 +4000,7 @@
       "picked_by_user_id": "735686232146886656",
       "username": "ONeal24",
       "team_name": "Ashy Larry strikes again",
-      "is_keeper": false
+      "is_keeper": true
     },
     {
       "draft_id": "1313649397531148288",
@@ -4025,7 +4025,7 @@
       "picked_by_user_id": "1263695631499665408",
       "username": "jeredoliver",
       "team_name": "JSN Bourne",
-      "is_keeper": false
+      "is_keeper": true
     },
     {
       "draft_id": "1313649397531148288",
@@ -4875,7 +4875,7 @@
       "picked_by_user_id": "1263709493192052736",
       "username": "KarolynRose",
       "team_name": "Magic Skol Bus",
-      "is_keeper": false
+      "is_keeper": true
     },
     {
       "draft_id": "1313649397531148288",
@@ -4950,7 +4950,7 @@
       "picked_by_user_id": "1263230668070977536",
       "username": "lionelesteban",
       "team_name": "Kittle El Cero Miedo",
-      "is_keeper": false
+      "is_keeper": true
     },
     {
       "draft_id": "1313649397531148288",

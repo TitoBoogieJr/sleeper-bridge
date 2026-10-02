@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-02T02:50:12.054174+00:00",
+  "snapshot_generated_at": "2026-10-02T03:24:04.420121+00:00",
   "players": [
     {
       "player_id": "9509",
@@ -469,12 +469,12 @@
         "original_owner_user_id": "979940216863608832",
         "original_username": "Naz514",
         "original_team_name": "MAYE-B I\u2019m a little Lucky",
-        "is_keeper": false
+        "is_keeper": true
       },
       "keeper": {
-        "eligible_next_season": true,
-        "cost_round": 8,
-        "reason": "Drafted in Round 8"
+        "eligible_next_season": false,
+        "cost_round": null,
+        "reason": "Already used as a keeper this season"
       }
     },
     {
@@ -1047,12 +1047,12 @@
         "original_owner_user_id": "995178101929816064",
         "original_username": "ChaseyChase73",
         "original_team_name": "ChaseyChase73",
-        "is_keeper": false
+        "is_keeper": true
       },
       "keeper": {
-        "eligible_next_season": true,
-        "cost_round": 5,
-        "reason": "Drafted in Round 5"
+        "eligible_next_season": false,
+        "cost_round": null,
+        "reason": "Already used as a keeper this season"
       }
     },
     {
@@ -1591,12 +1591,12 @@
         "original_owner_user_id": "735686232146886656",
         "original_username": "ONeal24",
         "original_team_name": "Ashy Larry strikes again",
-        "is_keeper": false
+        "is_keeper": true
       },
       "keeper": {
-        "eligible_next_season": true,
-        "cost_round": 12,
-        "reason": "Drafted in Round 12"
+        "eligible_next_season": false,
+        "cost_round": null,
+        "reason": "Already used as a keeper this season"
       }
     },
     {
@@ -1795,12 +1795,12 @@
         "original_owner_user_id": "1263695631499665408",
         "original_username": "jeredoliver",
         "original_team_name": "JSN Bourne",
-        "is_keeper": false
+        "is_keeper": true
       },
       "keeper": {
-        "eligible_next_season": true,
-        "cost_round": 12,
-        "reason": "Drafted in Round 12"
+        "eligible_next_season": false,
+        "cost_round": null,
+        "reason": "Already used as a keeper this season"
       }
     },
     {
@@ -2033,12 +2033,12 @@
         "original_owner_user_id": "1263686542304485376",
         "original_username": "WestManBruce",
         "original_team_name": "WestManBruce",
-        "is_keeper": false
+        "is_keeper": true
       },
       "keeper": {
-        "eligible_next_season": true,
-        "cost_round": 11,
-        "reason": "Drafted in Round 11"
+        "eligible_next_season": false,
+        "cost_round": null,
+        "reason": "Already used as a keeper this season"
       }
     },
     {
@@ -2101,12 +2101,12 @@
         "original_owner_user_id": "713449654771056640",
         "original_username": "Tonay",
         "original_team_name": "Relaxed Slims",
-        "is_keeper": false
+        "is_keeper": true
       },
       "keeper": {
-        "eligible_next_season": true,
-        "cost_round": 5,
-        "reason": "Drafted in Round 5"
+        "eligible_next_season": false,
+        "cost_round": null,
+        "reason": "Already used as a keeper this season"
       }
     },
     {
@@ -2849,12 +2849,12 @@
         "original_owner_user_id": "1263601129552355328",
         "original_username": "nathan697",
         "original_team_name": "Egbuka, I hardly know ya",
-        "is_keeper": false
+        "is_keeper": true
       },
       "keeper": {
-        "eligible_next_season": true,
-        "cost_round": 12,
-        "reason": "Drafted in Round 12"
+        "eligible_next_season": false,
+        "cost_round": null,
+        "reason": "Already used as a keeper this season"
       }
     },
     {
@@ -3019,12 +3019,12 @@
         "original_owner_user_id": "1263709493192052736",
         "original_username": "KarolynRose",
         "original_team_name": "Magic Skol Bus",
-        "is_keeper": false
+        "is_keeper": true
       },
       "keeper": {
-        "eligible_next_season": true,
-        "cost_round": 14,
-        "reason": "Drafted in Round 14"
+        "eligible_next_season": false,
+        "cost_round": null,
+        "reason": "Already used as a keeper this season"
       }
     },
     {
@@ -3359,12 +3359,12 @@
         "original_owner_user_id": "1263686571970793472",
         "original_username": "billyfusco",
         "original_team_name": "Darkmeat Duck",
-        "is_keeper": false
+        "is_keeper": true
       },
       "keeper": {
-        "eligible_next_season": true,
-        "cost_round": 7,
-        "reason": "Drafted in Round 7"
+        "eligible_next_season": false,
+        "cost_round": null,
+        "reason": "Already used as a keeper this season"
       }
     },
     {
@@ -4155,12 +4155,12 @@
         "original_owner_user_id": "1263230668070977536",
         "original_username": "lionelesteban",
         "original_team_name": "Kittle El Cero Miedo",
-        "is_keeper": false
+        "is_keeper": true
       },
       "keeper": {
-        "eligible_next_season": true,
-        "cost_round": 14,
-        "reason": "Drafted in Round 14"
+        "eligible_next_season": false,
+        "cost_round": null,
+        "reason": "Already used as a keeper this season"
       }
     },
     {
