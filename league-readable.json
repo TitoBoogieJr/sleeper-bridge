@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-02T16:10:50.955430+00:00",
+  "snapshot_generated_at": "2026-10-02T20:53:29.831974+00:00",
   "current_week": 4,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -29,7 +29,7 @@
           "injury_status": null,
           "age": 28,
           "years_exp": 6,
-          "search_rank": 33,
+          "search_rank": 34,
           "depth_chart_position": "QB"
         },
         {
@@ -62,7 +62,7 @@
           "position": "WR",
           "team": "BAL",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "age": 26,
           "years_exp": 3,
           "search_rank": 40,
@@ -163,7 +163,7 @@
           "injury_status": null,
           "age": 23,
           "years_exp": 1,
-          "search_rank": 40,
+          "search_rank": 39,
           "depth_chart_position": "LWR"
         },
         {
@@ -187,7 +187,7 @@
           "injury_status": null,
           "age": 29,
           "years_exp": 7,
-          "search_rank": 132,
+          "search_rank": 131,
           "depth_chart_position": "QB"
         }
       ],
@@ -221,7 +221,7 @@
           "name": "Zach Charbonnet",
           "position": "RB",
           "team": "SEA",
-          "status": "Active",
+          "status": "Inactive",
           "injury_status": "PUP",
           "age": 25,
           "years_exp": 3,
@@ -248,10 +248,10 @@
           "position": "QB",
           "team": "BAL",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "age": 29,
           "years_exp": 8,
-          "search_rank": 10,
+          "search_rank": 9,
           "depth_chart_position": "QB"
         },
         {
@@ -335,7 +335,7 @@
           "injury_status": null,
           "age": 32,
           "years_exp": 10,
-          "search_rank": 129,
+          "search_rank": 127,
           "depth_chart_position": "K"
         },
         {
@@ -361,7 +361,7 @@
           "injury_status": null,
           "age": 27,
           "years_exp": 3,
-          "search_rank": 125,
+          "search_rank": 127,
           "depth_chart_position": "RB"
         },
         {
@@ -373,7 +373,7 @@
           "injury_status": null,
           "age": 25,
           "years_exp": 5,
-          "search_rank": 67,
+          "search_rank": 68,
           "depth_chart_position": "TE"
         },
         {
@@ -496,7 +496,7 @@
           "injury_status": null,
           "age": 34,
           "years_exp": 11,
-          "search_rank": 353,
+          "search_rank": 354,
           "depth_chart_position": "TE"
         },
         {
@@ -634,7 +634,7 @@
           "injury_status": null,
           "age": 27,
           "years_exp": 1,
-          "search_rank": 89,
+          "search_rank": 90,
           "depth_chart_position": "QB"
         },
         {
@@ -706,7 +706,7 @@
           "injury_status": null,
           "age": 25,
           "years_exp": 3,
-          "search_rank": 65,
+          "search_rank": 64,
           "depth_chart_position": "TE"
         },
         {
@@ -753,7 +753,7 @@
           "position": "RB",
           "team": "MIA",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "age": 23,
           "years_exp": 2,
           "search_rank": 174,
@@ -768,7 +768,7 @@
           "injury_status": null,
           "age": 22,
           "years_exp": 0,
-          "search_rank": 110,
+          "search_rank": 111,
           "depth_chart_position": "SWR"
         },
         {
@@ -818,7 +818,7 @@
           "injury_status": "IR",
           "age": 27,
           "years_exp": 4,
-          "search_rank": 90,
+          "search_rank": 92,
           "depth_chart_position": "RB"
         }
       ]
@@ -844,7 +844,7 @@
           "injury_status": null,
           "age": 28,
           "years_exp": 6,
-          "search_rank": 27,
+          "search_rank": 28,
           "depth_chart_position": "QB"
         },
         {
@@ -963,10 +963,10 @@
           "position": "WR",
           "team": "TB",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "age": 30,
           "years_exp": 9,
-          "search_rank": 88,
+          "search_rank": 87,
           "depth_chart_position": "SWR"
         },
         {
@@ -1053,7 +1053,7 @@
           "injury_status": "Questionable",
           "age": 26,
           "years_exp": 2,
-          "search_rank": 459,
+          "search_rank": 458,
           "depth_chart_position": "RB"
         },
         {
@@ -1197,8 +1197,8 @@
           "name": "Travis Etienne",
           "position": "RB",
           "team": "NO",
-          "status": "Active",
-          "injury_status": "Out",
+          "status": "Inactive",
+          "injury_status": "IR",
           "age": 27,
           "years_exp": 5,
           "search_rank": 34,
@@ -1255,15 +1255,15 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "6794",
-          "name": "Justin Jefferson",
+          "player_id": "12526",
+          "name": "Tetairoa McMillan",
           "position": "WR",
-          "team": "MIN",
+          "team": "CAR",
           "status": "Active",
-          "injury_status": "Questionable",
-          "age": 27,
-          "years_exp": 6,
-          "search_rank": 12,
+          "injury_status": null,
+          "age": 23,
+          "years_exp": 1,
+          "search_rank": 38,
           "depth_chart_position": "LWR"
         },
         {
@@ -1291,16 +1291,16 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "12526",
-          "name": "Tetairoa McMillan",
+          "player_id": "2449",
+          "name": "Stefon Diggs",
           "position": "WR",
-          "team": "CAR",
+          "team": "WAS",
           "status": "Active",
           "injury_status": null,
-          "age": 23,
-          "years_exp": 1,
-          "search_rank": 38,
-          "depth_chart_position": "LWR"
+          "age": 32,
+          "years_exp": 11,
+          "search_rank": 104,
+          "depth_chart_position": "SWR"
         },
         {
           "player_id": "1945",
@@ -1341,16 +1341,16 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "2449",
-          "name": "Stefon Diggs",
+          "player_id": "3321",
+          "name": "Tyreek Hill",
           "position": "WR",
-          "team": "WAS",
+          "team": null,
           "status": "Active",
-          "injury_status": null,
-          "age": 32,
-          "years_exp": 11,
-          "search_rank": 105,
-          "depth_chart_position": "SWR"
+          "injury_status": "",
+          "age": 31,
+          "years_exp": 10,
+          "search_rank": 145,
+          "depth_chart_position": null
         },
         {
           "player_id": "5850",
@@ -1373,7 +1373,7 @@
           "injury_status": null,
           "age": 26,
           "years_exp": 4,
-          "search_rank": 104,
+          "search_rank": 106,
           "depth_chart_position": "TE"
         },
         {
@@ -1385,11 +1385,23 @@
           "injury_status": null,
           "age": 25,
           "years_exp": 3,
-          "search_rank": 133,
+          "search_rank": 134,
           "depth_chart_position": "QB"
         }
       ],
       "reserve": [
+        {
+          "player_id": "6794",
+          "name": "Justin Jefferson",
+          "position": "WR",
+          "team": "MIN",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "age": 27,
+          "years_exp": 6,
+          "search_rank": 12,
+          "depth_chart_position": "LWR"
+        },
         {
           "player_id": "8142",
           "name": "Alec Pierce",
@@ -1559,7 +1571,7 @@
           "injury_status": null,
           "age": 22,
           "years_exp": 1,
-          "search_rank": 465,
+          "search_rank": 461,
           "depth_chart_position": "RB"
         },
         {
@@ -1583,7 +1595,7 @@
           "injury_status": null,
           "age": 27,
           "years_exp": 6,
-          "search_rank": 69,
+          "search_rank": 68,
           "depth_chart_position": "QB"
         }
       ],
@@ -1632,7 +1644,7 @@
           "position": "RB",
           "team": "CHI",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "age": 27,
           "years_exp": 6,
           "search_rank": 45,
@@ -1644,7 +1656,7 @@
           "position": "RB",
           "team": "TEN",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "age": 29,
           "years_exp": 7,
           "search_rank": 63,
@@ -1730,7 +1742,7 @@
           "position": "WR",
           "team": "NYJ",
           "status": "Active",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "age": 23,
           "years_exp": 2,
           "search_rank": 162,
@@ -1757,7 +1769,7 @@
           "injury_status": null,
           "age": 38,
           "years_exp": 17,
-          "search_rank": 66,
+          "search_rank": 65,
           "depth_chart_position": "QB"
         },
         {
@@ -1824,15 +1836,15 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "8136",
-          "name": "Rachaad White",
+          "player_id": "7594",
+          "name": "Chuba Hubbard",
           "position": "RB",
-          "team": "WAS",
+          "team": "CAR",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "age": 27,
-          "years_exp": 4,
-          "search_rank": 125,
+          "years_exp": 5,
+          "search_rank": 66,
           "depth_chart_position": "RB"
         },
         {
@@ -1872,34 +1884,34 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "7594",
-          "name": "Chuba Hubbard",
-          "position": "RB",
-          "team": "CAR",
+          "player_id": "7569",
+          "name": "Nico Collins",
+          "position": "WR",
+          "team": "HOU",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "age": 27,
           "years_exp": 5,
-          "search_rank": 66,
-          "depth_chart_position": "RB"
+          "search_rank": 21,
+          "depth_chart_position": "LWR"
         },
         {
-          "player_id": "12713",
-          "name": "Andy Borregales",
+          "player_id": "6083",
+          "name": "Matt Gay",
           "position": "K",
-          "team": "NE",
+          "team": "LV",
           "status": "Active",
           "injury_status": null,
-          "age": 23,
-          "years_exp": 1,
-          "search_rank": 157,
+          "age": 32,
+          "years_exp": 7,
+          "search_rank": 239,
           "depth_chart_position": "K"
         },
         {
-          "player_id": "0",
-          "name": "Unknown (0)",
-          "position": null,
-          "team": null,
+          "player_id": "CHI",
+          "name": "Chicago Bears",
+          "position": "DEF",
+          "team": "CHI",
           "status": null,
           "injury_status": null,
           "age": null,
@@ -1915,10 +1927,10 @@
           "position": "WR",
           "team": "IND",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "age": 34,
           "years_exp": 13,
-          "search_rank": 185,
+          "search_rank": 183,
           "depth_chart_position": "RWR"
         },
         {
@@ -1968,18 +1980,6 @@
           "years_exp": 3,
           "search_rank": 103,
           "depth_chart_position": "LWR"
-        },
-        {
-          "player_id": "CHI",
-          "name": "Chicago Bears",
-          "position": "DEF",
-          "team": "CHI",
-          "status": null,
-          "injury_status": null,
-          "age": null,
-          "years_exp": null,
-          "search_rank": null,
-          "depth_chart_position": null
         }
       ],
       "reserve": [
@@ -1996,16 +1996,16 @@
           "depth_chart_position": "RWR"
         },
         {
-          "player_id": "7569",
-          "name": "Nico Collins",
-          "position": "WR",
-          "team": "HOU",
+          "player_id": "8136",
+          "name": "Rachaad White",
+          "position": "RB",
+          "team": "WAS",
           "status": "Active",
           "injury_status": "Questionable",
           "age": 27,
-          "years_exp": 5,
-          "search_rank": 21,
-          "depth_chart_position": "LWR"
+          "years_exp": 4,
+          "search_rank": 125,
+          "depth_chart_position": "RB"
         },
         {
           "player_id": "8155",
@@ -2013,7 +2013,7 @@
           "position": "RB",
           "team": "NYJ",
           "status": "Active",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "age": 25,
           "years_exp": 4,
           "search_rank": 27,
@@ -2152,7 +2152,7 @@
           "injury_status": null,
           "age": 25,
           "years_exp": 2,
-          "search_rank": 177,
+          "search_rank": 176,
           "depth_chart_position": "SWR"
         },
         {
@@ -2176,7 +2176,7 @@
           "injury_status": "Out",
           "age": 31,
           "years_exp": 8,
-          "search_rank": 75,
+          "search_rank": 74,
           "depth_chart_position": "QB"
         },
         {
@@ -2252,7 +2252,7 @@
           "injury_status": null,
           "age": 24,
           "years_exp": 3,
-          "search_rank": 102,
+          "search_rank": 101,
           "depth_chart_position": "QB"
         },
         {
@@ -2288,7 +2288,7 @@
           "injury_status": null,
           "age": 26,
           "years_exp": 5,
-          "search_rank": 6,
+          "search_rank": 7,
           "depth_chart_position": "SWR"
         },
         {
@@ -2359,7 +2359,7 @@
           "position": "QB",
           "team": "WAS",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "age": 25,
           "years_exp": 2,
           "search_rank": 20,
@@ -2398,7 +2398,7 @@
           "injury_status": null,
           "age": 29,
           "years_exp": 8,
-          "search_rank": 92,
+          "search_rank": 93,
           "depth_chart_position": "QB"
         },
         {
@@ -2424,7 +2424,7 @@
           "injury_status": "IR",
           "age": 26,
           "years_exp": 3,
-          "search_rank": 97,
+          "search_rank": 99,
           "depth_chart_position": null
         }
       ]
@@ -2450,7 +2450,7 @@
           "injury_status": null,
           "age": 29,
           "years_exp": 7,
-          "search_rank": 87,
+          "search_rank": 86,
           "depth_chart_position": "QB"
         },
         {
@@ -2732,7 +2732,7 @@
           "injury_status": null,
           "age": 24,
           "years_exp": 1,
-          "search_rank": 49,
+          "search_rank": 47,
           "depth_chart_position": "TE"
         },
         {
