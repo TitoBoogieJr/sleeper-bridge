@@ -305,7 +305,63 @@ jobs:
                           "depth_chart_position"
                       ),
               }
+          # -----------------------------------------------------
+          # CURRENT SEASON KEEPERS
+          # -----------------------------------------------------
+          #
+          # Our league's keepers are manually placed onto the
+          # Sleeper draft board by the commissioner.
+          #
+          # Because of that, Sleeper's API treats them like normal
+          # draft picks and does NOT tell us they were keepers.
+          #
+          # We maintain this list manually once per season.
+          #
+          # IMPORTANT:
+          # Use Sleeper PLAYER IDs here, not roster IDs.
+          #
+          # At the beginning of each new fantasy season:
+          # 1. Remove the previous season's keeper IDs.
+          # 2. Add the newly declared keeper IDs.
+          # 3. Commit the change.
+          #
+          # SleeperBridge will then automatically prevent these
+          # players from being considered keeper-eligible for the
+          # following season.
+          # -----------------------------------------------------
 
+          CURRENT_SEASON_KEEPERS = {
+
+              # Dalton Schultz
+              "5001",
+
+              # Jakobi Meyers
+              "5947",
+
+              # Parker Washington
+              "9487",
+
+              # Bhayshul Tuten
+              "12490",
+
+              # Quinshon Judkins
+              "12512",
+
+              # Drake Maye
+              "11564",
+
+              # Luther Burden
+              "12519",
+
+              # Colston Loveland
+              "12517",
+
+              # George Pickens
+              "8137",
+
+              # Rico Dowdle
+              "7021",
+          }
 
           # -----------------------------------------------------
           # BUILD DRAFT HISTORY
@@ -377,10 +433,10 @@ jobs:
                   )
 
 
-                  # Sleeper stores keeper information inside
-                  # the draft pick metadata.
-                  is_keeper = bool(
-                      metadata.get("is_keeper")
+                  # Our league manually assigns keepers, so our
+                  # configured keeper list is the authoritative source.
+                  is_keeper = (
+                      player_id in CURRENT_SEASON_KEEPERS
                   )
 
 
@@ -460,10 +516,11 @@ jobs:
                           manager["team_name"],
 
                       "is_keeper":
-                          is_keeper,
+                          player_id in CURRENT_SEASON_KEEPERS,
                   }
 
-
+                  
+                  
           # -----------------------------------------------------
           # KEEPER RULES
           # -----------------------------------------------------
@@ -522,9 +579,8 @@ jobs:
                   "round"
               )
 
-              was_keeper = draft.get(
-                  "is_keeper",
-                  False
+              was_keeper = (
+                  player_id in CURRENT_SEASON_KEEPERS
               )
 
 
