@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-03T15:13:03.626536+00:00",
+  "snapshot_generated_at": "2026-10-03T18:47:42.604125+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -1575,7 +1575,7 @@
           "name": "DeVonta Smith",
           "position": "WR",
           "nfl_team": "PHI",
-          "location": "starter",
+          "location": "reserve",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -1729,6 +1729,19 @@
             "eligible_next_season": true,
             "cost_round": 12,
             "reason": "Drafted in Round 12"
+          }
+        },
+        {
+          "player_id": "7049",
+          "name": "Jauan Jennings",
+          "position": "WR",
+          "nfl_team": "MIN",
+          "location": "starter",
+          "draft": null,
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 14,
+            "reason": "Undrafted player; keeper cost is Round 14"
           }
         },
         {
@@ -3680,7 +3693,7 @@
           "name": "Colston Loveland",
           "position": "TE",
           "nfl_team": "CHI",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -3772,7 +3785,7 @@
           "name": "Jordyn Tyson",
           "position": "WR",
           "nfl_team": "NO",
-          "location": "reserve",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -3811,29 +3824,6 @@
             "eligible_next_season": true,
             "cost_round": 6,
             "reason": "Drafted in Round 6"
-          }
-        },
-        {
-          "player_id": "13337",
-          "name": "Emmett Johnson",
-          "position": "RB",
-          "nfl_team": "KC",
-          "location": "bench",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 10,
-            "pick_no": 129,
-            "original_roster_id": 3,
-            "original_owner_user_id": "735686232146886656",
-            "original_username": "ONeal24",
-            "original_team_name": "Ashy Larry strikes again",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 10,
-            "reason": "Drafted in Round 10"
           }
         },
         {
@@ -3877,7 +3867,7 @@
           "name": "Darren Waller",
           "position": "TE",
           "nfl_team": "CAR",
-          "location": "starter",
+          "location": "bench",
           "draft": null,
           "keeper": {
             "eligible_next_season": true,

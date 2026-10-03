@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-03T15:13:03.626536+00:00",
+  "snapshot_generated_at": "2026-10-03T18:47:42.604125+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -3375,6 +3375,74 @@
       ],
       "roster_ids": [
         4
+      ]
+    },
+    {
+      "transaction_id": "1412158881886400512",
+      "week": 4,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791047423387,
+      "faab": null,
+      "adds": [
+        {
+          "player": {
+            "player_id": "7049",
+            "name": "Jauan Jennings",
+            "position": "WR",
+            "team": "MIN",
+            "status": "Active",
+            "injury_status": null,
+            "age": 29,
+            "years_exp": 6,
+            "search_rank": 123,
+            "depth_chart_position": "SWR"
+          },
+          "destination": {
+            "roster_id": 6,
+            "owner_user_id": "1263688729139097600",
+            "username": "KHurrie",
+            "team_name": "LaPorta Pottie"
+          }
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        6
+      ]
+    },
+    {
+      "transaction_id": "1412132454520664064",
+      "week": 4,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791041122611,
+      "faab": null,
+      "adds": [],
+      "drops": [
+        {
+          "player": {
+            "player_id": "13337",
+            "name": "Emmett Johnson",
+            "position": "RB",
+            "team": "KC",
+            "status": "Active",
+            "injury_status": null,
+            "age": 22,
+            "years_exp": 0,
+            "search_rank": 113,
+            "depth_chart_position": "RB"
+          },
+          "source": {
+            "roster_id": 3,
+            "owner_user_id": "735686232146886656",
+            "username": "ONeal24",
+            "team_name": "Ashy Larry strikes again"
+          }
+        }
+      ],
+      "roster_ids": [
+        3
       ]
     },
     {

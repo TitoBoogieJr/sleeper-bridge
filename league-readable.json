@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-03T15:13:03.626536+00:00",
+  "snapshot_generated_at": "2026-10-03T18:47:42.604125+00:00",
   "current_week": 4,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -488,15 +488,15 @@
           "depth_chart_position": "RWR"
         },
         {
-          "player_id": "2505",
-          "name": "Darren Waller",
+          "player_id": "12517",
+          "name": "Colston Loveland",
           "position": "TE",
-          "team": "CAR",
+          "team": "CHI",
           "status": "Active",
           "injury_status": null,
-          "age": 34,
-          "years_exp": 11,
-          "search_rank": 354,
+          "age": 22,
+          "years_exp": 1,
+          "search_rank": 36,
           "depth_chart_position": "TE"
         },
         {
@@ -538,18 +538,6 @@
       ],
       "bench": [
         {
-          "player_id": "12517",
-          "name": "Colston Loveland",
-          "position": "TE",
-          "team": "CHI",
-          "status": "Active",
-          "injury_status": null,
-          "age": 22,
-          "years_exp": 1,
-          "search_rank": 36,
-          "depth_chart_position": "TE"
-        },
-        {
           "player_id": "13279",
           "name": "Carnell Tate",
           "position": "WR",
@@ -559,6 +547,18 @@
           "age": 21,
           "years_exp": 0,
           "search_rank": 61,
+          "depth_chart_position": "LWR"
+        },
+        {
+          "player_id": "13281",
+          "name": "Jordyn Tyson",
+          "position": "WR",
+          "team": "NO",
+          "status": "Inactive",
+          "injury_status": "IR",
+          "age": 22,
+          "years_exp": 0,
+          "search_rank": 62,
           "depth_chart_position": "LWR"
         },
         {
@@ -574,16 +574,16 @@
           "depth_chart_position": "RWR"
         },
         {
-          "player_id": "13337",
-          "name": "Emmett Johnson",
-          "position": "RB",
-          "team": "KC",
+          "player_id": "2505",
+          "name": "Darren Waller",
+          "position": "TE",
+          "team": "CAR",
           "status": "Active",
           "injury_status": null,
-          "age": 22,
-          "years_exp": 0,
-          "search_rank": 113,
-          "depth_chart_position": "RB"
+          "age": 34,
+          "years_exp": 11,
+          "search_rank": 354,
+          "depth_chart_position": "TE"
         },
         {
           "player_id": "6806",
@@ -598,20 +598,7 @@
           "depth_chart_position": "RB"
         }
       ],
-      "reserve": [
-        {
-          "player_id": "13281",
-          "name": "Jordyn Tyson",
-          "position": "WR",
-          "team": "NO",
-          "status": "Inactive",
-          "injury_status": "IR",
-          "age": 22,
-          "years_exp": 0,
-          "search_rank": 62,
-          "depth_chart_position": "LWR"
-        }
-      ]
+      "reserve": []
     },
     {
       "roster_id": 4,
@@ -1093,16 +1080,16 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "7525",
-          "name": "DeVonta Smith",
+          "player_id": "7049",
+          "name": "Jauan Jennings",
           "position": "WR",
-          "team": "PHI",
+          "team": "MIN",
           "status": "Active",
-          "injury_status": "Out",
-          "age": 27,
-          "years_exp": 5,
-          "search_rank": 33,
-          "depth_chart_position": "LWR"
+          "injury_status": null,
+          "age": 29,
+          "years_exp": 6,
+          "search_rank": 123,
+          "depth_chart_position": "SWR"
         },
         {
           "player_id": "11533",
@@ -1192,6 +1179,18 @@
         }
       ],
       "reserve": [
+        {
+          "player_id": "7525",
+          "name": "DeVonta Smith",
+          "position": "WR",
+          "team": "PHI",
+          "status": "Active",
+          "injury_status": "Out",
+          "age": 27,
+          "years_exp": 5,
+          "search_rank": 33,
+          "depth_chart_position": "LWR"
+        },
         {
           "player_id": "7543",
           "name": "Travis Etienne",
