@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-03T18:47:42.604125+00:00",
+  "snapshot_generated_at": "2026-10-03T22:05:20.095640+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -3112,7 +3112,7 @@
           "name": "Ladd McConkey",
           "position": "WR",
           "nfl_team": "LAC",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -3227,7 +3227,7 @@
           "name": "Wan'Dale Robinson",
           "position": "WR",
           "nfl_team": "TEN",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -4003,7 +4003,7 @@
           "name": "Jadarian Price",
           "position": "RB",
           "nfl_team": "SEA",
-          "location": "starter",
+          "location": "reserve",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -4111,6 +4111,19 @@
           "name": "Ollie Gordon",
           "position": "RB",
           "nfl_team": "MIA",
+          "location": "starter",
+          "draft": null,
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 14,
+            "reason": "Undrafted player; keeper cost is Round 14"
+          }
+        },
+        {
+          "player_id": "4663",
+          "name": "Austin Ekeler",
+          "position": "RB",
+          "nfl_team": "WAS",
           "location": "bench",
           "draft": null,
           "keeper": {

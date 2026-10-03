@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-03T18:47:42.604125+00:00",
+  "snapshot_generated_at": "2026-10-03T22:05:20.095640+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -3375,6 +3375,40 @@
       ],
       "roster_ids": [
         4
+      ]
+    },
+    {
+      "transaction_id": "1412207696530182144",
+      "week": 4,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791059061704,
+      "faab": null,
+      "adds": [
+        {
+          "player": {
+            "player_id": "4663",
+            "name": "Austin Ekeler",
+            "position": "RB",
+            "team": "WAS",
+            "status": "Active",
+            "injury_status": null,
+            "age": 31,
+            "years_exp": 9,
+            "search_rank": 632,
+            "depth_chart_position": "RB"
+          },
+          "destination": {
+            "roster_id": 8,
+            "owner_user_id": "995178101929816064",
+            "username": "ChaseyChase73",
+            "team_name": "ChaseyChase73"
+          }
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        8
       ]
     },
     {

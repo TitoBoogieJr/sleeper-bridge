@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-03T18:47:42.604125+00:00",
+  "snapshot_generated_at": "2026-10-03T22:05:20.095640+00:00",
   "players": [
     {
       "player_id": "9509",
@@ -1479,7 +1479,7 @@
       "owner_user_id": "979940216863608832",
       "username": "Naz514",
       "team_name": "MAYE-B I\u2019m a little Lucky",
-      "location": "starter",
+      "location": "bench",
       "draft": {
         "draft_id": "1313649397531148288",
         "season": "2026",
@@ -2261,7 +2261,7 @@
       "owner_user_id": "995178101929816064",
       "username": "ChaseyChase73",
       "team_name": "ChaseyChase73",
-      "location": "starter",
+      "location": "reserve",
       "draft": {
         "draft_id": "1313649397531148288",
         "season": "2026",
@@ -4475,7 +4475,7 @@
       "owner_user_id": "979940216863608832",
       "username": "Naz514",
       "team_name": "MAYE-B I\u2019m a little Lucky",
-      "location": "bench",
+      "location": "starter",
       "draft": {
         "draft_id": "1313649397531148288",
         "season": "2026",
@@ -9809,7 +9809,7 @@
       "owner_user_id": "995178101929816064",
       "username": "ChaseyChase73",
       "team_name": "ChaseyChase73",
-      "location": "bench",
+      "location": "starter",
       "draft": null,
       "keeper": {
         "eligible_next_season": true,
@@ -14940,12 +14940,12 @@
       "years_exp": 9,
       "search_rank": 632,
       "depth_chart_position": "RB",
-      "rostered": false,
-      "roster_id": null,
-      "owner_user_id": null,
-      "username": null,
-      "team_name": null,
-      "location": "free_agent",
+      "rostered": true,
+      "roster_id": 8,
+      "owner_user_id": "995178101929816064",
+      "username": "ChaseyChase73",
+      "team_name": "ChaseyChase73",
+      "location": "bench",
       "draft": null,
       "keeper": {
         "eligible_next_season": true,

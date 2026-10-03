@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-03T18:47:42.604125+00:00",
+  "snapshot_generated_at": "2026-10-03T22:05:20.095640+00:00",
   "players": [
     {
       "player_id": "12508",
@@ -9010,30 +9010,6 @@
       "years_exp": 4,
       "search_rank": 631,
       "depth_chart_position": null,
-      "rostered": false,
-      "roster_id": null,
-      "owner_user_id": null,
-      "username": null,
-      "team_name": null,
-      "location": "free_agent",
-      "draft": null,
-      "keeper": {
-        "eligible_next_season": true,
-        "cost_round": 14,
-        "reason": "Undrafted player; keeper cost is Round 14"
-      }
-    },
-    {
-      "player_id": "4663",
-      "name": "Austin Ekeler",
-      "position": "RB",
-      "team": "WAS",
-      "status": "Active",
-      "injury_status": null,
-      "age": 31,
-      "years_exp": 9,
-      "search_rank": 632,
-      "depth_chart_position": "RB",
       "rostered": false,
       "roster_id": null,
       "owner_user_id": null,

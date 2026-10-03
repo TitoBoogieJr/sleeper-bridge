@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-03T18:47:42.604125+00:00",
+  "snapshot_generated_at": "2026-10-03T22:05:20.095640+00:00",
   "current_week": 4,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -649,15 +649,15 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "11635",
-          "name": "Ladd McConkey",
+          "player_id": "8126",
+          "name": "Wan'Dale Robinson",
           "position": "WR",
-          "team": "LAC",
+          "team": "TEN",
           "status": "Active",
-          "injury_status": "Questionable",
-          "age": 24,
-          "years_exp": 2,
-          "search_rank": 35,
+          "injury_status": null,
+          "age": 25,
+          "years_exp": 4,
+          "search_rank": 105,
           "depth_chart_position": "SWR"
         },
         {
@@ -735,6 +735,18 @@
           "depth_chart_position": "QB"
         },
         {
+          "player_id": "11635",
+          "name": "Ladd McConkey",
+          "position": "WR",
+          "team": "LAC",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "age": 24,
+          "years_exp": 2,
+          "search_rank": 35,
+          "depth_chart_position": "SWR"
+        },
+        {
           "player_id": "11643",
           "name": "Jaylen Wright",
           "position": "RB",
@@ -756,18 +768,6 @@
           "age": 22,
           "years_exp": 0,
           "search_rank": 111,
-          "depth_chart_position": "SWR"
-        },
-        {
-          "player_id": "8126",
-          "name": "Wan'Dale Robinson",
-          "position": "WR",
-          "team": "TEN",
-          "status": "Active",
-          "injury_status": null,
-          "age": 25,
-          "years_exp": 4,
-          "search_rank": 105,
           "depth_chart_position": "SWR"
         },
         {
@@ -1452,15 +1452,15 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "13286",
-          "name": "Jadarian Price",
+          "player_id": "12495",
+          "name": "Ollie Gordon",
           "position": "RB",
-          "team": "SEA",
+          "team": "MIA",
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": null,
           "age": 22,
-          "years_exp": 0,
-          "search_rank": 52,
+          "years_exp": 1,
+          "search_rank": 461,
           "depth_chart_position": "RB"
         },
         {
@@ -1562,18 +1562,6 @@
           "depth_chart_position": "SWR"
         },
         {
-          "player_id": "12495",
-          "name": "Ollie Gordon",
-          "position": "RB",
-          "team": "MIA",
-          "status": "Active",
-          "injury_status": null,
-          "age": 22,
-          "years_exp": 1,
-          "search_rank": 461,
-          "depth_chart_position": "RB"
-        },
-        {
           "player_id": "3271",
           "name": "Tyler Higbee",
           "position": "TE",
@@ -1584,6 +1572,18 @@
           "years_exp": 10,
           "search_rank": 652,
           "depth_chart_position": "TE"
+        },
+        {
+          "player_id": "4663",
+          "name": "Austin Ekeler",
+          "position": "RB",
+          "team": "WAS",
+          "status": "Active",
+          "injury_status": null,
+          "age": 31,
+          "years_exp": 9,
+          "search_rank": 632,
+          "depth_chart_position": "RB"
         },
         {
           "player_id": "6804",
@@ -1599,6 +1599,18 @@
         }
       ],
       "reserve": [
+        {
+          "player_id": "13286",
+          "name": "Jadarian Price",
+          "position": "RB",
+          "team": "SEA",
+          "status": "Active",
+          "injury_status": "Out",
+          "age": 22,
+          "years_exp": 0,
+          "search_rank": 52,
+          "depth_chart_position": "RB"
+        },
         {
           "player_id": "8800",
           "name": "Malik Davis",
