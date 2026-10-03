@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-03T11:27:12.108131+00:00",
+  "snapshot_generated_at": "2026-10-03T15:13:03.626536+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -3722,29 +3722,6 @@
           }
         },
         {
-          "player_id": "13279",
-          "name": "Carnell Tate",
-          "position": "WR",
-          "nfl_team": "TEN",
-          "location": "bench",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 5,
-            "pick_no": 68,
-            "original_roster_id": 3,
-            "original_owner_user_id": "735686232146886656",
-            "original_username": "ONeal24",
-            "original_team_name": "Ashy Larry strikes again",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 5,
-            "reason": "Drafted in Round 5"
-          }
-        },
-        {
           "player_id": "3163",
           "name": "Jared Goff",
           "position": "QB",
@@ -3765,6 +3742,29 @@
             "eligible_next_season": true,
             "cost_round": 11,
             "reason": "Drafted in Round 11"
+          }
+        },
+        {
+          "player_id": "13279",
+          "name": "Carnell Tate",
+          "position": "WR",
+          "nfl_team": "TEN",
+          "location": "bench",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 5,
+            "pick_no": 68,
+            "original_roster_id": 3,
+            "original_owner_user_id": "735686232146886656",
+            "original_username": "ONeal24",
+            "original_team_name": "Ashy Larry strikes again",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 5,
+            "reason": "Drafted in Round 5"
           }
         },
         {
