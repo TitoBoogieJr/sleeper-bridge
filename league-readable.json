@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-04T18:18:17.205631+00:00",
+  "snapshot_generated_at": "2026-10-04T21:50:14.431857+00:00",
   "current_week": 4,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -93,16 +93,16 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "2216",
-          "name": "Mike Evans",
-          "position": "WR",
-          "team": "SF",
+          "player_id": "11435",
+          "name": "Emanuel Wilson",
+          "position": "RB",
+          "team": "SEA",
           "status": "Active",
-          "injury_status": "Questionable",
-          "age": 33,
-          "years_exp": 12,
-          "search_rank": 60,
-          "depth_chart_position": "LWR"
+          "injury_status": null,
+          "age": 27,
+          "years_exp": 3,
+          "search_rank": 161,
+          "depth_chart_position": "RB"
         },
         {
           "player_id": "12961",
@@ -131,18 +131,6 @@
       ],
       "bench": [
         {
-          "player_id": "11435",
-          "name": "Emanuel Wilson",
-          "position": "RB",
-          "team": "SEA",
-          "status": "Active",
-          "injury_status": null,
-          "age": 27,
-          "years_exp": 3,
-          "search_rank": 161,
-          "depth_chart_position": "RB"
-        },
-        {
           "player_id": "11571",
           "name": "Isaiah Davis",
           "position": "RB",
@@ -164,6 +152,18 @@
           "age": 23,
           "years_exp": 1,
           "search_rank": 39,
+          "depth_chart_position": "LWR"
+        },
+        {
+          "player_id": "2216",
+          "name": "Mike Evans",
+          "position": "WR",
+          "team": "SF",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "age": 33,
+          "years_exp": 12,
+          "search_rank": 60,
           "depth_chart_position": "LWR"
         },
         {

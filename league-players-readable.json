@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-04T18:18:17.205631+00:00",
+  "snapshot_generated_at": "2026-10-04T21:50:14.431857+00:00",
   "players": [
     {
       "player_id": "9509",
@@ -2533,7 +2533,7 @@
       "owner_user_id": "1263601129552355328",
       "username": "nathan697",
       "team_name": "Egbuka, I hardly know ya",
-      "location": "starter",
+      "location": "bench",
       "draft": {
         "draft_id": "1313649397531148288",
         "season": "2026",
@@ -6085,7 +6085,7 @@
       "owner_user_id": "1263601129552355328",
       "username": "nathan697",
       "team_name": "Egbuka, I hardly know ya",
-      "location": "bench",
+      "location": "starter",
       "draft": null,
       "keeper": {
         "eligible_next_season": true,
