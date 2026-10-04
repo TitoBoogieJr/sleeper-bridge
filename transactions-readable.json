@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-04T14:18:09.806832+00:00",
+  "snapshot_generated_at": "2026-10-04T18:18:17.205631+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -414,7 +414,7 @@
             "injury_status": null,
             "age": 26,
             "years_exp": 2,
-            "search_rank": 457,
+            "search_rank": 455,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -448,7 +448,7 @@
             "injury_status": null,
             "age": 26,
             "years_exp": 2,
-            "search_rank": 457,
+            "search_rank": 455,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -1058,7 +1058,7 @@
             "injury_status": null,
             "age": 35,
             "years_exp": 13,
-            "search_rank": 211,
+            "search_rank": 209,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -2332,7 +2332,7 @@
             "position": "WR",
             "team": "IND",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": "Out",
             "age": 34,
             "years_exp": 13,
             "search_rank": 185,
@@ -2636,7 +2636,7 @@
             "injury_status": null,
             "age": 35,
             "years_exp": 13,
-            "search_rank": 211,
+            "search_rank": 209,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -3375,6 +3375,61 @@
       ],
       "roster_ids": [
         4
+      ]
+    },
+    {
+      "transaction_id": "1412507364514398208",
+      "week": 4,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791130508119,
+      "faab": null,
+      "adds": [
+        {
+          "player": {
+            "player_id": "12961",
+            "name": "Ryan Fitzgerald",
+            "position": "K",
+            "team": "CAR",
+            "status": "Active",
+            "injury_status": null,
+            "age": 26,
+            "years_exp": 1,
+            "search_rank": 327,
+            "depth_chart_position": "K"
+          },
+          "destination": {
+            "roster_id": 1,
+            "owner_user_id": "1263601129552355328",
+            "username": "nathan697",
+            "team_name": "Egbuka, I hardly know ya"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "player_id": "8259",
+            "name": "Cameron Dicker",
+            "position": "K",
+            "team": "LAC",
+            "status": "Active",
+            "injury_status": null,
+            "age": 26,
+            "years_exp": 4,
+            "search_rank": 118,
+            "depth_chart_position": "K"
+          },
+          "source": {
+            "roster_id": 1,
+            "owner_user_id": "1263601129552355328",
+            "username": "nathan697",
+            "team_name": "Egbuka, I hardly know ya"
+          }
+        }
+      ],
+      "roster_ids": [
+        1
       ]
     },
     {

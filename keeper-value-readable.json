@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-04T14:18:09.806832+00:00",
+  "snapshot_generated_at": "2026-10-04T18:18:17.205631+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -3112,7 +3112,7 @@
           "name": "Ladd McConkey",
           "position": "WR",
           "nfl_team": "LAC",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -3286,7 +3286,7 @@
           "name": "Jalen Coker",
           "position": "WR",
           "nfl_team": "CAR",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",

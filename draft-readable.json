@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-04T14:18:09.806832+00:00",
+  "snapshot_generated_at": "2026-10-04T18:18:17.205631+00:00",
   "drafts": [
     {
       "created": 1767560932099,
@@ -341,7 +341,7 @@
         "injury_status": null,
         "age": 24,
         "years_exp": 3,
-        "search_rank": 7,
+        "search_rank": 5,
         "depth_chart_position": "LWR"
       },
       "round": 1,
@@ -566,7 +566,7 @@
         "injury_status": "Out",
         "age": 27,
         "years_exp": 6,
-        "search_rank": 12,
+        "search_rank": 11,
         "depth_chart_position": "LWR"
       },
       "round": 2,
@@ -1162,8 +1162,8 @@
         "name": "Jadarian Price",
         "position": "RB",
         "team": "SEA",
-        "status": "Active",
-        "injury_status": "Out",
+        "status": "Inactive",
+        "injury_status": "IR",
         "age": 22,
         "years_exp": 0,
         "search_rank": 52,
@@ -1216,7 +1216,7 @@
         "injury_status": null,
         "age": 24,
         "years_exp": 1,
-        "search_rank": 49,
+        "search_rank": 47,
         "depth_chart_position": "TE"
       },
       "round": 4,
@@ -1463,7 +1463,7 @@
         "position": "WR",
         "team": "WAS",
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "age": 31,
         "years_exp": 7,
         "search_rank": 55,
@@ -1641,7 +1641,7 @@
         "injury_status": null,
         "age": 28,
         "years_exp": 6,
-        "search_rank": 26,
+        "search_rank": 28,
         "depth_chart_position": "QB"
       },
       "round": 5,
@@ -1791,7 +1791,7 @@
         "injury_status": null,
         "age": 25,
         "years_exp": 4,
-        "search_rank": 22,
+        "search_rank": 23,
         "depth_chart_position": "RWR"
       },
       "round": 5,
@@ -2716,7 +2716,7 @@
         "injury_status": null,
         "age": 28,
         "years_exp": 6,
-        "search_rank": 106,
+        "search_rank": 107,
         "depth_chart_position": "RWR"
       },
       "round": 8,
@@ -3916,7 +3916,7 @@
         "injury_status": null,
         "age": 26,
         "years_exp": 4,
-        "search_rank": 119,
+        "search_rank": 118,
         "depth_chart_position": "K"
       },
       "round": 11,
@@ -4891,7 +4891,7 @@
         "injury_status": null,
         "age": 25,
         "years_exp": 3,
-        "search_rank": 187,
+        "search_rank": 185,
         "depth_chart_position": "LWR"
       },
       "round": 14,

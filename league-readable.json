@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-04T14:18:09.806832+00:00",
+  "snapshot_generated_at": "2026-10-04T18:18:17.205631+00:00",
   "current_week": 4,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -105,15 +105,15 @@
           "depth_chart_position": "LWR"
         },
         {
-          "player_id": "8259",
-          "name": "Cameron Dicker",
+          "player_id": "12961",
+          "name": "Ryan Fitzgerald",
           "position": "K",
-          "team": "LAC",
+          "team": "CAR",
           "status": "Active",
           "injury_status": null,
           "age": 26,
-          "years_exp": 4,
-          "search_rank": 119,
+          "years_exp": 1,
+          "search_rank": 327,
           "depth_chart_position": "K"
         },
         {
@@ -661,15 +661,15 @@
           "depth_chart_position": "SWR"
         },
         {
-          "player_id": "11646",
-          "name": "Jalen Coker",
+          "player_id": "11635",
+          "name": "Ladd McConkey",
           "position": "WR",
-          "team": "CAR",
+          "team": "LAC",
           "status": "Active",
           "injury_status": "Questionable",
           "age": 24,
           "years_exp": 2,
-          "search_rank": 132,
+          "search_rank": 35,
           "depth_chart_position": "SWR"
         },
         {
@@ -735,18 +735,6 @@
           "depth_chart_position": "QB"
         },
         {
-          "player_id": "11635",
-          "name": "Ladd McConkey",
-          "position": "WR",
-          "team": "LAC",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "age": 24,
-          "years_exp": 2,
-          "search_rank": 35,
-          "depth_chart_position": "SWR"
-        },
-        {
           "player_id": "11643",
           "name": "Jaylen Wright",
           "position": "RB",
@@ -757,6 +745,18 @@
           "years_exp": 2,
           "search_rank": 174,
           "depth_chart_position": "RB"
+        },
+        {
+          "player_id": "11646",
+          "name": "Jalen Coker",
+          "position": "WR",
+          "team": "CAR",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "age": 24,
+          "years_exp": 2,
+          "search_rank": 132,
+          "depth_chart_position": "SWR"
         },
         {
           "player_id": "13298",
@@ -831,7 +831,7 @@
           "injury_status": null,
           "age": 28,
           "years_exp": 6,
-          "search_rank": 26,
+          "search_rank": 28,
           "depth_chart_position": "QB"
         },
         {
@@ -965,7 +965,7 @@
           "injury_status": null,
           "age": 28,
           "years_exp": 6,
-          "search_rank": 106,
+          "search_rank": 107,
           "depth_chart_position": "RWR"
         },
         {
@@ -1040,7 +1040,7 @@
           "injury_status": null,
           "age": 26,
           "years_exp": 2,
-          "search_rank": 457,
+          "search_rank": 455,
           "depth_chart_position": "RB"
         },
         {
@@ -1052,7 +1052,7 @@
           "injury_status": null,
           "age": 25,
           "years_exp": 3,
-          "search_rank": 187,
+          "search_rank": 185,
           "depth_chart_position": "LWR"
         },
         {
@@ -1398,7 +1398,7 @@
           "injury_status": "Out",
           "age": 27,
           "years_exp": 6,
-          "search_rank": 12,
+          "search_rank": 11,
           "depth_chart_position": "LWR"
         },
         {
@@ -1472,7 +1472,7 @@
           "injury_status": null,
           "age": 25,
           "years_exp": 4,
-          "search_rank": 22,
+          "search_rank": 23,
           "depth_chart_position": "RWR"
         },
         {
@@ -1604,8 +1604,8 @@
           "name": "Jadarian Price",
           "position": "RB",
           "team": "SEA",
-          "status": "Active",
-          "injury_status": "Out",
+          "status": "Inactive",
+          "injury_status": "IR",
           "age": 22,
           "years_exp": 0,
           "search_rank": 52,
@@ -1938,7 +1938,7 @@
           "position": "WR",
           "team": "IND",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "age": 34,
           "years_exp": 13,
           "search_rank": 185,
@@ -2592,7 +2592,7 @@
           "position": "WR",
           "team": "WAS",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "age": 31,
           "years_exp": 7,
           "search_rank": 55,
@@ -2683,7 +2683,7 @@
           "injury_status": null,
           "age": 35,
           "years_exp": 13,
-          "search_rank": 211,
+          "search_rank": 209,
           "depth_chart_position": "QB"
         },
         {
@@ -2743,7 +2743,7 @@
           "injury_status": null,
           "age": 24,
           "years_exp": 1,
-          "search_rank": 49,
+          "search_rank": 47,
           "depth_chart_position": "TE"
         },
         {
@@ -2755,7 +2755,7 @@
           "injury_status": null,
           "age": 24,
           "years_exp": 3,
-          "search_rank": 7,
+          "search_rank": 5,
           "depth_chart_position": "LWR"
         },
         {
