@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-04T01:55:26.917167+00:00",
+  "snapshot_generated_at": "2026-10-04T08:16:59.498333+00:00",
   "current_week": 4,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -2711,16 +2711,16 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "9488",
-          "name": "Jaxon Smith-Njigba",
+          "player_id": "9486",
+          "name": "Dontayvion Wicks",
           "position": "WR",
-          "team": "SEA",
+          "team": "PHI",
           "status": "Active",
           "injury_status": null,
-          "age": 24,
+          "age": 25,
           "years_exp": 3,
-          "search_rank": 7,
-          "depth_chart_position": "LWR"
+          "search_rank": 206,
+          "depth_chart_position": "RWR"
         },
         {
           "player_id": "12519",
@@ -2747,16 +2747,16 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "12534",
-          "name": "Kyle Monangai",
-          "position": "RB",
-          "team": "CHI",
+          "player_id": "9488",
+          "name": "Jaxon Smith-Njigba",
+          "position": "WR",
+          "team": "SEA",
           "status": "Active",
           "injury_status": null,
           "age": 24,
-          "years_exp": 1,
-          "search_rank": 61,
-          "depth_chart_position": "RB"
+          "years_exp": 3,
+          "search_rank": 7,
+          "depth_chart_position": "LWR"
         },
         {
           "player_id": "12711",
@@ -2809,6 +2809,18 @@
           "depth_chart_position": "RB"
         },
         {
+          "player_id": "12534",
+          "name": "Kyle Monangai",
+          "position": "RB",
+          "team": "CHI",
+          "status": "Active",
+          "injury_status": null,
+          "age": 24,
+          "years_exp": 1,
+          "search_rank": 61,
+          "depth_chart_position": "RB"
+        },
+        {
           "player_id": "9225",
           "name": "Tank Bigsby",
           "position": "RB",
@@ -2819,18 +2831,6 @@
           "years_exp": 3,
           "search_rank": 147,
           "depth_chart_position": "RB"
-        },
-        {
-          "player_id": "9486",
-          "name": "Dontayvion Wicks",
-          "position": "WR",
-          "team": "PHI",
-          "status": "Active",
-          "injury_status": null,
-          "age": 25,
-          "years_exp": 3,
-          "search_rank": 206,
-          "depth_chart_position": "RWR"
         },
         {
           "player_id": "KC",

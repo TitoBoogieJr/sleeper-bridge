@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-04T01:55:26.917167+00:00",
+  "snapshot_generated_at": "2026-10-04T08:16:59.498333+00:00",
   "players": [
     {
       "player_id": "9509",
@@ -2635,7 +2635,7 @@
       "owner_user_id": "1263695631499665408",
       "username": "jeredoliver",
       "team_name": "JSN Bourne",
-      "location": "starter",
+      "location": "bench",
       "draft": {
         "draft_id": "1313649397531148288",
         "season": "2026",
@@ -7351,7 +7351,7 @@
       "owner_user_id": "1263695631499665408",
       "username": "jeredoliver",
       "team_name": "JSN Bourne",
-      "location": "bench",
+      "location": "starter",
       "draft": {
         "draft_id": "1313649397531148288",
         "season": "2026",

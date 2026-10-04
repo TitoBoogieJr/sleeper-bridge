@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-04T01:55:26.917167+00:00",
+  "snapshot_generated_at": "2026-10-04T08:16:59.498333+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -2231,7 +2231,7 @@
           "name": "Kyle Monangai",
           "position": "RB",
           "nfl_team": "CHI",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -2369,7 +2369,7 @@
           "name": "Dontayvion Wicks",
           "position": "WR",
           "nfl_team": "PHI",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
