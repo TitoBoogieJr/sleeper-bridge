@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-05T15:48:19.759347+00:00",
+  "snapshot_generated_at": "2026-10-05T22:27:41.048401+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -651,290 +651,6 @@
       ]
     },
     {
-      "roster_id": 2,
-      "owner_user_id": "1263709493192052736",
-      "username": "KarolynRose",
-      "team_name": "Magic Skol Bus",
-      "players": [
-        {
-          "player_id": "7564",
-          "name": "Ja'Marr Chase",
-          "position": "WR",
-          "nfl_team": "CIN",
-          "location": "starter",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 1,
-            "pick_no": 5,
-            "original_roster_id": 2,
-            "original_owner_user_id": "1263709493192052736",
-            "original_username": "KarolynRose",
-            "original_team_name": "Magic Skol Bus",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": false,
-            "cost_round": null,
-            "reason": "Drafted in Round 1; Rounds 1 and 2 cannot be kept"
-          }
-        },
-        {
-          "player_id": "4881",
-          "name": "Lamar Jackson",
-          "position": "QB",
-          "nfl_team": "BAL",
-          "location": "starter",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 3,
-            "pick_no": 33,
-            "original_roster_id": 2,
-            "original_owner_user_id": "1263709493192052736",
-            "original_username": "KarolynRose",
-            "original_team_name": "Magic Skol Bus",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 3,
-            "reason": "Drafted in Round 3"
-          }
-        },
-        {
-          "player_id": "12481",
-          "name": "Cam Skattebo",
-          "position": "RB",
-          "nfl_team": "NYG",
-          "location": "starter",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 2,
-            "pick_no": 24,
-            "original_roster_id": 2,
-            "original_owner_user_id": "1263709493192052736",
-            "original_username": "KarolynRose",
-            "original_team_name": "Magic Skol Bus",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": false,
-            "cost_round": null,
-            "reason": "Drafted in Round 2; Rounds 1 and 2 cannot be kept"
-          }
-        },
-        {
-          "player_id": "12489",
-          "name": "RJ Harvey",
-          "position": "RB",
-          "nfl_team": "DEN",
-          "location": "starter",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 5,
-            "pick_no": 61,
-            "original_roster_id": 2,
-            "original_owner_user_id": "1263709493192052736",
-            "original_username": "KarolynRose",
-            "original_team_name": "Magic Skol Bus",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 5,
-            "reason": "Drafted in Round 5"
-          }
-        },
-        {
-          "player_id": "9487",
-          "name": "Parker Washington",
-          "position": "WR",
-          "nfl_team": "JAX",
-          "location": "starter",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 14,
-            "pick_no": 192,
-            "original_roster_id": 2,
-            "original_owner_user_id": "1263709493192052736",
-            "original_username": "KarolynRose",
-            "original_team_name": "Magic Skol Bus",
-            "is_keeper": true
-          },
-          "keeper": {
-            "eligible_next_season": false,
-            "cost_round": null,
-            "reason": "Already used as a keeper this season"
-          }
-        },
-        {
-          "player_id": "7553",
-          "name": "Kyle Pitts",
-          "position": "TE",
-          "nfl_team": "ATL",
-          "location": "bench",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 4,
-            "pick_no": 52,
-            "original_roster_id": 2,
-            "original_owner_user_id": "1263709493192052736",
-            "original_username": "KarolynRose",
-            "original_team_name": "Magic Skol Bus",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 4,
-            "reason": "Drafted in Round 4"
-          }
-        },
-        {
-          "player_id": "11586",
-          "name": "Blake Corum",
-          "position": "RB",
-          "nfl_team": "LAR",
-          "location": "bench",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 6,
-            "pick_no": 80,
-            "original_roster_id": 2,
-            "original_owner_user_id": "1263709493192052736",
-            "original_username": "KarolynRose",
-            "original_team_name": "Magic Skol Bus",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 6,
-            "reason": "Drafted in Round 6"
-          }
-        },
-        {
-          "player_id": "8154",
-          "name": "Brian Robinson",
-          "position": "RB",
-          "nfl_team": "ATL",
-          "location": "bench",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 12,
-            "pick_no": 164,
-            "original_roster_id": 2,
-            "original_owner_user_id": "1263709493192052736",
-            "original_username": "KarolynRose",
-            "original_team_name": "Magic Skol Bus",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 12,
-            "reason": "Drafted in Round 12"
-          }
-        },
-        {
-          "player_id": "9756",
-          "name": "Jordan Addison",
-          "position": "WR",
-          "nfl_team": "MIN",
-          "location": "starter",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 7,
-            "pick_no": 89,
-            "original_roster_id": 2,
-            "original_owner_user_id": "1263709493192052736",
-            "original_username": "KarolynRose",
-            "original_team_name": "Magic Skol Bus",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 7,
-            "reason": "Drafted in Round 7"
-          }
-        },
-        {
-          "player_id": "7002",
-          "name": "Juwan Johnson",
-          "position": "TE",
-          "nfl_team": "NO",
-          "location": "starter",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 13,
-            "pick_no": 173,
-            "original_roster_id": 2,
-            "original_owner_user_id": "1263709493192052736",
-            "original_username": "KarolynRose",
-            "original_team_name": "Magic Skol Bus",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 13,
-            "reason": "Drafted in Round 13"
-          }
-        },
-        {
-          "player_id": "10219",
-          "name": "Chris Rodriguez",
-          "position": "RB",
-          "nfl_team": "JAX",
-          "location": "bench",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 8,
-            "pick_no": 108,
-            "original_roster_id": 2,
-            "original_owner_user_id": "1263709493192052736",
-            "original_username": "KarolynRose",
-            "original_team_name": "Magic Skol Bus",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 8,
-            "reason": "Drafted in Round 8"
-          }
-        },
-        {
-          "player_id": "8676",
-          "name": "Rashid Shaheed",
-          "position": "WR",
-          "nfl_team": "SEA",
-          "location": "bench",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 11,
-            "pick_no": 145,
-            "original_roster_id": 2,
-            "original_owner_user_id": "1263709493192052736",
-            "original_username": "KarolynRose",
-            "original_team_name": "Magic Skol Bus",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 11,
-            "reason": "Drafted in Round 11"
-          }
-        }
-      ]
-    },
-    {
       "roster_id": 11,
       "owner_user_id": "1263707560905543680",
       "username": "Ryan3041",
@@ -1240,6 +956,290 @@
             "eligible_next_season": true,
             "cost_round": 14,
             "reason": "Undrafted player; keeper cost is Round 14"
+          }
+        }
+      ]
+    },
+    {
+      "roster_id": 2,
+      "owner_user_id": "1263709493192052736",
+      "username": "KarolynRose",
+      "team_name": "Magic Skol Bus",
+      "players": [
+        {
+          "player_id": "7564",
+          "name": "Ja'Marr Chase",
+          "position": "WR",
+          "nfl_team": "CIN",
+          "location": "starter",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 1,
+            "pick_no": 5,
+            "original_roster_id": 2,
+            "original_owner_user_id": "1263709493192052736",
+            "original_username": "KarolynRose",
+            "original_team_name": "Magic Skol Bus",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": false,
+            "cost_round": null,
+            "reason": "Drafted in Round 1; Rounds 1 and 2 cannot be kept"
+          }
+        },
+        {
+          "player_id": "4881",
+          "name": "Lamar Jackson",
+          "position": "QB",
+          "nfl_team": "BAL",
+          "location": "starter",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 3,
+            "pick_no": 33,
+            "original_roster_id": 2,
+            "original_owner_user_id": "1263709493192052736",
+            "original_username": "KarolynRose",
+            "original_team_name": "Magic Skol Bus",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 3,
+            "reason": "Drafted in Round 3"
+          }
+        },
+        {
+          "player_id": "12481",
+          "name": "Cam Skattebo",
+          "position": "RB",
+          "nfl_team": "NYG",
+          "location": "starter",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 2,
+            "pick_no": 24,
+            "original_roster_id": 2,
+            "original_owner_user_id": "1263709493192052736",
+            "original_username": "KarolynRose",
+            "original_team_name": "Magic Skol Bus",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": false,
+            "cost_round": null,
+            "reason": "Drafted in Round 2; Rounds 1 and 2 cannot be kept"
+          }
+        },
+        {
+          "player_id": "12489",
+          "name": "RJ Harvey",
+          "position": "RB",
+          "nfl_team": "DEN",
+          "location": "starter",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 5,
+            "pick_no": 61,
+            "original_roster_id": 2,
+            "original_owner_user_id": "1263709493192052736",
+            "original_username": "KarolynRose",
+            "original_team_name": "Magic Skol Bus",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 5,
+            "reason": "Drafted in Round 5"
+          }
+        },
+        {
+          "player_id": "7553",
+          "name": "Kyle Pitts",
+          "position": "TE",
+          "nfl_team": "ATL",
+          "location": "bench",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 4,
+            "pick_no": 52,
+            "original_roster_id": 2,
+            "original_owner_user_id": "1263709493192052736",
+            "original_username": "KarolynRose",
+            "original_team_name": "Magic Skol Bus",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 4,
+            "reason": "Drafted in Round 4"
+          }
+        },
+        {
+          "player_id": "11586",
+          "name": "Blake Corum",
+          "position": "RB",
+          "nfl_team": "LAR",
+          "location": "bench",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 6,
+            "pick_no": 80,
+            "original_roster_id": 2,
+            "original_owner_user_id": "1263709493192052736",
+            "original_username": "KarolynRose",
+            "original_team_name": "Magic Skol Bus",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 6,
+            "reason": "Drafted in Round 6"
+          }
+        },
+        {
+          "player_id": "9487",
+          "name": "Parker Washington",
+          "position": "WR",
+          "nfl_team": "JAX",
+          "location": "starter",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 14,
+            "pick_no": 192,
+            "original_roster_id": 2,
+            "original_owner_user_id": "1263709493192052736",
+            "original_username": "KarolynRose",
+            "original_team_name": "Magic Skol Bus",
+            "is_keeper": true
+          },
+          "keeper": {
+            "eligible_next_season": false,
+            "cost_round": null,
+            "reason": "Already used as a keeper this season"
+          }
+        },
+        {
+          "player_id": "8154",
+          "name": "Brian Robinson",
+          "position": "RB",
+          "nfl_team": "ATL",
+          "location": "bench",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 12,
+            "pick_no": 164,
+            "original_roster_id": 2,
+            "original_owner_user_id": "1263709493192052736",
+            "original_username": "KarolynRose",
+            "original_team_name": "Magic Skol Bus",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 12,
+            "reason": "Drafted in Round 12"
+          }
+        },
+        {
+          "player_id": "9756",
+          "name": "Jordan Addison",
+          "position": "WR",
+          "nfl_team": "MIN",
+          "location": "starter",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 7,
+            "pick_no": 89,
+            "original_roster_id": 2,
+            "original_owner_user_id": "1263709493192052736",
+            "original_username": "KarolynRose",
+            "original_team_name": "Magic Skol Bus",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 7,
+            "reason": "Drafted in Round 7"
+          }
+        },
+        {
+          "player_id": "7002",
+          "name": "Juwan Johnson",
+          "position": "TE",
+          "nfl_team": "NO",
+          "location": "starter",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 13,
+            "pick_no": 173,
+            "original_roster_id": 2,
+            "original_owner_user_id": "1263709493192052736",
+            "original_username": "KarolynRose",
+            "original_team_name": "Magic Skol Bus",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 13,
+            "reason": "Drafted in Round 13"
+          }
+        },
+        {
+          "player_id": "10219",
+          "name": "Chris Rodriguez",
+          "position": "RB",
+          "nfl_team": "JAX",
+          "location": "bench",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 8,
+            "pick_no": 108,
+            "original_roster_id": 2,
+            "original_owner_user_id": "1263709493192052736",
+            "original_username": "KarolynRose",
+            "original_team_name": "Magic Skol Bus",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 8,
+            "reason": "Drafted in Round 8"
+          }
+        },
+        {
+          "player_id": "8676",
+          "name": "Rashid Shaheed",
+          "position": "WR",
+          "nfl_team": "SEA",
+          "location": "bench",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 11,
+            "pick_no": 145,
+            "original_roster_id": 2,
+            "original_owner_user_id": "1263709493192052736",
+            "original_username": "KarolynRose",
+            "original_team_name": "Magic Skol Bus",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 11,
+            "reason": "Drafted in Round 11"
           }
         }
       ]
@@ -2022,29 +2022,6 @@
           }
         },
         {
-          "player_id": "2449",
-          "name": "Stefon Diggs",
-          "position": "WR",
-          "nfl_team": "WAS",
-          "location": "starter",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 8,
-            "pick_no": 104,
-            "original_roster_id": 7,
-            "original_owner_user_id": "713449654771056640",
-            "original_username": "Tonay",
-            "original_team_name": "Relaxed Slims",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 8,
-            "reason": "Drafted in Round 8"
-          }
-        },
-        {
           "player_id": "8131",
           "name": "Isaiah Likely",
           "position": "TE",
@@ -2065,6 +2042,29 @@
             "eligible_next_season": true,
             "cost_round": 9,
             "reason": "Drafted in Round 9"
+          }
+        },
+        {
+          "player_id": "2449",
+          "name": "Stefon Diggs",
+          "position": "WR",
+          "nfl_team": "WAS",
+          "location": "starter",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 8,
+            "pick_no": 104,
+            "original_roster_id": 7,
+            "original_owner_user_id": "713449654771056640",
+            "original_username": "Tonay",
+            "original_team_name": "Relaxed Slims",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 8,
+            "reason": "Drafted in Round 8"
           }
         },
         {
@@ -3033,6 +3033,290 @@
       ]
     },
     {
+      "roster_id": 5,
+      "owner_user_id": "1263686542304485376",
+      "username": "WestManBruce",
+      "team_name": "WestManBruce",
+      "players": [
+        {
+          "player_id": "6786",
+          "name": "CeeDee Lamb",
+          "position": "WR",
+          "nfl_team": "DAL",
+          "location": "starter",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 2,
+            "pick_no": 22,
+            "original_roster_id": 5,
+            "original_owner_user_id": "1263686542304485376",
+            "original_username": "WestManBruce",
+            "original_team_name": "WestManBruce",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": false,
+            "cost_round": null,
+            "reason": "Drafted in Round 2; Rounds 1 and 2 cannot be kept"
+          }
+        },
+        {
+          "player_id": "4866",
+          "name": "Saquon Barkley",
+          "position": "RB",
+          "nfl_team": "PHI",
+          "location": "starter",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 1,
+            "pick_no": 7,
+            "original_roster_id": 5,
+            "original_owner_user_id": "1263686542304485376",
+            "original_username": "WestManBruce",
+            "original_team_name": "WestManBruce",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": false,
+            "cost_round": null,
+            "reason": "Drafted in Round 1; Rounds 1 and 2 cannot be kept"
+          }
+        },
+        {
+          "player_id": "8130",
+          "name": "Trey McBride",
+          "position": "TE",
+          "nfl_team": "ARI",
+          "location": "starter",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 3,
+            "pick_no": 35,
+            "original_roster_id": 5,
+            "original_owner_user_id": "1263686542304485376",
+            "original_username": "WestManBruce",
+            "original_team_name": "WestManBruce",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 3,
+            "reason": "Drafted in Round 3"
+          }
+        },
+        {
+          "player_id": "6904",
+          "name": "Jalen Hurts",
+          "position": "QB",
+          "nfl_team": "PHI",
+          "location": "starter",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 5,
+            "pick_no": 63,
+            "original_roster_id": 5,
+            "original_owner_user_id": "1263686542304485376",
+            "original_username": "WestManBruce",
+            "original_team_name": "WestManBruce",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 5,
+            "reason": "Drafted in Round 5"
+          }
+        },
+        {
+          "player_id": "6801",
+          "name": "Tee Higgins",
+          "position": "WR",
+          "nfl_team": "CIN",
+          "location": "starter",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 4,
+            "pick_no": 50,
+            "original_roster_id": 5,
+            "original_owner_user_id": "1263686542304485376",
+            "original_username": "WestManBruce",
+            "original_team_name": "WestManBruce",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 4,
+            "reason": "Drafted in Round 4"
+          }
+        },
+        {
+          "player_id": "12490",
+          "name": "Bhayshul Tuten",
+          "position": "RB",
+          "nfl_team": "JAX",
+          "location": "starter",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 11,
+            "pick_no": 147,
+            "original_roster_id": 5,
+            "original_owner_user_id": "1263686542304485376",
+            "original_username": "WestManBruce",
+            "original_team_name": "WestManBruce",
+            "is_keeper": true
+          },
+          "keeper": {
+            "eligible_next_season": false,
+            "cost_round": null,
+            "reason": "Already used as a keeper this season"
+          }
+        },
+        {
+          "player_id": "4037",
+          "name": "Chris Godwin",
+          "position": "WR",
+          "nfl_team": "TB",
+          "location": "bench",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 6,
+            "pick_no": 78,
+            "original_roster_id": 5,
+            "original_owner_user_id": "1263686542304485376",
+            "original_username": "WestManBruce",
+            "original_team_name": "WestManBruce",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 6,
+            "reason": "Drafted in Round 6"
+          }
+        },
+        {
+          "player_id": "12533",
+          "name": "Jacory Croskey-Merritt",
+          "position": "RB",
+          "nfl_team": "WAS",
+          "location": "starter",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 7,
+            "pick_no": 91,
+            "original_roster_id": 5,
+            "original_owner_user_id": "1263686542304485376",
+            "original_username": "WestManBruce",
+            "original_team_name": "WestManBruce",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 7,
+            "reason": "Drafted in Round 7"
+          }
+        },
+        {
+          "player_id": "6819",
+          "name": "Michael Pittman",
+          "position": "WR",
+          "nfl_team": "PIT",
+          "location": "bench",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 8,
+            "pick_no": 106,
+            "original_roster_id": 5,
+            "original_owner_user_id": "1263686542304485376",
+            "original_username": "WestManBruce",
+            "original_team_name": "WestManBruce",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 8,
+            "reason": "Drafted in Round 8"
+          }
+        },
+        {
+          "player_id": "9508",
+          "name": "Tyjae Spears",
+          "position": "RB",
+          "nfl_team": "TEN",
+          "location": "bench",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 12,
+            "pick_no": 162,
+            "original_roster_id": 5,
+            "original_owner_user_id": "1263686542304485376",
+            "original_username": "WestManBruce",
+            "original_team_name": "WestManBruce",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 12,
+            "reason": "Drafted in Round 12"
+          }
+        },
+        {
+          "player_id": "13305",
+          "name": "Mike Washington",
+          "position": "RB",
+          "nfl_team": "LV",
+          "location": "bench",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 7,
+            "pick_no": 97,
+            "original_roster_id": 8,
+            "original_owner_user_id": "995178101929816064",
+            "original_username": "ChaseyChase73",
+            "original_team_name": "ChaseyChase73",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 7,
+            "reason": "Drafted in Round 7"
+          }
+        },
+        {
+          "player_id": "9511",
+          "name": "Keaton Mitchell",
+          "position": "RB",
+          "nfl_team": "LAC",
+          "location": "bench",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 9,
+            "pick_no": 119,
+            "original_roster_id": 5,
+            "original_owner_user_id": "1263686542304485376",
+            "original_username": "WestManBruce",
+            "original_team_name": "WestManBruce",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 9,
+            "reason": "Drafted in Round 9"
+          }
+        }
+      ]
+    },
+    {
       "roster_id": 4,
       "owner_user_id": "979940216863608832",
       "username": "Naz514",
@@ -3330,290 +3614,6 @@
       ]
     },
     {
-      "roster_id": 5,
-      "owner_user_id": "1263686542304485376",
-      "username": "WestManBruce",
-      "team_name": "WestManBruce",
-      "players": [
-        {
-          "player_id": "6786",
-          "name": "CeeDee Lamb",
-          "position": "WR",
-          "nfl_team": "DAL",
-          "location": "starter",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 2,
-            "pick_no": 22,
-            "original_roster_id": 5,
-            "original_owner_user_id": "1263686542304485376",
-            "original_username": "WestManBruce",
-            "original_team_name": "WestManBruce",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": false,
-            "cost_round": null,
-            "reason": "Drafted in Round 2; Rounds 1 and 2 cannot be kept"
-          }
-        },
-        {
-          "player_id": "4866",
-          "name": "Saquon Barkley",
-          "position": "RB",
-          "nfl_team": "PHI",
-          "location": "starter",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 1,
-            "pick_no": 7,
-            "original_roster_id": 5,
-            "original_owner_user_id": "1263686542304485376",
-            "original_username": "WestManBruce",
-            "original_team_name": "WestManBruce",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": false,
-            "cost_round": null,
-            "reason": "Drafted in Round 1; Rounds 1 and 2 cannot be kept"
-          }
-        },
-        {
-          "player_id": "8130",
-          "name": "Trey McBride",
-          "position": "TE",
-          "nfl_team": "ARI",
-          "location": "starter",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 3,
-            "pick_no": 35,
-            "original_roster_id": 5,
-            "original_owner_user_id": "1263686542304485376",
-            "original_username": "WestManBruce",
-            "original_team_name": "WestManBruce",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 3,
-            "reason": "Drafted in Round 3"
-          }
-        },
-        {
-          "player_id": "6904",
-          "name": "Jalen Hurts",
-          "position": "QB",
-          "nfl_team": "PHI",
-          "location": "starter",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 5,
-            "pick_no": 63,
-            "original_roster_id": 5,
-            "original_owner_user_id": "1263686542304485376",
-            "original_username": "WestManBruce",
-            "original_team_name": "WestManBruce",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 5,
-            "reason": "Drafted in Round 5"
-          }
-        },
-        {
-          "player_id": "6801",
-          "name": "Tee Higgins",
-          "position": "WR",
-          "nfl_team": "CIN",
-          "location": "starter",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 4,
-            "pick_no": 50,
-            "original_roster_id": 5,
-            "original_owner_user_id": "1263686542304485376",
-            "original_username": "WestManBruce",
-            "original_team_name": "WestManBruce",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 4,
-            "reason": "Drafted in Round 4"
-          }
-        },
-        {
-          "player_id": "12490",
-          "name": "Bhayshul Tuten",
-          "position": "RB",
-          "nfl_team": "JAX",
-          "location": "starter",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 11,
-            "pick_no": 147,
-            "original_roster_id": 5,
-            "original_owner_user_id": "1263686542304485376",
-            "original_username": "WestManBruce",
-            "original_team_name": "WestManBruce",
-            "is_keeper": true
-          },
-          "keeper": {
-            "eligible_next_season": false,
-            "cost_round": null,
-            "reason": "Already used as a keeper this season"
-          }
-        },
-        {
-          "player_id": "4037",
-          "name": "Chris Godwin",
-          "position": "WR",
-          "nfl_team": "TB",
-          "location": "bench",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 6,
-            "pick_no": 78,
-            "original_roster_id": 5,
-            "original_owner_user_id": "1263686542304485376",
-            "original_username": "WestManBruce",
-            "original_team_name": "WestManBruce",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 6,
-            "reason": "Drafted in Round 6"
-          }
-        },
-        {
-          "player_id": "12533",
-          "name": "Jacory Croskey-Merritt",
-          "position": "RB",
-          "nfl_team": "WAS",
-          "location": "starter",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 7,
-            "pick_no": 91,
-            "original_roster_id": 5,
-            "original_owner_user_id": "1263686542304485376",
-            "original_username": "WestManBruce",
-            "original_team_name": "WestManBruce",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 7,
-            "reason": "Drafted in Round 7"
-          }
-        },
-        {
-          "player_id": "6819",
-          "name": "Michael Pittman",
-          "position": "WR",
-          "nfl_team": "PIT",
-          "location": "bench",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 8,
-            "pick_no": 106,
-            "original_roster_id": 5,
-            "original_owner_user_id": "1263686542304485376",
-            "original_username": "WestManBruce",
-            "original_team_name": "WestManBruce",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 8,
-            "reason": "Drafted in Round 8"
-          }
-        },
-        {
-          "player_id": "9508",
-          "name": "Tyjae Spears",
-          "position": "RB",
-          "nfl_team": "TEN",
-          "location": "bench",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 12,
-            "pick_no": 162,
-            "original_roster_id": 5,
-            "original_owner_user_id": "1263686542304485376",
-            "original_username": "WestManBruce",
-            "original_team_name": "WestManBruce",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 12,
-            "reason": "Drafted in Round 12"
-          }
-        },
-        {
-          "player_id": "13305",
-          "name": "Mike Washington",
-          "position": "RB",
-          "nfl_team": "LV",
-          "location": "bench",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 7,
-            "pick_no": 97,
-            "original_roster_id": 8,
-            "original_owner_user_id": "995178101929816064",
-            "original_username": "ChaseyChase73",
-            "original_team_name": "ChaseyChase73",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 7,
-            "reason": "Drafted in Round 7"
-          }
-        },
-        {
-          "player_id": "9511",
-          "name": "Keaton Mitchell",
-          "position": "RB",
-          "nfl_team": "LAC",
-          "location": "bench",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 9,
-            "pick_no": 119,
-            "original_roster_id": 5,
-            "original_owner_user_id": "1263686542304485376",
-            "original_username": "WestManBruce",
-            "original_team_name": "WestManBruce",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 9,
-            "reason": "Drafted in Round 9"
-          }
-        }
-      ]
-    },
-    {
       "roster_id": 3,
       "owner_user_id": "735686232146886656",
       "username": "ONeal24",
@@ -3735,29 +3735,6 @@
           }
         },
         {
-          "player_id": "3163",
-          "name": "Jared Goff",
-          "position": "QB",
-          "nfl_team": "DET",
-          "location": "starter",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 11,
-            "pick_no": 152,
-            "original_roster_id": 3,
-            "original_owner_user_id": "735686232146886656",
-            "original_username": "ONeal24",
-            "original_team_name": "Ashy Larry strikes again",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 11,
-            "reason": "Drafted in Round 11"
-          }
-        },
-        {
           "player_id": "13279",
           "name": "Carnell Tate",
           "position": "WR",
@@ -3778,6 +3755,29 @@
             "eligible_next_season": true,
             "cost_round": 5,
             "reason": "Drafted in Round 5"
+          }
+        },
+        {
+          "player_id": "3163",
+          "name": "Jared Goff",
+          "position": "QB",
+          "nfl_team": "DET",
+          "location": "starter",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 11,
+            "pick_no": 152,
+            "original_roster_id": 3,
+            "original_owner_user_id": "735686232146886656",
+            "original_username": "ONeal24",
+            "original_team_name": "Ashy Larry strikes again",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 11,
+            "reason": "Drafted in Round 11"
           }
         },
         {
