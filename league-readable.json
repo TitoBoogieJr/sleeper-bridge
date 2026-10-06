@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-06T09:19:57.761329+00:00",
+  "snapshot_generated_at": "2026-10-06T16:11:37.903960+00:00",
   "current_week": 5,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -1218,16 +1218,16 @@
       },
       "starters": [
         {
-          "player_id": "4046",
-          "name": "Patrick Mahomes",
-          "position": "QB",
-          "team": "KC",
-          "status": "Active",
+          "player_id": "0",
+          "name": "Unknown (0)",
+          "position": null,
+          "team": null,
+          "status": null,
           "injury_status": null,
-          "age": 31,
-          "years_exp": 9,
-          "search_rank": 39,
-          "depth_chart_position": "QB"
+          "age": null,
+          "years_exp": null,
+          "search_rank": null,
+          "depth_chart_position": null
         },
         {
           "player_id": "12512",
@@ -1254,16 +1254,16 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "12526",
-          "name": "Tetairoa McMillan",
+          "player_id": "2449",
+          "name": "Stefon Diggs",
           "position": "WR",
-          "team": "CAR",
+          "team": "WAS",
           "status": "Active",
           "injury_status": null,
-          "age": 23,
-          "years_exp": 1,
-          "search_rank": 37,
-          "depth_chart_position": "LWR"
+          "age": 32,
+          "years_exp": 11,
+          "search_rank": 104,
+          "depth_chart_position": "SWR"
         },
         {
           "player_id": "8112",
@@ -1290,16 +1290,16 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "2449",
-          "name": "Stefon Diggs",
-          "position": "WR",
-          "team": "WAS",
+          "player_id": "8131",
+          "name": "Isaiah Likely",
+          "position": "TE",
+          "team": "NYG",
           "status": "Active",
           "injury_status": null,
-          "age": 32,
-          "years_exp": 11,
+          "age": 26,
+          "years_exp": 4,
           "search_rank": 104,
-          "depth_chart_position": "SWR"
+          "depth_chart_position": "TE"
         },
         {
           "player_id": "1945",
@@ -1328,6 +1328,18 @@
       ],
       "bench": [
         {
+          "player_id": "12526",
+          "name": "Tetairoa McMillan",
+          "position": "WR",
+          "team": "CAR",
+          "status": "Active",
+          "injury_status": null,
+          "age": 23,
+          "years_exp": 1,
+          "search_rank": 37,
+          "depth_chart_position": "LWR"
+        },
+        {
           "player_id": "13288",
           "name": "Nicholas Singleton",
           "position": "RB",
@@ -1352,6 +1364,18 @@
           "depth_chart_position": null
         },
         {
+          "player_id": "4046",
+          "name": "Patrick Mahomes",
+          "position": "QB",
+          "team": "KC",
+          "status": "Active",
+          "injury_status": null,
+          "age": 31,
+          "years_exp": 9,
+          "search_rank": 39,
+          "depth_chart_position": "QB"
+        },
+        {
           "player_id": "5850",
           "name": "Josh Jacobs",
           "position": "RB",
@@ -1362,18 +1386,6 @@
           "years_exp": 7,
           "search_rank": 20,
           "depth_chart_position": "RB"
-        },
-        {
-          "player_id": "8131",
-          "name": "Isaiah Likely",
-          "position": "TE",
-          "team": "NYG",
-          "status": "Active",
-          "injury_status": null,
-          "age": 26,
-          "years_exp": 4,
-          "search_rank": 104,
-          "depth_chart_position": "TE"
         },
         {
           "player_id": "9228",
