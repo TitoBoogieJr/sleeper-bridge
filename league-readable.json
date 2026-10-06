@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-06T16:11:37.903960+00:00",
+  "snapshot_generated_at": "2026-10-06T21:09:15.988110+00:00",
   "current_week": 5,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -50,7 +50,7 @@
           "position": "RB",
           "team": "NO",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "age": 31,
           "years_exp": 9,
           "search_rank": 119,
@@ -361,7 +361,7 @@
           "injury_status": null,
           "age": 27,
           "years_exp": 3,
-          "search_rank": 125,
+          "search_rank": 127,
           "depth_chart_position": "RB"
         },
         {
@@ -383,7 +383,7 @@
           "team": "ATL",
           "status": "Active",
           "injury_status": null,
-          "age": 25,
+          "age": 26,
           "years_exp": 5,
           "search_rank": 67,
           "depth_chart_position": "TE"
@@ -436,7 +436,7 @@
           "injury_status": null,
           "age": 31,
           "years_exp": 10,
-          "search_rank": 62,
+          "search_rank": 61,
           "depth_chart_position": "QB"
         },
         {
@@ -460,7 +460,7 @@
           "injury_status": null,
           "age": 26,
           "years_exp": 3,
-          "search_rank": 14,
+          "search_rank": 15,
           "depth_chart_position": "RB"
         },
         {
@@ -669,7 +669,7 @@
           "injury_status": "Out",
           "age": 24,
           "years_exp": 2,
-          "search_rank": 34,
+          "search_rank": 35,
           "depth_chart_position": "SWR"
         },
         {
@@ -693,7 +693,7 @@
           "injury_status": null,
           "age": 25,
           "years_exp": 3,
-          "search_rank": 65,
+          "search_rank": 64,
           "depth_chart_position": "TE"
         },
         {
@@ -805,7 +805,7 @@
           "injury_status": "IR",
           "age": 27,
           "years_exp": 4,
-          "search_rank": 90,
+          "search_rank": 92,
           "depth_chart_position": "RB"
         }
       ]
@@ -1298,7 +1298,7 @@
           "injury_status": null,
           "age": 26,
           "years_exp": 4,
-          "search_rank": 104,
+          "search_rank": 106,
           "depth_chart_position": "TE"
         },
         {
@@ -1396,7 +1396,7 @@
           "injury_status": null,
           "age": 25,
           "years_exp": 3,
-          "search_rank": 132,
+          "search_rank": 134,
           "depth_chart_position": "QB"
         }
       ],
@@ -1446,7 +1446,7 @@
           "team": "JAX",
           "status": "Active",
           "injury_status": null,
-          "age": 26,
+          "age": 27,
           "years_exp": 5,
           "search_rank": 41,
           "depth_chart_position": "QB"
@@ -1472,7 +1472,7 @@
           "injury_status": null,
           "age": 22,
           "years_exp": 1,
-          "search_rank": 466,
+          "search_rank": 465,
           "depth_chart_position": "RB"
         },
         {
@@ -1606,7 +1606,7 @@
           "injury_status": null,
           "age": 27,
           "years_exp": 6,
-          "search_rank": 69,
+          "search_rank": 68,
           "depth_chart_position": "QB"
         }
       ],
@@ -1706,7 +1706,7 @@
           "injury_status": null,
           "age": 24,
           "years_exp": 2,
-          "search_rank": 65,
+          "search_rank": 63,
           "depth_chart_position": "LWR"
         },
         {
@@ -1742,7 +1742,7 @@
           "injury_status": null,
           "age": 27,
           "years_exp": 5,
-          "search_rank": 154,
+          "search_rank": 155,
           "depth_chart_position": "K"
         },
         {
@@ -1879,19 +1879,19 @@
           "injury_status": "Questionable",
           "age": 29,
           "years_exp": 8,
-          "search_rank": 48,
+          "search_rank": 50,
           "depth_chart_position": "LWR"
         },
         {
-          "player_id": "2133",
-          "name": "Davante Adams",
+          "player_id": "7569",
+          "name": "Nico Collins",
           "position": "WR",
-          "team": "LAR",
+          "team": "HOU",
           "status": "Active",
           "injury_status": null,
-          "age": 33,
-          "years_exp": 12,
-          "search_rank": 46,
+          "age": 27,
+          "years_exp": 5,
+          "search_rank": 22,
           "depth_chart_position": "LWR"
         },
         {
@@ -1907,15 +1907,15 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "7569",
-          "name": "Nico Collins",
+          "player_id": "2133",
+          "name": "Davante Adams",
           "position": "WR",
-          "team": "HOU",
+          "team": "LAR",
           "status": "Active",
           "injury_status": null,
-          "age": 27,
-          "years_exp": 5,
-          "search_rank": 22,
+          "age": 33,
+          "years_exp": 12,
+          "search_rank": 46,
           "depth_chart_position": "LWR"
         },
         {
@@ -2015,7 +2015,7 @@
           "injury_status": "IR",
           "age": 22,
           "years_exp": 0,
-          "search_rank": 146,
+          "search_rank": 148,
           "depth_chart_position": "RWR"
         },
         {
@@ -2086,7 +2086,7 @@
           "position": "RB",
           "team": "ARI",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "age": 21,
           "years_exp": 0,
           "search_rank": 15,
@@ -2275,7 +2275,7 @@
           "injury_status": null,
           "age": 25,
           "years_exp": 3,
-          "search_rank": 102,
+          "search_rank": 101,
           "depth_chart_position": "QB"
         },
         {
@@ -2385,7 +2385,7 @@
           "injury_status": "Out",
           "age": 25,
           "years_exp": 2,
-          "search_rank": 20,
+          "search_rank": 22,
           "depth_chart_position": "QB"
         },
         {
@@ -2755,7 +2755,7 @@
           "injury_status": null,
           "age": 24,
           "years_exp": 1,
-          "search_rank": 49,
+          "search_rank": 47,
           "depth_chart_position": "TE"
         },
         {
@@ -2837,8 +2837,8 @@
           "name": "Tank Bigsby",
           "position": "RB",
           "team": "PHI",
-          "status": "Active",
-          "injury_status": "Questionable",
+          "status": "Inactive",
+          "injury_status": "Out",
           "age": 24,
           "years_exp": 3,
           "search_rank": 147,

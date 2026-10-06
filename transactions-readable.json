@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-06T16:11:37.903960+00:00",
+  "snapshot_generated_at": "2026-10-06T21:09:15.988110+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -189,7 +189,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 3,
-            "search_rank": 132,
+            "search_rank": 134,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -1092,7 +1092,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 3,
-            "search_rank": 102,
+            "search_rank": 101,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -1126,7 +1126,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 3,
-            "search_rank": 132,
+            "search_rank": 134,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -1160,7 +1160,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 3,
-            "search_rank": 132,
+            "search_rank": 134,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -1262,7 +1262,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 3,
-            "search_rank": 132,
+            "search_rank": 134,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -1542,7 +1542,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 3,
-            "search_rank": 132,
+            "search_rank": 134,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -1576,7 +1576,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 3,
-            "search_rank": 132,
+            "search_rank": 134,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -2123,7 +2123,7 @@
             "injury_status": null,
             "age": 22,
             "years_exp": 1,
-            "search_rank": 466,
+            "search_rank": 465,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -2212,7 +2212,7 @@
             "injury_status": null,
             "age": 22,
             "years_exp": 1,
-            "search_rank": 466,
+            "search_rank": 465,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -2301,7 +2301,7 @@
             "injury_status": null,
             "age": 22,
             "years_exp": 1,
-            "search_rank": 466,
+            "search_rank": 465,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -2458,7 +2458,7 @@
             "injury_status": null,
             "age": 22,
             "years_exp": 1,
-            "search_rank": 466,
+            "search_rank": 465,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -3047,7 +3047,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 3,
-            "search_rank": 102,
+            "search_rank": 101,
             "depth_chart_position": "QB"
           },
           "destination": {
