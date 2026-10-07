@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-07T14:41:19.438906+00:00",
+  "snapshot_generated_at": "2026-10-07T20:31:38.391029+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -16,7 +16,7 @@
             "position": "WR",
             "team": "NYJ",
             "status": "Active",
-            "injury_status": "Out",
+            "injury_status": "Doubtful",
             "age": 23,
             "years_exp": 2,
             "search_rank": 162,
@@ -84,7 +84,7 @@
             "position": "RB",
             "team": "NYG",
             "status": "Active",
-            "injury_status": "Out",
+            "injury_status": null,
             "age": 29,
             "years_exp": 7,
             "search_rank": 660,
@@ -1092,7 +1092,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 3,
-            "search_rank": 101,
+            "search_rank": 102,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -1327,7 +1327,7 @@
             "position": "WR",
             "team": "NYJ",
             "status": "Active",
-            "injury_status": "Out",
+            "injury_status": "Doubtful",
             "age": 23,
             "years_exp": 2,
             "search_rank": 162,
@@ -1942,7 +1942,7 @@
             "position": "WR",
             "team": "DEN",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": "Doubtful",
             "age": 23,
             "years_exp": 1,
             "search_rank": 172,
@@ -2123,7 +2123,7 @@
             "injury_status": null,
             "age": 22,
             "years_exp": 1,
-            "search_rank": 465,
+            "search_rank": 466,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -2142,7 +2142,7 @@
             "position": "WR",
             "team": "MIA",
             "status": "Active",
-            "injury_status": "Out",
+            "injury_status": "Questionable",
             "age": 23,
             "years_exp": 0,
             "search_rank": 198,
@@ -2212,7 +2212,7 @@
             "injury_status": null,
             "age": 22,
             "years_exp": 1,
-            "search_rank": 465,
+            "search_rank": 466,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -2301,7 +2301,7 @@
             "injury_status": null,
             "age": 22,
             "years_exp": 1,
-            "search_rank": 465,
+            "search_rank": 466,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -2332,7 +2332,7 @@
             "position": "WR",
             "team": "IND",
             "status": "Active",
-            "injury_status": "Out",
+            "injury_status": "Questionable",
             "age": 34,
             "years_exp": 13,
             "search_rank": 182,
@@ -2458,7 +2458,7 @@
             "injury_status": null,
             "age": 22,
             "years_exp": 1,
-            "search_rank": 465,
+            "search_rank": 466,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -3047,7 +3047,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 3,
-            "search_rank": 101,
+            "search_rank": 102,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -3414,7 +3414,7 @@
             "position": "WR",
             "team": "DEN",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": "Doubtful",
             "age": 23,
             "years_exp": 1,
             "search_rank": 172,
@@ -3613,7 +3613,7 @@
             "position": "WR",
             "team": "IND",
             "status": "Active",
-            "injury_status": "Out",
+            "injury_status": "Questionable",
             "age": 34,
             "years_exp": 13,
             "search_rank": 182,
@@ -3984,7 +3984,7 @@
             "injury_status": null,
             "age": 38,
             "years_exp": 14,
-            "search_rank": 270,
+            "search_rank": 268,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -4068,9 +4068,9 @@
             "player_id": "4018",
             "name": "Joe Mixon",
             "position": "RB",
-            "team": "SEA",
+            "team": null,
             "status": "Active",
-            "injury_status": "Active",
+            "injury_status": "",
             "age": 30,
             "years_exp": 9,
             "search_rank": 164,
@@ -4658,6 +4658,116 @@
       ]
     },
     {
+      "transaction_id": "1413621040549994496",
+      "week": 5,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791396029177,
+      "faab": null,
+      "adds": [
+        {
+          "player": {
+            "player_id": "7042",
+            "name": "Tyler Bass",
+            "position": "K",
+            "team": "BUF",
+            "status": "Active",
+            "injury_status": null,
+            "age": 29,
+            "years_exp": 6,
+            "search_rank": 288,
+            "depth_chart_position": "K"
+          },
+          "destination": {
+            "roster_id": 3,
+            "owner_user_id": "735686232146886656",
+            "username": "ONeal24",
+            "team_name": "Ashy Larry strikes again"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "player_id": "13833",
+            "name": "Dominic Zvada",
+            "position": "K",
+            "team": "NYG",
+            "status": "Active",
+            "injury_status": null,
+            "age": 22,
+            "years_exp": 0,
+            "search_rank": 330,
+            "depth_chart_position": "K"
+          },
+          "source": {
+            "roster_id": 3,
+            "owner_user_id": "735686232146886656",
+            "username": "ONeal24",
+            "team_name": "Ashy Larry strikes again"
+          }
+        }
+      ],
+      "roster_ids": [
+        3
+      ]
+    },
+    {
+      "transaction_id": "1413620911109574656",
+      "week": 5,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791395998316,
+      "faab": null,
+      "adds": [
+        {
+          "player": {
+            "player_id": "13833",
+            "name": "Dominic Zvada",
+            "position": "K",
+            "team": "NYG",
+            "status": "Active",
+            "injury_status": null,
+            "age": 22,
+            "years_exp": 0,
+            "search_rank": 330,
+            "depth_chart_position": "K"
+          },
+          "destination": {
+            "roster_id": 3,
+            "owner_user_id": "735686232146886656",
+            "username": "ONeal24",
+            "team_name": "Ashy Larry strikes again"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "player_id": "4227",
+            "name": "Harrison Butker",
+            "position": "K",
+            "team": "KC",
+            "status": "Active",
+            "injury_status": null,
+            "age": 31,
+            "years_exp": 9,
+            "search_rank": 155,
+            "depth_chart_position": "K"
+          },
+          "source": {
+            "roster_id": 3,
+            "owner_user_id": "735686232146886656",
+            "username": "ONeal24",
+            "team_name": "Ashy Larry strikes again"
+          }
+        }
+      ],
+      "roster_ids": [
+        3
+      ]
+    },
+    {
       "transaction_id": "1413563054938980352",
       "week": 5,
       "type": "free_agent",
@@ -4752,7 +4862,7 @@
             "injury_status": null,
             "age": 29,
             "years_exp": 7,
-            "search_rank": 132,
+            "search_rank": 131,
             "depth_chart_position": "QB"
           },
           "source": {
