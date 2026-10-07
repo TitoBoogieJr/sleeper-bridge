@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-07T00:57:23.120847+00:00",
+  "snapshot_generated_at": "2026-10-07T07:07:07.957580+00:00",
   "current_week": 5,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -45,15 +45,15 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "4035",
-          "name": "Alvin Kamara",
+          "player_id": "11435",
+          "name": "Emanuel Wilson",
           "position": "RB",
-          "team": "NO",
+          "team": "SEA",
           "status": "Active",
-          "injury_status": "Questionable",
-          "age": 31,
-          "years_exp": 9,
-          "search_rank": 119,
+          "injury_status": null,
+          "age": 27,
+          "years_exp": 3,
+          "search_rank": 161,
           "depth_chart_position": "RB"
         },
         {
@@ -93,16 +93,16 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "11435",
-          "name": "Emanuel Wilson",
-          "position": "RB",
-          "team": "SEA",
+          "player_id": "2216",
+          "name": "Mike Evans",
+          "position": "WR",
+          "team": "SF",
           "status": "Active",
           "injury_status": null,
-          "age": 27,
-          "years_exp": 3,
-          "search_rank": 161,
-          "depth_chart_position": "RB"
+          "age": 33,
+          "years_exp": 12,
+          "search_rank": 60,
+          "depth_chart_position": "LWR"
         },
         {
           "player_id": "12961",
@@ -155,16 +155,16 @@
           "depth_chart_position": "LWR"
         },
         {
-          "player_id": "2216",
-          "name": "Mike Evans",
-          "position": "WR",
-          "team": "SF",
+          "player_id": "4035",
+          "name": "Alvin Kamara",
+          "position": "RB",
+          "team": "NO",
           "status": "Active",
-          "injury_status": null,
-          "age": 33,
-          "years_exp": 12,
-          "search_rank": 60,
-          "depth_chart_position": "LWR"
+          "injury_status": "Questionable",
+          "age": 31,
+          "years_exp": 9,
+          "search_rank": 119,
+          "depth_chart_position": "RB"
         },
         {
           "player_id": "5001",
@@ -1452,15 +1452,15 @@
           "depth_chart_position": "QB"
         },
         {
-          "player_id": "8151",
-          "name": "Kenneth Walker",
+          "player_id": "4663",
+          "name": "Austin Ekeler",
           "position": "RB",
-          "team": "KC",
+          "team": "WAS",
           "status": "Active",
           "injury_status": null,
-          "age": 25,
-          "years_exp": 4,
-          "search_rank": 18,
+          "age": 31,
+          "years_exp": 9,
+          "search_rank": 632,
           "depth_chart_position": "RB"
         },
         {
@@ -1586,18 +1586,6 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "4663",
-          "name": "Austin Ekeler",
-          "position": "RB",
-          "team": "WAS",
-          "status": "Active",
-          "injury_status": null,
-          "age": 31,
-          "years_exp": 9,
-          "search_rank": 632,
-          "depth_chart_position": "RB"
-        },
-        {
           "player_id": "6804",
           "name": "Jordan Love",
           "position": "QB",
@@ -1608,6 +1596,18 @@
           "years_exp": 6,
           "search_rank": 68,
           "depth_chart_position": "QB"
+        },
+        {
+          "player_id": "8151",
+          "name": "Kenneth Walker",
+          "position": "RB",
+          "team": "KC",
+          "status": "Active",
+          "injury_status": null,
+          "age": 25,
+          "years_exp": 4,
+          "search_rank": 18,
+          "depth_chart_position": "RB"
         }
       ],
       "reserve": [
@@ -1859,16 +1859,16 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "7594",
-          "name": "Chuba Hubbard",
-          "position": "RB",
-          "team": "CAR",
-          "status": "Active",
+          "player_id": "0",
+          "name": "Unknown (0)",
+          "position": null,
+          "team": null,
+          "status": null,
           "injury_status": null,
-          "age": 27,
-          "years_exp": 5,
-          "search_rank": 66,
-          "depth_chart_position": "RB"
+          "age": null,
+          "years_exp": null,
+          "search_rank": null,
+          "depth_chart_position": null
         },
         {
           "player_id": "4983",
@@ -1991,6 +1991,18 @@
           "years_exp": 5,
           "search_rank": 203,
           "depth_chart_position": "LWR"
+        },
+        {
+          "player_id": "7594",
+          "name": "Chuba Hubbard",
+          "position": "RB",
+          "team": "CAR",
+          "status": "Active",
+          "injury_status": null,
+          "age": 27,
+          "years_exp": 5,
+          "search_rank": 66,
+          "depth_chart_position": "RB"
         },
         {
           "player_id": "9754",

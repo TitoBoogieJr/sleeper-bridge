@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-07T00:57:23.120847+00:00",
+  "snapshot_generated_at": "2026-10-07T07:07:07.957580+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -156,7 +156,7 @@
           "name": "Chuba Hubbard",
           "position": "RB",
           "nfl_team": "CAR",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -2528,7 +2528,7 @@
           "name": "Mike Evans",
           "position": "WR",
           "nfl_team": "SF",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -2643,7 +2643,7 @@
           "name": "Alvin Kamara",
           "position": "RB",
           "nfl_team": "NO",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -3888,7 +3888,7 @@
           "name": "Kenneth Walker",
           "position": "RB",
           "nfl_team": "KC",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -4124,7 +4124,7 @@
           "name": "Austin Ekeler",
           "position": "RB",
           "nfl_team": "WAS",
-          "location": "bench",
+          "location": "starter",
           "draft": null,
           "keeper": {
             "eligible_next_season": true,
