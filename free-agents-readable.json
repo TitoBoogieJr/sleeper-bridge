@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-07T07:07:07.957580+00:00",
+  "snapshot_generated_at": "2026-10-07T14:41:19.438906+00:00",
   "players": [
     {
       "player_id": "12508",
@@ -142,40 +142,6 @@
       }
     },
     {
-      "player_id": "13337",
-      "name": "Emmett Johnson",
-      "position": "RB",
-      "team": "KC",
-      "status": "Active",
-      "injury_status": null,
-      "age": 22,
-      "years_exp": 0,
-      "search_rank": 113,
-      "depth_chart_position": "RB",
-      "rostered": false,
-      "roster_id": null,
-      "owner_user_id": null,
-      "username": null,
-      "team_name": null,
-      "location": "free_agent",
-      "draft": {
-        "draft_id": "1313649397531148288",
-        "season": "2026",
-        "round": 10,
-        "pick_no": 129,
-        "original_roster_id": 3,
-        "original_owner_user_id": "735686232146886656",
-        "original_username": "ONeal24",
-        "original_team_name": "Ashy Larry strikes again",
-        "is_keeper": false
-      },
-      "keeper": {
-        "eligible_next_season": true,
-        "cost_round": 10,
-        "reason": "Drafted in Round 10"
-      }
-    },
-    {
       "player_id": "11589",
       "name": "Trey Benson",
       "position": "RB",
@@ -248,6 +214,40 @@
       }
     },
     {
+      "player_id": "9508",
+      "name": "Tyjae Spears",
+      "position": "RB",
+      "team": "TEN",
+      "status": "Active",
+      "injury_status": null,
+      "age": 25,
+      "years_exp": 3,
+      "search_rank": 122,
+      "depth_chart_position": "RB",
+      "rostered": false,
+      "roster_id": null,
+      "owner_user_id": null,
+      "username": null,
+      "team_name": null,
+      "location": "free_agent",
+      "draft": {
+        "draft_id": "1313649397531148288",
+        "season": "2026",
+        "round": 12,
+        "pick_no": 162,
+        "original_roster_id": 5,
+        "original_owner_user_id": "1263686542304485376",
+        "original_username": "WestManBruce",
+        "original_team_name": "WestManBruce",
+        "is_keeper": false
+      },
+      "keeper": {
+        "eligible_next_season": true,
+        "cost_round": 12,
+        "reason": "Drafted in Round 12"
+      }
+    },
+    {
       "player_id": "11603",
       "name": "AJ Barner",
       "position": "TE",
@@ -317,6 +317,40 @@
         "eligible_next_season": true,
         "cost_round": 14,
         "reason": "Undrafted player; keeper cost is Round 14"
+      }
+    },
+    {
+      "player_id": "5870",
+      "name": "Daniel Jones",
+      "position": "QB",
+      "team": "IND",
+      "status": "Active",
+      "injury_status": null,
+      "age": 29,
+      "years_exp": 7,
+      "search_rank": 132,
+      "depth_chart_position": "QB",
+      "rostered": false,
+      "roster_id": null,
+      "owner_user_id": null,
+      "username": null,
+      "team_name": null,
+      "location": "free_agent",
+      "draft": {
+        "draft_id": "1313649397531148288",
+        "season": "2026",
+        "round": 13,
+        "pick_no": 182,
+        "original_roster_id": 1,
+        "original_owner_user_id": "1263601129552355328",
+        "original_username": "nathan697",
+        "original_team_name": "Egbuka, I hardly know ya",
+        "is_keeper": false
+      },
+      "keeper": {
+        "eligible_next_season": true,
+        "cost_round": 13,
+        "reason": "Drafted in Round 13"
       }
     },
     {
@@ -680,6 +714,40 @@
       }
     },
     {
+      "player_id": "9504",
+      "name": "Kayshon Boutte",
+      "position": "WR",
+      "team": "HOU",
+      "status": "Active",
+      "injury_status": null,
+      "age": 24,
+      "years_exp": 3,
+      "search_rank": 164,
+      "depth_chart_position": "RWR",
+      "rostered": false,
+      "roster_id": null,
+      "owner_user_id": null,
+      "username": null,
+      "team_name": null,
+      "location": "free_agent",
+      "draft": {
+        "draft_id": "1313649397531148288",
+        "season": "2026",
+        "round": 11,
+        "pick_no": 146,
+        "original_roster_id": 9,
+        "original_owner_user_id": "1263686208978944001",
+        "original_username": "kevkazoo",
+        "original_team_name": "Nacua Matata",
+        "is_keeper": false
+      },
+      "keeper": {
+        "eligible_next_season": true,
+        "cost_round": 11,
+        "reason": "Drafted in Round 11"
+      }
+    },
+    {
       "player_id": "4018",
       "name": "Joe Mixon",
       "position": "RB",
@@ -725,6 +793,40 @@
         "eligible_next_season": true,
         "cost_round": 14,
         "reason": "Undrafted player; keeper cost is Round 14"
+      }
+    },
+    {
+      "player_id": "13288",
+      "name": "Nicholas Singleton",
+      "position": "RB",
+      "team": "TEN",
+      "status": "Active",
+      "injury_status": null,
+      "age": 22,
+      "years_exp": 0,
+      "search_rank": 167,
+      "depth_chart_position": "RB",
+      "rostered": false,
+      "roster_id": null,
+      "owner_user_id": null,
+      "username": null,
+      "team_name": null,
+      "location": "free_agent",
+      "draft": {
+        "draft_id": "1313649397531148288",
+        "season": "2026",
+        "round": 13,
+        "pick_no": 177,
+        "original_roster_id": 7,
+        "original_owner_user_id": "713449654771056640",
+        "original_username": "Tonay",
+        "original_team_name": "Relaxed Slims",
+        "is_keeper": false
+      },
+      "keeper": {
+        "eligible_next_season": true,
+        "cost_round": 13,
+        "reason": "Drafted in Round 13"
       }
     },
     {
@@ -848,6 +950,30 @@
       }
     },
     {
+      "player_id": "12492",
+      "name": "Pat Bryant",
+      "position": "WR",
+      "team": "DEN",
+      "status": "Active",
+      "injury_status": "Questionable",
+      "age": 23,
+      "years_exp": 1,
+      "search_rank": 172,
+      "depth_chart_position": "SWR",
+      "rostered": false,
+      "roster_id": null,
+      "owner_user_id": null,
+      "username": null,
+      "team_name": null,
+      "location": "free_agent",
+      "draft": null,
+      "keeper": {
+        "eligible_next_season": true,
+        "cost_round": 14,
+        "reason": "Undrafted player; keeper cost is Round 14"
+      }
+    },
+    {
       "player_id": "12504",
       "name": "Kaleb Johnson",
       "position": "RB",
@@ -920,7 +1046,7 @@
         "original_roster_id": 4,
         "original_owner_user_id": "979940216863608832",
         "original_username": "Naz514",
-        "original_team_name": "MAYE-B I\u2019m a little Lucky",
+        "original_team_name": "Maye-B not so lucky",
         "is_keeper": false
       },
       "keeper": {
@@ -978,7 +1104,7 @@
         "original_roster_id": 4,
         "original_owner_user_id": "979940216863608832",
         "original_username": "Naz514",
-        "original_team_name": "MAYE-B I\u2019m a little Lucky",
+        "original_team_name": "Maye-B not so lucky",
         "is_keeper": false
       },
       "keeper": {
@@ -1036,30 +1162,6 @@
       }
     },
     {
-      "player_id": "12509",
-      "name": "Tre' Harris",
-      "position": "WR",
-      "team": "LAC",
-      "status": "Active",
-      "injury_status": null,
-      "age": 24,
-      "years_exp": 1,
-      "search_rank": 179,
-      "depth_chart_position": "RWR",
-      "rostered": false,
-      "roster_id": null,
-      "owner_user_id": null,
-      "username": null,
-      "team_name": null,
-      "location": "free_agent",
-      "draft": null,
-      "keeper": {
-        "eligible_next_season": true,
-        "cost_round": 14,
-        "reason": "Undrafted player; keeper cost is Round 14"
-      }
-    },
-    {
       "player_id": "4981",
       "name": "Calvin Ridley",
       "position": "WR",
@@ -1084,15 +1186,15 @@
       }
     },
     {
-      "player_id": "9757",
-      "name": "Kendre Miller",
+      "player_id": "12455",
+      "name": "Brashard Smith",
       "position": "RB",
-      "team": "NO",
+      "team": "KC",
       "status": "Active",
       "injury_status": null,
-      "age": 24,
-      "years_exp": 3,
-      "search_rank": 180,
+      "age": 23,
+      "years_exp": 1,
+      "search_rank": 182,
       "depth_chart_position": "RB",
       "rostered": false,
       "roster_id": null,
@@ -1108,16 +1210,16 @@
       }
     },
     {
-      "player_id": "12455",
-      "name": "Brashard Smith",
-      "position": "RB",
-      "team": "KC",
+      "player_id": "1479",
+      "name": "Keenan Allen",
+      "position": "WR",
+      "team": "IND",
       "status": "Active",
-      "injury_status": null,
-      "age": 23,
-      "years_exp": 1,
+      "injury_status": "Out",
+      "age": 34,
+      "years_exp": 13,
       "search_rank": 182,
-      "depth_chart_position": "RB",
+      "depth_chart_position": "RWR",
       "rostered": false,
       "roster_id": null,
       "owner_user_id": null,
@@ -1617,54 +1719,6 @@
       "age": 23,
       "years_exp": 0,
       "search_rank": 201,
-      "depth_chart_position": "LWR",
-      "rostered": false,
-      "roster_id": null,
-      "owner_user_id": null,
-      "username": null,
-      "team_name": null,
-      "location": "free_agent",
-      "draft": null,
-      "keeper": {
-        "eligible_next_season": true,
-        "cost_round": 14,
-        "reason": "Undrafted player; keeper cost is Round 14"
-      }
-    },
-    {
-      "player_id": "3257",
-      "name": "Jacoby Brissett",
-      "position": "QB",
-      "team": "ARI",
-      "status": "Active",
-      "injury_status": null,
-      "age": 33,
-      "years_exp": 10,
-      "search_rank": 203,
-      "depth_chart_position": "QB",
-      "rostered": false,
-      "roster_id": null,
-      "owner_user_id": null,
-      "username": null,
-      "team_name": null,
-      "location": "free_agent",
-      "draft": null,
-      "keeper": {
-        "eligible_next_season": true,
-        "cost_round": 14,
-        "reason": "Undrafted player; keeper cost is Round 14"
-      }
-    },
-    {
-      "player_id": "11637",
-      "name": "Keon Coleman",
-      "position": "WR",
-      "team": "BUF",
-      "status": "Active",
-      "injury_status": null,
-      "age": 23,
-      "years_exp": 2,
-      "search_rank": 206,
       "depth_chart_position": "LWR",
       "rostered": false,
       "roster_id": null,
@@ -2194,30 +2248,6 @@
       "years_exp": 4,
       "search_rank": 268,
       "depth_chart_position": "TE",
-      "rostered": false,
-      "roster_id": null,
-      "owner_user_id": null,
-      "username": null,
-      "team_name": null,
-      "location": "free_agent",
-      "draft": null,
-      "keeper": {
-        "eligible_next_season": true,
-        "cost_round": 14,
-        "reason": "Undrafted player; keeper cost is Round 14"
-      }
-    },
-    {
-      "player_id": "1166",
-      "name": "Kirk Cousins",
-      "position": "QB",
-      "team": "LV",
-      "status": "Active",
-      "injury_status": null,
-      "age": 38,
-      "years_exp": 14,
-      "search_rank": 270,
-      "depth_chart_position": "QB",
       "rostered": false,
       "roster_id": null,
       "owner_user_id": null,
@@ -3840,30 +3870,6 @@
       }
     },
     {
-      "player_id": "4993",
-      "name": "Mike Gesicki",
-      "position": "TE",
-      "team": "CIN",
-      "status": "Active",
-      "injury_status": null,
-      "age": 31,
-      "years_exp": 8,
-      "search_rank": 448,
-      "depth_chart_position": "TE",
-      "rostered": false,
-      "roster_id": null,
-      "owner_user_id": null,
-      "username": null,
-      "team_name": null,
-      "location": "free_agent",
-      "draft": null,
-      "keeper": {
-        "eligible_next_season": true,
-        "cost_round": 14,
-        "reason": "Undrafted player; keeper cost is Round 14"
-      }
-    },
-    {
       "player_id": "13319",
       "name": "Oscar Delp",
       "position": "TE",
@@ -5314,6 +5320,30 @@
       "years_exp": 2,
       "search_rank": 517,
       "depth_chart_position": "TE",
+      "rostered": false,
+      "roster_id": null,
+      "owner_user_id": null,
+      "username": null,
+      "team_name": null,
+      "location": "free_agent",
+      "draft": null,
+      "keeper": {
+        "eligible_next_season": true,
+        "cost_round": 14,
+        "reason": "Undrafted player; keeper cost is Round 14"
+      }
+    },
+    {
+      "player_id": "11571",
+      "name": "Isaiah Davis",
+      "position": "RB",
+      "team": "NYJ",
+      "status": "Active",
+      "injury_status": null,
+      "age": 24,
+      "years_exp": 2,
+      "search_rank": 518,
+      "depth_chart_position": "RB",
       "rostered": false,
       "roster_id": null,
       "owner_user_id": null,
@@ -8808,30 +8838,6 @@
       }
     },
     {
-      "player_id": "13264",
-      "name": "Dohnte Meyers",
-      "position": "WR",
-      "team": "CIN",
-      "status": "Active",
-      "injury_status": null,
-      "age": 26,
-      "years_exp": 0,
-      "search_rank": 628,
-      "depth_chart_position": "SWR",
-      "rostered": false,
-      "roster_id": null,
-      "owner_user_id": null,
-      "username": null,
-      "team_name": null,
-      "location": "free_agent",
-      "draft": null,
-      "keeper": {
-        "eligible_next_season": true,
-        "cost_round": 14,
-        "reason": "Undrafted player; keeper cost is Round 14"
-      }
-    },
-    {
       "player_id": "11433",
       "name": "Nate Adkins",
       "position": "TE",
@@ -9010,6 +9016,30 @@
       "years_exp": 4,
       "search_rank": 631,
       "depth_chart_position": null,
+      "rostered": false,
+      "roster_id": null,
+      "owner_user_id": null,
+      "username": null,
+      "team_name": null,
+      "location": "free_agent",
+      "draft": null,
+      "keeper": {
+        "eligible_next_season": true,
+        "cost_round": 14,
+        "reason": "Undrafted player; keeper cost is Round 14"
+      }
+    },
+    {
+      "player_id": "4663",
+      "name": "Austin Ekeler",
+      "position": "RB",
+      "team": "WAS",
+      "status": "Active",
+      "injury_status": null,
+      "age": 31,
+      "years_exp": 9,
+      "search_rank": 632,
+      "depth_chart_position": "RB",
       "rostered": false,
       "roster_id": null,
       "owner_user_id": null,
@@ -13042,30 +13072,6 @@
       "years_exp": 3,
       "search_rank": 686,
       "depth_chart_position": null,
-      "rostered": false,
-      "roster_id": null,
-      "owner_user_id": null,
-      "username": null,
-      "team_name": null,
-      "location": "free_agent",
-      "draft": null,
-      "keeper": {
-        "eligible_next_season": true,
-        "cost_round": 14,
-        "reason": "Undrafted player; keeper cost is Round 14"
-      }
-    },
-    {
-      "player_id": "11577",
-      "name": "Will Shipley",
-      "position": "RB",
-      "team": "PHI",
-      "status": "Active",
-      "injury_status": null,
-      "age": 24,
-      "years_exp": 2,
-      "search_rank": 686,
-      "depth_chart_position": "RB",
       "rostered": false,
       "roster_id": null,
       "owner_user_id": null,

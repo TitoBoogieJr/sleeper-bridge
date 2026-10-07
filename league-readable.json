@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-07T07:07:07.957580+00:00",
+  "snapshot_generated_at": "2026-10-07T14:41:19.438906+00:00",
   "current_week": 5,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -105,22 +105,22 @@
           "depth_chart_position": "LWR"
         },
         {
-          "player_id": "12961",
-          "name": "Ryan Fitzgerald",
+          "player_id": "2020",
+          "name": "Cairo Santos",
           "position": "K",
-          "team": "CAR",
+          "team": "CHI",
           "status": "Active",
           "injury_status": null,
-          "age": 26,
-          "years_exp": 1,
-          "search_rank": 327,
+          "age": 34,
+          "years_exp": 12,
+          "search_rank": 190,
           "depth_chart_position": "K"
         },
         {
-          "player_id": "LAR",
-          "name": "Los Angeles Rams",
+          "player_id": "LV",
+          "name": "Las Vegas Raiders",
           "position": "DEF",
-          "team": "LAR",
+          "team": "LV",
           "status": null,
           "injury_status": null,
           "age": null,
@@ -130,18 +130,6 @@
         }
       ],
       "bench": [
-        {
-          "player_id": "11571",
-          "name": "Isaiah Davis",
-          "position": "RB",
-          "team": "NYJ",
-          "status": "Active",
-          "injury_status": null,
-          "age": 24,
-          "years_exp": 2,
-          "search_rank": 518,
-          "depth_chart_position": "RB"
-        },
         {
           "player_id": "12514",
           "name": "Emeka Egbuka",
@@ -179,20 +167,6 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "5870",
-          "name": "Daniel Jones",
-          "position": "QB",
-          "team": "IND",
-          "status": "Active",
-          "injury_status": null,
-          "age": 29,
-          "years_exp": 7,
-          "search_rank": 132,
-          "depth_chart_position": "QB"
-        }
-      ],
-      "reserve": [
-        {
           "player_id": "7021",
           "name": "Rico Dowdle",
           "position": "RB",
@@ -204,6 +178,20 @@
           "search_rank": 65,
           "depth_chart_position": "RB"
         },
+        {
+          "player_id": "LAR",
+          "name": "Los Angeles Rams",
+          "position": "DEF",
+          "team": "LAR",
+          "status": null,
+          "injury_status": null,
+          "age": null,
+          "years_exp": null,
+          "search_rank": null,
+          "depth_chart_position": null
+        }
+      ],
+      "reserve": [
         {
           "player_id": "9226",
           "name": "De'Von Achane",
@@ -604,24 +592,24 @@
       "roster_id": 4,
       "owner_user_id": "979940216863608832",
       "username": "Naz514",
-      "team_name": "MAYE-B I\u2019m a little Lucky",
+      "team_name": "Maye-B not so lucky",
       "record": {
         "wins": 1,
         "losses": 7,
         "ties": 0,
-        "faab_used": 47
+        "faab_used": 74
       },
       "starters": [
         {
-          "player_id": "12545",
-          "name": "Tyler Shough",
+          "player_id": "11564",
+          "name": "Drake Maye",
           "position": "QB",
-          "team": "NO",
+          "team": "NE",
           "status": "Active",
           "injury_status": null,
-          "age": 27,
-          "years_exp": 1,
-          "search_rank": 90,
+          "age": 24,
+          "years_exp": 2,
+          "search_rank": 11,
           "depth_chart_position": "QB"
         },
         {
@@ -723,18 +711,6 @@
       ],
       "bench": [
         {
-          "player_id": "11564",
-          "name": "Drake Maye",
-          "position": "QB",
-          "team": "NE",
-          "status": "Active",
-          "injury_status": null,
-          "age": 24,
-          "years_exp": 2,
-          "search_rank": 11,
-          "depth_chart_position": "QB"
-        },
-        {
           "player_id": "11635",
           "name": "Ladd McConkey",
           "position": "WR",
@@ -745,6 +721,18 @@
           "years_exp": 2,
           "search_rank": 35,
           "depth_chart_position": "SWR"
+        },
+        {
+          "player_id": "11637",
+          "name": "Keon Coleman",
+          "position": "WR",
+          "team": "BUF",
+          "status": "Active",
+          "injury_status": null,
+          "age": 23,
+          "years_exp": 2,
+          "search_rank": 206,
+          "depth_chart_position": "LWR"
         },
         {
           "player_id": "11643",
@@ -759,16 +747,28 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "GB",
-          "name": "Green Bay Packers",
-          "position": "DEF",
-          "team": "GB",
-          "status": null,
+          "player_id": "12509",
+          "name": "Tre' Harris",
+          "position": "WR",
+          "team": "LAC",
+          "status": "Active",
           "injury_status": null,
-          "age": null,
-          "years_exp": null,
-          "search_rank": null,
-          "depth_chart_position": null
+          "age": 24,
+          "years_exp": 1,
+          "search_rank": 179,
+          "depth_chart_position": "RWR"
+        },
+        {
+          "player_id": "12545",
+          "name": "Tyler Shough",
+          "position": "QB",
+          "team": "NO",
+          "status": "Active",
+          "injury_status": null,
+          "age": 27,
+          "years_exp": 1,
+          "search_rank": 90,
+          "depth_chart_position": "QB"
         }
       ],
       "reserve": [
@@ -819,7 +819,7 @@
         "wins": 2,
         "losses": 6,
         "ties": 0,
-        "faab_used": 0
+        "faab_used": 1
       },
       "starters": [
         {
@@ -945,6 +945,18 @@
           "depth_chart_position": "RB"
         },
         {
+          "player_id": "13337",
+          "name": "Emmett Johnson",
+          "position": "RB",
+          "team": "KC",
+          "status": "Active",
+          "injury_status": null,
+          "age": 22,
+          "years_exp": 0,
+          "search_rank": 113,
+          "depth_chart_position": "RB"
+        },
+        {
           "player_id": "4037",
           "name": "Chris Godwin",
           "position": "WR",
@@ -967,18 +979,6 @@
           "years_exp": 6,
           "search_rank": 107,
           "depth_chart_position": "RWR"
-        },
-        {
-          "player_id": "9508",
-          "name": "Tyjae Spears",
-          "position": "RB",
-          "team": "TEN",
-          "status": "Active",
-          "injury_status": null,
-          "age": 25,
-          "years_exp": 3,
-          "search_rank": 122,
-          "depth_chart_position": "RB"
         },
         {
           "player_id": "9511",
@@ -1214,7 +1214,7 @@
         "wins": 5,
         "losses": 3,
         "ties": 0,
-        "faab_used": 20
+        "faab_used": 21
       },
       "starters": [
         {
@@ -1328,6 +1328,18 @@
       ],
       "bench": [
         {
+          "player_id": "1166",
+          "name": "Kirk Cousins",
+          "position": "QB",
+          "team": "LV",
+          "status": "Active",
+          "injury_status": null,
+          "age": 38,
+          "years_exp": 14,
+          "search_rank": 270,
+          "depth_chart_position": "QB"
+        },
+        {
           "player_id": "12526",
           "name": "Tetairoa McMillan",
           "position": "WR",
@@ -1338,18 +1350,6 @@
           "years_exp": 1,
           "search_rank": 37,
           "depth_chart_position": "LWR"
-        },
-        {
-          "player_id": "13288",
-          "name": "Nicholas Singleton",
-          "position": "RB",
-          "team": "TEN",
-          "status": "Active",
-          "injury_status": null,
-          "age": 22,
-          "years_exp": 0,
-          "search_rank": 167,
-          "depth_chart_position": "RB"
         },
         {
           "player_id": "3321",
@@ -1436,7 +1436,7 @@
         "wins": 5,
         "losses": 3,
         "ties": 0,
-        "faab_used": 52
+        "faab_used": 84
       },
       "starters": [
         {
@@ -1452,16 +1452,16 @@
           "depth_chart_position": "QB"
         },
         {
-          "player_id": "4663",
-          "name": "Austin Ekeler",
-          "position": "RB",
-          "team": "WAS",
-          "status": "Active",
+          "player_id": "0",
+          "name": "Unknown (0)",
+          "position": null,
+          "team": null,
+          "status": null,
           "injury_status": null,
-          "age": 31,
-          "years_exp": 9,
-          "search_rank": 632,
-          "depth_chart_position": "RB"
+          "age": null,
+          "years_exp": null,
+          "search_rank": null,
+          "depth_chart_position": null
         },
         {
           "player_id": "12495",
@@ -1550,6 +1550,18 @@
       ],
       "bench": [
         {
+          "player_id": "11577",
+          "name": "Will Shipley",
+          "position": "RB",
+          "team": "PHI",
+          "status": "Active",
+          "injury_status": null,
+          "age": 24,
+          "years_exp": 2,
+          "search_rank": 686,
+          "depth_chart_position": "RB"
+        },
+        {
           "player_id": "11628",
           "name": "Marvin Harrison",
           "position": "WR",
@@ -1562,15 +1574,15 @@
           "depth_chart_position": "LWR"
         },
         {
-          "player_id": "12492",
-          "name": "Pat Bryant",
+          "player_id": "13264",
+          "name": "Dohnte Meyers",
           "position": "WR",
-          "team": "DEN",
+          "team": "CIN",
           "status": "Active",
-          "injury_status": "Questionable",
-          "age": 23,
-          "years_exp": 1,
-          "search_rank": 172,
+          "injury_status": null,
+          "age": 26,
+          "years_exp": 0,
+          "search_rank": 628,
           "depth_chart_position": "SWR"
         },
         {
@@ -1646,7 +1658,7 @@
         "wins": 1,
         "losses": 7,
         "ties": 0,
-        "faab_used": 1
+        "faab_used": 8
       },
       "starters": [
         {
@@ -1746,10 +1758,10 @@
           "depth_chart_position": "K"
         },
         {
-          "player_id": "DET",
-          "name": "Detroit Lions",
-          "position": "DEF",
-          "team": "DET",
+          "player_id": "0",
+          "name": "Unknown (0)",
+          "position": null,
+          "team": null,
           "status": null,
           "injury_status": null,
           "age": null,
@@ -1796,6 +1808,18 @@
           "depth_chart_position": "QB"
         },
         {
+          "player_id": "4993",
+          "name": "Mike Gesicki",
+          "position": "TE",
+          "team": "CIN",
+          "status": "Active",
+          "injury_status": null,
+          "age": 31,
+          "years_exp": 8,
+          "search_rank": 448,
+          "depth_chart_position": "TE"
+        },
+        {
           "player_id": "8132",
           "name": "Tyler Allgeier",
           "position": "RB",
@@ -1808,16 +1832,16 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "9504",
-          "name": "Kayshon Boutte",
-          "position": "WR",
-          "team": "HOU",
-          "status": "Active",
+          "player_id": "CIN",
+          "name": "Cincinnati Bengals",
+          "position": "DEF",
+          "team": "CIN",
+          "status": null,
           "injury_status": null,
-          "age": 24,
-          "years_exp": 3,
-          "search_rank": 164,
-          "depth_chart_position": "RWR"
+          "age": null,
+          "years_exp": null,
+          "search_rank": null,
+          "depth_chart_position": null
         }
       ],
       "reserve": []
@@ -1831,7 +1855,7 @@
         "wins": 7,
         "losses": 1,
         "ties": 0,
-        "faab_used": 40
+        "faab_used": 50
       },
       "starters": [
         {
@@ -1945,18 +1969,6 @@
       ],
       "bench": [
         {
-          "player_id": "1479",
-          "name": "Keenan Allen",
-          "position": "WR",
-          "team": "IND",
-          "status": "Active",
-          "injury_status": "Out",
-          "age": 34,
-          "years_exp": 13,
-          "search_rank": 182,
-          "depth_chart_position": "RWR"
-        },
-        {
           "player_id": "3634",
           "name": "Kalif Raymond",
           "position": "WR",
@@ -2015,6 +2027,18 @@
           "years_exp": 3,
           "search_rank": 103,
           "depth_chart_position": "LWR"
+        },
+        {
+          "player_id": "9757",
+          "name": "Kendre Miller",
+          "position": "RB",
+          "team": "NO",
+          "status": "Active",
+          "injury_status": null,
+          "age": 24,
+          "years_exp": 3,
+          "search_rank": 180,
+          "depth_chart_position": "RB"
         }
       ],
       "reserve": [
@@ -2695,19 +2719,19 @@
         "wins": 5,
         "losses": 3,
         "ties": 0,
-        "faab_used": 12
+        "faab_used": 20
       },
       "starters": [
         {
-          "player_id": "1373",
-          "name": "Geno Smith",
+          "player_id": "3257",
+          "name": "Jacoby Brissett",
           "position": "QB",
-          "team": "NYJ",
+          "team": "ARI",
           "status": "Active",
           "injury_status": null,
-          "age": 35,
-          "years_exp": 13,
-          "search_rank": 210,
+          "age": 33,
+          "years_exp": 10,
+          "search_rank": 203,
           "depth_chart_position": "QB"
         },
         {
@@ -2831,6 +2855,18 @@
           "years_exp": 1,
           "search_rank": 105,
           "depth_chart_position": "RB"
+        },
+        {
+          "player_id": "1373",
+          "name": "Geno Smith",
+          "position": "QB",
+          "team": "NYJ",
+          "status": "Active",
+          "injury_status": null,
+          "age": 35,
+          "years_exp": 13,
+          "search_rank": 210,
+          "depth_chart_position": "QB"
         },
         {
           "player_id": "9486",
