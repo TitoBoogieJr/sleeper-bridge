@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-07T20:31:38.391029+00:00",
+  "snapshot_generated_at": "2026-10-08T00:53:09.669579+00:00",
   "current_week": 5,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -2153,15 +2153,15 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "9500",
-          "name": "Josh Downs",
+          "player_id": "11610",
+          "name": "Malik Washington",
           "position": "WR",
-          "team": "IND",
+          "team": "MIA",
           "status": "Active",
           "injury_status": null,
           "age": 25,
-          "years_exp": 3,
-          "search_rank": 111,
+          "years_exp": 2,
+          "search_rank": 177,
           "depth_chart_position": "SWR"
         },
         {
@@ -2190,18 +2190,6 @@
         }
       ],
       "bench": [
-        {
-          "player_id": "11610",
-          "name": "Malik Washington",
-          "position": "WR",
-          "team": "MIA",
-          "status": "Active",
-          "injury_status": null,
-          "age": 25,
-          "years_exp": 2,
-          "search_rank": 177,
-          "depth_chart_position": "SWR"
-        },
         {
           "player_id": "4177",
           "name": "Mack Hollins",
@@ -2249,6 +2237,18 @@
           "years_exp": 5,
           "search_rank": 86,
           "depth_chart_position": "RB"
+        },
+        {
+          "player_id": "9500",
+          "name": "Josh Downs",
+          "position": "WR",
+          "team": "IND",
+          "status": "Active",
+          "injury_status": null,
+          "age": 25,
+          "years_exp": 3,
+          "search_rank": 111,
+          "depth_chart_position": "SWR"
         }
       ],
       "reserve": [

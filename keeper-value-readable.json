@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-07T20:31:38.391029+00:00",
+  "snapshot_generated_at": "2026-10-08T00:53:09.669579+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -868,7 +868,7 @@
           "name": "Josh Downs",
           "position": "WR",
           "nfl_team": "IND",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -914,7 +914,7 @@
           "name": "Malik Washington",
           "position": "WR",
           "nfl_team": "MIA",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
