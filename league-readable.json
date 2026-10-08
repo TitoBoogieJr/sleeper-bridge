@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-08T00:53:09.669579+00:00",
+  "snapshot_generated_at": "2026-10-08T07:11:57.562445+00:00",
   "current_week": 5,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -2723,15 +2723,15 @@
           "depth_chart_position": "QB"
         },
         {
-          "player_id": "8150",
-          "name": "Kyren Williams",
+          "player_id": "12534",
+          "name": "Kyle Monangai",
           "position": "RB",
-          "team": "LAR",
+          "team": "CHI",
           "status": "Active",
-          "injury_status": null,
-          "age": 26,
-          "years_exp": 4,
-          "search_rank": 13,
+          "injury_status": "Questionable",
+          "age": 24,
+          "years_exp": 1,
+          "search_rank": 61,
           "depth_chart_position": "RB"
         },
         {
@@ -2783,15 +2783,15 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "12534",
-          "name": "Kyle Monangai",
+          "player_id": "8150",
+          "name": "Kyren Williams",
           "position": "RB",
-          "team": "CHI",
+          "team": "LAR",
           "status": "Active",
-          "injury_status": "Questionable",
-          "age": 24,
-          "years_exp": 1,
-          "search_rank": 61,
+          "injury_status": null,
+          "age": 26,
+          "years_exp": 4,
+          "search_rank": 13,
           "depth_chart_position": "RB"
         },
         {
