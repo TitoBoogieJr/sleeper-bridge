@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-09T01:06:41.518423+00:00",
+  "snapshot_generated_at": "2026-10-09T07:54:58.279185+00:00",
   "players": [
     {
       "player_id": "9509",
@@ -5163,7 +5163,7 @@
       "owner_user_id": "1263230668070977536",
       "username": "lionelesteban",
       "team_name": "Kittle El Cero Miedo",
-      "location": "reserve",
+      "location": "starter",
       "draft": {
         "draft_id": "1313649397531148288",
         "season": "2026",
@@ -7274,12 +7274,12 @@
       "years_exp": 5,
       "search_rank": 203,
       "depth_chart_position": "LWR",
-      "rostered": true,
-      "roster_id": 10,
-      "owner_user_id": "1263230668070977536",
-      "username": "lionelesteban",
-      "team_name": "Kittle El Cero Miedo",
-      "location": "bench",
+      "rostered": false,
+      "roster_id": null,
+      "owner_user_id": null,
+      "username": null,
+      "team_name": null,
+      "location": "free_agent",
       "draft": null,
       "keeper": {
         "eligible_next_season": true,

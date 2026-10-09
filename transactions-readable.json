@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-09T01:06:41.518423+00:00",
+  "snapshot_generated_at": "2026-10-09T07:54:58.279185+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -4655,6 +4655,40 @@
       ],
       "roster_ids": [
         8
+      ]
+    },
+    {
+      "transaction_id": "1414093934791045120",
+      "week": 5,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791508775951,
+      "faab": null,
+      "adds": [],
+      "drops": [
+        {
+          "player": {
+            "player_id": "7571",
+            "name": "Rashod Bateman",
+            "position": "WR",
+            "team": "BAL",
+            "status": "Active",
+            "injury_status": "Questionable",
+            "age": 26,
+            "years_exp": 5,
+            "search_rank": 203,
+            "depth_chart_position": "LWR"
+          },
+          "source": {
+            "roster_id": 10,
+            "owner_user_id": "1263230668070977536",
+            "username": "lionelesteban",
+            "team_name": "Kittle El Cero Miedo"
+          }
+        }
+      ],
+      "roster_ids": [
+        10
       ]
     },
     {

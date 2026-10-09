@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-09T01:06:41.518423+00:00",
+  "snapshot_generated_at": "2026-10-09T07:54:58.279185+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -225,7 +225,7 @@
           "name": "Rachaad White",
           "position": "RB",
           "nfl_team": "WAS",
-          "location": "reserve",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -284,19 +284,6 @@
           "name": "Kendre Miller",
           "position": "RB",
           "nfl_team": "NO",
-          "location": "bench",
-          "draft": null,
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 14,
-            "reason": "Undrafted player; keeper cost is Round 14"
-          }
-        },
-        {
-          "player_id": "7571",
-          "name": "Rashod Bateman",
-          "position": "WR",
-          "nfl_team": "BAL",
           "location": "bench",
           "draft": null,
           "keeper": {

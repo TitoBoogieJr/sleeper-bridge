@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-09T01:06:41.518423+00:00",
+  "snapshot_generated_at": "2026-10-09T07:54:58.279185+00:00",
   "current_week": 5,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -1872,16 +1872,16 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "0",
-          "name": "Unknown (0)",
-          "position": null,
-          "team": null,
-          "status": null,
-          "injury_status": null,
-          "age": null,
-          "years_exp": null,
-          "search_rank": null,
-          "depth_chart_position": null
+          "player_id": "8136",
+          "name": "Rachaad White",
+          "position": "RB",
+          "team": "WAS",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "age": 27,
+          "years_exp": 4,
+          "search_rank": 125,
+          "depth_chart_position": "RB"
         },
         {
           "player_id": "4983",
@@ -1982,18 +1982,6 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "7571",
-          "name": "Rashod Bateman",
-          "position": "WR",
-          "team": "BAL",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "age": 26,
-          "years_exp": 5,
-          "search_rank": 203,
-          "depth_chart_position": "LWR"
-        },
-        {
           "player_id": "7594",
           "name": "Chuba Hubbard",
           "position": "RB",
@@ -2042,18 +2030,6 @@
           "years_exp": 0,
           "search_rank": 148,
           "depth_chart_position": "RWR"
-        },
-        {
-          "player_id": "8136",
-          "name": "Rachaad White",
-          "position": "RB",
-          "team": "WAS",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "age": 27,
-          "years_exp": 4,
-          "search_rank": 125,
-          "depth_chart_position": "RB"
         },
         {
           "player_id": "8155",
