@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-08T20:36:52.051961+00:00",
+  "snapshot_generated_at": "2026-10-09T01:06:41.518423+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -4655,6 +4655,74 @@
       ],
       "roster_ids": [
         8
+      ]
+    },
+    {
+      "transaction_id": "1414054834876731392",
+      "week": 5,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791499453804,
+      "faab": null,
+      "adds": [],
+      "drops": [
+        {
+          "player": {
+            "player_id": "13414",
+            "name": "Kaelon Black",
+            "position": "RB",
+            "team": "SF",
+            "status": "Active",
+            "injury_status": "Questionable",
+            "age": 24,
+            "years_exp": 0,
+            "search_rank": 161,
+            "depth_chart_position": "RB"
+          },
+          "source": {
+            "roster_id": 13,
+            "owner_user_id": "1263686571970793472",
+            "username": "billyfusco",
+            "team_name": "Darkmeat Duck"
+          }
+        }
+      ],
+      "roster_ids": [
+        13
+      ]
+    },
+    {
+      "transaction_id": "1414048713134919680",
+      "week": 5,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791497994267,
+      "faab": null,
+      "adds": [
+        {
+          "player": {
+            "player_id": "1479",
+            "name": "Keenan Allen",
+            "position": "WR",
+            "team": "IND",
+            "status": "Active",
+            "injury_status": "Questionable",
+            "age": 34,
+            "years_exp": 13,
+            "search_rank": 182,
+            "depth_chart_position": "RWR"
+          },
+          "destination": {
+            "roster_id": 5,
+            "owner_user_id": "1263686542304485376",
+            "username": "WestManBruce",
+            "team_name": "WestManBruce"
+          }
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        5
       ]
     },
     {

@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-08T20:36:52.051961+00:00",
+  "snapshot_generated_at": "2026-10-09T01:06:41.518423+00:00",
   "current_week": 5,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -871,16 +871,16 @@
           "depth_chart_position": "LWR"
         },
         {
-          "player_id": "6801",
-          "name": "Tee Higgins",
+          "player_id": "4037",
+          "name": "Chris Godwin",
           "position": "WR",
-          "team": "CIN",
+          "team": "TB",
           "status": "Active",
-          "injury_status": "Questionable",
-          "age": 27,
-          "years_exp": 6,
-          "search_rank": 36,
-          "depth_chart_position": "RWR"
+          "injury_status": null,
+          "age": 30,
+          "years_exp": 9,
+          "search_rank": 88,
+          "depth_chart_position": "SWR"
         },
         {
           "player_id": "8130",
@@ -895,15 +895,15 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "4866",
-          "name": "Saquon Barkley",
+          "player_id": "9511",
+          "name": "Keaton Mitchell",
           "position": "RB",
-          "team": "PHI",
+          "team": "LAC",
           "status": "Active",
-          "injury_status": "Questionable",
-          "age": 29,
-          "years_exp": 8,
-          "search_rank": 11,
+          "injury_status": null,
+          "age": 24,
+          "years_exp": 3,
+          "search_rank": 148,
           "depth_chart_position": "RB"
         },
         {
@@ -957,17 +957,43 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "4037",
-          "name": "Chris Godwin",
+          "player_id": "1479",
+          "name": "Keenan Allen",
           "position": "WR",
-          "team": "TB",
+          "team": "IND",
           "status": "Active",
-          "injury_status": null,
-          "age": 30,
-          "years_exp": 9,
-          "search_rank": 88,
-          "depth_chart_position": "SWR"
+          "injury_status": "Questionable",
+          "age": 34,
+          "years_exp": 13,
+          "search_rank": 182,
+          "depth_chart_position": "RWR"
         },
+        {
+          "player_id": "4866",
+          "name": "Saquon Barkley",
+          "position": "RB",
+          "team": "PHI",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "age": 29,
+          "years_exp": 8,
+          "search_rank": 11,
+          "depth_chart_position": "RB"
+        },
+        {
+          "player_id": "6801",
+          "name": "Tee Higgins",
+          "position": "WR",
+          "team": "CIN",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "age": 27,
+          "years_exp": 6,
+          "search_rank": 36,
+          "depth_chart_position": "RWR"
+        }
+      ],
+      "reserve": [
         {
           "player_id": "6819",
           "name": "Michael Pittman",
@@ -979,21 +1005,8 @@
           "years_exp": 6,
           "search_rank": 107,
           "depth_chart_position": "RWR"
-        },
-        {
-          "player_id": "9511",
-          "name": "Keaton Mitchell",
-          "position": "RB",
-          "team": "LAC",
-          "status": "Active",
-          "injury_status": null,
-          "age": 24,
-          "years_exp": 3,
-          "search_rank": 148,
-          "depth_chart_position": "RB"
         }
-      ],
-      "reserve": []
+      ]
     },
     {
       "roster_id": 6,
@@ -2513,16 +2526,16 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "10229",
-          "name": "Rashee Rice",
+          "player_id": "13346",
+          "name": "Denzel Boston",
           "position": "WR",
-          "team": "KC",
+          "team": "CLE",
           "status": "Active",
-          "injury_status": "Questionable",
-          "age": 26,
-          "years_exp": 3,
-          "search_rank": 30,
-          "depth_chart_position": "SWR"
+          "injury_status": null,
+          "age": 22,
+          "years_exp": 0,
+          "search_rank": 153,
+          "depth_chart_position": "LWR"
         },
         {
           "player_id": "10232",
@@ -2573,10 +2586,10 @@
           "depth_chart_position": "K"
         },
         {
-          "player_id": "BUF",
-          "name": "Buffalo Bills",
+          "player_id": "JAX",
+          "name": "Jacksonville Jaguars",
           "position": "DEF",
-          "team": "BUF",
+          "team": "JAX",
           "status": null,
           "injury_status": null,
           "age": null,
@@ -2587,28 +2600,28 @@
       ],
       "bench": [
         {
-          "player_id": "13346",
-          "name": "Denzel Boston",
+          "player_id": "10229",
+          "name": "Rashee Rice",
           "position": "WR",
-          "team": "CLE",
-          "status": "Active",
-          "injury_status": null,
-          "age": 22,
-          "years_exp": 0,
-          "search_rank": 153,
-          "depth_chart_position": "LWR"
-        },
-        {
-          "player_id": "13414",
-          "name": "Kaelon Black",
-          "position": "RB",
-          "team": "SF",
+          "team": "KC",
           "status": "Active",
           "injury_status": "Questionable",
-          "age": 24,
-          "years_exp": 0,
-          "search_rank": 161,
-          "depth_chart_position": "RB"
+          "age": 26,
+          "years_exp": 3,
+          "search_rank": 30,
+          "depth_chart_position": "SWR"
+        },
+        {
+          "player_id": "5022",
+          "name": "Dallas Goedert",
+          "position": "TE",
+          "team": "PHI",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "age": 31,
+          "years_exp": 8,
+          "search_rank": 94,
+          "depth_chart_position": "TE"
         },
         {
           "player_id": "5927",
@@ -2635,10 +2648,10 @@
           "depth_chart_position": "RWR"
         },
         {
-          "player_id": "JAX",
-          "name": "Jacksonville Jaguars",
+          "player_id": "BUF",
+          "name": "Buffalo Bills",
           "position": "DEF",
-          "team": "JAX",
+          "team": "BUF",
           "status": null,
           "injury_status": null,
           "age": null,
@@ -2671,18 +2684,6 @@
           "years_exp": 0,
           "search_rank": 118,
           "depth_chart_position": "RB"
-        },
-        {
-          "player_id": "5022",
-          "name": "Dallas Goedert",
-          "position": "TE",
-          "team": "PHI",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "age": 31,
-          "years_exp": 8,
-          "search_rank": 94,
-          "depth_chart_position": "TE"
         }
       ]
     },

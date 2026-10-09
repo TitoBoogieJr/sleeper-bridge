@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-08T20:36:52.051961+00:00",
+  "snapshot_generated_at": "2026-10-09T01:06:41.518423+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -377,7 +377,7 @@
           "name": "Rashee Rice",
           "position": "WR",
           "nfl_team": "KC",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -538,7 +538,7 @@
           "name": "Dallas Goedert",
           "position": "TE",
           "nfl_team": "PHI",
-          "location": "reserve",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -607,7 +607,7 @@
           "name": "Denzel Boston",
           "position": "WR",
           "nfl_team": "CLE",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -623,29 +623,6 @@
             "eligible_next_season": true,
             "cost_round": 11,
             "reason": "Drafted in Round 11"
-          }
-        },
-        {
-          "player_id": "13414",
-          "name": "Kaelon Black",
-          "position": "RB",
-          "nfl_team": "SF",
-          "location": "bench",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 9,
-            "pick_no": 125,
-            "original_roster_id": 8,
-            "original_owner_user_id": "995178101929816064",
-            "original_username": "ChaseyChase73",
-            "original_team_name": "ChaseyChase73",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 9,
-            "reason": "Drafted in Round 9"
           }
         }
       ]
@@ -3023,7 +3000,7 @@
           "name": "Saquon Barkley",
           "position": "RB",
           "nfl_team": "PHI",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -3092,7 +3069,7 @@
           "name": "Tee Higgins",
           "position": "WR",
           "nfl_team": "CIN",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -3138,7 +3115,7 @@
           "name": "Chris Godwin",
           "position": "WR",
           "nfl_team": "TB",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -3184,7 +3161,7 @@
           "name": "Michael Pittman",
           "position": "WR",
           "nfl_team": "PIT",
-          "location": "bench",
+          "location": "reserve",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -3253,7 +3230,7 @@
           "name": "Keaton Mitchell",
           "position": "RB",
           "nfl_team": "LAC",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -3269,6 +3246,19 @@
             "eligible_next_season": true,
             "cost_round": 9,
             "reason": "Drafted in Round 9"
+          }
+        },
+        {
+          "player_id": "1479",
+          "name": "Keenan Allen",
+          "position": "WR",
+          "nfl_team": "IND",
+          "location": "bench",
+          "draft": null,
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 14,
+            "reason": "Undrafted player; keeper cost is Round 14"
           }
         }
       ]
