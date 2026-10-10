@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-10T00:16:00.177723+00:00",
+  "snapshot_generated_at": "2026-10-10T06:16:53.178845+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -4655,6 +4655,61 @@
       ],
       "roster_ids": [
         8
+      ]
+    },
+    {
+      "transaction_id": "1414493675957878784",
+      "week": 5,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791604081672,
+      "faab": null,
+      "adds": [
+        {
+          "player": {
+            "player_id": "10235",
+            "name": "Roschon Johnson",
+            "position": "RB",
+            "team": "CHI",
+            "status": "Active",
+            "injury_status": null,
+            "age": 25,
+            "years_exp": 3,
+            "search_rank": 681,
+            "depth_chart_position": "RB"
+          },
+          "destination": {
+            "roster_id": 14,
+            "owner_user_id": "1263695631499665408",
+            "username": "jeredoliver",
+            "team_name": "JSN Bourne"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "player_id": "13417",
+            "name": "De'Zhaun Stribling",
+            "position": "WR",
+            "team": "SF",
+            "status": "Inactive",
+            "injury_status": "IR",
+            "age": 23,
+            "years_exp": 0,
+            "search_rank": 112,
+            "depth_chart_position": "SWR"
+          },
+          "source": {
+            "roster_id": 14,
+            "owner_user_id": "1263695631499665408",
+            "username": "jeredoliver",
+            "team_name": "JSN Bourne"
+          }
+        }
+      ],
+      "roster_ids": [
+        14
       ]
     },
     {

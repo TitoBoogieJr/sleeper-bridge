@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-10T00:16:00.177723+00:00",
+  "snapshot_generated_at": "2026-10-10T06:16:53.178845+00:00",
   "current_week": 5,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -2676,15 +2676,15 @@
           "depth_chart_position": "QB"
         },
         {
-          "player_id": "12534",
-          "name": "Kyle Monangai",
+          "player_id": "8150",
+          "name": "Kyren Williams",
           "position": "RB",
-          "team": "CHI",
+          "team": "LAR",
           "status": "Active",
-          "injury_status": "Questionable",
-          "age": 24,
-          "years_exp": 1,
-          "search_rank": 61,
+          "injury_status": null,
+          "age": 26,
+          "years_exp": 4,
+          "search_rank": 13,
           "depth_chart_position": "RB"
         },
         {
@@ -2700,16 +2700,16 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "9488",
-          "name": "Jaxon Smith-Njigba",
+          "player_id": "9486",
+          "name": "Dontayvion Wicks",
           "position": "WR",
-          "team": "SEA",
+          "team": "PHI",
           "status": "Active",
-          "injury_status": null,
-          "age": 24,
+          "injury_status": "Questionable",
+          "age": 25,
           "years_exp": 3,
-          "search_rank": 6,
-          "depth_chart_position": "LWR"
+          "search_rank": 206,
+          "depth_chart_position": "RWR"
         },
         {
           "player_id": "12519",
@@ -2736,16 +2736,16 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "8150",
-          "name": "Kyren Williams",
-          "position": "RB",
-          "team": "LAR",
+          "player_id": "9488",
+          "name": "Jaxon Smith-Njigba",
+          "position": "WR",
+          "team": "SEA",
           "status": "Active",
           "injury_status": null,
-          "age": 26,
-          "years_exp": 4,
-          "search_rank": 13,
-          "depth_chart_position": "RB"
+          "age": 24,
+          "years_exp": 3,
+          "search_rank": 6,
+          "depth_chart_position": "LWR"
         },
         {
           "player_id": "12711",
@@ -2773,6 +2773,18 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "10235",
+          "name": "Roschon Johnson",
+          "position": "RB",
+          "team": "CHI",
+          "status": "Active",
+          "injury_status": null,
+          "age": 25,
+          "years_exp": 3,
+          "search_rank": 681,
+          "depth_chart_position": "RB"
+        },
         {
           "player_id": "11581",
           "name": "MarShawn Lloyd",
@@ -2810,18 +2822,6 @@
           "depth_chart_position": "QB"
         },
         {
-          "player_id": "9486",
-          "name": "Dontayvion Wicks",
-          "position": "WR",
-          "team": "PHI",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "age": 25,
-          "years_exp": 3,
-          "search_rank": 206,
-          "depth_chart_position": "RWR"
-        },
-        {
           "player_id": "KC",
           "name": "Kansas City Chiefs",
           "position": "DEF",
@@ -2848,16 +2848,16 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "13417",
-          "name": "De'Zhaun Stribling",
-          "position": "WR",
-          "team": "SF",
-          "status": "Inactive",
-          "injury_status": "IR",
-          "age": 23,
-          "years_exp": 0,
-          "search_rank": 112,
-          "depth_chart_position": "SWR"
+          "player_id": "12534",
+          "name": "Kyle Monangai",
+          "position": "RB",
+          "team": "CHI",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "age": 24,
+          "years_exp": 1,
+          "search_rank": 61,
+          "depth_chart_position": "RB"
         },
         {
           "player_id": "9225",
