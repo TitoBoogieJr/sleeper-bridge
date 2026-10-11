@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-11T00:24:15.169790+00:00",
+  "snapshot_generated_at": "2026-10-11T06:17:07.716326+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -958,7 +958,7 @@
           "name": "Lamar Jackson",
           "position": "QB",
           "nfl_team": "BAL",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -1184,26 +1184,16 @@
           }
         },
         {
-          "player_id": "8676",
-          "name": "Rashid Shaheed",
-          "position": "WR",
-          "nfl_team": "SEA",
-          "location": "bench",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 11,
-            "pick_no": 145,
-            "original_roster_id": 2,
-            "original_owner_user_id": "1263709493192052736",
-            "original_username": "KarolynRose",
-            "original_team_name": "Magic Skol Bus",
-            "is_keeper": false
-          },
+          "player_id": "96",
+          "name": "Aaron Rodgers",
+          "position": "QB",
+          "nfl_team": "PIT",
+          "location": "starter",
+          "draft": null,
           "keeper": {
             "eligible_next_season": true,
-            "cost_round": 11,
-            "reason": "Drafted in Round 11"
+            "cost_round": 14,
+            "reason": "Undrafted player; keeper cost is Round 14"
           }
         }
       ]
@@ -2221,7 +2211,7 @@
           "name": "MarShawn Lloyd",
           "position": "RB",
           "nfl_team": "GB",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -2303,7 +2293,7 @@
           "name": "Dontayvion Wicks",
           "position": "WR",
           "nfl_team": "PHI",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
