@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-11T06:17:07.716326+00:00",
+  "snapshot_generated_at": "2026-10-11T13:21:14.780577+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -1439,7 +1439,7 @@
           "name": "Adonai Mitchell",
           "position": "WR",
           "nfl_team": "NYJ",
-          "location": "bench",
+          "location": "reserve",
           "draft": null,
           "keeper": {
             "eligible_next_season": true,

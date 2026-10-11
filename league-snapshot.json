@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-11T06:17:07.716326+00:00",
+  "snapshot_generated_at": "2026-10-11T13:21:14.780577+00:00",
   "nfl_state": {
     "week": 5,
     "leg": 5,
@@ -950,7 +950,9 @@
         "9493",
         "CIN"
       ],
-      "reserve": null,
+      "reserve": [
+        "11625"
+      ],
       "roster_id": 9,
       "settings": {
         "fpts": 376,

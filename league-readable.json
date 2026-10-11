@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-11T06:17:07.716326+00:00",
+  "snapshot_generated_at": "2026-10-11T13:21:14.780577+00:00",
   "current_week": 5,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -1761,18 +1761,6 @@
       ],
       "bench": [
         {
-          "player_id": "11625",
-          "name": "Adonai Mitchell",
-          "position": "WR",
-          "team": "NYJ",
-          "status": "Active",
-          "injury_status": "Out",
-          "age": 24,
-          "years_exp": 2,
-          "search_rank": 162,
-          "depth_chart_position": "RWR"
-        },
-        {
           "player_id": "13294",
           "name": "Makai Lemon",
           "position": "WR",
@@ -1821,7 +1809,20 @@
           "depth_chart_position": "RB"
         }
       ],
-      "reserve": []
+      "reserve": [
+        {
+          "player_id": "11625",
+          "name": "Adonai Mitchell",
+          "position": "WR",
+          "team": "NYJ",
+          "status": "Active",
+          "injury_status": "Out",
+          "age": 24,
+          "years_exp": 2,
+          "search_rank": 162,
+          "depth_chart_position": "RWR"
+        }
+      ]
     },
     {
       "roster_id": 10,
