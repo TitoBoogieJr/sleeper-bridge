@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-11T13:21:14.780577+00:00",
+  "snapshot_generated_at": "2026-10-11T18:22:34.696178+00:00",
   "current_week": 5,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -148,7 +148,7 @@
           "position": "RB",
           "team": "NO",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "age": 31,
           "years_exp": 9,
           "search_rank": 119,
@@ -167,18 +167,6 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "7021",
-          "name": "Rico Dowdle",
-          "position": "RB",
-          "team": "PIT",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "age": 28,
-          "years_exp": 6,
-          "search_rank": 65,
-          "depth_chart_position": "RB"
-        },
-        {
           "player_id": "LAR",
           "name": "Los Angeles Rams",
           "position": "DEF",
@@ -192,6 +180,18 @@
         }
       ],
       "reserve": [
+        {
+          "player_id": "7021",
+          "name": "Rico Dowdle",
+          "position": "RB",
+          "team": "PIT",
+          "status": "Active",
+          "injury_status": "Out",
+          "age": 28,
+          "years_exp": 6,
+          "search_rank": 65,
+          "depth_chart_position": "RB"
+        },
         {
           "player_id": "9226",
           "name": "De'Von Achane",
@@ -251,7 +251,7 @@
           "injury_status": null,
           "age": 24,
           "years_exp": 1,
-          "search_rank": 37,
+          "search_rank": 35,
           "depth_chart_position": "RB"
         },
         {
@@ -272,7 +272,7 @@
           "position": "WR",
           "team": "CIN",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "age": 26,
           "years_exp": 5,
           "search_rank": 4,
@@ -303,16 +303,16 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "9756",
-          "name": "Jordan Addison",
-          "position": "WR",
-          "team": "MIN",
+          "player_id": "11586",
+          "name": "Blake Corum",
+          "position": "RB",
+          "team": "LAR",
           "status": "Active",
-          "injury_status": "Questionable",
-          "age": 24,
-          "years_exp": 3,
-          "search_rank": 99,
-          "depth_chart_position": "RWR"
+          "injury_status": null,
+          "age": 25,
+          "years_exp": 2,
+          "search_rank": 68,
+          "depth_chart_position": "RB"
         },
         {
           "player_id": "3451",
@@ -349,19 +349,7 @@
           "injury_status": null,
           "age": 27,
           "years_exp": 3,
-          "search_rank": 127,
-          "depth_chart_position": "RB"
-        },
-        {
-          "player_id": "11586",
-          "name": "Blake Corum",
-          "position": "RB",
-          "team": "LAR",
-          "status": "Active",
-          "injury_status": null,
-          "age": 25,
-          "years_exp": 2,
-          "search_rank": 68,
+          "search_rank": 125,
           "depth_chart_position": "RB"
         },
         {
@@ -373,7 +361,7 @@
           "injury_status": "Out",
           "age": 29,
           "years_exp": 8,
-          "search_rank": 10,
+          "search_rank": 8,
           "depth_chart_position": "QB"
         },
         {
@@ -399,6 +387,18 @@
           "years_exp": 4,
           "search_rank": 80,
           "depth_chart_position": "RB"
+        },
+        {
+          "player_id": "9756",
+          "name": "Jordan Addison",
+          "position": "WR",
+          "team": "MIN",
+          "status": "Active",
+          "injury_status": "Out",
+          "age": 24,
+          "years_exp": 3,
+          "search_rank": 99,
+          "depth_chart_position": "RWR"
         }
       ],
       "reserve": []
@@ -424,7 +424,7 @@
           "injury_status": null,
           "age": 31,
           "years_exp": 10,
-          "search_rank": 62,
+          "search_rank": 61,
           "depth_chart_position": "QB"
         },
         {
@@ -433,7 +433,7 @@
           "position": "RB",
           "team": "LV",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "age": 22,
           "years_exp": 1,
           "search_rank": 12,
@@ -484,7 +484,7 @@
           "injury_status": null,
           "age": 22,
           "years_exp": 1,
-          "search_rank": 37,
+          "search_rank": 35,
           "depth_chart_position": "TE"
         },
         {
@@ -531,7 +531,7 @@
           "position": "WR",
           "team": "TEN",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "age": 21,
           "years_exp": 0,
           "search_rank": 61,
@@ -630,7 +630,7 @@
           "position": "RB",
           "team": "NE",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "age": 28,
           "years_exp": 5,
           "search_rank": 58,
@@ -661,18 +661,6 @@
           "depth_chart_position": "SWR"
         },
         {
-          "player_id": "13330",
-          "name": "Kenyon Sadiq",
-          "position": "TE",
-          "team": "NYJ",
-          "status": "Active",
-          "injury_status": null,
-          "age": 21,
-          "years_exp": 0,
-          "search_rank": 109,
-          "depth_chart_position": "TE"
-        },
-        {
           "player_id": "9484",
           "name": "Tucker Kraft",
           "position": "TE",
@@ -683,6 +671,18 @@
           "years_exp": 3,
           "search_rank": 64,
           "depth_chart_position": "TE"
+        },
+        {
+          "player_id": "12509",
+          "name": "Tre' Harris",
+          "position": "WR",
+          "team": "LAC",
+          "status": "Active",
+          "injury_status": null,
+          "age": 24,
+          "years_exp": 1,
+          "search_rank": 179,
+          "depth_chart_position": "RWR"
         },
         {
           "player_id": "11539",
@@ -740,23 +740,11 @@
           "position": "RB",
           "team": "MIA",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "age": 23,
           "years_exp": 2,
           "search_rank": 174,
           "depth_chart_position": "RB"
-        },
-        {
-          "player_id": "12509",
-          "name": "Tre' Harris",
-          "position": "WR",
-          "team": "LAC",
-          "status": "Active",
-          "injury_status": null,
-          "age": 24,
-          "years_exp": 1,
-          "search_rank": 179,
-          "depth_chart_position": "RWR"
         },
         {
           "player_id": "12545",
@@ -769,6 +757,18 @@
           "years_exp": 1,
           "search_rank": 89,
           "depth_chart_position": "QB"
+        },
+        {
+          "player_id": "13330",
+          "name": "Kenyon Sadiq",
+          "position": "TE",
+          "team": "NYJ",
+          "status": "Active",
+          "injury_status": null,
+          "age": 21,
+          "years_exp": 0,
+          "search_rank": 109,
+          "depth_chart_position": "TE"
         }
       ],
       "reserve": [
@@ -879,7 +879,7 @@
           "injury_status": null,
           "age": 30,
           "years_exp": 9,
-          "search_rank": 87,
+          "search_rank": 88,
           "depth_chart_position": "SWR"
         },
         {
@@ -895,16 +895,16 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "9511",
-          "name": "Keaton Mitchell",
-          "position": "RB",
-          "team": "LAC",
+          "player_id": "6801",
+          "name": "Tee Higgins",
+          "position": "WR",
+          "team": "CIN",
           "status": "Active",
           "injury_status": null,
-          "age": 24,
-          "years_exp": 3,
-          "search_rank": 148,
-          "depth_chart_position": "RB"
+          "age": 27,
+          "years_exp": 6,
+          "search_rank": 36,
+          "depth_chart_position": "RWR"
         },
         {
           "player_id": "5189",
@@ -962,7 +962,7 @@
           "position": "WR",
           "team": "IND",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "age": 34,
           "years_exp": 13,
           "search_rank": 182,
@@ -981,16 +981,16 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "6801",
-          "name": "Tee Higgins",
-          "position": "WR",
-          "team": "CIN",
+          "player_id": "9511",
+          "name": "Keaton Mitchell",
+          "position": "RB",
+          "team": "LAC",
           "status": "Active",
-          "injury_status": "Questionable",
-          "age": 27,
-          "years_exp": 6,
-          "search_rank": 36,
-          "depth_chart_position": "RWR"
+          "injury_status": null,
+          "age": 24,
+          "years_exp": 3,
+          "search_rank": 148,
+          "depth_chart_position": "RB"
         }
       ],
       "reserve": [
@@ -999,8 +999,8 @@
           "name": "Michael Pittman",
           "position": "WR",
           "team": "PIT",
-          "status": "Active",
-          "injury_status": "Out",
+          "status": "Inactive",
+          "injury_status": "IR",
           "age": 29,
           "years_exp": 6,
           "search_rank": 107,
@@ -1139,7 +1139,7 @@
           "injury_status": null,
           "age": 26,
           "years_exp": 2,
-          "search_rank": 46,
+          "search_rank": 45,
           "depth_chart_position": "QB"
         },
         {
@@ -1239,7 +1239,7 @@
           "injury_status": null,
           "age": 38,
           "years_exp": 14,
-          "search_rank": 268,
+          "search_rank": 269,
           "depth_chart_position": "QB"
         },
         {
@@ -1272,7 +1272,7 @@
           "position": "WR",
           "team": "MIN",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "age": 27,
           "years_exp": 6,
           "search_rank": 12,
@@ -1373,7 +1373,7 @@
           "injury_status": null,
           "age": 31,
           "years_exp": 9,
-          "search_rank": 40,
+          "search_rank": 39,
           "depth_chart_position": "QB"
         },
         {
@@ -1397,7 +1397,7 @@
           "injury_status": null,
           "age": 25,
           "years_exp": 3,
-          "search_rank": 133,
+          "search_rank": 134,
           "depth_chart_position": "QB"
         }
       ],
@@ -1411,7 +1411,7 @@
           "injury_status": "Out",
           "age": 32,
           "years_exp": 11,
-          "search_rank": 103,
+          "search_rank": 105,
           "depth_chart_position": "SWR"
         },
         {
@@ -1458,7 +1458,7 @@
           "position": "RB",
           "team": "PHI",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "age": 24,
           "years_exp": 2,
           "search_rank": 686,
@@ -1563,15 +1563,15 @@
           "depth_chart_position": "LWR"
         },
         {
-          "player_id": "13264",
-          "name": "Dohnte Meyers",
+          "player_id": "12542",
+          "name": "Efton Chism",
           "position": "WR",
-          "team": "CIN",
+          "team": "NE",
           "status": "Active",
           "injury_status": null,
-          "age": 26,
-          "years_exp": 0,
-          "search_rank": 628,
+          "age": 24,
+          "years_exp": 1,
+          "search_rank": 572,
           "depth_chart_position": "SWR"
         },
         {
@@ -1671,7 +1671,7 @@
           "injury_status": null,
           "age": 27,
           "years_exp": 6,
-          "search_rank": 46,
+          "search_rank": 44,
           "depth_chart_position": "RB"
         },
         {
@@ -1707,7 +1707,7 @@
           "injury_status": null,
           "age": 24,
           "years_exp": 2,
-          "search_rank": 63,
+          "search_rank": 65,
           "depth_chart_position": "LWR"
         },
         {
@@ -1719,7 +1719,7 @@
           "injury_status": null,
           "age": 31,
           "years_exp": 8,
-          "search_rank": 447,
+          "search_rank": 449,
           "depth_chart_position": "TE"
         },
         {
@@ -1905,7 +1905,7 @@
           "injury_status": null,
           "age": 33,
           "years_exp": 9,
-          "search_rank": 80,
+          "search_rank": 79,
           "depth_chart_position": "TE"
         },
         {
@@ -2161,8 +2161,8 @@
           "name": "Mack Hollins",
           "position": "WR",
           "team": "NE",
-          "status": "Active",
-          "injury_status": "Out",
+          "status": "Inactive",
+          "injury_status": "IR",
           "age": 33,
           "years_exp": 9,
           "search_rank": 697,
@@ -2423,7 +2423,7 @@
           "injury_status": null,
           "age": 29,
           "years_exp": 8,
-          "search_rank": 93,
+          "search_rank": 92,
           "depth_chart_position": "QB"
         }
       ],
@@ -2547,7 +2547,7 @@
           "injury_status": null,
           "age": 25,
           "years_exp": 2,
-          "search_rank": 172,
+          "search_rank": 170,
           "depth_chart_position": "K"
         },
         {
@@ -2594,7 +2594,7 @@
           "position": "WR",
           "team": "WAS",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "age": 31,
           "years_exp": 7,
           "search_rank": 55,
@@ -2632,7 +2632,7 @@
           "position": "QB",
           "team": "CHI",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "age": 24,
           "years_exp": 2,
           "search_rank": 22,
@@ -2733,7 +2733,7 @@
           "injury_status": null,
           "age": 24,
           "years_exp": 1,
-          "search_rank": 47,
+          "search_rank": 49,
           "depth_chart_position": "TE"
         },
         {

@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-11T13:21:14.780577+00:00",
+  "snapshot_generated_at": "2026-10-11T18:22:34.696178+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -49,8 +49,8 @@
             "name": "Chris Brooks",
             "position": "RB",
             "team": "GB",
-            "status": "Active",
-            "injury_status": "Out",
+            "status": "Inactive",
+            "injury_status": "IR",
             "age": 26,
             "years_exp": 3,
             "search_rank": 450,
@@ -84,7 +84,7 @@
             "position": "RB",
             "team": "NYG",
             "status": "Active",
-            "injury_status": null,
+            "injury_status": "Out",
             "age": 29,
             "years_exp": 7,
             "search_rank": 660,
@@ -189,7 +189,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 3,
-            "search_rank": 133,
+            "search_rank": 134,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -703,7 +703,7 @@
             "injury_status": null,
             "age": 23,
             "years_exp": 1,
-            "search_rank": 103,
+            "search_rank": 104,
             "depth_chart_position": "SWR"
           },
           "source": {
@@ -1126,7 +1126,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 3,
-            "search_rank": 133,
+            "search_rank": 134,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -1160,7 +1160,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 3,
-            "search_rank": 133,
+            "search_rank": 134,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -1262,7 +1262,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 3,
-            "search_rank": 133,
+            "search_rank": 134,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -1542,7 +1542,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 3,
-            "search_rank": 133,
+            "search_rank": 134,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -1576,7 +1576,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 3,
-            "search_rank": 133,
+            "search_rank": 134,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -1606,8 +1606,8 @@
             "name": "Chris Brooks",
             "position": "RB",
             "team": "GB",
-            "status": "Active",
-            "injury_status": "Out",
+            "status": "Inactive",
+            "injury_status": "IR",
             "age": 26,
             "years_exp": 3,
             "search_rank": 450,
@@ -1641,7 +1641,7 @@
             "position": "RB",
             "team": "MIA",
             "status": "Active",
-            "injury_status": null,
+            "injury_status": "Out",
             "age": 23,
             "years_exp": 0,
             "search_rank": 157,
@@ -2175,7 +2175,7 @@
             "position": "RB",
             "team": "MIA",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "age": 23,
             "years_exp": 2,
             "search_rank": 174,
@@ -2332,7 +2332,7 @@
             "position": "WR",
             "team": "IND",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "age": 34,
             "years_exp": 13,
             "search_rank": 182,
@@ -2764,8 +2764,8 @@
             "name": "Chris Brooks",
             "position": "RB",
             "team": "GB",
-            "status": "Active",
-            "injury_status": "Out",
+            "status": "Inactive",
+            "injury_status": "IR",
             "age": 26,
             "years_exp": 3,
             "search_rank": 450,
@@ -2799,7 +2799,7 @@
             "position": "RB",
             "team": "MIA",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "age": 23,
             "years_exp": 2,
             "search_rank": 174,
@@ -2886,8 +2886,8 @@
             "name": "Mack Hollins",
             "position": "WR",
             "team": "NE",
-            "status": "Active",
-            "injury_status": "Out",
+            "status": "Inactive",
+            "injury_status": "IR",
             "age": 33,
             "years_exp": 9,
             "search_rank": 697,
@@ -3270,7 +3270,7 @@
             "position": "RB",
             "team": "MIA",
             "status": "Active",
-            "injury_status": null,
+            "injury_status": "Out",
             "age": 23,
             "years_exp": 0,
             "search_rank": 157,
@@ -3392,7 +3392,7 @@
             "position": "RB",
             "team": "PHI",
             "status": "Active",
-            "injury_status": null,
+            "injury_status": "Out",
             "age": 24,
             "years_exp": 2,
             "search_rank": 686,
@@ -3613,7 +3613,7 @@
             "position": "WR",
             "team": "IND",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "age": 34,
             "years_exp": 13,
             "search_rank": 182,
@@ -3704,7 +3704,7 @@
             "injury_status": null,
             "age": 31,
             "years_exp": 8,
-            "search_rank": 447,
+            "search_rank": 449,
             "depth_chart_position": "TE"
           },
           "destination": {
@@ -3772,7 +3772,7 @@
             "injury_status": null,
             "age": 31,
             "years_exp": 8,
-            "search_rank": 447,
+            "search_rank": 449,
             "depth_chart_position": "TE"
           },
           "destination": {
@@ -3803,7 +3803,7 @@
             "position": "RB",
             "team": "PHI",
             "status": "Active",
-            "injury_status": null,
+            "injury_status": "Out",
             "age": 24,
             "years_exp": 2,
             "search_rank": 686,
@@ -3874,7 +3874,7 @@
             "injury_status": null,
             "age": 31,
             "years_exp": 8,
-            "search_rank": 447,
+            "search_rank": 449,
             "depth_chart_position": "TE"
           },
           "destination": {
@@ -3984,7 +3984,7 @@
             "injury_status": null,
             "age": 38,
             "years_exp": 14,
-            "search_rank": 268,
+            "search_rank": 269,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -4003,7 +4003,7 @@
             "position": "RB",
             "team": "TEN",
             "status": "Active",
-            "injury_status": null,
+            "injury_status": "Out",
             "age": 22,
             "years_exp": 0,
             "search_rank": 167,
@@ -4036,7 +4036,7 @@
             "position": "RB",
             "team": "PHI",
             "status": "Active",
-            "injury_status": null,
+            "injury_status": "Out",
             "age": 24,
             "years_exp": 2,
             "search_rank": 686,
@@ -4658,6 +4658,61 @@
       ]
     },
     {
+      "transaction_id": "1415054727539965952",
+      "week": 5,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791737846793,
+      "faab": null,
+      "adds": [
+        {
+          "player": {
+            "player_id": "12542",
+            "name": "Efton Chism",
+            "position": "WR",
+            "team": "NE",
+            "status": "Active",
+            "injury_status": null,
+            "age": 24,
+            "years_exp": 1,
+            "search_rank": 572,
+            "depth_chart_position": "SWR"
+          },
+          "destination": {
+            "roster_id": 8,
+            "owner_user_id": "995178101929816064",
+            "username": "ChaseyChase73",
+            "team_name": "ChaseyChase73"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "player_id": "13264",
+            "name": "Dohnte Meyers",
+            "position": "WR",
+            "team": "CIN",
+            "status": "Active",
+            "injury_status": null,
+            "age": 26,
+            "years_exp": 0,
+            "search_rank": 628,
+            "depth_chart_position": "SWR"
+          },
+          "source": {
+            "roster_id": 8,
+            "owner_user_id": "995178101929816064",
+            "username": "ChaseyChase73",
+            "team_name": "ChaseyChase73"
+          }
+        }
+      ],
+      "roster_ids": [
+        8
+      ]
+    },
+    {
       "transaction_id": "1414816184724942848",
       "week": 5,
       "type": "free_agent",
@@ -4752,7 +4807,7 @@
             "injury_status": "IR",
             "age": 23,
             "years_exp": 0,
-            "search_rank": 112,
+            "search_rank": 113,
             "depth_chart_position": "SWR"
           },
           "source": {
@@ -4850,7 +4905,7 @@
             "position": "WR",
             "team": "IND",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "age": 34,
             "years_exp": 13,
             "search_rank": 182,

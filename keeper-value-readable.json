@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-11T13:21:14.780577+00:00",
+  "snapshot_generated_at": "2026-10-11T18:22:34.696178+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -1050,7 +1050,7 @@
           "name": "Blake Corum",
           "position": "RB",
           "nfl_team": "LAR",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -1119,7 +1119,7 @@
           "name": "Jordan Addison",
           "position": "WR",
           "nfl_team": "MIN",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -1297,29 +1297,6 @@
           }
         },
         {
-          "player_id": "11620",
-          "name": "Rome Odunze",
-          "position": "WR",
-          "nfl_team": "CHI",
-          "location": "starter",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 5,
-            "pick_no": 62,
-            "original_roster_id": 9,
-            "original_owner_user_id": "1263686208978944001",
-            "original_username": "kevkazoo",
-            "original_team_name": "Nacua Matata",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 5,
-            "reason": "Drafted in Round 5"
-          }
-        },
-        {
           "player_id": "5967",
           "name": "Tony Pollard",
           "position": "RB",
@@ -1340,6 +1317,29 @@
             "eligible_next_season": true,
             "cost_round": 4,
             "reason": "Drafted in Round 4"
+          }
+        },
+        {
+          "player_id": "11620",
+          "name": "Rome Odunze",
+          "position": "WR",
+          "nfl_team": "CHI",
+          "location": "starter",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 5,
+            "pick_no": 62,
+            "original_roster_id": 9,
+            "original_owner_user_id": "1263686208978944001",
+            "original_username": "kevkazoo",
+            "original_team_name": "Nacua Matata",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 5,
+            "reason": "Drafted in Round 5"
           }
         },
         {
@@ -2488,7 +2488,7 @@
           "name": "Rico Dowdle",
           "position": "RB",
           "nfl_team": "PIT",
-          "location": "bench",
+          "location": "reserve",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -3036,7 +3036,7 @@
           "name": "Tee Higgins",
           "position": "WR",
           "nfl_team": "CIN",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -3197,7 +3197,7 @@
           "name": "Keaton Mitchell",
           "position": "RB",
           "nfl_team": "LAC",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -3448,7 +3448,7 @@
           "name": "Kenyon Sadiq",
           "position": "TE",
           "nfl_team": "NYJ",
-          "location": "starter",
+          "location": "bench",
           "draft": null,
           "keeper": {
             "eligible_next_season": true,
@@ -3530,7 +3530,7 @@
           "name": "Tre' Harris",
           "position": "WR",
           "nfl_team": "LAC",
-          "location": "bench",
+          "location": "starter",
           "draft": null,
           "keeper": {
             "eligible_next_season": true,
@@ -4047,10 +4047,10 @@
           }
         },
         {
-          "player_id": "13264",
-          "name": "Dohnte Meyers",
+          "player_id": "12542",
+          "name": "Efton Chism",
           "position": "WR",
-          "nfl_team": "CIN",
+          "nfl_team": "NE",
           "location": "bench",
           "draft": null,
           "keeper": {
