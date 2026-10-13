@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-13T08:18:43.946642+00:00",
+  "snapshot_generated_at": "2026-10-13T16:19:42.279684+00:00",
   "current_week": 6,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -117,10 +117,10 @@
           "depth_chart_position": "K"
         },
         {
-          "player_id": "LV",
-          "name": "Las Vegas Raiders",
+          "player_id": "LAR",
+          "name": "Los Angeles Rams",
           "position": "DEF",
-          "team": "LV",
+          "team": "LAR",
           "status": null,
           "injury_status": null,
           "age": null,
@@ -167,10 +167,10 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "LAR",
-          "name": "Los Angeles Rams",
+          "player_id": "LV",
+          "name": "Las Vegas Raiders",
           "position": "DEF",
-          "team": "LAR",
+          "team": "LV",
           "status": null,
           "injury_status": null,
           "age": null,
@@ -416,16 +416,16 @@
       },
       "starters": [
         {
-          "player_id": "3163",
-          "name": "Jared Goff",
-          "position": "QB",
-          "team": "DET",
-          "status": "Active",
+          "player_id": "0",
+          "name": "Unknown (0)",
+          "position": null,
+          "team": null,
+          "status": null,
           "injury_status": null,
-          "age": 31,
-          "years_exp": 10,
-          "search_rank": 62,
-          "depth_chart_position": "QB"
+          "age": null,
+          "years_exp": null,
+          "search_rank": null,
+          "depth_chart_position": null
         },
         {
           "player_id": "12527",
@@ -572,6 +572,18 @@
           "years_exp": 11,
           "search_rank": 358,
           "depth_chart_position": "TE"
+        },
+        {
+          "player_id": "3163",
+          "name": "Jared Goff",
+          "position": "QB",
+          "team": "DET",
+          "status": "Active",
+          "injury_status": null,
+          "age": 31,
+          "years_exp": 10,
+          "search_rank": 62,
+          "depth_chart_position": "QB"
         },
         {
           "player_id": "6806",
@@ -1231,15 +1243,15 @@
       },
       "starters": [
         {
-          "player_id": "1166",
-          "name": "Kirk Cousins",
+          "player_id": "4046",
+          "name": "Patrick Mahomes",
           "position": "QB",
-          "team": "LV",
+          "team": "KC",
           "status": "Active",
           "injury_status": null,
-          "age": 38,
-          "years_exp": 14,
-          "search_rank": 267,
+          "age": 31,
+          "years_exp": 9,
+          "search_rank": 39,
           "depth_chart_position": "QB"
         },
         {
@@ -1267,15 +1279,15 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "6794",
-          "name": "Justin Jefferson",
+          "player_id": "12526",
+          "name": "Tetairoa McMillan",
           "position": "WR",
-          "team": "MIN",
+          "team": "CAR",
           "status": "Active",
           "injury_status": null,
-          "age": 27,
-          "years_exp": 6,
-          "search_rank": 11,
+          "age": 23,
+          "years_exp": 1,
+          "search_rank": 38,
           "depth_chart_position": "LWR"
         },
         {
@@ -1341,16 +1353,16 @@
       ],
       "bench": [
         {
-          "player_id": "12526",
-          "name": "Tetairoa McMillan",
-          "position": "WR",
-          "team": "CAR",
+          "player_id": "1166",
+          "name": "Kirk Cousins",
+          "position": "QB",
+          "team": "LV",
           "status": "Active",
           "injury_status": null,
-          "age": 23,
-          "years_exp": 1,
-          "search_rank": 38,
-          "depth_chart_position": "LWR"
+          "age": 38,
+          "years_exp": 14,
+          "search_rank": 267,
+          "depth_chart_position": "QB"
         },
         {
           "player_id": "3321",
@@ -1365,18 +1377,6 @@
           "depth_chart_position": null
         },
         {
-          "player_id": "4046",
-          "name": "Patrick Mahomes",
-          "position": "QB",
-          "team": "KC",
-          "status": "Active",
-          "injury_status": null,
-          "age": 31,
-          "years_exp": 9,
-          "search_rank": 39,
-          "depth_chart_position": "QB"
-        },
-        {
           "player_id": "5850",
           "name": "Josh Jacobs",
           "position": "RB",
@@ -1387,6 +1387,18 @@
           "years_exp": 7,
           "search_rank": 20,
           "depth_chart_position": "RB"
+        },
+        {
+          "player_id": "6794",
+          "name": "Justin Jefferson",
+          "position": "WR",
+          "team": "MIN",
+          "status": "Active",
+          "injury_status": null,
+          "age": 27,
+          "years_exp": 6,
+          "search_rank": 11,
+          "depth_chart_position": "LWR"
         },
         {
           "player_id": "9228",
