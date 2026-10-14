@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-13T21:28:42.848720+00:00",
+  "snapshot_generated_at": "2026-10-14T00:33:55.247611+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -945,7 +945,7 @@
           "name": "Dak Prescott",
           "position": "QB",
           "nfl_team": "DAL",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -1014,7 +1014,7 @@
           "name": "Matthew Stafford",
           "position": "QB",
           "nfl_team": "LAR",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -1083,7 +1083,7 @@
           "name": "Travis Kelce",
           "position": "TE",
           "nfl_team": "KC",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -1142,7 +1142,7 @@
           "name": "Mike Gesicki",
           "position": "TE",
           "nfl_team": "CIN",
-          "location": "starter",
+          "location": "bench",
           "draft": null,
           "keeper": {
             "eligible_next_season": true,

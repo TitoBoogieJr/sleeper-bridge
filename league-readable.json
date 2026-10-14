@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-13T21:28:42.848720+00:00",
+  "snapshot_generated_at": "2026-10-14T00:33:55.247611+00:00",
   "current_week": 6,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -1663,15 +1663,15 @@
       },
       "starters": [
         {
-          "player_id": "3294",
-          "name": "Dak Prescott",
+          "player_id": "421",
+          "name": "Matthew Stafford",
           "position": "QB",
-          "team": "DAL",
+          "team": "LAR",
           "status": "Active",
           "injury_status": null,
-          "age": 33,
-          "years_exp": 10,
-          "search_rank": 38,
+          "age": 38,
+          "years_exp": 17,
+          "search_rank": 64,
           "depth_chart_position": "QB"
         },
         {
@@ -1723,15 +1723,15 @@
           "depth_chart_position": "LWR"
         },
         {
-          "player_id": "4993",
-          "name": "Mike Gesicki",
+          "player_id": "1466",
+          "name": "Travis Kelce",
           "position": "TE",
-          "team": "CIN",
+          "team": "KC",
           "status": "Active",
           "injury_status": null,
-          "age": 31,
-          "years_exp": 8,
-          "search_rank": 447,
+          "age": 37,
+          "years_exp": 13,
+          "search_rank": 89,
           "depth_chart_position": "TE"
         },
         {
@@ -1785,28 +1785,28 @@
           "depth_chart_position": "SWR"
         },
         {
-          "player_id": "1466",
-          "name": "Travis Kelce",
-          "position": "TE",
-          "team": "KC",
+          "player_id": "3294",
+          "name": "Dak Prescott",
+          "position": "QB",
+          "team": "DAL",
           "status": "Active",
           "injury_status": null,
-          "age": 37,
-          "years_exp": 13,
-          "search_rank": 89,
-          "depth_chart_position": "TE"
+          "age": 33,
+          "years_exp": 10,
+          "search_rank": 38,
+          "depth_chart_position": "QB"
         },
         {
-          "player_id": "421",
-          "name": "Matthew Stafford",
-          "position": "QB",
-          "team": "LAR",
+          "player_id": "4993",
+          "name": "Mike Gesicki",
+          "position": "TE",
+          "team": "CIN",
           "status": "Active",
           "injury_status": null,
-          "age": 38,
-          "years_exp": 17,
-          "search_rank": 64,
-          "depth_chart_position": "QB"
+          "age": 31,
+          "years_exp": 8,
+          "search_rank": 447,
+          "depth_chart_position": "TE"
         },
         {
           "player_id": "8132",
