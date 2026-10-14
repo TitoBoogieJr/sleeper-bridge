@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-14T16:57:17.057211+00:00",
+  "snapshot_generated_at": "2026-10-14T20:34:56.215258+00:00",
   "current_week": 6,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -428,16 +428,16 @@
       },
       "starters": [
         {
-          "player_id": "0",
-          "name": "Unknown (0)",
-          "position": null,
-          "team": null,
-          "status": null,
+          "player_id": "12522",
+          "name": "Cam Ward",
+          "position": "QB",
+          "team": "TEN",
+          "status": "Active",
           "injury_status": null,
-          "age": null,
-          "years_exp": null,
-          "search_rank": null,
-          "depth_chart_position": null
+          "age": 24,
+          "years_exp": 1,
+          "search_rank": 116,
+          "depth_chart_position": "QB"
         },
         {
           "player_id": "12527",
@@ -452,16 +452,16 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "0",
-          "name": "Unknown (0)",
-          "position": null,
-          "team": null,
-          "status": null,
+          "player_id": "6806",
+          "name": "J.K. Dobbins",
+          "position": "RB",
+          "team": "DEN",
+          "status": "Active",
           "injury_status": null,
-          "age": null,
-          "years_exp": null,
-          "search_rank": null,
-          "depth_chart_position": null
+          "age": 27,
+          "years_exp": 6,
+          "search_rank": 68,
+          "depth_chart_position": "RB"
         },
         {
           "player_id": "8144",
@@ -476,16 +476,16 @@
           "depth_chart_position": "RWR"
         },
         {
-          "player_id": "7526",
-          "name": "Jaylen Waddle",
+          "player_id": "13279",
+          "name": "Carnell Tate",
           "position": "WR",
-          "team": "DEN",
+          "team": "TEN",
           "status": "Active",
           "injury_status": null,
-          "age": 27,
-          "years_exp": 5,
-          "search_rank": 42,
-          "depth_chart_position": "RWR"
+          "age": 21,
+          "years_exp": 0,
+          "search_rank": 61,
+          "depth_chart_position": "LWR"
         },
         {
           "player_id": "12517",
@@ -538,30 +538,6 @@
       ],
       "bench": [
         {
-          "player_id": "12522",
-          "name": "Cam Ward",
-          "position": "QB",
-          "team": "TEN",
-          "status": "Active",
-          "injury_status": null,
-          "age": 24,
-          "years_exp": 1,
-          "search_rank": 116,
-          "depth_chart_position": "QB"
-        },
-        {
-          "player_id": "13279",
-          "name": "Carnell Tate",
-          "position": "WR",
-          "team": "TEN",
-          "status": "Active",
-          "injury_status": null,
-          "age": 21,
-          "years_exp": 0,
-          "search_rank": 61,
-          "depth_chart_position": "LWR"
-        },
-        {
           "player_id": "13281",
           "name": "Jordyn Tyson",
           "position": "WR",
@@ -598,16 +574,16 @@
           "depth_chart_position": "QB"
         },
         {
-          "player_id": "6806",
-          "name": "J.K. Dobbins",
-          "position": "RB",
+          "player_id": "7526",
+          "name": "Jaylen Waddle",
+          "position": "WR",
           "team": "DEN",
           "status": "Active",
           "injury_status": null,
           "age": 27,
-          "years_exp": 6,
-          "search_rank": 68,
-          "depth_chart_position": "RB"
+          "years_exp": 5,
+          "search_rank": 42,
+          "depth_chart_position": "RWR"
         },
         {
           "player_id": "9224",
@@ -673,15 +649,15 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "11635",
-          "name": "Ladd McConkey",
+          "player_id": "11646",
+          "name": "Jalen Coker",
           "position": "WR",
-          "team": "LAC",
+          "team": "CAR",
           "status": "Active",
           "injury_status": "Questionable",
           "age": 24,
           "years_exp": 2,
-          "search_rank": 35,
+          "search_rank": 132,
           "depth_chart_position": "SWR"
         },
         {
@@ -709,15 +685,15 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "11646",
-          "name": "Jalen Coker",
+          "player_id": "11635",
+          "name": "Ladd McConkey",
           "position": "WR",
-          "team": "CAR",
+          "team": "LAC",
           "status": "Active",
           "injury_status": "Questionable",
           "age": 24,
           "years_exp": 2,
-          "search_rank": 132,
+          "search_rank": 35,
           "depth_chart_position": "SWR"
         },
         {

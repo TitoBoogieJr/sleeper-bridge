@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-14T16:57:17.057211+00:00",
+  "snapshot_generated_at": "2026-10-14T20:34:56.215258+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -3626,7 +3626,7 @@
           "name": "Jaylen Waddle",
           "position": "WR",
           "nfl_team": "DEN",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -3649,7 +3649,7 @@
           "name": "Carnell Tate",
           "position": "WR",
           "nfl_team": "TEN",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -3718,7 +3718,7 @@
           "name": "J.K. Dobbins",
           "position": "RB",
           "nfl_team": "DEN",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -3741,7 +3741,7 @@
           "name": "Cam Ward",
           "position": "QB",
           "nfl_team": "TEN",
-          "location": "bench",
+          "location": "starter",
           "draft": null,
           "keeper": {
             "eligible_next_season": true,
