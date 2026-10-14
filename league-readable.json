@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-14T05:58:27.666054+00:00",
+  "snapshot_generated_at": "2026-10-14T11:41:42.806604+00:00",
   "current_week": 6,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -17,7 +17,7 @@
         "wins": 4,
         "losses": 6,
         "ties": 0,
-        "faab_used": 24
+        "faab_used": 49
       },
       "starters": [
         {
@@ -131,6 +131,18 @@
       ],
       "bench": [
         {
+          "player_id": "11559",
+          "name": "Michael Penix",
+          "position": "QB",
+          "team": "ATL",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "age": 26,
+          "years_exp": 2,
+          "search_rank": 228,
+          "depth_chart_position": "QB"
+        },
+        {
           "player_id": "12514",
           "name": "Emeka Egbuka",
           "position": "WR",
@@ -155,28 +167,28 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "5001",
-          "name": "Dalton Schultz",
+          "player_id": "7600",
+          "name": "Pat Freiermuth",
           "position": "TE",
-          "team": "HOU",
+          "team": "PIT",
           "status": "Active",
           "injury_status": null,
-          "age": 30,
-          "years_exp": 8,
-          "search_rank": 98,
+          "age": 27,
+          "years_exp": 5,
+          "search_rank": 230,
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "LV",
-          "name": "Las Vegas Raiders",
-          "position": "DEF",
-          "team": "LV",
-          "status": null,
+          "player_id": "8129",
+          "name": "Dameon Pierce",
+          "position": "RB",
+          "team": "PHI",
+          "status": "Active",
           "injury_status": null,
-          "age": null,
-          "years_exp": null,
-          "search_rank": null,
-          "depth_chart_position": null
+          "age": 26,
+          "years_exp": 4,
+          "search_rank": 666,
+          "depth_chart_position": "RB"
         }
       ],
       "reserve": [
@@ -412,7 +424,7 @@
         "wins": 7,
         "losses": 3,
         "ties": 0,
-        "faab_used": 0
+        "faab_used": 7
       },
       "starters": [
         {
@@ -526,6 +538,18 @@
       ],
       "bench": [
         {
+          "player_id": "12522",
+          "name": "Cam Ward",
+          "position": "QB",
+          "team": "TEN",
+          "status": "Active",
+          "injury_status": null,
+          "age": 24,
+          "years_exp": 1,
+          "search_rank": 116,
+          "depth_chart_position": "QB"
+        },
+        {
           "player_id": "13279",
           "name": "Carnell Tate",
           "position": "WR",
@@ -560,18 +584,6 @@
           "years_exp": 0,
           "search_rank": 201,
           "depth_chart_position": "RWR"
-        },
-        {
-          "player_id": "2505",
-          "name": "Darren Waller",
-          "position": "TE",
-          "team": "CAR",
-          "status": "Active",
-          "injury_status": null,
-          "age": 34,
-          "years_exp": 11,
-          "search_rank": 359,
-          "depth_chart_position": "TE"
         },
         {
           "player_id": "3163",
@@ -661,6 +673,18 @@
           "depth_chart_position": "RB"
         },
         {
+          "player_id": "11635",
+          "name": "Ladd McConkey",
+          "position": "WR",
+          "team": "LAC",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "age": 24,
+          "years_exp": 2,
+          "search_rank": 34,
+          "depth_chart_position": "SWR"
+        },
+        {
           "player_id": "8126",
           "name": "Wan'Dale Robinson",
           "position": "WR",
@@ -670,18 +694,6 @@
           "age": 25,
           "years_exp": 4,
           "search_rank": 105,
-          "depth_chart_position": "SWR"
-        },
-        {
-          "player_id": "13298",
-          "name": "KC Concepcion",
-          "position": "WR",
-          "team": "CLE",
-          "status": "Active",
-          "injury_status": "Out",
-          "age": 22,
-          "years_exp": 0,
-          "search_rank": 111,
           "depth_chart_position": "SWR"
         },
         {
@@ -697,16 +709,16 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "12509",
-          "name": "Tre' Harris",
+          "player_id": "11646",
+          "name": "Jalen Coker",
           "position": "WR",
-          "team": "LAC",
+          "team": "CAR",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "age": 24,
-          "years_exp": 1,
-          "search_rank": 179,
-          "depth_chart_position": "RWR"
+          "years_exp": 2,
+          "search_rank": 132,
+          "depth_chart_position": "SWR"
         },
         {
           "player_id": "11539",
@@ -734,18 +746,6 @@
         }
       ],
       "bench": [
-        {
-          "player_id": "11635",
-          "name": "Ladd McConkey",
-          "position": "WR",
-          "team": "LAC",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "age": 24,
-          "years_exp": 2,
-          "search_rank": 34,
-          "depth_chart_position": "SWR"
-        },
         {
           "player_id": "11637",
           "name": "Keon Coleman",
@@ -783,6 +783,18 @@
           "depth_chart_position": "QB"
         },
         {
+          "player_id": "13298",
+          "name": "KC Concepcion",
+          "position": "WR",
+          "team": "CLE",
+          "status": "Active",
+          "injury_status": "Out",
+          "age": 22,
+          "years_exp": 0,
+          "search_rank": 111,
+          "depth_chart_position": "SWR"
+        },
+        {
           "player_id": "13330",
           "name": "Kenyon Sadiq",
           "position": "TE",
@@ -796,18 +808,6 @@
         }
       ],
       "reserve": [
-        {
-          "player_id": "11646",
-          "name": "Jalen Coker",
-          "position": "WR",
-          "team": "CAR",
-          "status": "Active",
-          "injury_status": "Out",
-          "age": 24,
-          "years_exp": 2,
-          "search_rank": 132,
-          "depth_chart_position": "SWR"
-        },
         {
           "player_id": "5859",
           "name": "A.J. Brown",
@@ -1251,7 +1251,7 @@
         "wins": 7,
         "losses": 3,
         "ties": 0,
-        "faab_used": 21
+        "faab_used": 31
       },
       "starters": [
         {
@@ -1365,16 +1365,16 @@
       ],
       "bench": [
         {
-          "player_id": "1166",
-          "name": "Kirk Cousins",
-          "position": "QB",
-          "team": "LV",
+          "player_id": "11647",
+          "name": "Kimani Vidal",
+          "position": "RB",
+          "team": "LAC",
           "status": "Active",
           "injury_status": null,
-          "age": 38,
-          "years_exp": 14,
-          "search_rank": 268,
-          "depth_chart_position": "QB"
+          "age": 25,
+          "years_exp": 2,
+          "search_rank": 141,
+          "depth_chart_position": "RB"
         },
         {
           "player_id": "3321",
@@ -1477,16 +1477,16 @@
           "depth_chart_position": "QB"
         },
         {
-          "player_id": "11577",
-          "name": "Will Shipley",
-          "position": "RB",
-          "team": "PHI",
-          "status": "Active",
-          "injury_status": "Out",
-          "age": 24,
-          "years_exp": 2,
-          "search_rank": 686,
-          "depth_chart_position": "RB"
+          "player_id": "0",
+          "name": "Unknown (0)",
+          "position": null,
+          "team": null,
+          "status": null,
+          "injury_status": null,
+          "age": null,
+          "years_exp": null,
+          "search_rank": null,
+          "depth_chart_position": null
         },
         {
           "player_id": "12495",
@@ -1574,6 +1574,18 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "11439",
+          "name": "Jaleel McLaughlin",
+          "position": "RB",
+          "team": "CLE",
+          "status": "Active",
+          "injury_status": null,
+          "age": 26,
+          "years_exp": 3,
+          "search_rank": 698,
+          "depth_chart_position": "RB"
+        },
         {
           "player_id": "11628",
           "name": "Marvin Harrison",
@@ -1857,7 +1869,7 @@
         "wins": 7,
         "losses": 3,
         "ties": 0,
-        "faab_used": 50
+        "faab_used": 61
       },
       "starters": [
         {
@@ -1971,6 +1983,18 @@
       ],
       "bench": [
         {
+          "player_id": "13274",
+          "name": "Germie Bernard",
+          "position": "WR",
+          "team": "PIT",
+          "status": "Active",
+          "injury_status": null,
+          "age": 22,
+          "years_exp": 0,
+          "search_rank": 194,
+          "depth_chart_position": "LWR"
+        },
+        {
           "player_id": "3634",
           "name": "Kalif Raymond",
           "position": "WR",
@@ -1981,18 +2005,6 @@
           "years_exp": 10,
           "search_rank": 645,
           "depth_chart_position": "SWR"
-        },
-        {
-          "player_id": "5844",
-          "name": "T.J. Hockenson",
-          "position": "TE",
-          "team": "MIN",
-          "status": "Active",
-          "injury_status": "Out",
-          "age": 29,
-          "years_exp": 7,
-          "search_rank": 128,
-          "depth_chart_position": "TE"
         },
         {
           "player_id": "8136",
@@ -2043,6 +2055,18 @@
           "years_exp": 0,
           "search_rank": 147,
           "depth_chart_position": "RWR"
+        },
+        {
+          "player_id": "5844",
+          "name": "T.J. Hockenson",
+          "position": "TE",
+          "team": "MIN",
+          "status": "Active",
+          "injury_status": "Out",
+          "age": 29,
+          "years_exp": 7,
+          "search_rank": 128,
+          "depth_chart_position": "TE"
         },
         {
           "player_id": "8155",

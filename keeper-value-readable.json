@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-14T05:58:27.666054+00:00",
+  "snapshot_generated_at": "2026-10-14T11:41:42.806604+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -248,7 +248,7 @@
           "name": "T.J. Hockenson",
           "position": "TE",
           "nfl_team": "MIN",
-          "location": "bench",
+          "location": "reserve",
           "draft": null,
           "keeper": {
             "eligible_next_season": true,
@@ -284,6 +284,19 @@
           "name": "Kendre Miller",
           "position": "RB",
           "nfl_team": "NO",
+          "location": "bench",
+          "draft": null,
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 14,
+            "reason": "Undrafted player; keeper cost is Round 14"
+          }
+        },
+        {
+          "player_id": "13274",
+          "name": "Germie Bernard",
+          "position": "WR",
+          "nfl_team": "PIT",
           "location": "bench",
           "draft": null,
           "keeper": {
@@ -2025,10 +2038,10 @@
           }
         },
         {
-          "player_id": "1166",
-          "name": "Kirk Cousins",
-          "position": "QB",
-          "nfl_team": "LV",
+          "player_id": "11647",
+          "name": "Kimani Vidal",
+          "position": "RB",
+          "nfl_team": "LAC",
           "location": "bench",
           "draft": null,
           "keeper": {
@@ -2530,29 +2543,6 @@
           }
         },
         {
-          "player_id": "5001",
-          "name": "Dalton Schultz",
-          "position": "TE",
-          "nfl_team": "HOU",
-          "location": "bench",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 14,
-            "pick_no": 195,
-            "original_roster_id": 10,
-            "original_owner_user_id": "1263230668070977536",
-            "original_username": "lionelesteban",
-            "original_team_name": "Kittle El Cero Miedo",
-            "is_keeper": true
-          },
-          "keeper": {
-            "eligible_next_season": false,
-            "cost_round": null,
-            "reason": "Already used as a keeper this season"
-          }
-        },
-        {
           "player_id": "9753",
           "name": "Zach Charbonnet",
           "position": "RB",
@@ -2627,6 +2617,45 @@
           "position": "RB",
           "nfl_team": "SEA",
           "location": "starter",
+          "draft": null,
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 14,
+            "reason": "Undrafted player; keeper cost is Round 14"
+          }
+        },
+        {
+          "player_id": "11559",
+          "name": "Michael Penix",
+          "position": "QB",
+          "nfl_team": "ATL",
+          "location": "bench",
+          "draft": null,
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 14,
+            "reason": "Undrafted player; keeper cost is Round 14"
+          }
+        },
+        {
+          "player_id": "7600",
+          "name": "Pat Freiermuth",
+          "position": "TE",
+          "nfl_team": "PIT",
+          "location": "bench",
+          "draft": null,
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 14,
+            "reason": "Undrafted player; keeper cost is Round 14"
+          }
+        },
+        {
+          "player_id": "8129",
+          "name": "Dameon Pierce",
+          "position": "RB",
+          "nfl_team": "PHI",
+          "location": "bench",
           "draft": null,
           "keeper": {
             "eligible_next_season": true,
@@ -3310,7 +3339,7 @@
           "name": "Ladd McConkey",
           "position": "WR",
           "nfl_team": "LAC",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -3461,7 +3490,7 @@
           "name": "KC Concepcion",
           "position": "WR",
           "nfl_team": "CLE",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -3484,7 +3513,7 @@
           "name": "Jalen Coker",
           "position": "WR",
           "nfl_team": "CAR",
-          "location": "reserve",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -3523,19 +3552,6 @@
             "eligible_next_season": true,
             "cost_round": 14,
             "reason": "Drafted in Round 14"
-          }
-        },
-        {
-          "player_id": "12509",
-          "name": "Tre' Harris",
-          "position": "WR",
-          "nfl_team": "LAC",
-          "location": "starter",
-          "draft": null,
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 14,
-            "reason": "Undrafted player; keeper cost is Round 14"
           }
         },
         {
@@ -3767,6 +3783,19 @@
           }
         },
         {
+          "player_id": "12522",
+          "name": "Cam Ward",
+          "position": "QB",
+          "nfl_team": "TEN",
+          "location": "bench",
+          "draft": null,
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 14,
+            "reason": "Undrafted player; keeper cost is Round 14"
+          }
+        },
+        {
           "player_id": "12501",
           "name": "Matthew Golden",
           "position": "WR",
@@ -3794,19 +3823,6 @@
           "name": "Malachi Fields",
           "position": "WR",
           "nfl_team": "NYG",
-          "location": "bench",
-          "draft": null,
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 14,
-            "reason": "Undrafted player; keeper cost is Round 14"
-          }
-        },
-        {
-          "player_id": "2505",
-          "name": "Darren Waller",
-          "position": "TE",
-          "nfl_team": "CAR",
           "location": "bench",
           "draft": null,
           "keeper": {
@@ -4073,11 +4089,11 @@
           }
         },
         {
-          "player_id": "11577",
-          "name": "Will Shipley",
+          "player_id": "11439",
+          "name": "Jaleel McLaughlin",
           "position": "RB",
-          "nfl_team": "PHI",
-          "location": "starter",
+          "nfl_team": "CLE",
+          "location": "bench",
           "draft": null,
           "keeper": {
             "eligible_next_season": true,
