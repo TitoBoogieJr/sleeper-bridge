@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-14T00:33:55.247611+00:00",
+  "snapshot_generated_at": "2026-10-14T05:58:27.666054+00:00",
   "current_week": 6,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -440,16 +440,16 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "9224",
-          "name": "Chase Brown",
-          "position": "RB",
-          "team": "CIN",
-          "status": "Active",
+          "player_id": "0",
+          "name": "Unknown (0)",
+          "position": null,
+          "team": null,
+          "status": null,
           "injury_status": null,
-          "age": 26,
-          "years_exp": 3,
-          "search_rank": 14,
-          "depth_chart_position": "RB"
+          "age": null,
+          "years_exp": null,
+          "search_rank": null,
+          "depth_chart_position": null
         },
         {
           "player_id": "8144",
@@ -595,6 +595,18 @@
           "age": 27,
           "years_exp": 6,
           "search_rank": 68,
+          "depth_chart_position": "RB"
+        },
+        {
+          "player_id": "9224",
+          "name": "Chase Brown",
+          "position": "RB",
+          "team": "CIN",
+          "status": "Active",
+          "injury_status": null,
+          "age": 26,
+          "years_exp": 3,
+          "search_rank": 14,
           "depth_chart_position": "RB"
         }
       ],
@@ -2467,40 +2479,40 @@
       },
       "starters": [
         {
-          "player_id": "5849",
-          "name": "Kyler Murray",
-          "position": "QB",
-          "team": "MIN",
-          "status": "Active",
+          "player_id": "0",
+          "name": "Unknown (0)",
+          "position": null,
+          "team": null,
+          "status": null,
           "injury_status": null,
-          "age": 29,
-          "years_exp": 7,
-          "search_rank": 87,
-          "depth_chart_position": "QB"
+          "age": null,
+          "years_exp": null,
+          "search_rank": null,
+          "depth_chart_position": null
         },
         {
-          "player_id": "9221",
-          "name": "Jahmyr Gibbs",
-          "position": "RB",
-          "team": "DET",
-          "status": "Active",
+          "player_id": "0",
+          "name": "Unknown (0)",
+          "position": null,
+          "team": null,
+          "status": null,
           "injury_status": null,
-          "age": 24,
-          "years_exp": 3,
-          "search_rank": 1,
-          "depth_chart_position": "RB"
+          "age": null,
+          "years_exp": null,
+          "search_rank": null,
+          "depth_chart_position": null
         },
         {
-          "player_id": "4199",
-          "name": "Aaron Jones",
-          "position": "RB",
-          "team": "MIN",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "age": 31,
-          "years_exp": 9,
-          "search_rank": 85,
-          "depth_chart_position": "RB"
+          "player_id": "0",
+          "name": "Unknown (0)",
+          "position": null,
+          "team": null,
+          "status": null,
+          "injury_status": null,
+          "age": null,
+          "years_exp": null,
+          "search_rank": null,
+          "depth_chart_position": null
         },
         {
           "player_id": "13346",
@@ -2527,6 +2539,18 @@
           "depth_chart_position": "LWR"
         },
         {
+          "player_id": "5022",
+          "name": "Dallas Goedert",
+          "position": "TE",
+          "team": "PHI",
+          "status": "Active",
+          "injury_status": null,
+          "age": 31,
+          "years_exp": 8,
+          "search_rank": 94,
+          "depth_chart_position": "TE"
+        },
+        {
           "player_id": "9480",
           "name": "Brenton Strange",
           "position": "TE",
@@ -2539,28 +2563,16 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "12529",
-          "name": "TreVeyon Henderson",
-          "position": "RB",
-          "team": "NE",
-          "status": "Active",
-          "injury_status": "Out",
-          "age": 23,
-          "years_exp": 1,
-          "search_rank": 39,
-          "depth_chart_position": "RB"
-        },
-        {
-          "player_id": "11792",
-          "name": "Will Reichard",
-          "position": "K",
-          "team": "MIN",
-          "status": "Active",
+          "player_id": "0",
+          "name": "Unknown (0)",
+          "position": null,
+          "team": null,
+          "status": null,
           "injury_status": null,
-          "age": 25,
-          "years_exp": 2,
-          "search_rank": 171,
-          "depth_chart_position": "K"
+          "age": null,
+          "years_exp": null,
+          "search_rank": null,
+          "depth_chart_position": null
         },
         {
           "player_id": "JAX",
@@ -2589,16 +2601,40 @@
           "depth_chart_position": "SWR"
         },
         {
-          "player_id": "5022",
-          "name": "Dallas Goedert",
-          "position": "TE",
-          "team": "PHI",
+          "player_id": "11792",
+          "name": "Will Reichard",
+          "position": "K",
+          "team": "MIN",
           "status": "Active",
           "injury_status": null,
+          "age": 25,
+          "years_exp": 2,
+          "search_rank": 171,
+          "depth_chart_position": "K"
+        },
+        {
+          "player_id": "4199",
+          "name": "Aaron Jones",
+          "position": "RB",
+          "team": "MIN",
+          "status": "Active",
+          "injury_status": "Questionable",
           "age": 31,
-          "years_exp": 8,
-          "search_rank": 94,
-          "depth_chart_position": "TE"
+          "years_exp": 9,
+          "search_rank": 85,
+          "depth_chart_position": "RB"
+        },
+        {
+          "player_id": "5849",
+          "name": "Kyler Murray",
+          "position": "QB",
+          "team": "MIN",
+          "status": "Active",
+          "injury_status": null,
+          "age": 29,
+          "years_exp": 7,
+          "search_rank": 87,
+          "depth_chart_position": "QB"
         },
         {
           "player_id": "5927",
@@ -2625,6 +2661,18 @@
           "depth_chart_position": "RWR"
         },
         {
+          "player_id": "9221",
+          "name": "Jahmyr Gibbs",
+          "position": "RB",
+          "team": "DET",
+          "status": "Active",
+          "injury_status": null,
+          "age": 24,
+          "years_exp": 3,
+          "search_rank": 1,
+          "depth_chart_position": "RB"
+        },
+        {
           "player_id": "BUF",
           "name": "Buffalo Bills",
           "position": "DEF",
@@ -2649,6 +2697,18 @@
           "years_exp": 2,
           "search_rank": 20,
           "depth_chart_position": "QB"
+        },
+        {
+          "player_id": "12529",
+          "name": "TreVeyon Henderson",
+          "position": "RB",
+          "team": "NE",
+          "status": "Active",
+          "injury_status": "Out",
+          "age": 23,
+          "years_exp": 1,
+          "search_rank": 39,
+          "depth_chart_position": "RB"
         },
         {
           "player_id": "13345",

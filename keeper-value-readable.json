@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-14T00:33:55.247611+00:00",
+  "snapshot_generated_at": "2026-10-14T05:58:27.666054+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -318,7 +318,7 @@
           "name": "Jahmyr Gibbs",
           "position": "RB",
           "nfl_team": "DET",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -387,7 +387,7 @@
           "name": "TreVeyon Henderson",
           "position": "RB",
           "nfl_team": "NE",
-          "location": "starter",
+          "location": "reserve",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -479,7 +479,7 @@
           "name": "Aaron Jones",
           "position": "RB",
           "nfl_team": "MIN",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -502,7 +502,7 @@
           "name": "Kyler Murray",
           "position": "QB",
           "nfl_team": "MIN",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -525,7 +525,7 @@
           "name": "Dallas Goedert",
           "position": "TE",
           "nfl_team": "PHI",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -3587,7 +3587,7 @@
           "name": "Chase Brown",
           "position": "RB",
           "nfl_team": "CIN",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
