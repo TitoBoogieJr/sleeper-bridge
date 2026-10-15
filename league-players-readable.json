@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-15T18:33:41.424257+00:00",
+  "snapshot_generated_at": "2026-10-15T22:04:14.603302+00:00",
   "players": [
     {
       "player_id": "9509",
@@ -493,7 +493,7 @@
       "owner_user_id": "1263686542304485376",
       "username": "WestManBruce",
       "team_name": "WestManBruce",
-      "location": "bench",
+      "location": "starter",
       "draft": {
         "draft_id": "1313649397531148288",
         "season": "2026",
@@ -1139,7 +1139,7 @@
       "owner_user_id": "1263686542304485376",
       "username": "WestManBruce",
       "team_name": "WestManBruce",
-      "location": "starter",
+      "location": "reserve",
       "draft": {
         "draft_id": "1313649397531148288",
         "season": "2026",
@@ -1207,7 +1207,7 @@
       "owner_user_id": "1263230668070977536",
       "username": "lionelesteban",
       "team_name": "Kittle El Cero Miedo",
-      "location": "bench",
+      "location": "reserve",
       "draft": {
         "draft_id": "1313649397531148288",
         "season": "2026",
@@ -1547,7 +1547,7 @@
       "owner_user_id": "1263686542304485376",
       "username": "WestManBruce",
       "team_name": "WestManBruce",
-      "location": "starter",
+      "location": "bench",
       "draft": {
         "draft_id": "1313649397531148288",
         "season": "2026",
@@ -6046,12 +6046,12 @@
       "years_exp": 0,
       "search_rank": 161,
       "depth_chart_position": "RB",
-      "rostered": false,
-      "roster_id": null,
-      "owner_user_id": null,
-      "username": null,
-      "team_name": null,
-      "location": "free_agent",
+      "rostered": true,
+      "roster_id": 10,
+      "owner_user_id": "1263230668070977536",
+      "username": "lionelesteban",
+      "team_name": "Kittle El Cero Miedo",
+      "location": "bench",
       "draft": {
         "draft_id": "1313649397531148288",
         "season": "2026",
@@ -7956,12 +7956,12 @@
       "years_exp": 14,
       "search_rank": 267,
       "depth_chart_position": "QB",
-      "rostered": false,
-      "roster_id": null,
-      "owner_user_id": null,
-      "username": null,
-      "team_name": null,
-      "location": "free_agent",
+      "rostered": true,
+      "roster_id": 5,
+      "owner_user_id": "1263686542304485376",
+      "username": "WestManBruce",
+      "team_name": "WestManBruce",
+      "location": "starter",
       "draft": null,
       "keeper": {
         "eligible_next_season": true,

@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-15T18:33:41.424257+00:00",
+  "snapshot_generated_at": "2026-10-15T22:04:14.603302+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -5566,6 +5566,74 @@
       ],
       "roster_ids": [
         1
+      ]
+    },
+    {
+      "transaction_id": "1416573841962000384",
+      "week": 6,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792100031895,
+      "faab": null,
+      "adds": [
+        {
+          "player": {
+            "player_id": "1166",
+            "name": "Kirk Cousins",
+            "position": "QB",
+            "team": "LV",
+            "status": "Active",
+            "injury_status": null,
+            "age": 38,
+            "years_exp": 14,
+            "search_rank": 267,
+            "depth_chart_position": "QB"
+          },
+          "destination": {
+            "roster_id": 5,
+            "owner_user_id": "1263686542304485376",
+            "username": "WestManBruce",
+            "team_name": "WestManBruce"
+          }
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        5
+      ]
+    },
+    {
+      "transaction_id": "1416541352853864448",
+      "week": 6,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792092285888,
+      "faab": null,
+      "adds": [
+        {
+          "player": {
+            "player_id": "13414",
+            "name": "Kaelon Black",
+            "position": "RB",
+            "team": "SF",
+            "status": "Active",
+            "injury_status": null,
+            "age": 24,
+            "years_exp": 0,
+            "search_rank": 161,
+            "depth_chart_position": "RB"
+          },
+          "destination": {
+            "roster_id": 10,
+            "owner_user_id": "1263230668070977536",
+            "username": "lionelesteban",
+            "team_name": "Kittle El Cero Miedo"
+          }
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        10
       ]
     },
     {

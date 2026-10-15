@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-15T18:33:41.424257+00:00",
+  "snapshot_generated_at": "2026-10-15T22:04:14.603302+00:00",
   "current_week": 6,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -823,15 +823,15 @@
       },
       "starters": [
         {
-          "player_id": "6904",
-          "name": "Jalen Hurts",
+          "player_id": "1166",
+          "name": "Kirk Cousins",
           "position": "QB",
-          "team": "PHI",
+          "team": "LV",
           "status": "Active",
           "injury_status": null,
-          "age": 28,
-          "years_exp": 6,
-          "search_rank": 26,
+          "age": 38,
+          "years_exp": 14,
+          "search_rank": 267,
           "depth_chart_position": "QB"
         },
         {
@@ -895,16 +895,16 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "6801",
-          "name": "Tee Higgins",
-          "position": "WR",
-          "team": "CIN",
+          "player_id": "4866",
+          "name": "Saquon Barkley",
+          "position": "RB",
+          "team": "PHI",
           "status": "Active",
-          "injury_status": null,
-          "age": 27,
-          "years_exp": 6,
-          "search_rank": 36,
-          "depth_chart_position": "RWR"
+          "injury_status": "Questionable",
+          "age": 29,
+          "years_exp": 8,
+          "search_rank": 11,
+          "depth_chart_position": "RB"
         },
         {
           "player_id": "5189",
@@ -969,16 +969,16 @@
           "depth_chart_position": "RWR"
         },
         {
-          "player_id": "4866",
-          "name": "Saquon Barkley",
-          "position": "RB",
-          "team": "PHI",
+          "player_id": "6801",
+          "name": "Tee Higgins",
+          "position": "WR",
+          "team": "CIN",
           "status": "Active",
-          "injury_status": "Questionable",
-          "age": 29,
-          "years_exp": 8,
-          "search_rank": 11,
-          "depth_chart_position": "RB"
+          "injury_status": null,
+          "age": 27,
+          "years_exp": 6,
+          "search_rank": 36,
+          "depth_chart_position": "RWR"
         },
         {
           "player_id": "9511",
@@ -1005,6 +1005,18 @@
           "years_exp": 6,
           "search_rank": 106,
           "depth_chart_position": "RWR"
+        },
+        {
+          "player_id": "6904",
+          "name": "Jalen Hurts",
+          "position": "QB",
+          "team": "PHI",
+          "status": "Active",
+          "injury_status": null,
+          "age": 28,
+          "years_exp": 6,
+          "search_rank": 26,
+          "depth_chart_position": "QB"
         }
       ]
     },
@@ -1861,15 +1873,15 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "4983",
-          "name": "DJ Moore",
+          "player_id": "2133",
+          "name": "Davante Adams",
           "position": "WR",
-          "team": "BUF",
+          "team": "LAR",
           "status": "Active",
-          "injury_status": "Questionable",
-          "age": 29,
-          "years_exp": 8,
-          "search_rank": 50,
+          "injury_status": null,
+          "age": 33,
+          "years_exp": 12,
+          "search_rank": 46,
           "depth_chart_position": "LWR"
         },
         {
@@ -1897,15 +1909,15 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "2133",
-          "name": "Davante Adams",
+          "player_id": "4983",
+          "name": "DJ Moore",
           "position": "WR",
-          "team": "LAR",
+          "team": "BUF",
           "status": "Active",
-          "injury_status": null,
-          "age": 33,
-          "years_exp": 12,
-          "search_rank": 46,
+          "injury_status": "Questionable",
+          "age": 29,
+          "years_exp": 8,
+          "search_rank": 50,
           "depth_chart_position": "LWR"
         },
         {
@@ -1947,6 +1959,18 @@
           "depth_chart_position": "LWR"
         },
         {
+          "player_id": "13414",
+          "name": "Kaelon Black",
+          "position": "RB",
+          "team": "SF",
+          "status": "Active",
+          "injury_status": null,
+          "age": 24,
+          "years_exp": 0,
+          "search_rank": 161,
+          "depth_chart_position": "RB"
+        },
+        {
           "player_id": "8136",
           "name": "Rachaad White",
           "position": "RB",
@@ -1956,18 +1980,6 @@
           "age": 27,
           "years_exp": 4,
           "search_rank": 125,
-          "depth_chart_position": "RB"
-        },
-        {
-          "player_id": "8155",
-          "name": "Breece Hall",
-          "position": "RB",
-          "team": "NYJ",
-          "status": "Active",
-          "injury_status": "Doubtful",
-          "age": 25,
-          "years_exp": 4,
-          "search_rank": 27,
           "depth_chart_position": "RB"
         },
         {
@@ -2019,6 +2031,18 @@
           "years_exp": 7,
           "search_rank": 128,
           "depth_chart_position": "TE"
+        },
+        {
+          "player_id": "8155",
+          "name": "Breece Hall",
+          "position": "RB",
+          "team": "NYJ",
+          "status": "Active",
+          "injury_status": "Doubtful",
+          "age": 25,
+          "years_exp": 4,
+          "search_rank": 27,
+          "depth_chart_position": "RB"
         }
       ]
     },
