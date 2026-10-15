@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-14T23:48:43.702030+00:00",
+  "snapshot_generated_at": "2026-10-15T04:10:32.381548+00:00",
   "players": [
     {
       "player_id": "9509",
@@ -357,7 +357,7 @@
       "owner_user_id": "1263696795716825088",
       "username": "halfpint83",
       "team_name": "Little Miss Touchdown",
-      "location": "starter",
+      "location": "bench",
       "draft": {
         "draft_id": "1313649397531148288",
         "season": "2026",
@@ -765,7 +765,7 @@
       "owner_user_id": "1263688729139097600",
       "username": "KHurrie",
       "team_name": "LaPorta Pottie",
-      "location": "starter",
+      "location": "bench",
       "draft": {
         "draft_id": "1313649397531148288",
         "season": "2026",
@@ -1411,7 +1411,7 @@
       "owner_user_id": "1263688729139097600",
       "username": "KHurrie",
       "team_name": "LaPorta Pottie",
-      "location": "reserve",
+      "location": "bench",
       "draft": {
         "draft_id": "1313649397531148288",
         "season": "2026",
@@ -1955,7 +1955,7 @@
       "owner_user_id": "1263696795716825088",
       "username": "halfpint83",
       "team_name": "Little Miss Touchdown",
-      "location": "starter",
+      "location": "reserve",
       "draft": {
         "draft_id": "1313649397531148288",
         "season": "2026",
@@ -2159,7 +2159,7 @@
       "owner_user_id": "1263688729139097600",
       "username": "KHurrie",
       "team_name": "LaPorta Pottie",
-      "location": "bench",
+      "location": "starter",
       "draft": {
         "draft_id": "1313649397531148288",
         "season": "2026",
@@ -2465,7 +2465,7 @@
       "owner_user_id": "1263688729139097600",
       "username": "KHurrie",
       "team_name": "LaPorta Pottie",
-      "location": "starter",
+      "location": "bench",
       "draft": {
         "draft_id": "1313649397531148288",
         "season": "2026",
@@ -3873,7 +3873,7 @@
       "owner_user_id": "1263688729139097600",
       "username": "KHurrie",
       "team_name": "LaPorta Pottie",
-      "location": "bench",
+      "location": "starter",
       "draft": {
         "draft_id": "1313649397531148288",
         "season": "2026",
@@ -4979,7 +4979,7 @@
       "owner_user_id": "1263688729139097600",
       "username": "KHurrie",
       "team_name": "LaPorta Pottie",
-      "location": "bench",
+      "location": "starter",
       "draft": {
         "draft_id": "1313649397531148288",
         "season": "2026",
@@ -5037,7 +5037,7 @@
       "owner_user_id": "1263696795716825088",
       "username": "halfpint83",
       "team_name": "Little Miss Touchdown",
-      "location": "bench",
+      "location": "starter",
       "draft": {
         "draft_id": "1313649397531148288",
         "season": "2026",
@@ -5105,7 +5105,7 @@
       "owner_user_id": "1263688729139097600",
       "username": "KHurrie",
       "team_name": "LaPorta Pottie",
-      "location": "starter",
+      "location": "bench",
       "draft": null,
       "keeper": {
         "eligible_next_season": true,
@@ -5487,7 +5487,7 @@
       "owner_user_id": "1263696795716825088",
       "username": "halfpint83",
       "team_name": "Little Miss Touchdown",
-      "location": "bench",
+      "location": "starter",
       "draft": {
         "draft_id": "1313649397531148288",
         "season": "2026",
@@ -19601,7 +19601,7 @@
       "owner_user_id": "1263688729139097600",
       "username": "KHurrie",
       "team_name": "LaPorta Pottie",
-      "location": "bench",
+      "location": "reserve",
       "draft": null,
       "keeper": {
         "eligible_next_season": true,
@@ -19793,7 +19793,7 @@
       "owner_user_id": "1263688729139097600",
       "username": "KHurrie",
       "team_name": "LaPorta Pottie",
-      "location": "bench",
+      "location": "reserve",
       "draft": null,
       "keeper": {
         "eligible_next_season": true,

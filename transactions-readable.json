@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-14T23:48:43.702030+00:00",
+  "snapshot_generated_at": "2026-10-15T04:10:32.381548+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -5566,6 +5566,40 @@
       ],
       "roster_ids": [
         1
+      ]
+    },
+    {
+      "transaction_id": "1416248913463115776",
+      "week": 6,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792022562903,
+      "faab": null,
+      "adds": [
+        {
+          "player": {
+            "player_id": "NO",
+            "name": "New Orleans Saints",
+            "position": "DEF",
+            "team": "NO",
+            "status": null,
+            "injury_status": null,
+            "age": null,
+            "years_exp": null,
+            "search_rank": null,
+            "depth_chart_position": null
+          },
+          "destination": {
+            "roster_id": 12,
+            "owner_user_id": "1263696795716825088",
+            "username": "halfpint83",
+            "team_name": "Little Miss Touchdown"
+          }
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        12
       ]
     },
     {

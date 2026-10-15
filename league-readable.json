@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-14T23:48:43.702030+00:00",
+  "snapshot_generated_at": "2026-10-15T04:10:32.381548+00:00",
   "current_week": 6,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -1021,15 +1021,15 @@
       },
       "starters": [
         {
-          "player_id": "6770",
-          "name": "Joe Burrow",
+          "player_id": "11563",
+          "name": "Bo Nix",
           "position": "QB",
-          "team": "CIN",
+          "team": "DEN",
           "status": "Active",
           "injury_status": null,
-          "age": 29,
-          "years_exp": 6,
-          "search_rank": 15,
+          "age": 26,
+          "years_exp": 2,
+          "search_rank": 46,
           "depth_chart_position": "QB"
         },
         {
@@ -1081,27 +1081,27 @@
           "depth_chart_position": "LWR"
         },
         {
-          "player_id": "10859",
-          "name": "Sam LaPorta",
+          "player_id": "3214",
+          "name": "Hunter Henry",
           "position": "TE",
-          "team": "DET",
+          "team": "NE",
           "status": "Active",
           "injury_status": null,
-          "age": 25,
-          "years_exp": 3,
-          "search_rank": 58,
+          "age": 31,
+          "years_exp": 10,
+          "search_rank": 92,
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "7049",
-          "name": "Jauan Jennings",
+          "player_id": "8134",
+          "name": "Khalil Shakir",
           "position": "WR",
-          "team": "MIN",
+          "team": "BUF",
           "status": "Active",
           "injury_status": null,
-          "age": 29,
-          "years_exp": 6,
-          "search_rank": 123,
+          "age": 26,
+          "years_exp": 4,
+          "search_rank": 120,
           "depth_chart_position": "SWR"
         },
         {
@@ -1131,17 +1131,55 @@
       ],
       "bench": [
         {
-          "player_id": "11563",
-          "name": "Bo Nix",
-          "position": "QB",
-          "team": "DEN",
+          "player_id": "10859",
+          "name": "Sam LaPorta",
+          "position": "TE",
+          "team": "DET",
           "status": "Active",
           "injury_status": null,
-          "age": 26,
-          "years_exp": 2,
-          "search_rank": 46,
+          "age": 25,
+          "years_exp": 3,
+          "search_rank": 58,
+          "depth_chart_position": "TE"
+        },
+        {
+          "player_id": "6770",
+          "name": "Joe Burrow",
+          "position": "QB",
+          "team": "CIN",
+          "status": "Active",
+          "injury_status": null,
+          "age": 29,
+          "years_exp": 6,
+          "search_rank": 15,
           "depth_chart_position": "QB"
         },
+        {
+          "player_id": "7049",
+          "name": "Jauan Jennings",
+          "position": "WR",
+          "team": "MIN",
+          "status": "Active",
+          "injury_status": null,
+          "age": 29,
+          "years_exp": 6,
+          "search_rank": 123,
+          "depth_chart_position": "SWR"
+        },
+        {
+          "player_id": "7525",
+          "name": "DeVonta Smith",
+          "position": "WR",
+          "team": "PHI",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "age": 27,
+          "years_exp": 5,
+          "search_rank": 34,
+          "depth_chart_position": "LWR"
+        }
+      ],
+      "reserve": [
         {
           "player_id": "11630",
           "name": "Roman Wilson",
@@ -1165,44 +1203,6 @@
           "years_exp": 1,
           "search_rank": 690,
           "depth_chart_position": "RB"
-        },
-        {
-          "player_id": "3214",
-          "name": "Hunter Henry",
-          "position": "TE",
-          "team": "NE",
-          "status": "Active",
-          "injury_status": null,
-          "age": 31,
-          "years_exp": 10,
-          "search_rank": 92,
-          "depth_chart_position": "TE"
-        },
-        {
-          "player_id": "8134",
-          "name": "Khalil Shakir",
-          "position": "WR",
-          "team": "BUF",
-          "status": "Active",
-          "injury_status": null,
-          "age": 26,
-          "years_exp": 4,
-          "search_rank": 120,
-          "depth_chart_position": "SWR"
-        }
-      ],
-      "reserve": [
-        {
-          "player_id": "7525",
-          "name": "DeVonta Smith",
-          "position": "WR",
-          "team": "PHI",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "age": 27,
-          "years_exp": 5,
-          "search_rank": 34,
-          "depth_chart_position": "LWR"
         },
         {
           "player_id": "7543",
@@ -2281,28 +2281,28 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "5892",
-          "name": "David Montgomery",
+          "player_id": "11576",
+          "name": "Braelon Allen",
           "position": "RB",
-          "team": "HOU",
+          "team": "NYJ",
           "status": "Active",
-          "injury_status": "Doubtful",
-          "age": 29,
-          "years_exp": 7,
-          "search_rank": 43,
+          "injury_status": null,
+          "age": 22,
+          "years_exp": 2,
+          "search_rank": 135,
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "7547",
-          "name": "Amon-Ra St. Brown",
+          "player_id": "11624",
+          "name": "Xavier Worthy",
           "position": "WR",
-          "team": "DET",
+          "team": "KC",
           "status": "Active",
           "injury_status": null,
-          "age": 26,
-          "years_exp": 5,
-          "search_rank": 7,
-          "depth_chart_position": "SWR"
+          "age": 23,
+          "years_exp": 2,
+          "search_rank": 122,
+          "depth_chart_position": "RWR"
         },
         {
           "player_id": "8121",
@@ -2353,10 +2353,10 @@
           "depth_chart_position": "K"
         },
         {
-          "player_id": "MIN",
-          "name": "Minnesota Vikings",
+          "player_id": "NO",
+          "name": "New Orleans Saints",
           "position": "DEF",
-          "team": "MIN",
+          "team": "NO",
           "status": null,
           "injury_status": null,
           "age": null,
@@ -2377,30 +2377,6 @@
           "years_exp": 2,
           "search_rank": 23,
           "depth_chart_position": "QB"
-        },
-        {
-          "player_id": "11576",
-          "name": "Braelon Allen",
-          "position": "RB",
-          "team": "NYJ",
-          "status": "Active",
-          "injury_status": null,
-          "age": 22,
-          "years_exp": 2,
-          "search_rank": 135,
-          "depth_chart_position": "RB"
-        },
-        {
-          "player_id": "11624",
-          "name": "Xavier Worthy",
-          "position": "WR",
-          "team": "KC",
-          "status": "Active",
-          "injury_status": null,
-          "age": 23,
-          "years_exp": 2,
-          "search_rank": 122,
-          "depth_chart_position": "RWR"
         },
         {
           "player_id": "11631",
@@ -2425,6 +2401,30 @@
           "years_exp": 8,
           "search_rank": 93,
           "depth_chart_position": "QB"
+        },
+        {
+          "player_id": "7547",
+          "name": "Amon-Ra St. Brown",
+          "position": "WR",
+          "team": "DET",
+          "status": "Active",
+          "injury_status": null,
+          "age": 26,
+          "years_exp": 5,
+          "search_rank": 7,
+          "depth_chart_position": "SWR"
+        },
+        {
+          "player_id": "MIN",
+          "name": "Minnesota Vikings",
+          "position": "DEF",
+          "team": "MIN",
+          "status": null,
+          "injury_status": null,
+          "age": null,
+          "years_exp": null,
+          "search_rank": null,
+          "depth_chart_position": null
         }
       ],
       "reserve": [
@@ -2439,6 +2439,18 @@
           "years_exp": 3,
           "search_rank": 99,
           "depth_chart_position": null
+        },
+        {
+          "player_id": "5892",
+          "name": "David Montgomery",
+          "position": "RB",
+          "team": "HOU",
+          "status": "Active",
+          "injury_status": "Doubtful",
+          "age": 29,
+          "years_exp": 7,
+          "search_rank": 43,
+          "depth_chart_position": "RB"
         }
       ]
     },
