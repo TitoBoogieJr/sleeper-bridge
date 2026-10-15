@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-15T09:19:25.419225+00:00",
+  "snapshot_generated_at": "2026-10-15T14:21:13.005446+00:00",
   "current_week": 6,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -2043,7 +2043,7 @@
         "wins": 4,
         "losses": 6,
         "ties": 0,
-        "faab_used": 0
+        "faab_used": 4
       },
       "starters": [
         {
@@ -2169,18 +2169,6 @@
           "depth_chart_position": "SWR"
         },
         {
-          "player_id": "4177",
-          "name": "Mack Hollins",
-          "position": "WR",
-          "team": "NE",
-          "status": "Inactive",
-          "injury_status": "IR",
-          "age": 33,
-          "years_exp": 9,
-          "search_rank": 697,
-          "depth_chart_position": "RWR"
-        },
-        {
           "player_id": "4892",
           "name": "Baker Mayfield",
           "position": "QB",
@@ -2203,6 +2191,18 @@
           "years_exp": 8,
           "search_rank": 72,
           "depth_chart_position": "LWR"
+        },
+        {
+          "player_id": "5947",
+          "name": "Jakobi Meyers",
+          "position": "WR",
+          "team": "JAX",
+          "status": "Active",
+          "injury_status": null,
+          "age": 29,
+          "years_exp": 7,
+          "search_rank": 77,
+          "depth_chart_position": "RWR"
         },
         {
           "player_id": "8148",
