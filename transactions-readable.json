@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-16T00:38:50.543791+00:00",
+  "snapshot_generated_at": "2026-10-16T05:41:27.993996+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -5566,6 +5566,61 @@
       ],
       "roster_ids": [
         1
+      ]
+    },
+    {
+      "transaction_id": "1416657334565863424",
+      "week": 6,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792119938082,
+      "faab": null,
+      "adds": [
+        {
+          "player": {
+            "player_id": "4454",
+            "name": "Kendrick Bourne",
+            "position": "WR",
+            "team": "ARI",
+            "status": "Active",
+            "injury_status": null,
+            "age": 31,
+            "years_exp": 9,
+            "search_rank": 673,
+            "depth_chart_position": "RWR"
+          },
+          "destination": {
+            "roster_id": 2,
+            "owner_user_id": "1263709493192052736",
+            "username": "KarolynRose",
+            "team_name": "Magic Skol Bus"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "player_id": "10219",
+            "name": "Chris Rodriguez",
+            "position": "RB",
+            "team": "JAX",
+            "status": "Active",
+            "injury_status": null,
+            "age": 27,
+            "years_exp": 3,
+            "search_rank": 125,
+            "depth_chart_position": "RB"
+          },
+          "source": {
+            "roster_id": 2,
+            "owner_user_id": "1263709493192052736",
+            "username": "KarolynRose",
+            "team_name": "Magic Skol Bus"
+          }
+        }
+      ],
+      "roster_ids": [
+        2
       ]
     },
     {
