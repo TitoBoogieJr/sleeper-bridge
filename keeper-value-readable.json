@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-15T22:04:14.603302+00:00",
+  "snapshot_generated_at": "2026-10-16T00:38:50.543791+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -410,7 +410,7 @@
           "name": "TreVeyon Henderson",
           "position": "RB",
           "nfl_team": "NE",
-          "location": "reserve",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -615,7 +615,7 @@
           "name": "Ja'Marr Chase",
           "position": "WR",
           "nfl_team": "CIN",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -2983,7 +2983,7 @@
           "name": "Saquon Barkley",
           "position": "RB",
           "nfl_team": "PHI",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -3098,7 +3098,7 @@
           "name": "Chris Godwin",
           "position": "WR",
           "nfl_team": "TB",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -3213,7 +3213,7 @@
           "name": "Keaton Mitchell",
           "position": "RB",
           "nfl_team": "LAC",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -3236,7 +3236,7 @@
           "name": "Keenan Allen",
           "position": "WR",
           "nfl_team": "IND",
-          "location": "bench",
+          "location": "starter",
           "draft": null,
           "keeper": {
             "eligible_next_season": true,

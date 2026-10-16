@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-15T22:04:14.603302+00:00",
+  "snapshot_generated_at": "2026-10-16T00:38:50.543791+00:00",
   "current_week": 6,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -279,18 +279,6 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "7564",
-          "name": "Ja'Marr Chase",
-          "position": "WR",
-          "team": "CIN",
-          "status": "Active",
-          "injury_status": null,
-          "age": 26,
-          "years_exp": 5,
-          "search_rank": 3,
-          "depth_chart_position": "LWR"
-        },
-        {
           "player_id": "9487",
           "name": "Parker Washington",
           "position": "WR",
@@ -301,6 +289,18 @@
           "years_exp": 3,
           "search_rank": 68,
           "depth_chart_position": "SWR"
+        },
+        {
+          "player_id": "0",
+          "name": "Unknown (0)",
+          "position": null,
+          "team": null,
+          "status": null,
+          "injury_status": null,
+          "age": null,
+          "years_exp": null,
+          "search_rank": null,
+          "depth_chart_position": null
         },
         {
           "player_id": "7002",
@@ -387,6 +387,18 @@
           "years_exp": 5,
           "search_rank": 68,
           "depth_chart_position": "TE"
+        },
+        {
+          "player_id": "7564",
+          "name": "Ja'Marr Chase",
+          "position": "WR",
+          "team": "CIN",
+          "status": "Active",
+          "injury_status": null,
+          "age": 26,
+          "years_exp": 5,
+          "search_rank": 3,
+          "depth_chart_position": "LWR"
         },
         {
           "player_id": "8154",
@@ -847,15 +859,15 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "12533",
-          "name": "Jacory Croskey-Merritt",
+          "player_id": "9511",
+          "name": "Keaton Mitchell",
           "position": "RB",
-          "team": "WAS",
+          "team": "LAC",
           "status": "Active",
           "injury_status": null,
-          "age": 25,
-          "years_exp": 1,
-          "search_rank": 95,
+          "age": 24,
+          "years_exp": 3,
+          "search_rank": 148,
           "depth_chart_position": "RB"
         },
         {
@@ -871,16 +883,16 @@
           "depth_chart_position": "LWR"
         },
         {
-          "player_id": "4037",
-          "name": "Chris Godwin",
+          "player_id": "1479",
+          "name": "Keenan Allen",
           "position": "WR",
-          "team": "TB",
+          "team": "IND",
           "status": "Active",
           "injury_status": null,
-          "age": 30,
-          "years_exp": 9,
-          "search_rank": 88,
-          "depth_chart_position": "SWR"
+          "age": 34,
+          "years_exp": 13,
+          "search_rank": 180,
+          "depth_chart_position": "RWR"
         },
         {
           "player_id": "8130",
@@ -895,15 +907,15 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "4866",
-          "name": "Saquon Barkley",
+          "player_id": "12533",
+          "name": "Jacory Croskey-Merritt",
           "position": "RB",
-          "team": "PHI",
+          "team": "WAS",
           "status": "Active",
-          "injury_status": "Questionable",
-          "age": 29,
-          "years_exp": 8,
-          "search_rank": 11,
+          "injury_status": null,
+          "age": 25,
+          "years_exp": 1,
+          "search_rank": 95,
           "depth_chart_position": "RB"
         },
         {
@@ -957,16 +969,28 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "1479",
-          "name": "Keenan Allen",
+          "player_id": "4037",
+          "name": "Chris Godwin",
           "position": "WR",
-          "team": "IND",
+          "team": "TB",
           "status": "Active",
           "injury_status": null,
-          "age": 34,
-          "years_exp": 13,
-          "search_rank": 180,
-          "depth_chart_position": "RWR"
+          "age": 30,
+          "years_exp": 9,
+          "search_rank": 88,
+          "depth_chart_position": "SWR"
+        },
+        {
+          "player_id": "4866",
+          "name": "Saquon Barkley",
+          "position": "RB",
+          "team": "PHI",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "age": 29,
+          "years_exp": 8,
+          "search_rank": 11,
+          "depth_chart_position": "RB"
         },
         {
           "player_id": "6801",
@@ -979,18 +1003,6 @@
           "years_exp": 6,
           "search_rank": 36,
           "depth_chart_position": "RWR"
-        },
-        {
-          "player_id": "9511",
-          "name": "Keaton Mitchell",
-          "position": "RB",
-          "team": "LAC",
-          "status": "Active",
-          "injury_status": null,
-          "age": 24,
-          "years_exp": 3,
-          "search_rank": 148,
-          "depth_chart_position": "RB"
         }
       ],
       "reserve": [
@@ -2601,6 +2613,18 @@
           "depth_chart_position": "K"
         },
         {
+          "player_id": "12529",
+          "name": "TreVeyon Henderson",
+          "position": "RB",
+          "team": "NE",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "age": 23,
+          "years_exp": 1,
+          "search_rank": 39,
+          "depth_chart_position": "RB"
+        },
+        {
           "player_id": "13346",
           "name": "Denzel Boston",
           "position": "WR",
@@ -2649,20 +2673,7 @@
           "depth_chart_position": "RB"
         }
       ],
-      "reserve": [
-        {
-          "player_id": "12529",
-          "name": "TreVeyon Henderson",
-          "position": "RB",
-          "team": "NE",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "age": 23,
-          "years_exp": 1,
-          "search_rank": 39,
-          "depth_chart_position": "RB"
-        }
-      ]
+      "reserve": []
     },
     {
       "roster_id": 14,
