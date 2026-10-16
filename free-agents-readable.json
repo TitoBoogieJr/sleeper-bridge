@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-16T18:58:47.868606+00:00",
+  "snapshot_generated_at": "2026-10-16T22:01:25.184645+00:00",
   "players": [
     {
       "player_id": "12508",
@@ -1818,6 +1818,30 @@
       "years_exp": 8,
       "search_rank": 210,
       "depth_chart_position": "SWR",
+      "rostered": false,
+      "roster_id": null,
+      "owner_user_id": null,
+      "username": null,
+      "team_name": null,
+      "location": "free_agent",
+      "draft": null,
+      "keeper": {
+        "eligible_next_season": true,
+        "cost_round": 14,
+        "reason": "Undrafted player; keeper cost is Round 14"
+      }
+    },
+    {
+      "player_id": "1373",
+      "name": "Geno Smith",
+      "position": "QB",
+      "team": "NYJ",
+      "status": "Active",
+      "injury_status": null,
+      "age": 36,
+      "years_exp": 13,
+      "search_rank": 211,
+      "depth_chart_position": "QB",
       "rostered": false,
       "roster_id": null,
       "owner_user_id": null,
@@ -10290,30 +10314,6 @@
       "years_exp": 10,
       "search_rank": 645,
       "depth_chart_position": "SWR",
-      "rostered": false,
-      "roster_id": null,
-      "owner_user_id": null,
-      "username": null,
-      "team_name": null,
-      "location": "free_agent",
-      "draft": null,
-      "keeper": {
-        "eligible_next_season": true,
-        "cost_round": 14,
-        "reason": "Undrafted player; keeper cost is Round 14"
-      }
-    },
-    {
-      "player_id": "3271",
-      "name": "Tyler Higbee",
-      "position": "TE",
-      "team": "LAR",
-      "status": "Active",
-      "injury_status": null,
-      "age": 33,
-      "years_exp": 10,
-      "search_rank": 645,
-      "depth_chart_position": "TE",
       "rostered": false,
       "roster_id": null,
       "owner_user_id": null,

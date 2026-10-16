@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-16T18:58:47.868606+00:00",
+  "snapshot_generated_at": "2026-10-16T22:01:25.184645+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -5566,6 +5566,74 @@
       ],
       "roster_ids": [
         1
+      ]
+    },
+    {
+      "transaction_id": "1416916002121269248",
+      "week": 6,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792181609233,
+      "faab": null,
+      "adds": [
+        {
+          "player": {
+            "player_id": "3271",
+            "name": "Tyler Higbee",
+            "position": "TE",
+            "team": "LAR",
+            "status": "Active",
+            "injury_status": null,
+            "age": 33,
+            "years_exp": 10,
+            "search_rank": 645,
+            "depth_chart_position": "TE"
+          },
+          "destination": {
+            "roster_id": 14,
+            "owner_user_id": "1263695631499665408",
+            "username": "jeredoliver",
+            "team_name": "JSN Bourne"
+          }
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        14
+      ]
+    },
+    {
+      "transaction_id": "1416915851738644480",
+      "week": 6,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792181573380,
+      "faab": null,
+      "adds": [],
+      "drops": [
+        {
+          "player": {
+            "player_id": "1373",
+            "name": "Geno Smith",
+            "position": "QB",
+            "team": "NYJ",
+            "status": "Active",
+            "injury_status": null,
+            "age": 36,
+            "years_exp": 13,
+            "search_rank": 211,
+            "depth_chart_position": "QB"
+          },
+          "source": {
+            "roster_id": 14,
+            "owner_user_id": "1263695631499665408",
+            "username": "jeredoliver",
+            "team_name": "JSN Bourne"
+          }
+        }
+      ],
+      "roster_ids": [
+        14
       ]
     },
     {

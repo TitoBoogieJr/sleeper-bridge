@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-16T18:58:47.868606+00:00",
+  "snapshot_generated_at": "2026-10-16T22:01:25.184645+00:00",
   "players": [
     {
       "player_id": "9509",
@@ -2635,7 +2635,7 @@
       "owner_user_id": "1263695631499665408",
       "username": "jeredoliver",
       "team_name": "JSN Bourne",
-      "location": "bench",
+      "location": "reserve",
       "draft": {
         "draft_id": "1313649397531148288",
         "season": "2026",
@@ -7476,12 +7476,12 @@
       "years_exp": 13,
       "search_rank": 211,
       "depth_chart_position": "QB",
-      "rostered": true,
-      "roster_id": 14,
-      "owner_user_id": "1263695631499665408",
-      "username": "jeredoliver",
-      "team_name": "JSN Bourne",
-      "location": "bench",
+      "rostered": false,
+      "roster_id": null,
+      "owner_user_id": null,
+      "username": null,
+      "team_name": null,
+      "location": "free_agent",
       "draft": null,
       "keeper": {
         "eligible_next_season": true,
@@ -16212,12 +16212,12 @@
       "years_exp": 10,
       "search_rank": 645,
       "depth_chart_position": "TE",
-      "rostered": false,
-      "roster_id": null,
-      "owner_user_id": null,
-      "username": null,
-      "team_name": null,
-      "location": "free_agent",
+      "rostered": true,
+      "roster_id": 14,
+      "owner_user_id": "1263695631499665408",
+      "username": "jeredoliver",
+      "team_name": "JSN Bourne",
+      "location": "bench",
       "draft": null,
       "keeper": {
         "eligible_next_season": true,
