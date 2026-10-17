@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-17T21:39:46.940135+00:00",
+  "snapshot_generated_at": "2026-10-17T23:54:15.607235+00:00",
   "current_week": 6,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -895,16 +895,16 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "12533",
-          "name": "Jacory Croskey-Merritt",
-          "position": "RB",
-          "team": "WAS",
+          "player_id": "4037",
+          "name": "Chris Godwin",
+          "position": "WR",
+          "team": "TB",
           "status": "Active",
-          "injury_status": "Questionable",
-          "age": 25,
-          "years_exp": 1,
-          "search_rank": 95,
-          "depth_chart_position": "RB"
+          "injury_status": null,
+          "age": 30,
+          "years_exp": 9,
+          "search_rank": 88,
+          "depth_chart_position": "SWR"
         },
         {
           "player_id": "5189",
@@ -957,18 +957,6 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "4037",
-          "name": "Chris Godwin",
-          "position": "WR",
-          "team": "TB",
-          "status": "Active",
-          "injury_status": null,
-          "age": 30,
-          "years_exp": 9,
-          "search_rank": 88,
-          "depth_chart_position": "SWR"
-        },
-        {
           "player_id": "4866",
           "name": "Saquon Barkley",
           "position": "RB",
@@ -994,6 +982,18 @@
         }
       ],
       "reserve": [
+        {
+          "player_id": "12533",
+          "name": "Jacory Croskey-Merritt",
+          "position": "RB",
+          "team": "WAS",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "age": 25,
+          "years_exp": 1,
+          "search_rank": 95,
+          "depth_chart_position": "RB"
+        },
         {
           "player_id": "6819",
           "name": "Michael Pittman",
