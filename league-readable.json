@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-17T00:42:55.639037+00:00",
+  "snapshot_generated_at": "2026-10-17T05:26:45.123877+00:00",
   "current_week": 6,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -685,16 +685,16 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "11635",
-          "name": "Ladd McConkey",
+          "player_id": "11637",
+          "name": "Keon Coleman",
           "position": "WR",
-          "team": "LAC",
+          "team": "BUF",
           "status": "Active",
-          "injury_status": "Questionable",
-          "age": 24,
+          "injury_status": null,
+          "age": 23,
           "years_exp": 2,
-          "search_rank": 35,
-          "depth_chart_position": "SWR"
+          "search_rank": 206,
+          "depth_chart_position": "LWR"
         },
         {
           "player_id": "11539",
@@ -723,16 +723,16 @@
       ],
       "bench": [
         {
-          "player_id": "11637",
-          "name": "Keon Coleman",
+          "player_id": "11635",
+          "name": "Ladd McConkey",
           "position": "WR",
-          "team": "BUF",
+          "team": "LAC",
           "status": "Active",
-          "injury_status": null,
-          "age": 23,
+          "injury_status": "Questionable",
+          "age": 24,
           "years_exp": 2,
-          "search_rank": 206,
-          "depth_chart_position": "LWR"
+          "search_rank": 35,
+          "depth_chart_position": "SWR"
         },
         {
           "player_id": "11643",
