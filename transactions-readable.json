@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-18T09:00:22.398515+00:00",
+  "snapshot_generated_at": "2026-10-18T13:28:17.389732+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -5566,6 +5566,40 @@
       ],
       "roster_ids": [
         1
+      ]
+    },
+    {
+      "transaction_id": "1417525046926217216",
+      "week": 6,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792326816830,
+      "faab": null,
+      "adds": [],
+      "drops": [
+        {
+          "player": {
+            "player_id": "11643",
+            "name": "Jaylen Wright",
+            "position": "RB",
+            "team": "MIA",
+            "status": "Active",
+            "injury_status": null,
+            "age": 23,
+            "years_exp": 2,
+            "search_rank": 174,
+            "depth_chart_position": "RB"
+          },
+          "source": {
+            "roster_id": 4,
+            "owner_user_id": "979940216863608832",
+            "username": "Naz514",
+            "team_name": "Maye-B not so lucky"
+          }
+        }
+      ],
+      "roster_ids": [
+        4
       ]
     },
     {

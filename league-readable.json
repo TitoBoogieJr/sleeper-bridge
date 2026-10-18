@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-18T09:00:22.398515+00:00",
+  "snapshot_generated_at": "2026-10-18T13:28:17.389732+00:00",
   "current_week": 6,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -685,15 +685,15 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "11637",
-          "name": "Keon Coleman",
+          "player_id": "5859",
+          "name": "A.J. Brown",
           "position": "WR",
-          "team": "BUF",
-          "status": "Active",
-          "injury_status": null,
-          "age": 23,
-          "years_exp": 2,
-          "search_rank": 206,
+          "team": "NE",
+          "status": "Inactive",
+          "injury_status": "IR",
+          "age": 29,
+          "years_exp": 7,
+          "search_rank": 18,
           "depth_chart_position": "LWR"
         },
         {
@@ -735,16 +735,16 @@
           "depth_chart_position": "SWR"
         },
         {
-          "player_id": "11643",
-          "name": "Jaylen Wright",
-          "position": "RB",
-          "team": "MIA",
+          "player_id": "11637",
+          "name": "Keon Coleman",
+          "position": "WR",
+          "team": "BUF",
           "status": "Active",
           "injury_status": null,
           "age": 23,
           "years_exp": 2,
-          "search_rank": 174,
-          "depth_chart_position": "RB"
+          "search_rank": 206,
+          "depth_chart_position": "LWR"
         },
         {
           "player_id": "12545",
@@ -784,18 +784,6 @@
         }
       ],
       "reserve": [
-        {
-          "player_id": "5859",
-          "name": "A.J. Brown",
-          "position": "WR",
-          "team": "NE",
-          "status": "Inactive",
-          "injury_status": "IR",
-          "age": 29,
-          "years_exp": 7,
-          "search_rank": 18,
-          "depth_chart_position": "LWR"
-        },
         {
           "player_id": "8408",
           "name": "Jordan Mason",
