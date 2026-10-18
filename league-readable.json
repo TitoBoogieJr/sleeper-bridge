@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-18T16:48:49.210186+00:00",
+  "snapshot_generated_at": "2026-10-18T19:21:02.784928+00:00",
   "current_week": 6,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -2491,16 +2491,16 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "10229",
-          "name": "Rashee Rice",
+          "player_id": "5927",
+          "name": "Terry McLaurin",
           "position": "WR",
-          "team": "KC",
+          "team": "WAS",
           "status": "Active",
-          "injury_status": "Out",
-          "age": 26,
-          "years_exp": 3,
-          "search_rank": 29,
-          "depth_chart_position": "SWR"
+          "injury_status": null,
+          "age": 31,
+          "years_exp": 7,
+          "search_rank": 55,
+          "depth_chart_position": "LWR"
         },
         {
           "player_id": "10232",
@@ -2613,18 +2613,6 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "5927",
-          "name": "Terry McLaurin",
-          "position": "WR",
-          "team": "WAS",
-          "status": "Active",
-          "injury_status": null,
-          "age": 31,
-          "years_exp": 7,
-          "search_rank": 55,
-          "depth_chart_position": "LWR"
-        },
-        {
           "player_id": "9221",
           "name": "Jahmyr Gibbs",
           "position": "RB",
@@ -2637,7 +2625,20 @@
           "depth_chart_position": "RB"
         }
       ],
-      "reserve": []
+      "reserve": [
+        {
+          "player_id": "10229",
+          "name": "Rashee Rice",
+          "position": "WR",
+          "team": "KC",
+          "status": "Active",
+          "injury_status": "Out",
+          "age": 26,
+          "years_exp": 3,
+          "search_rank": 29,
+          "depth_chart_position": "SWR"
+        }
+      ]
     },
     {
       "roster_id": 14,
