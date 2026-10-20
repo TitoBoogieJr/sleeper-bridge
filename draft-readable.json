@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-20T12:01:01.330677+00:00",
+  "snapshot_generated_at": "2026-10-20T17:27:06.093013+00:00",
   "drafts": [
     {
       "created": 1767560932099,
@@ -341,7 +341,7 @@
         "injury_status": null,
         "age": 24,
         "years_exp": 3,
-        "search_rank": 6,
+        "search_rank": 5,
         "depth_chart_position": "LWR"
       },
       "round": 1,
@@ -389,7 +389,7 @@
         "team": "KC",
         "status": "Active",
         "injury_status": null,
-        "age": 25,
+        "age": 26,
         "years_exp": 4,
         "search_rank": 17,
         "depth_chart_position": "RB"
@@ -538,7 +538,7 @@
         "position": "WR",
         "team": "NE",
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "age": 29,
         "years_exp": 7,
         "search_rank": 18,
@@ -566,7 +566,7 @@
         "injury_status": null,
         "age": 27,
         "years_exp": 6,
-        "search_rank": 12,
+        "search_rank": 11,
         "depth_chart_position": "LWR"
       },
       "round": 2,
@@ -591,7 +591,7 @@
         "injury_status": null,
         "age": 26,
         "years_exp": 5,
-        "search_rank": 31,
+        "search_rank": 30,
         "depth_chart_position": "RB"
       },
       "round": 2,
@@ -641,7 +641,7 @@
         "injury_status": null,
         "age": 23,
         "years_exp": 2,
-        "search_rank": 26,
+        "search_rank": 28,
         "depth_chart_position": "LWR"
       },
       "round": 2,
@@ -891,7 +891,7 @@
         "injury_status": "Out",
         "age": 29,
         "years_exp": 8,
-        "search_rank": 9,
+        "search_rank": 10,
         "depth_chart_position": "QB"
       },
       "round": 3,
@@ -916,7 +916,7 @@
         "injury_status": null,
         "age": 27,
         "years_exp": 6,
-        "search_rank": 44,
+        "search_rank": 46,
         "depth_chart_position": "RB"
       },
       "round": 3,
@@ -966,7 +966,7 @@
         "injury_status": "Out",
         "age": 29,
         "years_exp": 7,
-        "search_rank": 43,
+        "search_rank": 41,
         "depth_chart_position": "RB"
       },
       "round": 3,
@@ -1366,7 +1366,7 @@
         "injury_status": null,
         "age": 26,
         "years_exp": 5,
-        "search_rank": 67,
+        "search_rank": 68,
         "depth_chart_position": "TE"
       },
       "round": 4,
@@ -1463,7 +1463,7 @@
         "position": "WR",
         "team": "WAS",
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Out",
         "age": 31,
         "years_exp": 7,
         "search_rank": 55,
@@ -1513,7 +1513,7 @@
         "position": "WR",
         "team": "LAR",
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Out",
         "age": 33,
         "years_exp": 12,
         "search_rank": 46,
@@ -1641,7 +1641,7 @@
         "injury_status": "IR",
         "age": 28,
         "years_exp": 6,
-        "search_rank": 26,
+        "search_rank": 28,
         "depth_chart_position": "QB"
       },
       "round": 5,
@@ -1741,7 +1741,7 @@
         "injury_status": null,
         "age": 25,
         "years_exp": 2,
-        "search_rank": 99,
+        "search_rank": 98,
         "depth_chart_position": "RB"
       },
       "round": 5,
@@ -1767,7 +1767,7 @@
         "age": 21,
         "years_exp": 0,
         "search_rank": 61,
-        "depth_chart_position": "LWR"
+        "depth_chart_position": "RWR"
       },
       "round": 5,
       "pick_no": 68,
@@ -1838,7 +1838,7 @@
         "position": "WR",
         "team": "SF",
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "age": 33,
         "years_exp": 12,
         "search_rank": 60,
@@ -2337,8 +2337,8 @@
         "name": "Jacory Croskey-Merritt",
         "position": "RB",
         "team": "WAS",
-        "status": "Active",
-        "injury_status": "Out",
+        "status": "Inactive",
+        "injury_status": "IR",
         "age": 25,
         "years_exp": 1,
         "search_rank": 95,
@@ -2663,10 +2663,10 @@
         "position": "WR",
         "team": "WAS",
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "age": 32,
         "years_exp": 11,
-        "search_rank": 104,
+        "search_rank": 105,
         "depth_chart_position": "SWR"
       },
       "round": 8,
@@ -2766,7 +2766,7 @@
         "injury_status": null,
         "age": 27,
         "years_exp": 3,
-        "search_rank": 126,
+        "search_rank": 125,
         "depth_chart_position": "RB"
       },
       "round": 8,
@@ -3387,8 +3387,8 @@
         "name": "Romeo Doubs",
         "position": "WR",
         "team": "NE",
-        "status": "Active",
-        "injury_status": "Out",
+        "status": "Inactive",
+        "injury_status": "IR",
         "age": 26,
         "years_exp": 4,
         "search_rank": 117,
@@ -3766,7 +3766,7 @@
         "injury_status": null,
         "age": 23,
         "years_exp": 2,
-        "search_rank": 133,
+        "search_rank": 131,
         "depth_chart_position": "K"
       },
       "round": 11,
@@ -4066,7 +4066,7 @@
         "injury_status": null,
         "age": 29,
         "years_exp": 7,
-        "search_rank": 88,
+        "search_rank": 87,
         "depth_chart_position": "QB"
       },
       "round": 12,
@@ -4341,7 +4341,7 @@
         "injury_status": "Out",
         "age": 31,
         "years_exp": 8,
-        "search_rank": 74,
+        "search_rank": 75,
         "depth_chart_position": "QB"
       },
       "round": 13,
