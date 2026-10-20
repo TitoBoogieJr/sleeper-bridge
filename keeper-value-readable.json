@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-20T17:27:06.093013+00:00",
+  "snapshot_generated_at": "2026-10-20T20:48:29.868910+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -456,7 +456,7 @@
           "name": "Aaron Jones",
           "position": "RB",
           "nfl_team": "MIN",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -525,7 +525,7 @@
           "name": "Tyjae Spears",
           "position": "RB",
           "nfl_team": "TEN",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -592,7 +592,7 @@
           "name": "Ja'Marr Chase",
           "position": "WR",
           "nfl_team": "CIN",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -638,7 +638,7 @@
           "name": "Cam Skattebo",
           "position": "RB",
           "nfl_team": "NYG",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -684,7 +684,7 @@
           "name": "Parker Washington",
           "position": "WR",
           "nfl_team": "JAX",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -1189,7 +1189,7 @@
           "name": "Joe Burrow",
           "position": "QB",
           "nfl_team": "CIN",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -1212,7 +1212,7 @@
           "name": "DeVonta Smith",
           "position": "WR",
           "nfl_team": "PHI",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -1258,7 +1258,7 @@
           "name": "Bo Nix",
           "position": "QB",
           "nfl_team": "DEN",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -1281,7 +1281,7 @@
           "name": "Sam LaPorta",
           "position": "TE",
           "nfl_team": "DET",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -1327,7 +1327,7 @@
           "name": "Hunter Henry",
           "position": "TE",
           "nfl_team": "NE",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -1350,7 +1350,7 @@
           "name": "Khalil Shakir",
           "position": "WR",
           "nfl_team": "BUF",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -2620,7 +2620,7 @@
           "name": "Amon-Ra St. Brown",
           "position": "WR",
           "nfl_team": "DET",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -2636,29 +2636,6 @@
             "eligible_next_season": false,
             "cost_round": null,
             "reason": "Drafted in Round 1; Rounds 1 and 2 cannot be kept"
-          }
-        },
-        {
-          "player_id": "11566",
-          "name": "Jayden Daniels",
-          "position": "QB",
-          "nfl_team": "WAS",
-          "location": "bench",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 6,
-            "pick_no": 77,
-            "original_roster_id": 12,
-            "original_owner_user_id": "1263696795716825088",
-            "original_username": "halfpint83",
-            "original_team_name": "Little Miss Touchdown",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 6,
-            "reason": "Drafted in Round 6"
           }
         },
         {
@@ -2840,7 +2817,7 @@
           "name": "Romeo Doubs",
           "position": "WR",
           "nfl_team": "NE",
-          "location": "starter",
+          "location": "reserve",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",

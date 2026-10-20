@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-20T17:27:06.093013+00:00",
+  "snapshot_generated_at": "2026-10-20T20:48:29.868910+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -5566,6 +5566,74 @@
       ],
       "roster_ids": [
         1
+      ]
+    },
+    {
+      "transaction_id": "1418333164857733120",
+      "week": 6,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792519487159,
+      "faab": null,
+      "adds": [],
+      "drops": [
+        {
+          "player": {
+            "player_id": "NO",
+            "name": "New Orleans Saints",
+            "position": "DEF",
+            "team": "NO",
+            "status": null,
+            "injury_status": null,
+            "age": null,
+            "years_exp": null,
+            "search_rank": null,
+            "depth_chart_position": null
+          },
+          "source": {
+            "roster_id": 12,
+            "owner_user_id": "1263696795716825088",
+            "username": "halfpint83",
+            "team_name": "Little Miss Touchdown"
+          }
+        }
+      ],
+      "roster_ids": [
+        12
+      ]
+    },
+    {
+      "transaction_id": "1418332942236659712",
+      "week": 6,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792519434082,
+      "faab": null,
+      "adds": [],
+      "drops": [
+        {
+          "player": {
+            "player_id": "11566",
+            "name": "Jayden Daniels",
+            "position": "QB",
+            "team": "WAS",
+            "status": "Active",
+            "injury_status": null,
+            "age": 25,
+            "years_exp": 2,
+            "search_rank": 23,
+            "depth_chart_position": "QB"
+          },
+          "source": {
+            "roster_id": 12,
+            "owner_user_id": "1263696795716825088",
+            "username": "halfpint83",
+            "team_name": "Little Miss Touchdown"
+          }
+        }
+      ],
+      "roster_ids": [
+        12
       ]
     },
     {
