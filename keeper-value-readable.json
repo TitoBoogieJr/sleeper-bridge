@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-20T01:10:57.809521+00:00",
+  "snapshot_generated_at": "2026-10-20T06:27:23.910936+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -1456,7 +1456,7 @@
           "name": "James Cook",
           "position": "RB",
           "nfl_team": "BUF",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -1479,7 +1479,7 @@
           "name": "Justin Jefferson",
           "position": "WR",
           "nfl_team": "MIN",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -1525,7 +1525,7 @@
           "name": "Josh Jacobs",
           "position": "RB",
           "nfl_team": "GB",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -1571,7 +1571,7 @@
           "name": "Patrick Mahomes",
           "position": "QB",
           "nfl_team": "KC",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -1594,7 +1594,7 @@
           "name": "Quinshon Judkins",
           "position": "RB",
           "nfl_team": "CLE",
-          "location": "reserve",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -1640,7 +1640,7 @@
           "name": "Jake Ferguson",
           "position": "TE",
           "nfl_team": "DAL",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -1709,7 +1709,7 @@
           "name": "Bryce Young",
           "position": "QB",
           "nfl_team": "CAR",
-          "location": "bench",
+          "location": "starter",
           "draft": null,
           "keeper": {
             "eligible_next_season": true,
@@ -1722,7 +1722,7 @@
           "name": "Kimani Vidal",
           "position": "RB",
           "nfl_team": "LAC",
-          "location": "starter",
+          "location": "bench",
           "draft": null,
           "keeper": {
             "eligible_next_season": true,
