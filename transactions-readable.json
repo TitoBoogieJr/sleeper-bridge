@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-21T09:30:55.817745+00:00",
+  "snapshot_generated_at": "2026-10-21T14:59:25.113483+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -7414,6 +7414,116 @@
       ],
       "roster_ids": [
         8
+      ]
+    },
+    {
+      "transaction_id": "1418632671201968128",
+      "week": 7,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792590895037,
+      "faab": null,
+      "adds": [
+        {
+          "player": {
+            "player_id": "4017",
+            "name": "Deshaun Watson",
+            "position": "QB",
+            "team": "CLE",
+            "status": "Active",
+            "injury_status": null,
+            "age": 31,
+            "years_exp": 9,
+            "search_rank": 296,
+            "depth_chart_position": "QB"
+          },
+          "destination": {
+            "roster_id": 11,
+            "owner_user_id": "1263707560905543680",
+            "username": "Ryan3041",
+            "team_name": "Ryan3041"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "player_id": "11610",
+            "name": "Malik Washington",
+            "position": "WR",
+            "team": "MIA",
+            "status": "Active",
+            "injury_status": null,
+            "age": 25,
+            "years_exp": 2,
+            "search_rank": 176,
+            "depth_chart_position": "SWR"
+          },
+          "source": {
+            "roster_id": 11,
+            "owner_user_id": "1263707560905543680",
+            "username": "Ryan3041",
+            "team_name": "Ryan3041"
+          }
+        }
+      ],
+      "roster_ids": [
+        11
+      ]
+    },
+    {
+      "transaction_id": "1418614254885416960",
+      "week": 7,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792586504244,
+      "faab": null,
+      "adds": [
+        {
+          "player": {
+            "player_id": "NYJ",
+            "name": "New York Jets",
+            "position": "DEF",
+            "team": "NYJ",
+            "status": null,
+            "injury_status": null,
+            "age": null,
+            "years_exp": null,
+            "search_rank": null,
+            "depth_chart_position": null
+          },
+          "destination": {
+            "roster_id": 10,
+            "owner_user_id": "1263230668070977536",
+            "username": "lionelesteban",
+            "team_name": "Kittle El Cero Miedo"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "player_id": "IND",
+            "name": "Indianapolis Colts",
+            "position": "DEF",
+            "team": "IND",
+            "status": null,
+            "injury_status": null,
+            "age": null,
+            "years_exp": null,
+            "search_rank": null,
+            "depth_chart_position": null
+          },
+          "source": {
+            "roster_id": 10,
+            "owner_user_id": "1263230668070977536",
+            "username": "lionelesteban",
+            "team_name": "Kittle El Cero Miedo"
+          }
+        }
+      ],
+      "roster_ids": [
+        10
       ]
     }
   ]
