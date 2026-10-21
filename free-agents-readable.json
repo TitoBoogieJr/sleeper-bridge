@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-21T04:15:24.710653+00:00",
+  "snapshot_generated_at": "2026-10-21T09:30:55.817745+00:00",
   "players": [
     {
       "player_id": "11566",
@@ -128,40 +128,6 @@
       }
     },
     {
-      "player_id": "5849",
-      "name": "Kyler Murray",
-      "position": "QB",
-      "team": "MIN",
-      "status": "Active",
-      "injury_status": null,
-      "age": 29,
-      "years_exp": 7,
-      "search_rank": 87,
-      "depth_chart_position": "QB",
-      "rostered": false,
-      "roster_id": null,
-      "owner_user_id": null,
-      "username": null,
-      "team_name": null,
-      "location": "free_agent",
-      "draft": {
-        "draft_id": "1313649397531148288",
-        "season": "2026",
-        "round": 12,
-        "pick_no": 160,
-        "original_roster_id": 7,
-        "original_owner_user_id": "713449654771056640",
-        "original_username": "Tonay",
-        "original_team_name": "Relaxed Slims",
-        "is_keeper": false
-      },
-      "keeper": {
-        "eligible_next_season": true,
-        "cost_round": 12,
-        "reason": "Drafted in Round 12"
-      }
-    },
-    {
       "player_id": "4137",
       "name": "James Conner",
       "position": "RB",
@@ -183,6 +149,74 @@
         "eligible_next_season": true,
         "cost_round": 14,
         "reason": "Undrafted player; keeper cost is Round 14"
+      }
+    },
+    {
+      "player_id": "8110",
+      "name": "Jake Ferguson",
+      "position": "TE",
+      "team": "DAL",
+      "status": "Active",
+      "injury_status": null,
+      "age": 27,
+      "years_exp": 4,
+      "search_rank": 97,
+      "depth_chart_position": "TE",
+      "rostered": false,
+      "roster_id": null,
+      "owner_user_id": null,
+      "username": null,
+      "team_name": null,
+      "location": "free_agent",
+      "draft": {
+        "draft_id": "1313649397531148288",
+        "season": "2026",
+        "round": 10,
+        "pick_no": 132,
+        "original_roster_id": 7,
+        "original_owner_user_id": "713449654771056640",
+        "original_username": "Tonay",
+        "original_team_name": "Relaxed Slims",
+        "is_keeper": false
+      },
+      "keeper": {
+        "eligible_next_season": true,
+        "cost_round": 10,
+        "reason": "Drafted in Round 10"
+      }
+    },
+    {
+      "player_id": "11581",
+      "name": "MarShawn Lloyd",
+      "position": "RB",
+      "team": "GB",
+      "status": "Active",
+      "injury_status": null,
+      "age": 25,
+      "years_exp": 2,
+      "search_rank": 98,
+      "depth_chart_position": "RB",
+      "rostered": false,
+      "roster_id": null,
+      "owner_user_id": null,
+      "username": null,
+      "team_name": null,
+      "location": "free_agent",
+      "draft": {
+        "draft_id": "1313649397531148288",
+        "season": "2026",
+        "round": 5,
+        "pick_no": 67,
+        "original_roster_id": 14,
+        "original_owner_user_id": "1263695631499665408",
+        "original_username": "jeredoliver",
+        "original_team_name": "JSN Bourne",
+        "is_keeper": false
+      },
+      "keeper": {
+        "eligible_next_season": true,
+        "cost_round": 5,
+        "reason": "Drafted in Round 5"
       }
     },
     {
@@ -309,40 +343,6 @@
         "eligible_next_season": true,
         "cost_round": 8,
         "reason": "Drafted in Round 8"
-      }
-    },
-    {
-      "player_id": "13298",
-      "name": "KC Concepcion",
-      "position": "WR",
-      "team": "CLE",
-      "status": "Active",
-      "injury_status": null,
-      "age": 22,
-      "years_exp": 0,
-      "search_rank": 110,
-      "depth_chart_position": "SWR",
-      "rostered": false,
-      "roster_id": null,
-      "owner_user_id": null,
-      "username": null,
-      "team_name": null,
-      "location": "free_agent",
-      "draft": {
-        "draft_id": "1313649397531148288",
-        "season": "2026",
-        "round": 7,
-        "pick_no": 94,
-        "original_roster_id": 4,
-        "original_owner_user_id": "979940216863608832",
-        "original_username": "Naz514",
-        "original_team_name": "Maye-B not so lucky",
-        "is_keeper": false
-      },
-      "keeper": {
-        "eligible_next_season": true,
-        "cost_round": 7,
-        "reason": "Drafted in Round 7"
       }
     },
     {
@@ -698,6 +698,30 @@
       }
     },
     {
+      "player_id": "11647",
+      "name": "Kimani Vidal",
+      "position": "RB",
+      "team": "LAC",
+      "status": "Active",
+      "injury_status": null,
+      "age": 25,
+      "years_exp": 2,
+      "search_rank": 141,
+      "depth_chart_position": "RB",
+      "rostered": false,
+      "roster_id": null,
+      "owner_user_id": null,
+      "username": null,
+      "team_name": null,
+      "location": "free_agent",
+      "draft": null,
+      "keeper": {
+        "eligible_next_season": true,
+        "cost_round": 14,
+        "reason": "Undrafted player; keeper cost is Round 14"
+      }
+    },
+    {
       "player_id": "12487",
       "name": "Terrance Ferguson",
       "position": "TE",
@@ -828,30 +852,6 @@
       }
     },
     {
-      "player_id": "13276",
-      "name": "Omar Cooper",
-      "position": "WR",
-      "team": "NYJ",
-      "status": "Active",
-      "injury_status": null,
-      "age": 22,
-      "years_exp": 0,
-      "search_rank": 151,
-      "depth_chart_position": "SWR",
-      "rostered": false,
-      "roster_id": null,
-      "owner_user_id": null,
-      "username": null,
-      "team_name": null,
-      "location": "free_agent",
-      "draft": null,
-      "keeper": {
-        "eligible_next_season": true,
-        "cost_round": 14,
-        "reason": "Undrafted player; keeper cost is Round 14"
-      }
-    },
-    {
       "player_id": "12502",
       "name": "Gunnar Helm",
       "position": "TE",
@@ -886,30 +886,6 @@
       "years_exp": 3,
       "search_rank": 155,
       "depth_chart_position": "RB",
-      "rostered": false,
-      "roster_id": null,
-      "owner_user_id": null,
-      "username": null,
-      "team_name": null,
-      "location": "free_agent",
-      "draft": null,
-      "keeper": {
-        "eligible_next_season": true,
-        "cost_round": 14,
-        "reason": "Undrafted player; keeper cost is Round 14"
-      }
-    },
-    {
-      "player_id": "13301",
-      "name": "Antonio Williams",
-      "position": "WR",
-      "team": "WAS",
-      "status": "Active",
-      "injury_status": null,
-      "age": 22,
-      "years_exp": 0,
-      "search_rank": 156,
-      "depth_chart_position": "LWR",
       "rostered": false,
       "roster_id": null,
       "owner_user_id": null,
@@ -1098,6 +1074,30 @@
       "years_exp": 1,
       "search_rank": 169,
       "depth_chart_position": null,
+      "rostered": false,
+      "roster_id": null,
+      "owner_user_id": null,
+      "username": null,
+      "team_name": null,
+      "location": "free_agent",
+      "draft": null,
+      "keeper": {
+        "eligible_next_season": true,
+        "cost_round": 14,
+        "reason": "Undrafted player; keeper cost is Round 14"
+      }
+    },
+    {
+      "player_id": "7528",
+      "name": "Najee Harris",
+      "position": "RB",
+      "team": "NYG",
+      "status": "Active",
+      "injury_status": null,
+      "age": 28,
+      "years_exp": 5,
+      "search_rank": 170,
+      "depth_chart_position": "RB",
       "rostered": false,
       "roster_id": null,
       "owner_user_id": null,
@@ -1940,6 +1940,30 @@
       "years_exp": 5,
       "search_rank": 203,
       "depth_chart_position": "LWR",
+      "rostered": false,
+      "roster_id": null,
+      "owner_user_id": null,
+      "username": null,
+      "team_name": null,
+      "location": "free_agent",
+      "draft": null,
+      "keeper": {
+        "eligible_next_season": true,
+        "cost_round": 14,
+        "reason": "Undrafted player; keeper cost is Round 14"
+      }
+    },
+    {
+      "player_id": "3257",
+      "name": "Jacoby Brissett",
+      "position": "QB",
+      "team": "ARI",
+      "status": "Active",
+      "injury_status": null,
+      "age": 33,
+      "years_exp": 10,
+      "search_rank": 203,
+      "depth_chart_position": "QB",
       "rostered": false,
       "roster_id": null,
       "owner_user_id": null,
@@ -4138,30 +4162,6 @@
       }
     },
     {
-      "player_id": "4147",
-      "name": "Samaje Perine",
-      "position": "RB",
-      "team": "CIN",
-      "status": "Active",
-      "injury_status": null,
-      "age": 31,
-      "years_exp": 9,
-      "search_rank": 456,
-      "depth_chart_position": "RB",
-      "rostered": false,
-      "roster_id": null,
-      "owner_user_id": null,
-      "username": null,
-      "team_name": null,
-      "location": "free_agent",
-      "draft": null,
-      "keeper": {
-        "eligible_next_season": true,
-        "cost_round": 14,
-        "reason": "Undrafted player; keeper cost is Round 14"
-      }
-    },
-    {
       "player_id": "12521",
       "name": "Elijah Arroyo",
       "position": "TE",
@@ -4267,30 +4267,6 @@
       "age": 26,
       "years_exp": 3,
       "search_rank": 462,
-      "depth_chart_position": "TE",
-      "rostered": false,
-      "roster_id": null,
-      "owner_user_id": null,
-      "username": null,
-      "team_name": null,
-      "location": "free_agent",
-      "draft": null,
-      "keeper": {
-        "eligible_next_season": true,
-        "cost_round": 14,
-        "reason": "Undrafted player; keeper cost is Round 14"
-      }
-    },
-    {
-      "player_id": "9482",
-      "name": "Michael Mayer",
-      "position": "TE",
-      "team": "LV",
-      "status": "Active",
-      "injury_status": null,
-      "age": 25,
-      "years_exp": 3,
-      "search_rank": 464,
       "depth_chart_position": "TE",
       "rostered": false,
       "roster_id": null,

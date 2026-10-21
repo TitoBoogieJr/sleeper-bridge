@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-21T04:15:24.710653+00:00",
+  "snapshot_generated_at": "2026-10-21T09:30:55.817745+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -521,6 +521,29 @@
           }
         },
         {
+          "player_id": "13298",
+          "name": "KC Concepcion",
+          "position": "WR",
+          "nfl_team": "CLE",
+          "location": "bench",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 7,
+            "pick_no": 94,
+            "original_roster_id": 4,
+            "original_owner_user_id": "979940216863608832",
+            "original_username": "Naz514",
+            "original_team_name": "Maye-B not so lucky",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 7,
+            "reason": "Drafted in Round 7"
+          }
+        },
+        {
           "player_id": "9508",
           "name": "Tyjae Spears",
           "position": "RB",
@@ -564,19 +587,6 @@
             "eligible_next_season": true,
             "cost_round": 11,
             "reason": "Drafted in Round 11"
-          }
-        },
-        {
-          "player_id": "7528",
-          "name": "Najee Harris",
-          "position": "RB",
-          "nfl_team": "NYG",
-          "location": "bench",
-          "draft": null,
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 14,
-            "reason": "Undrafted player; keeper cost is Round 14"
           }
         }
       ]
@@ -1636,29 +1646,6 @@
           }
         },
         {
-          "player_id": "8110",
-          "name": "Jake Ferguson",
-          "position": "TE",
-          "nfl_team": "DAL",
-          "location": "bench",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 10,
-            "pick_no": 132,
-            "original_roster_id": 7,
-            "original_owner_user_id": "713449654771056640",
-            "original_username": "Tonay",
-            "original_team_name": "Relaxed Slims",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 10,
-            "reason": "Drafted in Round 10"
-          }
-        },
-        {
           "player_id": "2449",
           "name": "Stefon Diggs",
           "position": "WR",
@@ -1718,10 +1705,10 @@
           }
         },
         {
-          "player_id": "11647",
-          "name": "Kimani Vidal",
-          "position": "RB",
-          "nfl_team": "LAC",
+          "player_id": "9482",
+          "name": "Michael Mayer",
+          "position": "TE",
+          "nfl_team": "LV",
           "location": "bench",
           "draft": null,
           "keeper": {
@@ -1877,6 +1864,29 @@
           }
         },
         {
+          "player_id": "5849",
+          "name": "Kyler Murray",
+          "position": "QB",
+          "nfl_team": "MIN",
+          "location": "bench",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 12,
+            "pick_no": 160,
+            "original_roster_id": 7,
+            "original_owner_user_id": "713449654771056640",
+            "original_username": "Tonay",
+            "original_team_name": "Relaxed Slims",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 12,
+            "reason": "Drafted in Round 12"
+          }
+        },
+        {
           "player_id": "11583",
           "name": "Jonathon Brooks",
           "position": "RB",
@@ -1897,29 +1907,6 @@
             "eligible_next_season": true,
             "cost_round": 6,
             "reason": "Drafted in Round 6"
-          }
-        },
-        {
-          "player_id": "11581",
-          "name": "MarShawn Lloyd",
-          "position": "RB",
-          "nfl_team": "GB",
-          "location": "bench",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 5,
-            "pick_no": 67,
-            "original_roster_id": 14,
-            "original_owner_user_id": "1263695631499665408",
-            "original_username": "jeredoliver",
-            "original_team_name": "JSN Bourne",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 5,
-            "reason": "Drafted in Round 5"
           }
         },
         {
@@ -1969,11 +1956,24 @@
           }
         },
         {
-          "player_id": "3257",
-          "name": "Jacoby Brissett",
-          "position": "QB",
-          "nfl_team": "ARI",
-          "location": "starter",
+          "player_id": "13276",
+          "name": "Omar Cooper",
+          "position": "WR",
+          "nfl_team": "NYJ",
+          "location": "bench",
+          "draft": null,
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 14,
+            "reason": "Undrafted player; keeper cost is Round 14"
+          }
+        },
+        {
+          "player_id": "13301",
+          "name": "Antonio Williams",
+          "position": "WR",
+          "nfl_team": "WAS",
+          "location": "bench",
           "draft": null,
           "keeper": {
             "eligible_next_season": true,
@@ -3447,6 +3447,19 @@
           "name": "Keon Coleman",
           "position": "WR",
           "nfl_team": "BUF",
+          "location": "bench",
+          "draft": null,
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 14,
+            "reason": "Undrafted player; keeper cost is Round 14"
+          }
+        },
+        {
+          "player_id": "4147",
+          "name": "Samaje Perine",
+          "position": "RB",
+          "nfl_team": "CIN",
           "location": "bench",
           "draft": null,
           "keeper": {
