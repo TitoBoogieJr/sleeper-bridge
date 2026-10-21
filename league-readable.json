@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-20T23:43:54.195323+00:00",
+  "snapshot_generated_at": "2026-10-21T04:15:24.710653+00:00",
   "current_week": 7,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -1699,16 +1699,16 @@
           "depth_chart_position": "LWR"
         },
         {
-          "player_id": "11620",
-          "name": "Rome Odunze",
+          "player_id": "9493",
+          "name": "Puka Nacua",
           "position": "WR",
-          "team": "CHI",
+          "team": "LAR",
           "status": "Active",
           "injury_status": null,
-          "age": 24,
-          "years_exp": 2,
-          "search_rank": 64,
-          "depth_chart_position": "LWR"
+          "age": 25,
+          "years_exp": 3,
+          "search_rank": 5,
+          "depth_chart_position": "RWR"
         },
         {
           "player_id": "1466",
@@ -1723,16 +1723,16 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "9493",
-          "name": "Puka Nacua",
+          "player_id": "11620",
+          "name": "Rome Odunze",
           "position": "WR",
-          "team": "LAR",
+          "team": "CHI",
           "status": "Active",
           "injury_status": null,
-          "age": 25,
-          "years_exp": 3,
-          "search_rank": 5,
-          "depth_chart_position": "RWR"
+          "age": 24,
+          "years_exp": 2,
+          "search_rank": 64,
+          "depth_chart_position": "LWR"
         },
         {
           "player_id": "650",
@@ -2749,15 +2749,15 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "11581",
-          "name": "MarShawn Lloyd",
+          "player_id": "12474",
+          "name": "Woody Marks",
           "position": "RB",
-          "team": "GB",
+          "team": "HOU",
           "status": "Active",
           "injury_status": null,
           "age": 25,
-          "years_exp": 2,
-          "search_rank": 98,
+          "years_exp": 1,
+          "search_rank": 105,
           "depth_chart_position": "RB"
         },
         {
@@ -2773,10 +2773,10 @@
           "depth_chart_position": "K"
         },
         {
-          "player_id": "BAL",
-          "name": "Baltimore Ravens",
+          "player_id": "KC",
+          "name": "Kansas City Chiefs",
           "position": "DEF",
-          "team": "BAL",
+          "team": "KC",
           "status": null,
           "injury_status": null,
           "age": null,
@@ -2799,15 +2799,15 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "12474",
-          "name": "Woody Marks",
+          "player_id": "11581",
+          "name": "MarShawn Lloyd",
           "position": "RB",
-          "team": "HOU",
+          "team": "GB",
           "status": "Active",
           "injury_status": null,
           "age": 25,
-          "years_exp": 1,
-          "search_rank": 105,
+          "years_exp": 2,
+          "search_rank": 98,
           "depth_chart_position": "RB"
         },
         {
@@ -2835,10 +2835,10 @@
           "depth_chart_position": "RWR"
         },
         {
-          "player_id": "KC",
-          "name": "Kansas City Chiefs",
+          "player_id": "BAL",
+          "name": "Baltimore Ravens",
           "position": "DEF",
-          "team": "KC",
+          "team": "BAL",
           "status": null,
           "injury_status": null,
           "age": null,
