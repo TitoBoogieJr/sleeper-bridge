@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-22T17:31:36.561782+00:00",
+  "snapshot_generated_at": "2026-10-22T21:24:08.423623+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -7414,6 +7414,205 @@
       ],
       "roster_ids": [
         8
+      ]
+    },
+    {
+      "transaction_id": "1419107045675675648",
+      "week": 7,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792703994725,
+      "faab": null,
+      "adds": [
+        {
+          "player": {
+            "player_id": "8122",
+            "name": "Zonovan Knight",
+            "position": "RB",
+            "team": "ARI",
+            "status": "Active",
+            "injury_status": null,
+            "age": 25,
+            "years_exp": 4,
+            "search_rank": 669,
+            "depth_chart_position": "RB"
+          },
+          "destination": {
+            "roster_id": 11,
+            "owner_user_id": "1263707560905543680",
+            "username": "Ryan3041",
+            "team_name": "Ryan3041"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "player_id": "4663",
+            "name": "Austin Ekeler",
+            "position": "RB",
+            "team": "WAS",
+            "status": "Active",
+            "injury_status": null,
+            "age": 31,
+            "years_exp": 9,
+            "search_rank": 632,
+            "depth_chart_position": "RB"
+          },
+          "source": {
+            "roster_id": 11,
+            "owner_user_id": "1263707560905543680",
+            "username": "Ryan3041",
+            "team_name": "Ryan3041"
+          }
+        }
+      ],
+      "roster_ids": [
+        11
+      ]
+    },
+    {
+      "transaction_id": "1419103432203141120",
+      "week": 7,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792703133205,
+      "faab": null,
+      "adds": [
+        {
+          "player": {
+            "player_id": "BAL",
+            "name": "Baltimore Ravens",
+            "position": "DEF",
+            "team": "BAL",
+            "status": null,
+            "injury_status": null,
+            "age": null,
+            "years_exp": null,
+            "search_rank": null,
+            "depth_chart_position": null
+          },
+          "destination": {
+            "roster_id": 9,
+            "owner_user_id": "1263686208978944001",
+            "username": "kevkazoo",
+            "team_name": "Nacua Matata"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "player_id": "ATL",
+            "name": "Atlanta Falcons",
+            "position": "DEF",
+            "team": "ATL",
+            "status": null,
+            "injury_status": null,
+            "age": null,
+            "years_exp": null,
+            "search_rank": null,
+            "depth_chart_position": null
+          },
+          "source": {
+            "roster_id": 9,
+            "owner_user_id": "1263686208978944001",
+            "username": "kevkazoo",
+            "team_name": "Nacua Matata"
+          }
+        }
+      ],
+      "roster_ids": [
+        9
+      ]
+    },
+    {
+      "transaction_id": "1419062695436599296",
+      "week": 7,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792693420804,
+      "faab": null,
+      "adds": [
+        {
+          "player": {
+            "player_id": "13833",
+            "name": "Dominic Zvada",
+            "position": "K",
+            "team": "NYG",
+            "status": "Active",
+            "injury_status": null,
+            "age": 22,
+            "years_exp": 0,
+            "search_rank": 330,
+            "depth_chart_position": "K"
+          },
+          "destination": {
+            "roster_id": 12,
+            "owner_user_id": "1263696795716825088",
+            "username": "halfpint83",
+            "team_name": "Little Miss Touchdown"
+          }
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        12
+      ]
+    },
+    {
+      "transaction_id": "1419051285579145216",
+      "week": 7,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792690700481,
+      "faab": null,
+      "adds": [
+        {
+          "player": {
+            "player_id": "CAR",
+            "name": "Carolina Panthers",
+            "position": "DEF",
+            "team": "CAR",
+            "status": null,
+            "injury_status": null,
+            "age": null,
+            "years_exp": null,
+            "search_rank": null,
+            "depth_chart_position": null
+          },
+          "destination": {
+            "roster_id": 13,
+            "owner_user_id": "1263686571970793472",
+            "username": "billyfusco",
+            "team_name": "Darkmeat Duck"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "player_id": "13545",
+            "name": "Trey Smack",
+            "position": "K",
+            "team": "GB",
+            "status": "Active",
+            "injury_status": null,
+            "age": 23,
+            "years_exp": 0,
+            "search_rank": 194,
+            "depth_chart_position": "K"
+          },
+          "source": {
+            "roster_id": 13,
+            "owner_user_id": "1263686571970793472",
+            "username": "billyfusco",
+            "team_name": "Darkmeat Duck"
+          }
+        }
+      ],
+      "roster_ids": [
+        13
       ]
     },
     {

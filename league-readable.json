@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-22T17:31:36.561782+00:00",
+  "snapshot_generated_at": "2026-10-22T21:24:08.423623+00:00",
   "current_week": 7,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -1759,10 +1759,10 @@
           "depth_chart_position": "K"
         },
         {
-          "player_id": "ATL",
-          "name": "Atlanta Falcons",
+          "player_id": "BAL",
+          "name": "Baltimore Ravens",
           "position": "DEF",
-          "team": "ATL",
+          "team": "BAL",
           "status": null,
           "injury_status": null,
           "age": null,
@@ -1772,6 +1772,18 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "11625",
+          "name": "Adonai Mitchell",
+          "position": "WR",
+          "team": "NYJ",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "age": 24,
+          "years_exp": 2,
+          "search_rank": 162,
+          "depth_chart_position": "RWR"
+        },
         {
           "player_id": "13294",
           "name": "Makai Lemon",
@@ -1821,20 +1833,7 @@
           "depth_chart_position": "RB"
         }
       ],
-      "reserve": [
-        {
-          "player_id": "11625",
-          "name": "Adonai Mitchell",
-          "position": "WR",
-          "team": "NYJ",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "age": 24,
-          "years_exp": 2,
-          "search_rank": 162,
-          "depth_chart_position": "RWR"
-        }
-      ]
+      "reserve": []
     },
     {
       "roster_id": 10,
@@ -2181,18 +2180,6 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "4663",
-          "name": "Austin Ekeler",
-          "position": "RB",
-          "team": "WAS",
-          "status": "Active",
-          "injury_status": null,
-          "age": 31,
-          "years_exp": 9,
-          "search_rank": 632,
-          "depth_chart_position": "RB"
-        },
-        {
           "player_id": "4984",
           "name": "Josh Allen",
           "position": "QB",
@@ -2215,6 +2202,18 @@
           "years_exp": 7,
           "search_rank": 77,
           "depth_chart_position": "RWR"
+        },
+        {
+          "player_id": "8122",
+          "name": "Zonovan Knight",
+          "position": "RB",
+          "team": "ARI",
+          "status": "Active",
+          "injury_status": null,
+          "age": 25,
+          "years_exp": 4,
+          "search_rank": 669,
+          "depth_chart_position": "RB"
         },
         {
           "player_id": "9500",
@@ -2353,16 +2352,16 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "0",
-          "name": "Unknown (0)",
-          "position": null,
-          "team": null,
-          "status": null,
+          "player_id": "13833",
+          "name": "Dominic Zvada",
+          "position": "K",
+          "team": "NYG",
+          "status": "Active",
           "injury_status": null,
-          "age": null,
-          "years_exp": null,
-          "search_rank": null,
-          "depth_chart_position": null
+          "age": 22,
+          "years_exp": 0,
+          "search_rank": 330,
+          "depth_chart_position": "K"
         },
         {
           "player_id": "MIN",
@@ -2551,32 +2550,6 @@
           "depth_chart_position": "SWR"
         },
         {
-          "player_id": "13545",
-          "name": "Trey Smack",
-          "position": "K",
-          "team": "GB",
-          "status": "Active",
-          "injury_status": null,
-          "age": 23,
-          "years_exp": 0,
-          "search_rank": 194,
-          "depth_chart_position": "K"
-        },
-        {
-          "player_id": "0",
-          "name": "Unknown (0)",
-          "position": null,
-          "team": null,
-          "status": null,
-          "injury_status": null,
-          "age": null,
-          "years_exp": null,
-          "search_rank": null,
-          "depth_chart_position": null
-        }
-      ],
-      "bench": [
-        {
           "player_id": "11792",
           "name": "Will Reichard",
           "position": "K",
@@ -2588,6 +2561,20 @@
           "search_rank": 170,
           "depth_chart_position": "K"
         },
+        {
+          "player_id": "CAR",
+          "name": "Carolina Panthers",
+          "position": "DEF",
+          "team": "CAR",
+          "status": null,
+          "injury_status": null,
+          "age": null,
+          "years_exp": null,
+          "search_rank": null,
+          "depth_chart_position": null
+        }
+      ],
+      "bench": [
         {
           "player_id": "12529",
           "name": "TreVeyon Henderson",

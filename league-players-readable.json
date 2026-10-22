@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-22T17:31:36.561782+00:00",
+  "snapshot_generated_at": "2026-10-22T21:24:08.423623+00:00",
   "players": [
     {
       "player_id": "9509",
@@ -6109,7 +6109,7 @@
       "owner_user_id": "1263686208978944001",
       "username": "kevkazoo",
       "team_name": "Nacua Matata",
-      "location": "reserve",
+      "location": "bench",
       "draft": null,
       "keeper": {
         "eligible_next_season": true,
@@ -15252,12 +15252,12 @@
       "years_exp": 9,
       "search_rank": 632,
       "depth_chart_position": "RB",
-      "rostered": true,
-      "roster_id": 11,
-      "owner_user_id": "1263707560905543680",
-      "username": "Ryan3041",
-      "team_name": "Ryan3041",
-      "location": "bench",
+      "rostered": false,
+      "roster_id": null,
+      "owner_user_id": null,
+      "username": null,
+      "team_name": null,
+      "location": "free_agent",
       "draft": null,
       "keeper": {
         "eligible_next_season": true,
@@ -17916,12 +17916,12 @@
       "years_exp": 4,
       "search_rank": 669,
       "depth_chart_position": "RB",
-      "rostered": false,
-      "roster_id": null,
-      "owner_user_id": null,
-      "username": null,
-      "team_name": null,
-      "location": "free_agent",
+      "rostered": true,
+      "roster_id": 11,
+      "owner_user_id": "1263707560905543680",
+      "username": "Ryan3041",
+      "team_name": "Ryan3041",
+      "location": "bench",
       "draft": null,
       "keeper": {
         "eligible_next_season": true,

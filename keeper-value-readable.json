@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-22T17:31:36.561782+00:00",
+  "snapshot_generated_at": "2026-10-22T21:24:08.423623+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -1128,10 +1128,10 @@
           }
         },
         {
-          "player_id": "4663",
-          "name": "Austin Ekeler",
+          "player_id": "8122",
+          "name": "Zonovan Knight",
           "position": "RB",
-          "nfl_team": "WAS",
+          "nfl_team": "ARI",
           "location": "bench",
           "draft": null,
           "keeper": {
@@ -1950,7 +1950,7 @@
           "name": "Adonai Mitchell",
           "position": "WR",
           "nfl_team": "NYJ",
-          "location": "reserve",
+          "location": "bench",
           "draft": null,
           "keeper": {
             "eligible_next_season": true,
