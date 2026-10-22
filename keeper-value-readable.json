@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-22T12:19:34.118125+00:00",
+  "snapshot_generated_at": "2026-10-22T17:31:36.561782+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -453,7 +453,7 @@
         },
         {
           "player_id": "4199",
-          "name": "Aaron Jones",
+          "name": "Aaron Jones Sr.",
           "position": "RB",
           "nfl_team": "MIN",
           "location": "starter",
@@ -522,7 +522,7 @@
         },
         {
           "player_id": "13298",
-          "name": "KC Concepcion",
+          "name": "KC Concepcion Jr.",
           "position": "WR",
           "nfl_team": "CLE",
           "location": "bench",
@@ -714,7 +714,7 @@
         },
         {
           "player_id": "7553",
-          "name": "Kyle Pitts",
+          "name": "Kyle Pitts Sr.",
           "position": "TE",
           "nfl_team": "ATL",
           "location": "bench",
@@ -760,7 +760,7 @@
         },
         {
           "player_id": "8154",
-          "name": "Brian Robinson",
+          "name": "Brian Robinson Jr.",
           "position": "RB",
           "nfl_team": "ATL",
           "location": "bench",
@@ -862,29 +862,6 @@
       "team_name": "Ryan3041",
       "players": [
         {
-          "player_id": "4034",
-          "name": "Christian McCaffrey",
-          "position": "RB",
-          "nfl_team": "SF",
-          "location": "starter",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 1,
-            "pick_no": 3,
-            "original_roster_id": 11,
-            "original_owner_user_id": "1263707560905543680",
-            "original_username": "Ryan3041",
-            "original_team_name": "Ryan3041",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": false,
-            "cost_round": null,
-            "reason": "Drafted in Round 1; Rounds 1 and 2 cannot be kept"
-          }
-        },
-        {
           "player_id": "4984",
           "name": "Josh Allen",
           "position": "QB",
@@ -905,6 +882,29 @@
             "eligible_next_season": true,
             "cost_round": 3,
             "reason": "Drafted in Round 3"
+          }
+        },
+        {
+          "player_id": "4034",
+          "name": "Christian McCaffrey",
+          "position": "RB",
+          "nfl_team": "SF",
+          "location": "starter",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 1,
+            "pick_no": 3,
+            "original_roster_id": 11,
+            "original_owner_user_id": "1263707560905543680",
+            "original_username": "Ryan3041",
+            "original_team_name": "Ryan3041",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": false,
+            "cost_round": null,
+            "reason": "Drafted in Round 1; Rounds 1 and 2 cannot be kept"
           }
         },
         {
@@ -1232,7 +1232,7 @@
         },
         {
           "player_id": "7543",
-          "name": "Travis Etienne",
+          "name": "Travis Etienne Jr.",
           "position": "RB",
           "nfl_team": "NO",
           "location": "reserve",
@@ -1453,7 +1453,7 @@
       "players": [
         {
           "player_id": "8138",
-          "name": "James Cook",
+          "name": "James Cook III",
           "position": "RB",
           "nfl_team": "BUF",
           "location": "bench",
@@ -1636,29 +1636,6 @@
           }
         },
         {
-          "player_id": "8131",
-          "name": "Isaiah Likely",
-          "position": "TE",
-          "nfl_team": "NYG",
-          "location": "starter",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 9,
-            "pick_no": 121,
-            "original_roster_id": 7,
-            "original_owner_user_id": "713449654771056640",
-            "original_username": "Tonay",
-            "original_team_name": "Relaxed Slims",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 9,
-            "reason": "Drafted in Round 9"
-          }
-        },
-        {
           "player_id": "2449",
           "name": "Stefon Diggs",
           "position": "WR",
@@ -1679,6 +1656,29 @@
             "eligible_next_season": true,
             "cost_round": 8,
             "reason": "Drafted in Round 8"
+          }
+        },
+        {
+          "player_id": "8131",
+          "name": "Isaiah Likely",
+          "position": "TE",
+          "nfl_team": "NYG",
+          "location": "starter",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 9,
+            "pick_no": 121,
+            "original_roster_id": 7,
+            "original_owner_user_id": "713449654771056640",
+            "original_username": "Tonay",
+            "original_team_name": "Relaxed Slims",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 9,
+            "reason": "Drafted in Round 9"
           }
         },
         {
@@ -2050,7 +2050,7 @@
         },
         {
           "player_id": "12519",
-          "name": "Luther Burden",
+          "name": "Luther Burden III",
           "position": "WR",
           "nfl_team": "CHI",
           "location": "starter",
@@ -2076,7 +2076,7 @@
           "name": "Tyler Warren",
           "position": "TE",
           "nfl_team": "IND",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -2118,29 +2118,6 @@
           }
         },
         {
-          "player_id": "5849",
-          "name": "Kyler Murray",
-          "position": "QB",
-          "nfl_team": "MIN",
-          "location": "bench",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 12,
-            "pick_no": 160,
-            "original_roster_id": 7,
-            "original_owner_user_id": "713449654771056640",
-            "original_username": "Tonay",
-            "original_team_name": "Relaxed Slims",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 12,
-            "reason": "Drafted in Round 12"
-          }
-        },
-        {
           "player_id": "11583",
           "name": "Jonathon Brooks",
           "position": "RB",
@@ -2161,6 +2138,29 @@
             "eligible_next_season": true,
             "cost_round": 6,
             "reason": "Drafted in Round 6"
+          }
+        },
+        {
+          "player_id": "5849",
+          "name": "Kyler Murray",
+          "position": "QB",
+          "nfl_team": "MIN",
+          "location": "starter",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 12,
+            "pick_no": 160,
+            "original_roster_id": 7,
+            "original_owner_user_id": "713449654771056640",
+            "original_username": "Tonay",
+            "original_team_name": "Relaxed Slims",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 12,
+            "reason": "Drafted in Round 12"
           }
         },
         {
@@ -2211,7 +2211,7 @@
         },
         {
           "player_id": "13276",
-          "name": "Omar Cooper",
+          "name": "Omar Cooper Jr.",
           "position": "WR",
           "nfl_team": "NYJ",
           "location": "bench",
@@ -2263,7 +2263,7 @@
           "name": "Tyler Higbee",
           "position": "TE",
           "nfl_team": "LAR",
-          "location": "starter",
+          "location": "bench",
           "draft": null,
           "keeper": {
             "eligible_next_season": true,
@@ -2282,280 +2282,6 @@
             "eligible_next_season": true,
             "cost_round": 14,
             "reason": "Undrafted player; keeper cost is Round 14"
-          }
-        }
-      ]
-    },
-    {
-      "roster_id": 12,
-      "owner_user_id": "1263696795716825088",
-      "username": "halfpint83",
-      "team_name": "Little Miss Touchdown",
-      "players": [
-        {
-          "player_id": "7547",
-          "name": "Amon-Ra St. Brown",
-          "position": "WR",
-          "nfl_team": "DET",
-          "location": "starter",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 1,
-            "pick_no": 8,
-            "original_roster_id": 12,
-            "original_owner_user_id": "1263696795716825088",
-            "original_username": "halfpint83",
-            "original_team_name": "Little Miss Touchdown",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": false,
-            "cost_round": null,
-            "reason": "Drafted in Round 1; Rounds 1 and 2 cannot be kept"
-          }
-        },
-        {
-          "player_id": "7588",
-          "name": "Javonte Williams",
-          "position": "RB",
-          "nfl_team": "DAL",
-          "location": "starter",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 2,
-            "pick_no": 21,
-            "original_roster_id": 12,
-            "original_owner_user_id": "1263696795716825088",
-            "original_username": "halfpint83",
-            "original_team_name": "Little Miss Touchdown",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": false,
-            "cost_round": null,
-            "reason": "Drafted in Round 2; Rounds 1 and 2 cannot be kept"
-          }
-        },
-        {
-          "player_id": "5892",
-          "name": "David Montgomery",
-          "position": "RB",
-          "nfl_team": "HOU",
-          "location": "bench",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 3,
-            "pick_no": 36,
-            "original_roster_id": 12,
-            "original_owner_user_id": "1263696795716825088",
-            "original_username": "halfpint83",
-            "original_team_name": "Little Miss Touchdown",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 3,
-            "reason": "Drafted in Round 3"
-          }
-        },
-        {
-          "player_id": "8228",
-          "name": "Jaylen Warren",
-          "position": "RB",
-          "nfl_team": "PIT",
-          "location": "starter",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 4,
-            "pick_no": 49,
-            "original_roster_id": 12,
-            "original_owner_user_id": "1263696795716825088",
-            "original_username": "halfpint83",
-            "original_team_name": "Little Miss Touchdown",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 4,
-            "reason": "Drafted in Round 4"
-          }
-        },
-        {
-          "player_id": "12506",
-          "name": "Harold Fannin",
-          "position": "TE",
-          "nfl_team": "CLE",
-          "location": "starter",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 7,
-            "pick_no": 92,
-            "original_roster_id": 12,
-            "original_owner_user_id": "1263696795716825088",
-            "original_username": "halfpint83",
-            "original_team_name": "Little Miss Touchdown",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 7,
-            "reason": "Drafted in Round 7"
-          }
-        },
-        {
-          "player_id": "11631",
-          "name": "Brian Thomas",
-          "position": "WR",
-          "nfl_team": "JAX",
-          "location": "bench",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 5,
-            "pick_no": 64,
-            "original_roster_id": 12,
-            "original_owner_user_id": "1263696795716825088",
-            "original_username": "halfpint83",
-            "original_team_name": "Little Miss Touchdown",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 5,
-            "reason": "Drafted in Round 5"
-          }
-        },
-        {
-          "player_id": "4943",
-          "name": "Sam Darnold",
-          "position": "QB",
-          "nfl_team": "SEA",
-          "location": "bench",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 13,
-            "pick_no": 176,
-            "original_roster_id": 12,
-            "original_owner_user_id": "1263696795716825088",
-            "original_username": "halfpint83",
-            "original_team_name": "Little Miss Touchdown",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 13,
-            "reason": "Drafted in Round 13"
-          }
-        },
-        {
-          "player_id": "10222",
-          "name": "Jayden Reed",
-          "position": "WR",
-          "nfl_team": "GB",
-          "location": "reserve",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 8,
-            "pick_no": 105,
-            "original_roster_id": 12,
-            "original_owner_user_id": "1263696795716825088",
-            "original_username": "halfpint83",
-            "original_team_name": "Little Miss Touchdown",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 8,
-            "reason": "Drafted in Round 8"
-          }
-        },
-        {
-          "player_id": "9758",
-          "name": "C.J. Stroud",
-          "position": "QB",
-          "nfl_team": "HOU",
-          "location": "starter",
-          "draft": null,
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 14,
-            "reason": "Undrafted player; keeper cost is Round 14"
-          }
-        },
-        {
-          "player_id": "8121",
-          "name": "Romeo Doubs",
-          "position": "WR",
-          "nfl_team": "NE",
-          "location": "reserve",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 10,
-            "pick_no": 133,
-            "original_roster_id": 12,
-            "original_owner_user_id": "1263696795716825088",
-            "original_username": "halfpint83",
-            "original_team_name": "Little Miss Touchdown",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 10,
-            "reason": "Drafted in Round 10"
-          }
-        },
-        {
-          "player_id": "11624",
-          "name": "Xavier Worthy",
-          "position": "WR",
-          "nfl_team": "KC",
-          "location": "starter",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 9,
-            "pick_no": 120,
-            "original_roster_id": 12,
-            "original_owner_user_id": "1263696795716825088",
-            "original_username": "halfpint83",
-            "original_team_name": "Little Miss Touchdown",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 9,
-            "reason": "Drafted in Round 9"
-          }
-        },
-        {
-          "player_id": "11576",
-          "name": "Braelon Allen",
-          "position": "RB",
-          "nfl_team": "NYJ",
-          "location": "starter",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 14,
-            "pick_no": 189,
-            "original_roster_id": 12,
-            "original_owner_user_id": "1263696795716825088",
-            "original_username": "halfpint83",
-            "original_team_name": "Little Miss Touchdown",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 14,
-            "reason": "Drafted in Round 14"
           }
         }
       ]
@@ -2798,7 +2524,7 @@
         },
         {
           "player_id": "5872",
-          "name": "Deebo Samuel",
+          "name": "Deebo Samuel Sr.",
           "position": "WR",
           "nfl_team": "SF",
           "location": "reserve",
@@ -2834,7 +2560,7 @@
         },
         {
           "player_id": "11559",
-          "name": "Michael Penix",
+          "name": "Michael Penix Jr.",
           "position": "QB",
           "nfl_team": "ATL",
           "location": "starter",
@@ -2869,6 +2595,280 @@
             "eligible_next_season": true,
             "cost_round": 14,
             "reason": "Undrafted player; keeper cost is Round 14"
+          }
+        }
+      ]
+    },
+    {
+      "roster_id": 12,
+      "owner_user_id": "1263696795716825088",
+      "username": "halfpint83",
+      "team_name": "Little Miss Touchdown",
+      "players": [
+        {
+          "player_id": "7547",
+          "name": "Amon-Ra St. Brown",
+          "position": "WR",
+          "nfl_team": "DET",
+          "location": "starter",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 1,
+            "pick_no": 8,
+            "original_roster_id": 12,
+            "original_owner_user_id": "1263696795716825088",
+            "original_username": "halfpint83",
+            "original_team_name": "Little Miss Touchdown",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": false,
+            "cost_round": null,
+            "reason": "Drafted in Round 1; Rounds 1 and 2 cannot be kept"
+          }
+        },
+        {
+          "player_id": "7588",
+          "name": "Javonte Williams",
+          "position": "RB",
+          "nfl_team": "DAL",
+          "location": "starter",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 2,
+            "pick_no": 21,
+            "original_roster_id": 12,
+            "original_owner_user_id": "1263696795716825088",
+            "original_username": "halfpint83",
+            "original_team_name": "Little Miss Touchdown",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": false,
+            "cost_round": null,
+            "reason": "Drafted in Round 2; Rounds 1 and 2 cannot be kept"
+          }
+        },
+        {
+          "player_id": "5892",
+          "name": "David Montgomery",
+          "position": "RB",
+          "nfl_team": "HOU",
+          "location": "bench",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 3,
+            "pick_no": 36,
+            "original_roster_id": 12,
+            "original_owner_user_id": "1263696795716825088",
+            "original_username": "halfpint83",
+            "original_team_name": "Little Miss Touchdown",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 3,
+            "reason": "Drafted in Round 3"
+          }
+        },
+        {
+          "player_id": "8228",
+          "name": "Jaylen Warren",
+          "position": "RB",
+          "nfl_team": "PIT",
+          "location": "starter",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 4,
+            "pick_no": 49,
+            "original_roster_id": 12,
+            "original_owner_user_id": "1263696795716825088",
+            "original_username": "halfpint83",
+            "original_team_name": "Little Miss Touchdown",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 4,
+            "reason": "Drafted in Round 4"
+          }
+        },
+        {
+          "player_id": "12506",
+          "name": "Harold Fannin Jr.",
+          "position": "TE",
+          "nfl_team": "CLE",
+          "location": "starter",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 7,
+            "pick_no": 92,
+            "original_roster_id": 12,
+            "original_owner_user_id": "1263696795716825088",
+            "original_username": "halfpint83",
+            "original_team_name": "Little Miss Touchdown",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 7,
+            "reason": "Drafted in Round 7"
+          }
+        },
+        {
+          "player_id": "11631",
+          "name": "Brian Thomas Jr.",
+          "position": "WR",
+          "nfl_team": "JAX",
+          "location": "bench",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 5,
+            "pick_no": 64,
+            "original_roster_id": 12,
+            "original_owner_user_id": "1263696795716825088",
+            "original_username": "halfpint83",
+            "original_team_name": "Little Miss Touchdown",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 5,
+            "reason": "Drafted in Round 5"
+          }
+        },
+        {
+          "player_id": "4943",
+          "name": "Sam Darnold",
+          "position": "QB",
+          "nfl_team": "SEA",
+          "location": "bench",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 13,
+            "pick_no": 176,
+            "original_roster_id": 12,
+            "original_owner_user_id": "1263696795716825088",
+            "original_username": "halfpint83",
+            "original_team_name": "Little Miss Touchdown",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 13,
+            "reason": "Drafted in Round 13"
+          }
+        },
+        {
+          "player_id": "10222",
+          "name": "Jayden Reed",
+          "position": "WR",
+          "nfl_team": "GB",
+          "location": "reserve",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 8,
+            "pick_no": 105,
+            "original_roster_id": 12,
+            "original_owner_user_id": "1263696795716825088",
+            "original_username": "halfpint83",
+            "original_team_name": "Little Miss Touchdown",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 8,
+            "reason": "Drafted in Round 8"
+          }
+        },
+        {
+          "player_id": "9758",
+          "name": "C.J. Stroud",
+          "position": "QB",
+          "nfl_team": "HOU",
+          "location": "starter",
+          "draft": null,
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 14,
+            "reason": "Undrafted player; keeper cost is Round 14"
+          }
+        },
+        {
+          "player_id": "8121",
+          "name": "Romeo Doubs",
+          "position": "WR",
+          "nfl_team": "NE",
+          "location": "reserve",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 10,
+            "pick_no": 133,
+            "original_roster_id": 12,
+            "original_owner_user_id": "1263696795716825088",
+            "original_username": "halfpint83",
+            "original_team_name": "Little Miss Touchdown",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 10,
+            "reason": "Drafted in Round 10"
+          }
+        },
+        {
+          "player_id": "11624",
+          "name": "Xavier Worthy",
+          "position": "WR",
+          "nfl_team": "KC",
+          "location": "starter",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 9,
+            "pick_no": 120,
+            "original_roster_id": 12,
+            "original_owner_user_id": "1263696795716825088",
+            "original_username": "halfpint83",
+            "original_team_name": "Little Miss Touchdown",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 9,
+            "reason": "Drafted in Round 9"
+          }
+        },
+        {
+          "player_id": "11576",
+          "name": "Braelon Allen",
+          "position": "RB",
+          "nfl_team": "NYJ",
+          "location": "starter",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 14,
+            "pick_no": 189,
+            "original_roster_id": 12,
+            "original_owner_user_id": "1263696795716825088",
+            "original_username": "halfpint83",
+            "original_team_name": "Little Miss Touchdown",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 14,
+            "reason": "Drafted in Round 14"
           }
         }
       ]
@@ -3019,7 +3019,7 @@
         },
         {
           "player_id": "4037",
-          "name": "Chris Godwin",
+          "name": "Chris Godwin Jr.",
           "position": "WR",
           "nfl_team": "TB",
           "location": "bench",
@@ -3065,7 +3065,7 @@
         },
         {
           "player_id": "6819",
-          "name": "Michael Pittman",
+          "name": "Michael Pittman Jr.",
           "position": "WR",
           "nfl_team": "PIT",
           "location": "reserve",
@@ -3111,7 +3111,7 @@
         },
         {
           "player_id": "13305",
-          "name": "Mike Washington",
+          "name": "Mike Washington Jr.",
           "position": "RB",
           "nfl_team": "LV",
           "location": "starter",
@@ -3153,6 +3153,29 @@
             "eligible_next_season": true,
             "cost_round": 9,
             "reason": "Drafted in Round 9"
+          }
+        },
+        {
+          "player_id": "11610",
+          "name": "Malik Washington",
+          "position": "WR",
+          "nfl_team": "MIA",
+          "location": "bench",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 12,
+            "pick_no": 166,
+            "original_roster_id": 11,
+            "original_owner_user_id": "1263707560905543680",
+            "original_username": "Ryan3041",
+            "original_team_name": "Ryan3041",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 12,
+            "reason": "Drafted in Round 12"
           }
         },
         {
@@ -3732,7 +3755,7 @@
       "players": [
         {
           "player_id": "8151",
-          "name": "Kenneth Walker",
+          "name": "Kenneth Walker III",
           "position": "RB",
           "nfl_team": "KC",
           "location": "starter",
@@ -3893,7 +3916,7 @@
         },
         {
           "player_id": "11628",
-          "name": "Marvin Harrison",
+          "name": "Marvin Harrison Jr.",
           "position": "WR",
           "nfl_team": "HOU",
           "location": "bench",
@@ -3942,7 +3965,7 @@
         },
         {
           "player_id": "12495",
-          "name": "Ollie Gordon",
+          "name": "Ollie Gordon II",
           "position": "RB",
           "nfl_team": "MIA",
           "location": "bench",
@@ -3968,7 +3991,7 @@
         },
         {
           "player_id": "12542",
-          "name": "Efton Chism",
+          "name": "Efton Chism III",
           "position": "WR",
           "nfl_team": "NE",
           "location": "bench",
