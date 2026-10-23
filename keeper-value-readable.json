@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-22T21:24:08.423623+00:00",
+  "snapshot_generated_at": "2026-10-23T00:05:32.559572+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -786,7 +786,7 @@
           "name": "Jordan Addison",
           "position": "WR",
           "nfl_team": "MIN",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -2907,7 +2907,7 @@
           "name": "Saquon Barkley",
           "position": "RB",
           "nfl_team": "PHI",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -3091,7 +3091,7 @@
           "name": "Emmett Johnson",
           "position": "RB",
           "nfl_team": "KC",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",

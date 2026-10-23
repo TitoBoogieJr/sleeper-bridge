@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-22T21:24:08.423623+00:00",
+  "snapshot_generated_at": "2026-10-23T00:05:32.559572+00:00",
   "current_week": 7,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -315,16 +315,16 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "0",
-          "name": "Unknown (0)",
-          "position": null,
-          "team": null,
-          "status": null,
+          "player_id": "9756",
+          "name": "Jordan Addison",
+          "position": "WR",
+          "team": "MIN",
+          "status": "Active",
           "injury_status": null,
-          "age": null,
-          "years_exp": null,
-          "search_rank": null,
-          "depth_chart_position": null
+          "age": 24,
+          "years_exp": 3,
+          "search_rank": 99,
+          "depth_chart_position": "RWR"
         },
         {
           "player_id": "3451",
@@ -411,18 +411,6 @@
           "years_exp": 3,
           "search_rank": 68,
           "depth_chart_position": "SWR"
-        },
-        {
-          "player_id": "9756",
-          "name": "Jordan Addison",
-          "position": "WR",
-          "team": "MIN",
-          "status": "Active",
-          "injury_status": null,
-          "age": 24,
-          "years_exp": 3,
-          "search_rank": 99,
-          "depth_chart_position": "RWR"
         }
       ],
       "reserve": []
@@ -847,15 +835,15 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "13337",
-          "name": "Emmett Johnson",
+          "player_id": "4866",
+          "name": "Saquon Barkley",
           "position": "RB",
-          "team": "KC",
+          "team": "PHI",
           "status": "Active",
-          "injury_status": null,
-          "age": 23,
-          "years_exp": 0,
-          "search_rank": 113,
+          "injury_status": "Questionable",
+          "age": 29,
+          "years_exp": 8,
+          "search_rank": 10,
           "depth_chart_position": "RB"
         },
         {
@@ -957,6 +945,18 @@
           "depth_chart_position": "RB"
         },
         {
+          "player_id": "13337",
+          "name": "Emmett Johnson",
+          "position": "RB",
+          "team": "KC",
+          "status": "Active",
+          "injury_status": null,
+          "age": 23,
+          "years_exp": 0,
+          "search_rank": 113,
+          "depth_chart_position": "RB"
+        },
+        {
           "player_id": "4037",
           "name": "Chris Godwin Jr.",
           "position": "WR",
@@ -967,18 +967,6 @@
           "years_exp": 9,
           "search_rank": 88,
           "depth_chart_position": "SWR"
-        },
-        {
-          "player_id": "4866",
-          "name": "Saquon Barkley",
-          "position": "RB",
-          "team": "PHI",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "age": 29,
-          "years_exp": 8,
-          "search_rank": 10,
-          "depth_chart_position": "RB"
         },
         {
           "player_id": "9511",
