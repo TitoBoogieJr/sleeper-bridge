@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-25T13:51:44.655850+00:00",
+  "snapshot_generated_at": "2026-10-25T17:32:03.233267+00:00",
   "drafts": [
     {
       "created": 1767560932099,
@@ -266,7 +266,7 @@
         "injury_status": null,
         "age": 27,
         "years_exp": 5,
-        "search_rank": 7,
+        "search_rank": 6,
         "depth_chart_position": "SWR"
       },
       "round": 1,
@@ -341,7 +341,7 @@
         "injury_status": null,
         "age": 24,
         "years_exp": 3,
-        "search_rank": 5,
+        "search_rank": 6,
         "depth_chart_position": "LWR"
       },
       "round": 1,
@@ -391,7 +391,7 @@
         "injury_status": null,
         "age": 26,
         "years_exp": 4,
-        "search_rank": 17,
+        "search_rank": 19,
         "depth_chart_position": "RB"
       },
       "round": 1,
@@ -566,7 +566,7 @@
         "injury_status": null,
         "age": 27,
         "years_exp": 6,
-        "search_rank": 11,
+        "search_rank": 12,
         "depth_chart_position": "LWR"
       },
       "round": 2,
@@ -591,7 +591,7 @@
         "injury_status": null,
         "age": 26,
         "years_exp": 5,
-        "search_rank": 30,
+        "search_rank": 31,
         "depth_chart_position": "RB"
       },
       "round": 2,
@@ -791,7 +791,7 @@
         "injury_status": null,
         "age": 24,
         "years_exp": 2,
-        "search_rank": 22,
+        "search_rank": 21,
         "depth_chart_position": "QB"
       },
       "round": 3,
@@ -863,7 +863,7 @@
         "position": "WR",
         "team": "PHI",
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "age": 27,
         "years_exp": 5,
         "search_rank": 34,
@@ -888,7 +888,7 @@
         "position": "QB",
         "team": "BAL",
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "age": 29,
         "years_exp": 8,
         "search_rank": 9,
@@ -1016,7 +1016,7 @@
         "injury_status": "Out",
         "age": 24,
         "years_exp": 2,
-        "search_rank": 35,
+        "search_rank": 34,
         "depth_chart_position": "SWR"
       },
       "round": 3,
@@ -1441,7 +1441,7 @@
         "injury_status": "Out",
         "age": 29,
         "years_exp": 8,
-        "search_rank": 50,
+        "search_rank": 48,
         "depth_chart_position": "LWR"
       },
       "round": 4,
@@ -1566,7 +1566,7 @@
         "injury_status": null,
         "age": 29,
         "years_exp": 6,
-        "search_rank": 15,
+        "search_rank": 16,
         "depth_chart_position": "QB"
       },
       "round": 5,
@@ -1641,7 +1641,7 @@
         "injury_status": "IR",
         "age": 28,
         "years_exp": 6,
-        "search_rank": 28,
+        "search_rank": 27,
         "depth_chart_position": "QB"
       },
       "round": 5,
@@ -1816,7 +1816,7 @@
         "injury_status": null,
         "age": 28,
         "years_exp": 6,
-        "search_rank": 34,
+        "search_rank": 33,
         "depth_chart_position": "QB"
       },
       "round": 5,
@@ -1937,8 +1937,8 @@
         "name": "Jordan Mason",
         "position": "RB",
         "team": "MIN",
-        "status": "Inactive",
-        "injury_status": "IR",
+        "status": "Active",
+        "injury_status": null,
         "age": 27,
         "years_exp": 4,
         "search_rank": 91,
@@ -2266,7 +2266,7 @@
         "injury_status": null,
         "age": 31,
         "years_exp": 3,
-        "search_rank": 90,
+        "search_rank": 91,
         "depth_chart_position": "K"
       },
       "round": 7,
@@ -2316,7 +2316,7 @@
         "injury_status": null,
         "age": 22,
         "years_exp": 0,
-        "search_rank": 89,
+        "search_rank": 91,
         "depth_chart_position": "SWR"
       },
       "round": 7,
@@ -2416,7 +2416,7 @@
         "injury_status": null,
         "age": 22,
         "years_exp": 0,
-        "search_rank": 110,
+        "search_rank": 111,
         "depth_chart_position": "SWR"
       },
       "round": 7,
@@ -2441,7 +2441,7 @@
         "injury_status": "IR",
         "age": 23,
         "years_exp": 0,
-        "search_rank": 113,
+        "search_rank": 111,
         "depth_chart_position": "SWR"
       },
       "round": 7,
@@ -2566,7 +2566,7 @@
         "injury_status": null,
         "age": 27,
         "years_exp": 5,
-        "search_rank": 42,
+        "search_rank": 41,
         "depth_chart_position": "QB"
       },
       "round": 8,
@@ -2887,8 +2887,8 @@
         "name": "Jonah Coleman",
         "position": "RB",
         "team": "DEN",
-        "status": "Inactive",
-        "injury_status": "IR",
+        "status": "Active",
+        "injury_status": "Questionable",
         "age": 23,
         "years_exp": 0,
         "search_rank": 118,
@@ -3091,7 +3091,7 @@
         "injury_status": null,
         "age": 26,
         "years_exp": 4,
-        "search_rank": 106,
+        "search_rank": 105,
         "depth_chart_position": "TE"
       },
       "round": 9,
@@ -3316,7 +3316,7 @@
         "injury_status": "IR",
         "age": 23,
         "years_exp": 1,
-        "search_rank": 43,
+        "search_rank": 44,
         "depth_chart_position": "QB"
       },
       "round": 10,
@@ -3441,7 +3441,7 @@
         "injury_status": null,
         "age": 38,
         "years_exp": 17,
-        "search_rank": 64,
+        "search_rank": 65,
         "depth_chart_position": "QB"
       },
       "round": 10,
@@ -3563,7 +3563,7 @@
         "position": "TE",
         "team": "PHI",
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "age": 31,
         "years_exp": 8,
         "search_rank": 94,
@@ -3766,7 +3766,7 @@
         "injury_status": null,
         "age": 23,
         "years_exp": 2,
-        "search_rank": 131,
+        "search_rank": 133,
         "depth_chart_position": "K"
       },
       "round": 11,
@@ -3938,7 +3938,7 @@
         "position": "RB",
         "team": "PIT",
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "age": 28,
         "years_exp": 6,
         "search_rank": 65,
@@ -3966,7 +3966,7 @@
         "injury_status": null,
         "age": 23,
         "years_exp": 0,
-        "search_rank": 197,
+        "search_rank": 199,
         "depth_chart_position": "RWR"
       },
       "round": 12,
@@ -3991,7 +3991,7 @@
         "injury_status": null,
         "age": 22,
         "years_exp": 1,
-        "search_rank": 35,
+        "search_rank": 37,
         "depth_chart_position": "TE"
       },
       "round": 12,
@@ -4066,7 +4066,7 @@
         "injury_status": null,
         "age": 29,
         "years_exp": 7,
-        "search_rank": 88,
+        "search_rank": 89,
         "depth_chart_position": "QB"
       },
       "round": 12,
@@ -4141,7 +4141,7 @@
         "injury_status": null,
         "age": 27,
         "years_exp": 5,
-        "search_rank": 155,
+        "search_rank": 153,
         "depth_chart_position": "K"
       },
       "round": 12,
@@ -4341,7 +4341,7 @@
         "injury_status": "Questionable",
         "age": 31,
         "years_exp": 8,
-        "search_rank": 74,
+        "search_rank": 75,
         "depth_chart_position": "QB"
       },
       "round": 13,
@@ -4466,7 +4466,7 @@
         "injury_status": null,
         "age": 29,
         "years_exp": 8,
-        "search_rank": 93,
+        "search_rank": 92,
         "depth_chart_position": "QB"
       },
       "round": 13,
@@ -4538,7 +4538,7 @@
         "position": "WR",
         "team": "PHI",
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "age": 25,
         "years_exp": 3,
         "search_rank": 203,
@@ -4616,7 +4616,7 @@
         "injury_status": null,
         "age": 29,
         "years_exp": 7,
-        "search_rank": 131,
+        "search_rank": 132,
         "depth_chart_position": "QB"
       },
       "round": 13,
@@ -4741,7 +4741,7 @@
         "injury_status": null,
         "age": 23,
         "years_exp": 0,
-        "search_rank": 179,
+        "search_rank": 181,
         "depth_chart_position": "SWR"
       },
       "round": 14,
@@ -4912,8 +4912,8 @@
         "name": "Dylan Sampson",
         "position": "RB",
         "team": "CLE",
-        "status": "Inactive",
-        "injury_status": "IR",
+        "status": "Active",
+        "injury_status": null,
         "age": 22,
         "years_exp": 1,
         "search_rank": 129,
