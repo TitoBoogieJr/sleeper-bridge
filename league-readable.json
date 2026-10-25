@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-24T23:33:56.049488+00:00",
+  "snapshot_generated_at": "2026-10-25T04:12:30.571926+00:00",
   "current_week": 7,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -500,15 +500,15 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "13279",
-          "name": "Carnell Tate",
+          "player_id": "7526",
+          "name": "Jaylen Waddle",
           "position": "WR",
-          "team": "TEN",
+          "team": "DEN",
           "status": "Active",
           "injury_status": null,
-          "age": 21,
-          "years_exp": 0,
-          "search_rank": 61,
+          "age": 27,
+          "years_exp": 5,
+          "search_rank": 42,
           "depth_chart_position": "RWR"
         },
         {
@@ -550,6 +550,18 @@
           "depth_chart_position": "QB"
         },
         {
+          "player_id": "13279",
+          "name": "Carnell Tate",
+          "position": "WR",
+          "team": "TEN",
+          "status": "Active",
+          "injury_status": null,
+          "age": 21,
+          "years_exp": 0,
+          "search_rank": 61,
+          "depth_chart_position": "RWR"
+        },
+        {
           "player_id": "13281",
           "name": "Jordyn Tyson",
           "position": "WR",
@@ -584,18 +596,6 @@
           "years_exp": 6,
           "search_rank": 68,
           "depth_chart_position": "RB"
-        },
-        {
-          "player_id": "7526",
-          "name": "Jaylen Waddle",
-          "position": "WR",
-          "team": "DEN",
-          "status": "Active",
-          "injury_status": null,
-          "age": 27,
-          "years_exp": 5,
-          "search_rank": 42,
-          "depth_chart_position": "RWR"
         }
       ],
       "reserve": []
@@ -625,15 +625,15 @@
           "depth_chart_position": "QB"
         },
         {
-          "player_id": "4147",
-          "name": "Samaje Perine",
+          "player_id": "8408",
+          "name": "Jordan Mason",
           "position": "RB",
-          "team": "CIN",
-          "status": "Active",
-          "injury_status": null,
-          "age": 31,
-          "years_exp": 9,
-          "search_rank": 455,
+          "team": "MIN",
+          "status": "Inactive",
+          "injury_status": "IR",
+          "age": 27,
+          "years_exp": 4,
+          "search_rank": 91,
           "depth_chart_position": "RB"
         },
         {
@@ -723,18 +723,6 @@
       ],
       "bench": [
         {
-          "player_id": "11635",
-          "name": "Ladd McConkey",
-          "position": "WR",
-          "team": "LAC",
-          "status": "Active",
-          "injury_status": "Out",
-          "age": 24,
-          "years_exp": 2,
-          "search_rank": 35,
-          "depth_chart_position": "SWR"
-        },
-        {
           "player_id": "11637",
           "name": "Keon Coleman",
           "position": "WR",
@@ -785,16 +773,16 @@
       ],
       "reserve": [
         {
-          "player_id": "8408",
-          "name": "Jordan Mason",
-          "position": "RB",
-          "team": "MIN",
-          "status": "Inactive",
-          "injury_status": "IR",
-          "age": 27,
-          "years_exp": 4,
-          "search_rank": 91,
-          "depth_chart_position": "RB"
+          "player_id": "11635",
+          "name": "Ladd McConkey",
+          "position": "WR",
+          "team": "LAC",
+          "status": "Active",
+          "injury_status": "Out",
+          "age": 24,
+          "years_exp": 2,
+          "search_rank": 35,
+          "depth_chart_position": "SWR"
         }
       ]
     },
@@ -1105,16 +1093,16 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "7525",
-          "name": "DeVonta Smith",
+          "player_id": "13150",
+          "name": "Darius Cooper",
           "position": "WR",
           "team": "PHI",
           "status": "Active",
-          "injury_status": "Questionable",
-          "age": 27,
-          "years_exp": 5,
-          "search_rank": 34,
-          "depth_chart_position": "LWR"
+          "injury_status": null,
+          "age": 24,
+          "years_exp": 1,
+          "search_rank": 658,
+          "depth_chart_position": "RWR"
         },
         {
           "player_id": "11533",
@@ -1167,16 +1155,16 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "7049",
-          "name": "Jauan Jennings",
+          "player_id": "7525",
+          "name": "DeVonta Smith",
           "position": "WR",
-          "team": "MIN",
+          "team": "PHI",
           "status": "Active",
-          "injury_status": null,
-          "age": 29,
-          "years_exp": 6,
-          "search_rank": 123,
-          "depth_chart_position": "SWR"
+          "injury_status": "Questionable",
+          "age": 27,
+          "years_exp": 5,
+          "search_rank": 34,
+          "depth_chart_position": "LWR"
         },
         {
           "player_id": "8134",

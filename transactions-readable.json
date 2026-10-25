@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-24T23:33:56.049488+00:00",
+  "snapshot_generated_at": "2026-10-25T04:12:30.571926+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -7414,6 +7414,95 @@
       ],
       "roster_ids": [
         8
+      ]
+    },
+    {
+      "transaction_id": "1419920210755948544",
+      "week": 7,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792897868387,
+      "faab": null,
+      "adds": [
+        {
+          "player": {
+            "player_id": "13150",
+            "name": "Darius Cooper",
+            "position": "WR",
+            "team": "PHI",
+            "status": "Active",
+            "injury_status": null,
+            "age": 24,
+            "years_exp": 1,
+            "search_rank": 658,
+            "depth_chart_position": "RWR"
+          },
+          "destination": {
+            "roster_id": 6,
+            "owner_user_id": "1263688729139097600",
+            "username": "KHurrie",
+            "team_name": "LaPorta Pottie"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "player_id": "7049",
+            "name": "Jauan Jennings",
+            "position": "WR",
+            "team": "MIN",
+            "status": "Active",
+            "injury_status": null,
+            "age": 29,
+            "years_exp": 6,
+            "search_rank": 123,
+            "depth_chart_position": "SWR"
+          },
+          "source": {
+            "roster_id": 6,
+            "owner_user_id": "1263688729139097600",
+            "username": "KHurrie",
+            "team_name": "LaPorta Pottie"
+          }
+        }
+      ],
+      "roster_ids": [
+        6
+      ]
+    },
+    {
+      "transaction_id": "1419898814264889344",
+      "week": 7,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792892767066,
+      "faab": null,
+      "adds": [],
+      "drops": [
+        {
+          "player": {
+            "player_id": "4147",
+            "name": "Samaje Perine",
+            "position": "RB",
+            "team": "CIN",
+            "status": "Active",
+            "injury_status": null,
+            "age": 31,
+            "years_exp": 9,
+            "search_rank": 455,
+            "depth_chart_position": "RB"
+          },
+          "source": {
+            "roster_id": 4,
+            "owner_user_id": "979940216863608832",
+            "username": "Naz514",
+            "team_name": "Maye-B not so lucky"
+          }
+        }
+      ],
+      "roster_ids": [
+        4
       ]
     },
     {
