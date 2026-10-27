@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-27T16:19:54.531722+00:00",
+  "snapshot_generated_at": "2026-10-27T20:53:38.123164+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -2343,7 +2343,7 @@
           "name": "Emeka Egbuka",
           "position": "WR",
           "nfl_team": "TB",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -2540,7 +2540,7 @@
           "name": "Jaylin Noel",
           "position": "WR",
           "nfl_team": "HOU",
-          "location": "starter",
+          "location": "bench",
           "draft": null,
           "keeper": {
             "eligible_next_season": true,
@@ -3840,7 +3840,7 @@
           "name": "Trevor Lawrence",
           "position": "QB",
           "nfl_team": "JAX",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -3886,7 +3886,7 @@
           "name": "Jordan Love",
           "position": "QB",
           "nfl_team": "GB",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -3958,7 +3958,7 @@
           "name": "Ollie Gordon II",
           "position": "RB",
           "nfl_team": "MIA",
-          "location": "bench",
+          "location": "starter",
           "draft": null,
           "keeper": {
             "eligible_next_season": true,
@@ -3997,7 +3997,7 @@
           "name": "Jaleel McLaughlin",
           "position": "RB",
           "nfl_team": "CLE",
-          "location": "starter",
+          "location": "bench",
           "draft": null,
           "keeper": {
             "eligible_next_season": true,
