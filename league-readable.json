@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-28T06:09:17.852219+00:00",
+  "snapshot_generated_at": "2026-10-28T13:25:30.956064+00:00",
   "current_week": 8,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -464,15 +464,15 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "8144",
-          "name": "Chris Olave",
+          "player_id": "13279",
+          "name": "Carnell Tate",
           "position": "WR",
-          "team": "NO",
+          "team": "TEN",
           "status": "Active",
           "injury_status": null,
-          "age": 26,
-          "years_exp": 4,
-          "search_rank": 29,
+          "age": 21,
+          "years_exp": 0,
+          "search_rank": 61,
           "depth_chart_position": "RWR"
         },
         {
@@ -550,18 +550,6 @@
           "depth_chart_position": "QB"
         },
         {
-          "player_id": "13279",
-          "name": "Carnell Tate",
-          "position": "WR",
-          "team": "TEN",
-          "status": "Active",
-          "injury_status": null,
-          "age": 21,
-          "years_exp": 0,
-          "search_rank": 61,
-          "depth_chart_position": "RWR"
-        },
-        {
           "player_id": "13281",
           "name": "Jordyn Tyson",
           "position": "WR",
@@ -596,6 +584,18 @@
           "years_exp": 6,
           "search_rank": 68,
           "depth_chart_position": "RB"
+        },
+        {
+          "player_id": "8144",
+          "name": "Chris Olave",
+          "position": "WR",
+          "team": "NO",
+          "status": "Active",
+          "injury_status": null,
+          "age": 26,
+          "years_exp": 4,
+          "search_rank": 29,
+          "depth_chart_position": "RWR"
         }
       ],
       "reserve": []
@@ -609,7 +609,7 @@
         "wins": 3,
         "losses": 11,
         "ties": 0,
-        "faab_used": 75
+        "faab_used": 97
       },
       "starters": [
         {
@@ -759,16 +759,16 @@
           "depth_chart_position": "QB"
         },
         {
-          "player_id": "13330",
-          "name": "Kenyon Sadiq",
-          "position": "TE",
-          "team": "NYJ",
+          "player_id": "13345",
+          "name": "Jonah Coleman",
+          "position": "RB",
+          "team": "DEN",
           "status": "Active",
           "injury_status": null,
-          "age": 21,
+          "age": 23,
           "years_exp": 0,
-          "search_rank": 109,
-          "depth_chart_position": "TE"
+          "search_rank": 118,
+          "depth_chart_position": "RB"
         },
         {
           "player_id": "13424",
@@ -1239,7 +1239,7 @@
         "wins": 9,
         "losses": 5,
         "ties": 0,
-        "faab_used": 41
+        "faab_used": 77
       },
       "starters": [
         {
@@ -1303,15 +1303,15 @@
           "depth_chart_position": "LWR"
         },
         {
-          "player_id": "8131",
-          "name": "Isaiah Likely",
+          "player_id": "9482",
+          "name": "Michael Mayer",
           "position": "TE",
-          "team": "NYG",
+          "team": "LV",
           "status": "Active",
           "injury_status": null,
-          "age": 26,
-          "years_exp": 4,
-          "search_rank": 106,
+          "age": 25,
+          "years_exp": 3,
+          "search_rank": 461,
           "depth_chart_position": "TE"
         },
         {
@@ -1339,10 +1339,10 @@
           "depth_chart_position": "K"
         },
         {
-          "player_id": "SF",
-          "name": "San Francisco 49ers",
+          "player_id": "TB",
+          "name": "Tampa Bay Buccaneers",
           "position": "DEF",
-          "team": "SF",
+          "team": "TB",
           "status": null,
           "injury_status": null,
           "age": null,
@@ -1352,6 +1352,18 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "13296",
+          "name": "Caleb Douglas",
+          "position": "WR",
+          "team": "MIA",
+          "status": "Active",
+          "injury_status": null,
+          "age": 23,
+          "years_exp": 0,
+          "search_rank": 197,
+          "depth_chart_position": "RWR"
+        },
         {
           "player_id": "2449",
           "name": "Stefon Diggs",
@@ -1377,6 +1389,18 @@
           "depth_chart_position": "QB"
         },
         {
+          "player_id": "8131",
+          "name": "Isaiah Likely",
+          "position": "TE",
+          "team": "NYG",
+          "status": "Active",
+          "injury_status": null,
+          "age": 26,
+          "years_exp": 4,
+          "search_rank": 106,
+          "depth_chart_position": "TE"
+        },
+        {
           "player_id": "8138",
           "name": "James Cook III",
           "position": "RB",
@@ -1387,30 +1411,6 @@
           "years_exp": 4,
           "search_rank": 5,
           "depth_chart_position": "RB"
-        },
-        {
-          "player_id": "9482",
-          "name": "Michael Mayer",
-          "position": "TE",
-          "team": "LV",
-          "status": "Active",
-          "injury_status": null,
-          "age": 25,
-          "years_exp": 3,
-          "search_rank": 461,
-          "depth_chart_position": "TE"
-        },
-        {
-          "player_id": "CLE",
-          "name": "Cleveland Browns",
-          "position": "DEF",
-          "team": "CLE",
-          "status": null,
-          "injury_status": null,
-          "age": null,
-          "years_exp": null,
-          "search_rank": null,
-          "depth_chart_position": null
         }
       ],
       "reserve": [
@@ -1647,7 +1647,7 @@
         "wins": 6,
         "losses": 8,
         "ties": 0,
-        "faab_used": 8
+        "faab_used": 13
       },
       "starters": [
         {
@@ -1761,18 +1761,6 @@
       ],
       "bench": [
         {
-          "player_id": "11625",
-          "name": "Adonai Mitchell",
-          "position": "WR",
-          "team": "NYJ",
-          "status": "Active",
-          "injury_status": null,
-          "age": 24,
-          "years_exp": 2,
-          "search_rank": 162,
-          "depth_chart_position": "RWR"
-        },
-        {
           "player_id": "11632",
           "name": "Malik Nabers",
           "position": "WR",
@@ -1783,6 +1771,18 @@
           "years_exp": 2,
           "search_rank": 26,
           "depth_chart_position": "LWR"
+        },
+        {
+          "player_id": "11783",
+          "name": "Ryan Flournoy",
+          "position": "WR",
+          "team": "DAL",
+          "status": "Active",
+          "injury_status": null,
+          "age": 27,
+          "years_exp": 2,
+          "search_rank": 199,
+          "depth_chart_position": "SWR"
         },
         {
           "player_id": "13294",
@@ -1832,7 +1832,7 @@
         "wins": 7,
         "losses": 7,
         "ties": 0,
-        "faab_used": 61
+        "faab_used": 63
       },
       "starters": [
         {
@@ -1932,10 +1932,10 @@
           "depth_chart_position": "K"
         },
         {
-          "player_id": "NYJ",
-          "name": "New York Jets",
-          "position": "DEF",
-          "team": "NYJ",
+          "player_id": "0",
+          "name": "Unknown (0)",
+          "position": null,
+          "team": null,
           "status": null,
           "injury_status": null,
           "age": null,
@@ -2004,6 +2004,18 @@
           "years_exp": 3,
           "search_rank": 180,
           "depth_chart_position": "RB"
+        },
+        {
+          "player_id": "CIN",
+          "name": "Cincinnati Bengals",
+          "position": "DEF",
+          "team": "CIN",
+          "status": null,
+          "injury_status": null,
+          "age": null,
+          "years_exp": null,
+          "search_rank": null,
+          "depth_chart_position": null
         }
       ],
       "reserve": [
@@ -2462,7 +2474,7 @@
         "wins": 6,
         "losses": 8,
         "ties": 0,
-        "faab_used": 8
+        "faab_used": 15
       },
       "starters": [
         {
@@ -2600,6 +2612,18 @@
           "depth_chart_position": "TE"
         },
         {
+          "player_id": "9501",
+          "name": "DeMario Douglas",
+          "position": "WR",
+          "team": "NE",
+          "status": "Active",
+          "injury_status": null,
+          "age": 25,
+          "years_exp": 3,
+          "search_rank": 490,
+          "depth_chart_position": "SWR"
+        },
+        {
           "player_id": "9508",
           "name": "Tyjae Spears",
           "position": "RB",
@@ -2660,7 +2684,7 @@
         "wins": 9,
         "losses": 5,
         "ties": 0,
-        "faab_used": 58
+        "faab_used": 70
       },
       "starters": [
         {
@@ -2786,6 +2810,18 @@
           "depth_chart_position": "RB"
         },
         {
+          "player_id": "11566",
+          "name": "Jayden Daniels",
+          "position": "QB",
+          "team": "WAS",
+          "status": "Active",
+          "injury_status": null,
+          "age": 25,
+          "years_exp": 2,
+          "search_rank": 22,
+          "depth_chart_position": "QB"
+        },
+        {
           "player_id": "12518",
           "name": "Tyler Warren",
           "position": "TE",
@@ -2820,18 +2856,6 @@
           "years_exp": 0,
           "search_rank": 156,
           "depth_chart_position": "LWR"
-        },
-        {
-          "player_id": "9486",
-          "name": "Dontayvion Wicks",
-          "position": "WR",
-          "team": "PHI",
-          "status": "Active",
-          "injury_status": "Out",
-          "age": 25,
-          "years_exp": 3,
-          "search_rank": 203,
-          "depth_chart_position": "RWR"
         }
       ],
       "reserve": [
