@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-28T19:02:06.648584+00:00",
+  "snapshot_generated_at": "2026-10-28T23:26:47.111749+00:00",
   "current_week": 8,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -2034,39 +2034,39 @@
       },
       "starters": [
         {
-          "player_id": "4017",
-          "name": "Deshaun Watson",
+          "player_id": "4984",
+          "name": "Josh Allen",
           "position": "QB",
-          "team": "CLE",
+          "team": "BUF",
           "status": "Active",
           "injury_status": null,
-          "age": 31,
-          "years_exp": 9,
-          "search_rank": 291,
+          "age": 30,
+          "years_exp": 8,
+          "search_rank": 3,
           "depth_chart_position": "QB"
         },
         {
-          "player_id": "4034",
-          "name": "Christian McCaffrey",
+          "player_id": "13287",
+          "name": "Jeremiyah Love",
           "position": "RB",
-          "team": "SF",
+          "team": "ARI",
           "status": "Active",
           "injury_status": "Questionable",
-          "age": 30,
-          "years_exp": 9,
-          "search_rank": 4,
+          "age": 21,
+          "years_exp": 0,
+          "search_rank": 15,
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "7567",
-          "name": "Kenny Gainwell",
+          "player_id": "12469",
+          "name": "Dylan Sampson",
           "position": "RB",
-          "team": "TB",
+          "team": "CLE",
           "status": "Active",
           "injury_status": null,
-          "age": 27,
-          "years_exp": 5,
-          "search_rank": 86,
+          "age": 22,
+          "years_exp": 1,
+          "search_rank": 129,
           "depth_chart_position": "RB"
         },
         {
@@ -2106,16 +2106,16 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "5045",
-          "name": "Courtland Sutton",
+          "player_id": "5947",
+          "name": "Jakobi Meyers",
           "position": "WR",
-          "team": "DEN",
+          "team": "JAX",
           "status": "Active",
           "injury_status": null,
-          "age": 31,
-          "years_exp": 8,
-          "search_rank": 72,
-          "depth_chart_position": "LWR"
+          "age": 29,
+          "years_exp": 7,
+          "search_rank": 77,
+          "depth_chart_position": "RWR"
         },
         {
           "player_id": "2747",
@@ -2144,51 +2144,51 @@
       ],
       "bench": [
         {
-          "player_id": "13287",
-          "name": "Jeremiyah Love",
-          "position": "RB",
-          "team": "ARI",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "age": 21,
-          "years_exp": 0,
-          "search_rank": 15,
-          "depth_chart_position": "RB"
-        },
-        {
-          "player_id": "4984",
-          "name": "Josh Allen",
+          "player_id": "4017",
+          "name": "Deshaun Watson",
           "position": "QB",
-          "team": "BUF",
+          "team": "CLE",
           "status": "Active",
           "injury_status": null,
-          "age": 30,
-          "years_exp": 8,
-          "search_rank": 3,
+          "age": 31,
+          "years_exp": 9,
+          "search_rank": 291,
           "depth_chart_position": "QB"
         },
         {
-          "player_id": "5947",
-          "name": "Jakobi Meyers",
-          "position": "WR",
-          "team": "JAX",
+          "player_id": "4034",
+          "name": "Christian McCaffrey",
+          "position": "RB",
+          "team": "SF",
           "status": "Active",
-          "injury_status": null,
-          "age": 29,
-          "years_exp": 7,
-          "search_rank": 77,
-          "depth_chart_position": "RWR"
+          "injury_status": "Questionable",
+          "age": 30,
+          "years_exp": 9,
+          "search_rank": 4,
+          "depth_chart_position": "RB"
         },
         {
-          "player_id": "8122",
-          "name": "Zonovan Knight",
-          "position": "RB",
-          "team": "ARI",
+          "player_id": "5045",
+          "name": "Courtland Sutton",
+          "position": "WR",
+          "team": "DEN",
           "status": "Active",
           "injury_status": null,
-          "age": 25,
-          "years_exp": 4,
-          "search_rank": 669,
+          "age": 31,
+          "years_exp": 8,
+          "search_rank": 72,
+          "depth_chart_position": "LWR"
+        },
+        {
+          "player_id": "7567",
+          "name": "Kenny Gainwell",
+          "position": "RB",
+          "team": "TB",
+          "status": "Active",
+          "injury_status": null,
+          "age": 27,
+          "years_exp": 5,
+          "search_rank": 86,
           "depth_chart_position": "RB"
         },
         {
@@ -2205,18 +2205,6 @@
         }
       ],
       "reserve": [
-        {
-          "player_id": "12469",
-          "name": "Dylan Sampson",
-          "position": "RB",
-          "team": "CLE",
-          "status": "Active",
-          "injury_status": null,
-          "age": 22,
-          "years_exp": 1,
-          "search_rank": 129,
-          "depth_chart_position": "RB"
-        },
         {
           "player_id": "3286",
           "name": "Demarcus Robinson",

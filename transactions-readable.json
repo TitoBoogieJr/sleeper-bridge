@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-28T19:02:06.648584+00:00",
+  "snapshot_generated_at": "2026-10-28T23:26:47.111749+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -8537,6 +8537,40 @@
       ],
       "roster_ids": [
         10
+      ]
+    },
+    {
+      "transaction_id": "1421264884502454272",
+      "week": 8,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793218463592,
+      "faab": null,
+      "adds": [],
+      "drops": [
+        {
+          "player": {
+            "player_id": "8122",
+            "name": "Zonovan Knight",
+            "position": "RB",
+            "team": "ARI",
+            "status": "Active",
+            "injury_status": null,
+            "age": 25,
+            "years_exp": 4,
+            "search_rank": 669,
+            "depth_chart_position": "RB"
+          },
+          "source": {
+            "roster_id": 11,
+            "owner_user_id": "1263707560905543680",
+            "username": "Ryan3041",
+            "team_name": "Ryan3041"
+          }
+        }
+      ],
+      "roster_ids": [
+        11
       ]
     },
     {

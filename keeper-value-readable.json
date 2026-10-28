@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-28T19:02:06.648584+00:00",
+  "snapshot_generated_at": "2026-10-28T23:26:47.111749+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -856,7 +856,7 @@
           "name": "Josh Allen",
           "position": "QB",
           "nfl_team": "BUF",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -879,7 +879,7 @@
           "name": "Christian McCaffrey",
           "position": "RB",
           "nfl_team": "SF",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -902,7 +902,7 @@
           "name": "Jeremiyah Love",
           "position": "RB",
           "nfl_team": "ARI",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -971,7 +971,7 @@
           "name": "Courtland Sutton",
           "position": "WR",
           "nfl_team": "DEN",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -994,7 +994,7 @@
           "name": "Jakobi Meyers",
           "position": "WR",
           "nfl_team": "JAX",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -1017,7 +1017,7 @@
           "name": "Kenny Gainwell",
           "position": "RB",
           "nfl_team": "TB",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -1086,7 +1086,7 @@
           "name": "Dylan Sampson",
           "position": "RB",
           "nfl_team": "CLE",
-          "location": "reserve",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -1109,19 +1109,6 @@
           "name": "Deshaun Watson",
           "position": "QB",
           "nfl_team": "CLE",
-          "location": "starter",
-          "draft": null,
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 14,
-            "reason": "Undrafted player; keeper cost is Round 14"
-          }
-        },
-        {
-          "player_id": "8122",
-          "name": "Zonovan Knight",
-          "position": "RB",
-          "nfl_team": "ARI",
           "location": "bench",
           "draft": null,
           "keeper": {
