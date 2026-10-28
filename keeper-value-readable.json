@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-28T00:22:09.997081+00:00",
+  "snapshot_generated_at": "2026-10-28T06:09:17.852219+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -1327,7 +1327,7 @@
           "name": "Hunter Henry",
           "position": "TE",
           "nfl_team": "NE",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -1409,7 +1409,7 @@
           "name": "Darius Cooper",
           "position": "WR",
           "nfl_team": "PHI",
-          "location": "starter",
+          "location": "bench",
           "draft": null,
           "keeper": {
             "eligible_next_season": true,
@@ -2738,7 +2738,7 @@
           "name": "Sam Darnold",
           "position": "QB",
           "nfl_team": "SEA",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -2784,7 +2784,7 @@
           "name": "C.J. Stroud",
           "position": "QB",
           "nfl_team": "HOU",
-          "location": "starter",
+          "location": "bench",
           "draft": null,
           "keeper": {
             "eligible_next_season": true,

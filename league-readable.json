@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-28T00:22:09.997081+00:00",
+  "snapshot_generated_at": "2026-10-28T06:09:17.852219+00:00",
   "current_week": 8,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -1105,16 +1105,16 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "13150",
-          "name": "Darius Cooper",
-          "position": "WR",
-          "team": "PHI",
+          "player_id": "3214",
+          "name": "Hunter Henry",
+          "position": "TE",
+          "team": "NE",
           "status": "Active",
           "injury_status": null,
-          "age": 24,
-          "years_exp": 1,
-          "search_rank": 658,
-          "depth_chart_position": "RWR"
+          "age": 31,
+          "years_exp": 10,
+          "search_rank": 92,
+          "depth_chart_position": "TE"
         },
         {
           "player_id": "11533",
@@ -1155,16 +1155,16 @@
           "depth_chart_position": "QB"
         },
         {
-          "player_id": "3214",
-          "name": "Hunter Henry",
-          "position": "TE",
-          "team": "NE",
+          "player_id": "13150",
+          "name": "Darius Cooper",
+          "position": "WR",
+          "team": "PHI",
           "status": "Active",
           "injury_status": null,
-          "age": 31,
-          "years_exp": 10,
-          "search_rank": 92,
-          "depth_chart_position": "TE"
+          "age": 24,
+          "years_exp": 1,
+          "search_rank": 658,
+          "depth_chart_position": "RWR"
         },
         {
           "player_id": "7525",
@@ -2268,15 +2268,15 @@
       },
       "starters": [
         {
-          "player_id": "9758",
-          "name": "C.J. Stroud",
+          "player_id": "4943",
+          "name": "Sam Darnold",
           "position": "QB",
-          "team": "HOU",
+          "team": "SEA",
           "status": "Active",
           "injury_status": null,
-          "age": 25,
-          "years_exp": 3,
-          "search_rank": 101,
+          "age": 29,
+          "years_exp": 8,
+          "search_rank": 93,
           "depth_chart_position": "QB"
         },
         {
@@ -2352,15 +2352,15 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "13833",
-          "name": "Dominic Zvada",
+          "player_id": "11786",
+          "name": "Cam Little",
           "position": "K",
-          "team": "NYG",
+          "team": "JAX",
           "status": "Active",
           "injury_status": null,
           "age": 23,
-          "years_exp": 0,
-          "search_rank": 330,
+          "years_exp": 2,
+          "search_rank": 133,
           "depth_chart_position": "K"
         },
         {
@@ -2390,28 +2390,16 @@
           "depth_chart_position": "LWR"
         },
         {
-          "player_id": "11786",
-          "name": "Cam Little",
+          "player_id": "13833",
+          "name": "Dominic Zvada",
           "position": "K",
-          "team": "JAX",
+          "team": "NYG",
           "status": "Active",
           "injury_status": null,
           "age": 23,
-          "years_exp": 2,
-          "search_rank": 133,
+          "years_exp": 0,
+          "search_rank": 330,
           "depth_chart_position": "K"
-        },
-        {
-          "player_id": "4943",
-          "name": "Sam Darnold",
-          "position": "QB",
-          "team": "SEA",
-          "status": "Active",
-          "injury_status": null,
-          "age": 29,
-          "years_exp": 8,
-          "search_rank": 93,
-          "depth_chart_position": "QB"
         },
         {
           "player_id": "5892",
@@ -2424,6 +2412,18 @@
           "years_exp": 7,
           "search_rank": 43,
           "depth_chart_position": "RB"
+        },
+        {
+          "player_id": "9758",
+          "name": "C.J. Stroud",
+          "position": "QB",
+          "team": "HOU",
+          "status": "Active",
+          "injury_status": null,
+          "age": 25,
+          "years_exp": 3,
+          "search_rank": 101,
+          "depth_chart_position": "QB"
         }
       ],
       "reserve": [
