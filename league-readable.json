@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-29T02:44:56.534862+00:00",
+  "snapshot_generated_at": "2026-10-29T09:43:03.840324+00:00",
   "current_week": 8,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -2366,18 +2366,6 @@
           "depth_chart_position": "K"
         },
         {
-          "player_id": "5892",
-          "name": "David Montgomery",
-          "position": "RB",
-          "team": "HOU",
-          "status": "Active",
-          "injury_status": "Out",
-          "age": 29,
-          "years_exp": 7,
-          "search_rank": 41,
-          "depth_chart_position": "RB"
-        },
-        {
           "player_id": "9758",
           "name": "C.J. Stroud",
           "position": "QB",
@@ -2402,6 +2390,18 @@
           "years_exp": 3,
           "search_rank": 99,
           "depth_chart_position": null
+        },
+        {
+          "player_id": "5892",
+          "name": "David Montgomery",
+          "position": "RB",
+          "team": "HOU",
+          "status": "Active",
+          "injury_status": "Out",
+          "age": 29,
+          "years_exp": 7,
+          "search_rank": 41,
+          "depth_chart_position": "RB"
         },
         {
           "player_id": "8121",
@@ -2774,18 +2774,6 @@
           "depth_chart_position": "LWR"
         },
         {
-          "player_id": "3271",
-          "name": "Tyler Higbee",
-          "position": "TE",
-          "team": "LAR",
-          "status": "Active",
-          "injury_status": null,
-          "age": 33,
-          "years_exp": 10,
-          "search_rank": 633,
-          "depth_chart_position": "TE"
-        },
-        {
           "player_id": "5849",
           "name": "Kyler Murray",
           "position": "QB",
@@ -2796,6 +2784,18 @@
           "years_exp": 7,
           "search_rank": 88,
           "depth_chart_position": "QB"
+        },
+        {
+          "player_id": "8110",
+          "name": "Jake Ferguson",
+          "position": "TE",
+          "team": "DAL",
+          "status": "Active",
+          "injury_status": null,
+          "age": 27,
+          "years_exp": 4,
+          "search_rank": 97,
+          "depth_chart_position": "TE"
         }
       ],
       "reserve": [

@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-29T02:44:56.534862+00:00",
+  "snapshot_generated_at": "2026-10-29T09:43:03.840324+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -2164,6 +2164,29 @@
           }
         },
         {
+          "player_id": "8110",
+          "name": "Jake Ferguson",
+          "position": "TE",
+          "nfl_team": "DAL",
+          "location": "bench",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 10,
+            "pick_no": 132,
+            "original_roster_id": 7,
+            "original_owner_user_id": "713449654771056640",
+            "original_username": "Tonay",
+            "original_team_name": "Relaxed Slims",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 10,
+            "reason": "Drafted in Round 10"
+          }
+        },
+        {
           "player_id": "12474",
           "name": "Woody Marks",
           "position": "RB",
@@ -2227,19 +2250,6 @@
           "name": "Antonio Williams",
           "position": "WR",
           "nfl_team": "WAS",
-          "location": "bench",
-          "draft": null,
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 14,
-            "reason": "Undrafted player; keeper cost is Round 14"
-          }
-        },
-        {
-          "player_id": "3271",
-          "name": "Tyler Higbee",
-          "position": "TE",
-          "nfl_team": "LAR",
           "location": "bench",
           "draft": null,
           "keeper": {
@@ -2610,7 +2620,7 @@
           "name": "David Montgomery",
           "position": "RB",
           "nfl_team": "HOU",
-          "location": "bench",
+          "location": "reserve",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",

@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-29T02:44:56.534862+00:00",
+  "snapshot_generated_at": "2026-10-29T09:43:03.840324+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -8537,6 +8537,61 @@
       ],
       "roster_ids": [
         10
+      ]
+    },
+    {
+      "transaction_id": "1421376725106921472",
+      "week": 8,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793245128470,
+      "faab": null,
+      "adds": [
+        {
+          "player": {
+            "player_id": "8110",
+            "name": "Jake Ferguson",
+            "position": "TE",
+            "team": "DAL",
+            "status": "Active",
+            "injury_status": null,
+            "age": 27,
+            "years_exp": 4,
+            "search_rank": 97,
+            "depth_chart_position": "TE"
+          },
+          "destination": {
+            "roster_id": 14,
+            "owner_user_id": "1263695631499665408",
+            "username": "jeredoliver",
+            "team_name": "JSN Bourne"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "player_id": "3271",
+            "name": "Tyler Higbee",
+            "position": "TE",
+            "team": "LAR",
+            "status": "Active",
+            "injury_status": null,
+            "age": 33,
+            "years_exp": 10,
+            "search_rank": 633,
+            "depth_chart_position": "TE"
+          },
+          "source": {
+            "roster_id": 14,
+            "owner_user_id": "1263695631499665408",
+            "username": "jeredoliver",
+            "team_name": "JSN Bourne"
+          }
+        }
+      ],
+      "roster_ids": [
+        14
       ]
     },
     {
