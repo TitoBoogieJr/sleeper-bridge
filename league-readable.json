@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-29T09:43:03.840324+00:00",
+  "snapshot_generated_at": "2026-10-29T16:48:45.601861+00:00",
   "current_week": 8,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -93,15 +93,15 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "8129",
-          "name": "Dameon Pierce",
+          "player_id": "9753",
+          "name": "Zach Charbonnet",
           "position": "RB",
-          "team": "PHI",
+          "team": "SEA",
           "status": "Active",
           "injury_status": "Questionable",
-          "age": 26,
-          "years_exp": 4,
-          "search_rank": 627,
+          "age": 25,
+          "years_exp": 3,
+          "search_rank": 101,
           "depth_chart_position": "RB"
         },
         {
@@ -141,18 +141,6 @@
           "years_exp": 3,
           "search_rank": 81,
           "depth_chart_position": "TE"
-        },
-        {
-          "player_id": "12536",
-          "name": "Jaylin Noel",
-          "position": "WR",
-          "team": "HOU",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "age": 24,
-          "years_exp": 1,
-          "search_rank": 190,
-          "depth_chart_position": "SWR"
         },
         {
           "player_id": "4035",
@@ -217,15 +205,15 @@
           "depth_chart_position": "SWR"
         },
         {
-          "player_id": "9753",
-          "name": "Zach Charbonnet",
+          "player_id": "8129",
+          "name": "Dameon Pierce",
           "position": "RB",
-          "team": "SEA",
+          "team": "PHI",
           "status": "Active",
           "injury_status": "Questionable",
-          "age": 25,
-          "years_exp": 3,
-          "search_rank": 101,
+          "age": 26,
+          "years_exp": 4,
+          "search_rank": 627,
           "depth_chart_position": "RB"
         }
       ]
@@ -1267,15 +1255,15 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "12512",
-          "name": "Quinshon Judkins",
+          "player_id": "8138",
+          "name": "James Cook III",
           "position": "RB",
-          "team": "CLE",
+          "team": "BUF",
           "status": "Active",
           "injury_status": null,
-          "age": 22,
-          "years_exp": 1,
-          "search_rank": 45,
+          "age": 27,
+          "years_exp": 4,
+          "search_rank": 5,
           "depth_chart_position": "RB"
         },
         {
@@ -1353,6 +1341,18 @@
       ],
       "bench": [
         {
+          "player_id": "12512",
+          "name": "Quinshon Judkins",
+          "position": "RB",
+          "team": "CLE",
+          "status": "Active",
+          "injury_status": null,
+          "age": 22,
+          "years_exp": 1,
+          "search_rank": 45,
+          "depth_chart_position": "RB"
+        },
+        {
           "player_id": "13296",
           "name": "Caleb Douglas",
           "position": "WR",
@@ -1399,18 +1399,6 @@
           "years_exp": 4,
           "search_rank": 106,
           "depth_chart_position": "TE"
-        },
-        {
-          "player_id": "8138",
-          "name": "James Cook III",
-          "position": "RB",
-          "team": "BUF",
-          "status": "Active",
-          "injury_status": null,
-          "age": 27,
-          "years_exp": 4,
-          "search_rank": 5,
-          "depth_chart_position": "RB"
         }
       ],
       "reserve": [
@@ -2624,7 +2612,7 @@
         "wins": 9,
         "losses": 5,
         "ties": 0,
-        "faab_used": 70
+        "faab_used": 71
       },
       "starters": [
         {
@@ -2762,6 +2750,18 @@
           "depth_chart_position": "RB"
         },
         {
+          "player_id": "13293",
+          "name": "Ja'Kobi Lane",
+          "position": "WR",
+          "team": "BAL",
+          "status": "Active",
+          "injury_status": null,
+          "age": 22,
+          "years_exp": 0,
+          "search_rank": 147,
+          "depth_chart_position": "RWR"
+        },
+        {
           "player_id": "13301",
           "name": "Antonio Williams",
           "position": "WR",
@@ -2772,18 +2772,6 @@
           "years_exp": 0,
           "search_rank": 156,
           "depth_chart_position": "LWR"
-        },
-        {
-          "player_id": "5849",
-          "name": "Kyler Murray",
-          "position": "QB",
-          "team": "MIN",
-          "status": "Active",
-          "injury_status": null,
-          "age": 29,
-          "years_exp": 7,
-          "search_rank": 88,
-          "depth_chart_position": "QB"
         },
         {
           "player_id": "8110",

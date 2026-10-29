@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-29T09:43:03.840324+00:00",
+  "snapshot_generated_at": "2026-10-29T16:48:45.601861+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -8540,6 +8540,40 @@
       ]
     },
     {
+      "transaction_id": "1421573708107018240",
+      "week": 8,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793292092877,
+      "faab": null,
+      "adds": [],
+      "drops": [
+        {
+          "player": {
+            "player_id": "12536",
+            "name": "Jaylin Noel",
+            "position": "WR",
+            "team": "HOU",
+            "status": "Active",
+            "injury_status": "Questionable",
+            "age": 24,
+            "years_exp": 1,
+            "search_rank": 190,
+            "depth_chart_position": "SWR"
+          },
+          "source": {
+            "roster_id": 1,
+            "owner_user_id": "1263601129552355328",
+            "username": "nathan697",
+            "team_name": "Egbuka, I hardly know ya"
+          }
+        }
+      ],
+      "roster_ids": [
+        1
+      ]
+    },
+    {
       "transaction_id": "1421376725106921472",
       "week": 8,
       "type": "free_agent",
@@ -8581,6 +8615,61 @@
             "years_exp": 10,
             "search_rank": 633,
             "depth_chart_position": "TE"
+          },
+          "source": {
+            "roster_id": 14,
+            "owner_user_id": "1263695631499665408",
+            "username": "jeredoliver",
+            "team_name": "JSN Bourne"
+          }
+        }
+      ],
+      "roster_ids": [
+        14
+      ]
+    },
+    {
+      "transaction_id": "1421376273539739648",
+      "week": 8,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1793245020807,
+      "faab": 1,
+      "adds": [
+        {
+          "player": {
+            "player_id": "13293",
+            "name": "Ja'Kobi Lane",
+            "position": "WR",
+            "team": "BAL",
+            "status": "Active",
+            "injury_status": null,
+            "age": 22,
+            "years_exp": 0,
+            "search_rank": 147,
+            "depth_chart_position": "RWR"
+          },
+          "destination": {
+            "roster_id": 14,
+            "owner_user_id": "1263695631499665408",
+            "username": "jeredoliver",
+            "team_name": "JSN Bourne"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "player_id": "5849",
+            "name": "Kyler Murray",
+            "position": "QB",
+            "team": "MIN",
+            "status": "Active",
+            "injury_status": null,
+            "age": 29,
+            "years_exp": 7,
+            "search_rank": 88,
+            "depth_chart_position": "QB"
           },
           "source": {
             "roster_id": 14,
