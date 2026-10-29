@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-28T23:26:47.111749+00:00",
+  "snapshot_generated_at": "2026-10-29T02:44:56.534862+00:00",
   "current_week": 8,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -2502,15 +2502,15 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "13298",
-          "name": "KC Concepcion Jr.",
+          "player_id": "10229",
+          "name": "Rashee Rice",
           "position": "WR",
-          "team": "CLE",
+          "team": "KC",
           "status": "Active",
-          "injury_status": null,
-          "age": 22,
-          "years_exp": 0,
-          "search_rank": 111,
+          "injury_status": "Questionable",
+          "age": 26,
+          "years_exp": 3,
+          "search_rank": 29,
           "depth_chart_position": "SWR"
         },
         {
@@ -2526,10 +2526,10 @@
           "depth_chart_position": "K"
         },
         {
-          "player_id": "CAR",
-          "name": "Carolina Panthers",
+          "player_id": "JAX",
+          "name": "Jacksonville Jaguars",
           "position": "DEF",
-          "team": "CAR",
+          "team": "JAX",
           "status": null,
           "injury_status": null,
           "age": null,
@@ -2550,6 +2550,18 @@
           "years_exp": 1,
           "search_rank": 39,
           "depth_chart_position": "RB"
+        },
+        {
+          "player_id": "13298",
+          "name": "KC Concepcion Jr.",
+          "position": "WR",
+          "team": "CLE",
+          "status": "Active",
+          "injury_status": null,
+          "age": 22,
+          "years_exp": 0,
+          "search_rank": 111,
+          "depth_chart_position": "SWR"
         },
         {
           "player_id": "9480",
@@ -2576,22 +2588,10 @@
           "depth_chart_position": "SWR"
         },
         {
-          "player_id": "9508",
-          "name": "Tyjae Spears",
-          "position": "RB",
-          "team": "TEN",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "age": 25,
-          "years_exp": 3,
-          "search_rank": 122,
-          "depth_chart_position": "RB"
-        },
-        {
-          "player_id": "JAX",
-          "name": "Jacksonville Jaguars",
+          "player_id": "CAR",
+          "name": "Carolina Panthers",
           "position": "DEF",
-          "team": "JAX",
+          "team": "CAR",
           "status": null,
           "injury_status": null,
           "age": null,
@@ -2601,18 +2601,6 @@
         }
       ],
       "reserve": [
-        {
-          "player_id": "10229",
-          "name": "Rashee Rice",
-          "position": "WR",
-          "team": "KC",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "age": 26,
-          "years_exp": 3,
-          "search_rank": 29,
-          "depth_chart_position": "SWR"
-        },
         {
           "player_id": "5927",
           "name": "Terry McLaurin",

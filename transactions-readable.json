@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-28T23:26:47.111749+00:00",
+  "snapshot_generated_at": "2026-10-29T02:44:56.534862+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -8537,6 +8537,40 @@
       ],
       "roster_ids": [
         10
+      ]
+    },
+    {
+      "transaction_id": "1421353899134136320",
+      "week": 8,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793239686333,
+      "faab": null,
+      "adds": [],
+      "drops": [
+        {
+          "player": {
+            "player_id": "9508",
+            "name": "Tyjae Spears",
+            "position": "RB",
+            "team": "TEN",
+            "status": "Active",
+            "injury_status": "Questionable",
+            "age": 25,
+            "years_exp": 3,
+            "search_rank": 122,
+            "depth_chart_position": "RB"
+          },
+          "source": {
+            "roster_id": 13,
+            "owner_user_id": "1263686571970793472",
+            "username": "billyfusco",
+            "team_name": "Darkmeat Duck"
+          }
+        }
+      ],
+      "roster_ids": [
+        13
       ]
     },
     {
