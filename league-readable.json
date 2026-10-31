@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-31T16:16:21.695301+00:00",
+  "snapshot_generated_at": "2026-10-31T20:13:18.882650+00:00",
   "current_week": 8,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -464,15 +464,15 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "13279",
-          "name": "Carnell Tate",
+          "player_id": "7526",
+          "name": "Jaylen Waddle",
           "position": "WR",
-          "team": "TEN",
+          "team": "DEN",
           "status": "Active",
-          "injury_status": "Out",
-          "age": 21,
-          "years_exp": 0,
-          "search_rank": 61,
+          "injury_status": "Questionable",
+          "age": 27,
+          "years_exp": 5,
+          "search_rank": 42,
           "depth_chart_position": "RWR"
         },
         {
@@ -500,16 +500,16 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "7526",
-          "name": "Jaylen Waddle",
-          "position": "WR",
+          "player_id": "6806",
+          "name": "J.K. Dobbins",
+          "position": "RB",
           "team": "DEN",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "age": 27,
-          "years_exp": 5,
-          "search_rank": 42,
-          "depth_chart_position": "RWR"
+          "years_exp": 6,
+          "search_rank": 68,
+          "depth_chart_position": "RB"
         },
         {
           "player_id": "7839",
@@ -550,6 +550,18 @@
           "depth_chart_position": "QB"
         },
         {
+          "player_id": "13279",
+          "name": "Carnell Tate",
+          "position": "WR",
+          "team": "TEN",
+          "status": "Active",
+          "injury_status": "Out",
+          "age": 21,
+          "years_exp": 0,
+          "search_rank": 61,
+          "depth_chart_position": "RWR"
+        },
+        {
           "player_id": "13281",
           "name": "Jordyn Tyson",
           "position": "WR",
@@ -572,18 +584,6 @@
           "years_exp": 0,
           "search_rank": 201,
           "depth_chart_position": "RWR"
-        },
-        {
-          "player_id": "6806",
-          "name": "J.K. Dobbins",
-          "position": "RB",
-          "team": "DEN",
-          "status": "Active",
-          "injury_status": null,
-          "age": 27,
-          "years_exp": 6,
-          "search_rank": 68,
-          "depth_chart_position": "RB"
         },
         {
           "player_id": "8144",
@@ -661,16 +661,16 @@
           "depth_chart_position": "SWR"
         },
         {
-          "player_id": "5859",
-          "name": "A.J. Brown",
+          "player_id": "11635",
+          "name": "Ladd McConkey",
           "position": "WR",
-          "team": "NE",
+          "team": "LAC",
           "status": "Active",
-          "injury_status": "Questionable",
-          "age": 29,
-          "years_exp": 7,
-          "search_rank": 17,
-          "depth_chart_position": "LWR"
+          "injury_status": null,
+          "age": 24,
+          "years_exp": 2,
+          "search_rank": 35,
+          "depth_chart_position": "SWR"
         },
         {
           "player_id": "9484",
@@ -685,16 +685,16 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "8126",
-          "name": "Wan'Dale Robinson",
-          "position": "WR",
-          "team": "TEN",
+          "player_id": "13345",
+          "name": "Jonah Coleman",
+          "position": "RB",
+          "team": "DEN",
           "status": "Active",
           "injury_status": null,
-          "age": 25,
-          "years_exp": 4,
-          "search_rank": 105,
-          "depth_chart_position": "SWR"
+          "age": 23,
+          "years_exp": 0,
+          "search_rank": 118,
+          "depth_chart_position": "RB"
         },
         {
           "player_id": "11539",
@@ -759,18 +759,6 @@
           "depth_chart_position": "QB"
         },
         {
-          "player_id": "13345",
-          "name": "Jonah Coleman",
-          "position": "RB",
-          "team": "DEN",
-          "status": "Active",
-          "injury_status": null,
-          "age": 23,
-          "years_exp": 0,
-          "search_rank": 118,
-          "depth_chart_position": "RB"
-        },
-        {
           "player_id": "13424",
           "name": "Seth McGowan",
           "position": "RB",
@@ -781,20 +769,32 @@
           "years_exp": 0,
           "search_rank": 380,
           "depth_chart_position": "RB"
+        },
+        {
+          "player_id": "8126",
+          "name": "Wan'Dale Robinson",
+          "position": "WR",
+          "team": "TEN",
+          "status": "Active",
+          "injury_status": null,
+          "age": 25,
+          "years_exp": 4,
+          "search_rank": 105,
+          "depth_chart_position": "SWR"
         }
       ],
       "reserve": [
         {
-          "player_id": "11635",
-          "name": "Ladd McConkey",
+          "player_id": "5859",
+          "name": "A.J. Brown",
           "position": "WR",
-          "team": "LAC",
+          "team": "NE",
           "status": "Active",
-          "injury_status": null,
-          "age": 24,
-          "years_exp": 2,
-          "search_rank": 35,
-          "depth_chart_position": "SWR"
+          "injury_status": "Questionable",
+          "age": 29,
+          "years_exp": 7,
+          "search_rank": 17,
+          "depth_chart_position": "LWR"
         }
       ]
     },

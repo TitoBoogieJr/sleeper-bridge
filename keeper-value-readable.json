@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-31T16:16:21.695301+00:00",
+  "snapshot_generated_at": "2026-10-31T20:13:18.882650+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -3227,7 +3227,7 @@
           "name": "A.J. Brown",
           "position": "WR",
           "nfl_team": "NE",
-          "location": "starter",
+          "location": "reserve",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -3250,7 +3250,7 @@
           "name": "Ladd McConkey",
           "position": "WR",
           "nfl_team": "LAC",
-          "location": "reserve",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -3365,7 +3365,7 @@
           "name": "Wan'Dale Robinson",
           "position": "WR",
           "nfl_team": "TEN",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -3388,7 +3388,7 @@
           "name": "Jonah Coleman",
           "position": "RB",
           "nfl_team": "DEN",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -3583,7 +3583,7 @@
           "name": "Carnell Tate",
           "position": "WR",
           "nfl_team": "TEN",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -3652,7 +3652,7 @@
           "name": "J.K. Dobbins",
           "position": "RB",
           "nfl_team": "DEN",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
