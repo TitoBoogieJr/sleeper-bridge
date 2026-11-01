@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-10-31T23:36:08.139256+00:00",
+  "snapshot_generated_at": "2026-11-01T05:34:29.277707+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -8537,6 +8537,95 @@
       ],
       "roster_ids": [
         10
+      ]
+    },
+    {
+      "transaction_id": "1422481447352045568",
+      "week": 8,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793508514777,
+      "faab": null,
+      "adds": [
+        {
+          "player": {
+            "player_id": "5849",
+            "name": "Kyler Murray",
+            "position": "QB",
+            "team": "MIN",
+            "status": "Active",
+            "injury_status": null,
+            "age": 29,
+            "years_exp": 7,
+            "search_rank": 88,
+            "depth_chart_position": "QB"
+          },
+          "destination": {
+            "roster_id": 14,
+            "owner_user_id": "1263695631499665408",
+            "username": "jeredoliver",
+            "team_name": "JSN Bourne"
+          }
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        14
+      ]
+    },
+    {
+      "transaction_id": "1422461778075328512",
+      "week": 8,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793503825257,
+      "faab": null,
+      "adds": [
+        {
+          "player": {
+            "player_id": "12499",
+            "name": "Elic Ayomanor",
+            "position": "WR",
+            "team": "TEN",
+            "status": "Active",
+            "injury_status": null,
+            "age": 23,
+            "years_exp": 1,
+            "search_rank": 185,
+            "depth_chart_position": "LWR"
+          },
+          "destination": {
+            "roster_id": 1,
+            "owner_user_id": "1263601129552355328",
+            "username": "nathan697",
+            "team_name": "Egbuka, I hardly know ya"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "player_id": "6797",
+            "name": "Justin Herbert",
+            "position": "QB",
+            "team": "LAC",
+            "status": "Active",
+            "injury_status": null,
+            "age": 28,
+            "years_exp": 6,
+            "search_rank": 34,
+            "depth_chart_position": "QB"
+          },
+          "source": {
+            "roster_id": 1,
+            "owner_user_id": "1263601129552355328",
+            "username": "nathan697",
+            "team_name": "Egbuka, I hardly know ya"
+          }
+        }
+      ],
+      "roster_ids": [
+        1
       ]
     },
     {
