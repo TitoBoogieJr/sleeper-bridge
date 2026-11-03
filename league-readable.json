@@ -1,6 +1,6 @@
 {
-  "snapshot_generated_at": "2026-11-03T02:08:07.536760+00:00",
-  "current_week": 8,
+  "snapshot_generated_at": "2026-11-03T09:55:33.850499+00:00",
+  "current_week": 9,
   "league": {
     "name": "North Winnipeg Fantasy Football",
     "season": "2026",
@@ -15,7 +15,7 @@
       "team_name": "Egbuka, I hardly know ya",
       "record": {
         "wins": 7,
-        "losses": 7,
+        "losses": 9,
         "ties": 0,
         "faab_used": 58
       },
@@ -237,7 +237,7 @@
       "team_name": "Magic Skol Bus",
       "record": {
         "wins": 4,
-        "losses": 10,
+        "losses": 12,
         "ties": 0,
         "faab_used": 0
       },
@@ -423,7 +423,7 @@
       "team_name": "Ashy Larry strikes again",
       "record": {
         "wins": 10,
-        "losses": 4,
+        "losses": 6,
         "ties": 0,
         "faab_used": 14
       },
@@ -607,8 +607,8 @@
       "username": "Naz514",
       "team_name": "Maye-B not so lucky",
       "record": {
-        "wins": 3,
-        "losses": 11,
+        "wins": 4,
+        "losses": 12,
         "ties": 0,
         "faab_used": 97
       },
@@ -805,7 +805,7 @@
       "username": "WestManBruce",
       "team_name": "WestManBruce",
       "record": {
-        "wins": 7,
+        "wins": 9,
         "losses": 7,
         "ties": 0,
         "faab_used": 6
@@ -1028,7 +1028,7 @@
       "team_name": "LaPorta Pottie",
       "record": {
         "wins": 7,
-        "losses": 7,
+        "losses": 9,
         "ties": 0,
         "faab_used": 15
       },
@@ -1237,7 +1237,7 @@
       "username": "Tonay",
       "team_name": "Relaxed Slims",
       "record": {
-        "wins": 9,
+        "wins": 11,
         "losses": 5,
         "ties": 0,
         "faab_used": 77
@@ -1435,8 +1435,8 @@
       "username": "ChaseyChase73",
       "team_name": "ChaseyChase73",
       "record": {
-        "wins": 8,
-        "losses": 6,
+        "wins": 9,
+        "losses": 7,
         "ties": 0,
         "faab_used": 84
       },
@@ -1645,7 +1645,7 @@
       "username": "kevkazoo",
       "team_name": "Nacua Matata",
       "record": {
-        "wins": 6,
+        "wins": 8,
         "losses": 8,
         "ties": 0,
         "faab_used": 13
@@ -1830,7 +1830,7 @@
       "username": "lionelesteban",
       "team_name": "Kittle El Cero Miedo",
       "record": {
-        "wins": 7,
+        "wins": 9,
         "losses": 7,
         "ties": 0,
         "faab_used": 63
@@ -2029,7 +2029,7 @@
       "team_name": "Ryan3041",
       "record": {
         "wins": 6,
-        "losses": 8,
+        "losses": 10,
         "ties": 0,
         "faab_used": 4
       },
@@ -2226,7 +2226,7 @@
       "username": "halfpint83",
       "team_name": "Little Miss Touchdown",
       "record": {
-        "wins": 9,
+        "wins": 11,
         "losses": 5,
         "ties": 0,
         "faab_used": 0
@@ -2424,7 +2424,7 @@
       "username": "billyfusco",
       "team_name": "Darkmeat Duck",
       "record": {
-        "wins": 6,
+        "wins": 8,
         "losses": 8,
         "ties": 0,
         "faab_used": 15
@@ -2623,7 +2623,7 @@
       "team_name": "JSN Bourne",
       "record": {
         "wins": 9,
-        "losses": 5,
+        "losses": 7,
         "ties": 0,
         "faab_used": 71
       },
