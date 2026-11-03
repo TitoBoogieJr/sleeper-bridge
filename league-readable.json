@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-03T15:57:49.498979+00:00",
+  "snapshot_generated_at": "2026-11-03T17:40:15.193174+00:00",
   "current_week": 9,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -1514,16 +1514,16 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "11834",
-          "name": "Devaughn Vele",
-          "position": "WR",
-          "team": "NO",
-          "status": "Active",
-          "injury_status": null,
-          "age": 28,
-          "years_exp": 2,
-          "search_rank": 209,
-          "depth_chart_position": "SWR"
+          "player_id": "13286",
+          "name": "Jadarian Price",
+          "position": "RB",
+          "team": "SEA",
+          "status": "Inactive",
+          "injury_status": "IR",
+          "age": 23,
+          "years_exp": 0,
+          "search_rank": 52,
+          "depth_chart_position": "RB"
         },
         {
           "player_id": "12185",
@@ -1552,18 +1552,6 @@
       ],
       "bench": [
         {
-          "player_id": "11439",
-          "name": "Jaleel McLaughlin",
-          "position": "RB",
-          "team": "CLE",
-          "status": "Active",
-          "injury_status": null,
-          "age": 26,
-          "years_exp": 3,
-          "search_rank": 693,
-          "depth_chart_position": "RB"
-        },
-        {
           "player_id": "11628",
           "name": "Marvin Harrison Jr.",
           "position": "WR",
@@ -1574,6 +1562,18 @@
           "years_exp": 2,
           "search_rank": 74,
           "depth_chart_position": "RWR"
+        },
+        {
+          "player_id": "11834",
+          "name": "Devaughn Vele",
+          "position": "WR",
+          "team": "NO",
+          "status": "Active",
+          "injury_status": null,
+          "age": 28,
+          "years_exp": 2,
+          "search_rank": 209,
+          "depth_chart_position": "SWR"
         },
         {
           "player_id": "12491",
@@ -1613,18 +1613,6 @@
         }
       ],
       "reserve": [
-        {
-          "player_id": "13286",
-          "name": "Jadarian Price",
-          "position": "RB",
-          "team": "SEA",
-          "status": "Inactive",
-          "injury_status": "IR",
-          "age": 23,
-          "years_exp": 0,
-          "search_rank": 52,
-          "depth_chart_position": "RB"
-        },
         {
           "player_id": "8800",
           "name": "Malik Davis",
@@ -1837,15 +1825,15 @@
       },
       "starters": [
         {
-          "player_id": "3257",
-          "name": "Jacoby Brissett",
+          "player_id": "8183",
+          "name": "Brock Purdy",
           "position": "QB",
-          "team": "ARI",
+          "team": "SF",
           "status": "Active",
           "injury_status": null,
-          "age": 33,
-          "years_exp": 10,
-          "search_rank": 203,
+          "age": 26,
+          "years_exp": 4,
+          "search_rank": 55,
           "depth_chart_position": "QB"
         },
         {
@@ -1873,16 +1861,16 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "13274",
-          "name": "Germie Bernard",
+          "player_id": "7569",
+          "name": "Nico Collins",
           "position": "WR",
-          "team": "PIT",
+          "team": "HOU",
           "status": "Active",
           "injury_status": null,
-          "age": 22,
-          "years_exp": 0,
-          "search_rank": 194,
-          "depth_chart_position": "RWR"
+          "age": 27,
+          "years_exp": 5,
+          "search_rank": 23,
+          "depth_chart_position": "LWR"
         },
         {
           "player_id": "4983",
@@ -1897,15 +1885,15 @@
           "depth_chart_position": "LWR"
         },
         {
-          "player_id": "5844",
-          "name": "T.J. Hockenson",
+          "player_id": "4217",
+          "name": "George Kittle",
           "position": "TE",
-          "team": "MIN",
+          "team": "SF",
           "status": "Active",
           "injury_status": null,
-          "age": 29,
-          "years_exp": 7,
-          "search_rank": 128,
+          "age": 33,
+          "years_exp": 9,
+          "search_rank": 80,
           "depth_chart_position": "TE"
         },
         {
@@ -1947,6 +1935,18 @@
       ],
       "bench": [
         {
+          "player_id": "13274",
+          "name": "Germie Bernard",
+          "position": "WR",
+          "team": "PIT",
+          "status": "Active",
+          "injury_status": null,
+          "age": 22,
+          "years_exp": 0,
+          "search_rank": 194,
+          "depth_chart_position": "RWR"
+        },
+        {
           "player_id": "13414",
           "name": "Kaelon Black",
           "position": "RB",
@@ -1959,52 +1959,16 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "4217",
-          "name": "George Kittle",
+          "player_id": "5844",
+          "name": "T.J. Hockenson",
           "position": "TE",
-          "team": "SF",
+          "team": "MIN",
           "status": "Active",
           "injury_status": null,
-          "age": 33,
-          "years_exp": 9,
-          "search_rank": 80,
+          "age": 29,
+          "years_exp": 7,
+          "search_rank": 128,
           "depth_chart_position": "TE"
-        },
-        {
-          "player_id": "7569",
-          "name": "Nico Collins",
-          "position": "WR",
-          "team": "HOU",
-          "status": "Active",
-          "injury_status": null,
-          "age": 27,
-          "years_exp": 5,
-          "search_rank": 23,
-          "depth_chart_position": "LWR"
-        },
-        {
-          "player_id": "8155",
-          "name": "Breece Hall",
-          "position": "RB",
-          "team": "NYJ",
-          "status": "Active",
-          "injury_status": "Out",
-          "age": 25,
-          "years_exp": 4,
-          "search_rank": 27,
-          "depth_chart_position": "RB"
-        },
-        {
-          "player_id": "8183",
-          "name": "Brock Purdy",
-          "position": "QB",
-          "team": "SF",
-          "status": "Active",
-          "injury_status": null,
-          "age": 26,
-          "years_exp": 4,
-          "search_rank": 55,
-          "depth_chart_position": "QB"
         }
       ],
       "reserve": [
@@ -2019,6 +1983,18 @@
           "years_exp": 12,
           "search_rank": 46,
           "depth_chart_position": "LWR"
+        },
+        {
+          "player_id": "8155",
+          "name": "Breece Hall",
+          "position": "RB",
+          "team": "NYJ",
+          "status": "Active",
+          "injury_status": "Out",
+          "age": 25,
+          "years_exp": 4,
+          "search_rank": 27,
+          "depth_chart_position": "RB"
         }
       ]
     },

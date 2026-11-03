@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-03T15:57:49.498979+00:00",
+  "snapshot_generated_at": "2026-11-03T17:40:15.193174+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -41,7 +41,7 @@
           "name": "Nico Collins",
           "position": "WR",
           "nfl_team": "HOU",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -64,7 +64,7 @@
           "name": "Breece Hall",
           "position": "RB",
           "nfl_team": "NYJ",
-          "location": "bench",
+          "location": "reserve",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -133,7 +133,7 @@
           "name": "Brock Purdy",
           "position": "QB",
           "nfl_team": "SF",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -179,7 +179,7 @@
           "name": "George Kittle",
           "position": "TE",
           "nfl_team": "SF",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -225,7 +225,7 @@
           "name": "T.J. Hockenson",
           "position": "TE",
           "nfl_team": "MIN",
-          "location": "starter",
+          "location": "bench",
           "draft": null,
           "keeper": {
             "eligible_next_season": true,
@@ -261,20 +261,7 @@
           "name": "Germie Bernard",
           "position": "WR",
           "nfl_team": "PIT",
-          "location": "starter",
-          "draft": null,
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 14,
-            "reason": "Undrafted player; keeper cost is Round 14"
-          }
-        },
-        {
-          "player_id": "3257",
-          "name": "Jacoby Brissett",
-          "position": "QB",
-          "nfl_team": "ARI",
-          "location": "starter",
+          "location": "bench",
           "draft": null,
           "keeper": {
             "eligible_next_season": true,
@@ -4076,7 +4063,7 @@
           "name": "Jadarian Price",
           "position": "RB",
           "nfl_team": "SEA",
-          "location": "reserve",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -4145,7 +4132,7 @@
           "name": "Devaughn Vele",
           "position": "WR",
           "nfl_team": "NO",
-          "location": "starter",
+          "location": "bench",
           "draft": null,
           "keeper": {
             "eligible_next_season": true,
@@ -4197,19 +4184,6 @@
           "name": "Efton Chism III",
           "position": "WR",
           "nfl_team": "NE",
-          "location": "bench",
-          "draft": null,
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 14,
-            "reason": "Undrafted player; keeper cost is Round 14"
-          }
-        },
-        {
-          "player_id": "11439",
-          "name": "Jaleel McLaughlin",
-          "position": "RB",
-          "nfl_team": "CLE",
           "location": "bench",
           "draft": null,
           "keeper": {

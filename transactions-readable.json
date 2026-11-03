@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-03T15:57:49.498979+00:00",
+  "snapshot_generated_at": "2026-11-03T17:40:15.193174+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -8526,6 +8526,74 @@
             "years_exp": null,
             "search_rank": null,
             "depth_chart_position": null
+          },
+          "source": {
+            "roster_id": 10,
+            "owner_user_id": "1263230668070977536",
+            "username": "lionelesteban",
+            "team_name": "Kittle El Cero Miedo"
+          }
+        }
+      ],
+      "roster_ids": [
+        10
+      ]
+    },
+    {
+      "transaction_id": "1423398780539043840",
+      "week": 8,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793727224053,
+      "faab": null,
+      "adds": [],
+      "drops": [
+        {
+          "player": {
+            "player_id": "11439",
+            "name": "Jaleel McLaughlin",
+            "position": "RB",
+            "team": "CLE",
+            "status": "Active",
+            "injury_status": null,
+            "age": 26,
+            "years_exp": 3,
+            "search_rank": 693,
+            "depth_chart_position": "RB"
+          },
+          "source": {
+            "roster_id": 8,
+            "owner_user_id": "995178101929816064",
+            "username": "ChaseyChase73",
+            "team_name": "ChaseyChase73"
+          }
+        }
+      ],
+      "roster_ids": [
+        8
+      ]
+    },
+    {
+      "transaction_id": "1423382850895384576",
+      "week": 8,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793723426129,
+      "faab": null,
+      "adds": [],
+      "drops": [
+        {
+          "player": {
+            "player_id": "3257",
+            "name": "Jacoby Brissett",
+            "position": "QB",
+            "team": "ARI",
+            "status": "Active",
+            "injury_status": null,
+            "age": 33,
+            "years_exp": 10,
+            "search_rank": 203,
+            "depth_chart_position": "QB"
           },
           "source": {
             "roster_id": 10,
