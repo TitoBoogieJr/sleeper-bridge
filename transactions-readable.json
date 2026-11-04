@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-04T03:08:16.423859+00:00",
+  "snapshot_generated_at": "2026-11-04T11:27:36.050479+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -8540,6 +8540,142 @@
       ]
     },
     {
+      "transaction_id": "1423578813899591680",
+      "week": 8,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1793770147351,
+      "faab": 15,
+      "adds": [
+        {
+          "player": {
+            "player_id": "11647",
+            "name": "Kimani Vidal",
+            "position": "RB",
+            "team": "LAC",
+            "status": "Active",
+            "injury_status": null,
+            "age": 25,
+            "years_exp": 2,
+            "search_rank": 141,
+            "depth_chart_position": "RB"
+          },
+          "destination": {
+            "roster_id": 6,
+            "owner_user_id": "1263688729139097600",
+            "username": "KHurrie",
+            "team_name": "LaPorta Pottie"
+          }
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        6
+      ]
+    },
+    {
+      "transaction_id": "1423577253626810368",
+      "week": 8,
+      "type": "waiver",
+      "status": "failed",
+      "created": 1793769775353,
+      "faab": 15,
+      "adds": [
+        {
+          "player": {
+            "player_id": "6130",
+            "name": "Devin Singletary",
+            "position": "RB",
+            "team": "NYG",
+            "status": "Active",
+            "injury_status": null,
+            "age": 29,
+            "years_exp": 7,
+            "search_rank": 660,
+            "depth_chart_position": "RB"
+          },
+          "destination": {
+            "roster_id": 6,
+            "owner_user_id": "1263688729139097600",
+            "username": "KHurrie",
+            "team_name": "LaPorta Pottie"
+          }
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        6
+      ]
+    },
+    {
+      "transaction_id": "1423570522507063296",
+      "week": 8,
+      "type": "waiver",
+      "status": "failed",
+      "created": 1793768170528,
+      "faab": 3,
+      "adds": [
+        {
+          "player": {
+            "player_id": "13337",
+            "name": "Emmett Johnson",
+            "position": "RB",
+            "team": "KC",
+            "status": "Active",
+            "injury_status": null,
+            "age": 23,
+            "years_exp": 0,
+            "search_rank": 113,
+            "depth_chart_position": "RB"
+          },
+          "destination": {
+            "roster_id": 8,
+            "owner_user_id": "995178101929816064",
+            "username": "ChaseyChase73",
+            "team_name": "ChaseyChase73"
+          }
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        8
+      ]
+    },
+    {
+      "transaction_id": "1423570424360443904",
+      "week": 8,
+      "type": "waiver",
+      "status": "failed",
+      "created": 1793768147129,
+      "faab": 1,
+      "adds": [
+        {
+          "player": {
+            "player_id": "6130",
+            "name": "Devin Singletary",
+            "position": "RB",
+            "team": "NYG",
+            "status": "Active",
+            "injury_status": null,
+            "age": 29,
+            "years_exp": 7,
+            "search_rank": 660,
+            "depth_chart_position": "RB"
+          },
+          "destination": {
+            "roster_id": 8,
+            "owner_user_id": "995178101929816064",
+            "username": "ChaseyChase73",
+            "team_name": "ChaseyChase73"
+          }
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        8
+      ]
+    },
+    {
       "transaction_id": "1423398780539043840",
       "week": 8,
       "type": "free_agent",
@@ -8574,6 +8710,74 @@
       ]
     },
     {
+      "transaction_id": "1423383958669774848",
+      "week": 8,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1793723690244,
+      "faab": 4,
+      "adds": [
+        {
+          "player": {
+            "player_id": "13337",
+            "name": "Emmett Johnson",
+            "position": "RB",
+            "team": "KC",
+            "status": "Active",
+            "injury_status": null,
+            "age": 23,
+            "years_exp": 0,
+            "search_rank": 113,
+            "depth_chart_position": "RB"
+          },
+          "destination": {
+            "roster_id": 10,
+            "owner_user_id": "1263230668070977536",
+            "username": "lionelesteban",
+            "team_name": "Kittle El Cero Miedo"
+          }
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        10
+      ]
+    },
+    {
+      "transaction_id": "1423383865812058112",
+      "week": 8,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1793723668104,
+      "faab": 10,
+      "adds": [
+        {
+          "player": {
+            "player_id": "11625",
+            "name": "Adonai Mitchell",
+            "position": "WR",
+            "team": "NYJ",
+            "status": "Active",
+            "injury_status": null,
+            "age": 24,
+            "years_exp": 2,
+            "search_rank": 162,
+            "depth_chart_position": "RWR"
+          },
+          "destination": {
+            "roster_id": 10,
+            "owner_user_id": "1263230668070977536",
+            "username": "lionelesteban",
+            "team_name": "Kittle El Cero Miedo"
+          }
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        10
+      ]
+    },
+    {
       "transaction_id": "1423382850895384576",
       "week": 8,
       "type": "free_agent",
@@ -8605,6 +8809,116 @@
       ],
       "roster_ids": [
         10
+      ]
+    },
+    {
+      "transaction_id": "1423375791701397504",
+      "week": 8,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1793721743087,
+      "faab": 7,
+      "adds": [
+        {
+          "player": {
+            "player_id": "8161",
+            "name": "Malik Willis",
+            "position": "QB",
+            "team": "MIA",
+            "status": "Active",
+            "injury_status": null,
+            "age": 27,
+            "years_exp": 4,
+            "search_rank": 122,
+            "depth_chart_position": "QB"
+          },
+          "destination": {
+            "roster_id": 1,
+            "owner_user_id": "1263601129552355328",
+            "username": "nathan697",
+            "team_name": "Egbuka, I hardly know ya"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "player_id": "12499",
+            "name": "Elic Ayomanor",
+            "position": "WR",
+            "team": "TEN",
+            "status": "Active",
+            "injury_status": null,
+            "age": 23,
+            "years_exp": 1,
+            "search_rank": 185,
+            "depth_chart_position": "LWR"
+          },
+          "source": {
+            "roster_id": 1,
+            "owner_user_id": "1263601129552355328",
+            "username": "nathan697",
+            "team_name": "Egbuka, I hardly know ya"
+          }
+        }
+      ],
+      "roster_ids": [
+        1
+      ]
+    },
+    {
+      "transaction_id": "1423375014643662848",
+      "week": 8,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1793721557821,
+      "faab": 22,
+      "adds": [
+        {
+          "player": {
+            "player_id": "6130",
+            "name": "Devin Singletary",
+            "position": "RB",
+            "team": "NYG",
+            "status": "Active",
+            "injury_status": null,
+            "age": 29,
+            "years_exp": 7,
+            "search_rank": 660,
+            "depth_chart_position": "RB"
+          },
+          "destination": {
+            "roster_id": 1,
+            "owner_user_id": "1263601129552355328",
+            "username": "nathan697",
+            "team_name": "Egbuka, I hardly know ya"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "player_id": "11435",
+            "name": "Emanuel Wilson",
+            "position": "RB",
+            "team": "SEA",
+            "status": "Active",
+            "injury_status": null,
+            "age": 27,
+            "years_exp": 3,
+            "search_rank": 161,
+            "depth_chart_position": "RB"
+          },
+          "source": {
+            "roster_id": 1,
+            "owner_user_id": "1263601129552355328",
+            "username": "nathan697",
+            "team_name": "Egbuka, I hardly know ya"
+          }
+        }
+      ],
+      "roster_ids": [
+        1
       ]
     },
     {
@@ -9406,6 +9720,129 @@
       ],
       "roster_ids": [
         14
+      ]
+    },
+    {
+      "transaction_id": "1423643981840908288",
+      "week": 9,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793785684598,
+      "faab": null,
+      "adds": [
+        {
+          "player": {
+            "player_id": "1433",
+            "name": "Brandon McManus",
+            "position": "K",
+            "team": "LAR",
+            "status": "Active",
+            "injury_status": null,
+            "age": 35,
+            "years_exp": 13,
+            "search_rank": 674,
+            "depth_chart_position": "K"
+          },
+          "destination": {
+            "roster_id": 14,
+            "owner_user_id": "1263695631499665408",
+            "username": "jeredoliver",
+            "team_name": "JSN Bourne"
+          }
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        14
+      ]
+    },
+    {
+      "transaction_id": "1423643620669407232",
+      "week": 9,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793785598488,
+      "faab": null,
+      "adds": [],
+      "drops": [
+        {
+          "player": {
+            "player_id": "8110",
+            "name": "Jake Ferguson",
+            "position": "TE",
+            "team": "DAL",
+            "status": "Active",
+            "injury_status": "Out",
+            "age": 27,
+            "years_exp": 4,
+            "search_rank": 97,
+            "depth_chart_position": "TE"
+          },
+          "source": {
+            "roster_id": 14,
+            "owner_user_id": "1263695631499665408",
+            "username": "jeredoliver",
+            "team_name": "JSN Bourne"
+          }
+        }
+      ],
+      "roster_ids": [
+        14
+      ]
+    },
+    {
+      "transaction_id": "1423622104544292864",
+      "week": 9,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793780468644,
+      "faab": null,
+      "adds": [
+        {
+          "player": {
+            "player_id": "SF",
+            "name": "San Francisco 49ers",
+            "position": "DEF",
+            "team": "SF",
+            "status": null,
+            "injury_status": null,
+            "age": null,
+            "years_exp": null,
+            "search_rank": null,
+            "depth_chart_position": null
+          },
+          "destination": {
+            "roster_id": 3,
+            "owner_user_id": "735686232146886656",
+            "username": "ONeal24",
+            "team_name": "Ashy Larry strikes again"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "player_id": "6806",
+            "name": "J.K. Dobbins",
+            "position": "RB",
+            "team": "DEN",
+            "status": "Active",
+            "injury_status": null,
+            "age": 27,
+            "years_exp": 6,
+            "search_rank": 68,
+            "depth_chart_position": "RB"
+          },
+          "source": {
+            "roster_id": 3,
+            "owner_user_id": "735686232146886656",
+            "username": "ONeal24",
+            "team_name": "Ashy Larry strikes again"
+          }
+        }
+      ],
+      "roster_ids": [
+        3
       ]
     }
   ]

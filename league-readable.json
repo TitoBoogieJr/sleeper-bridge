@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-04T03:08:16.423859+00:00",
+  "snapshot_generated_at": "2026-11-04T11:27:36.050479+00:00",
   "current_week": 9,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -17,7 +17,7 @@
         "wins": 7,
         "losses": 9,
         "ties": 0,
-        "faab_used": 58
+        "faab_used": 87
       },
       "starters": [
         {
@@ -131,30 +131,6 @@
       ],
       "bench": [
         {
-          "player_id": "11435",
-          "name": "Emanuel Wilson",
-          "position": "RB",
-          "team": "SEA",
-          "status": "Active",
-          "injury_status": null,
-          "age": 27,
-          "years_exp": 3,
-          "search_rank": 161,
-          "depth_chart_position": "RB"
-        },
-        {
-          "player_id": "12499",
-          "name": "Elic Ayomanor",
-          "position": "WR",
-          "team": "TEN",
-          "status": "Active",
-          "injury_status": null,
-          "age": 23,
-          "years_exp": 1,
-          "search_rank": 185,
-          "depth_chart_position": "LWR"
-        },
-        {
           "player_id": "4035",
           "name": "Alvin Kamara",
           "position": "RB",
@@ -164,6 +140,18 @@
           "age": 31,
           "years_exp": 9,
           "search_rank": 119,
+          "depth_chart_position": "RB"
+        },
+        {
+          "player_id": "6130",
+          "name": "Devin Singletary",
+          "position": "RB",
+          "team": "NYG",
+          "status": "Active",
+          "injury_status": null,
+          "age": 29,
+          "years_exp": 7,
+          "search_rank": 660,
           "depth_chart_position": "RB"
         },
         {
@@ -189,6 +177,18 @@
           "years_exp": 5,
           "search_rank": 230,
           "depth_chart_position": "TE"
+        },
+        {
+          "player_id": "8161",
+          "name": "Malik Willis",
+          "position": "QB",
+          "team": "MIA",
+          "status": "Active",
+          "injury_status": null,
+          "age": 27,
+          "years_exp": 4,
+          "search_rank": 122,
+          "depth_chart_position": "QB"
         }
       ],
       "reserve": [
@@ -465,15 +465,15 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "7526",
-          "name": "Jaylen Waddle",
+          "player_id": "8144",
+          "name": "Chris Olave",
           "position": "WR",
-          "team": "DEN",
+          "team": "NO",
           "status": "Active",
           "injury_status": null,
-          "age": 27,
-          "years_exp": 5,
-          "search_rank": 42,
+          "age": 26,
+          "years_exp": 4,
+          "search_rank": 29,
           "depth_chart_position": "RWR"
         },
         {
@@ -501,16 +501,16 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "6806",
-          "name": "J.K. Dobbins",
-          "position": "RB",
+          "player_id": "7526",
+          "name": "Jaylen Waddle",
+          "position": "WR",
           "team": "DEN",
           "status": "Active",
           "injury_status": null,
           "age": 27,
-          "years_exp": 6,
-          "search_rank": 68,
-          "depth_chart_position": "RB"
+          "years_exp": 5,
+          "search_rank": 42,
+          "depth_chart_position": "RWR"
         },
         {
           "player_id": "7839",
@@ -525,10 +525,10 @@
           "depth_chart_position": "K"
         },
         {
-          "player_id": "PIT",
-          "name": "Pittsburgh Steelers",
+          "player_id": "SF",
+          "name": "San Francisco 49ers",
           "position": "DEF",
-          "team": "PIT",
+          "team": "SF",
           "status": null,
           "injury_status": null,
           "age": null,
@@ -587,16 +587,16 @@
           "depth_chart_position": "RWR"
         },
         {
-          "player_id": "8144",
-          "name": "Chris Olave",
-          "position": "WR",
-          "team": "NO",
-          "status": "Active",
+          "player_id": "PIT",
+          "name": "Pittsburgh Steelers",
+          "position": "DEF",
+          "team": "PIT",
+          "status": null,
           "injury_status": null,
-          "age": 26,
-          "years_exp": 4,
-          "search_rank": 29,
-          "depth_chart_position": "RWR"
+          "age": null,
+          "years_exp": null,
+          "search_rank": null,
+          "depth_chart_position": null
         }
       ],
       "reserve": []
@@ -1030,7 +1030,7 @@
         "wins": 7,
         "losses": 9,
         "ties": 0,
-        "faab_used": 15
+        "faab_used": 30
       },
       "starters": [
         {
@@ -1070,6 +1070,18 @@
           "depth_chart_position": "RB"
         },
         {
+          "player_id": "8134",
+          "name": "Khalil Shakir",
+          "position": "WR",
+          "team": "BUF",
+          "status": "Active",
+          "injury_status": null,
+          "age": 26,
+          "years_exp": 4,
+          "search_rank": 120,
+          "depth_chart_position": "SWR"
+        },
+        {
           "player_id": "10213",
           "name": "Tre Tucker",
           "position": "WR",
@@ -1079,18 +1091,6 @@
           "age": 25,
           "years_exp": 3,
           "search_rank": 184,
-          "depth_chart_position": "LWR"
-        },
-        {
-          "player_id": "5846",
-          "name": "DK Metcalf",
-          "position": "WR",
-          "team": "PIT",
-          "status": "Active",
-          "injury_status": null,
-          "age": 28,
-          "years_exp": 7,
-          "search_rank": 73,
           "depth_chart_position": "LWR"
         },
         {
@@ -1106,16 +1106,16 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "3214",
-          "name": "Hunter Henry",
-          "position": "TE",
-          "team": "NE",
-          "status": "Active",
-          "injury_status": "Out",
-          "age": 31,
-          "years_exp": 10,
-          "search_rank": 92,
-          "depth_chart_position": "TE"
+          "player_id": "0",
+          "name": "Unknown (0)",
+          "position": null,
+          "team": null,
+          "status": null,
+          "injury_status": null,
+          "age": null,
+          "years_exp": null,
+          "search_rank": null,
+          "depth_chart_position": null
         },
         {
           "player_id": "11533",
@@ -1156,6 +1156,18 @@
           "depth_chart_position": "QB"
         },
         {
+          "player_id": "11647",
+          "name": "Kimani Vidal",
+          "position": "RB",
+          "team": "LAC",
+          "status": "Active",
+          "injury_status": null,
+          "age": 25,
+          "years_exp": 2,
+          "search_rank": 141,
+          "depth_chart_position": "RB"
+        },
+        {
           "player_id": "13150",
           "name": "Darius Cooper",
           "position": "WR",
@@ -1168,6 +1180,30 @@
           "depth_chart_position": "RWR"
         },
         {
+          "player_id": "3214",
+          "name": "Hunter Henry",
+          "position": "TE",
+          "team": "NE",
+          "status": "Active",
+          "injury_status": "Out",
+          "age": 31,
+          "years_exp": 10,
+          "search_rank": 92,
+          "depth_chart_position": "TE"
+        },
+        {
+          "player_id": "5846",
+          "name": "DK Metcalf",
+          "position": "WR",
+          "team": "PIT",
+          "status": "Active",
+          "injury_status": null,
+          "age": 28,
+          "years_exp": 7,
+          "search_rank": 73,
+          "depth_chart_position": "LWR"
+        },
+        {
           "player_id": "7525",
           "name": "DeVonta Smith",
           "position": "WR",
@@ -1178,18 +1214,6 @@
           "years_exp": 5,
           "search_rank": 34,
           "depth_chart_position": "LWR"
-        },
-        {
-          "player_id": "8134",
-          "name": "Khalil Shakir",
-          "position": "WR",
-          "team": "BUF",
-          "status": "Active",
-          "injury_status": null,
-          "age": 26,
-          "years_exp": 4,
-          "search_rank": 120,
-          "depth_chart_position": "SWR"
         }
       ],
       "reserve": [
@@ -1821,7 +1845,7 @@
         "wins": 9,
         "losses": 7,
         "ties": 0,
-        "faab_used": 63
+        "faab_used": 77
       },
       "starters": [
         {
@@ -1935,6 +1959,18 @@
       ],
       "bench": [
         {
+          "player_id": "11625",
+          "name": "Adonai Mitchell",
+          "position": "WR",
+          "team": "NYJ",
+          "status": "Active",
+          "injury_status": null,
+          "age": 24,
+          "years_exp": 2,
+          "search_rank": 162,
+          "depth_chart_position": "RWR"
+        },
+        {
           "player_id": "13274",
           "name": "Germie Bernard",
           "position": "WR",
@@ -1945,6 +1981,18 @@
           "years_exp": 0,
           "search_rank": 194,
           "depth_chart_position": "RWR"
+        },
+        {
+          "player_id": "13337",
+          "name": "Emmett Johnson",
+          "position": "RB",
+          "team": "KC",
+          "status": "Active",
+          "injury_status": null,
+          "age": 23,
+          "years_exp": 0,
+          "search_rank": 113,
+          "depth_chart_position": "RB"
         },
         {
           "player_id": "13414",
@@ -2641,16 +2689,16 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "13276",
-          "name": "Omar Cooper Jr.",
+          "player_id": "9488",
+          "name": "Jaxon Smith-Njigba",
           "position": "WR",
-          "team": "NYJ",
+          "team": "SEA",
           "status": "Active",
           "injury_status": null,
-          "age": 22,
-          "years_exp": 0,
-          "search_rank": 151,
-          "depth_chart_position": "SWR"
+          "age": 24,
+          "years_exp": 3,
+          "search_rank": 7,
+          "depth_chart_position": "LWR"
         },
         {
           "player_id": "12519",
@@ -2677,27 +2725,27 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "9488",
-          "name": "Jaxon Smith-Njigba",
-          "position": "WR",
-          "team": "SEA",
-          "status": "Active",
-          "injury_status": null,
-          "age": 24,
-          "years_exp": 3,
-          "search_rank": 7,
-          "depth_chart_position": "LWR"
-        },
-        {
-          "player_id": "12711",
-          "name": "Tyler Loop",
-          "position": "K",
-          "team": "BAL",
+          "player_id": "12474",
+          "name": "Woody Marks",
+          "position": "RB",
+          "team": "HOU",
           "status": "Active",
           "injury_status": "Questionable",
           "age": 25,
           "years_exp": 1,
-          "search_rank": 150,
+          "search_rank": 105,
+          "depth_chart_position": "RB"
+        },
+        {
+          "player_id": "1433",
+          "name": "Brandon McManus",
+          "position": "K",
+          "team": "LAR",
+          "status": "Active",
+          "injury_status": null,
+          "age": 35,
+          "years_exp": 13,
+          "search_rank": 674,
           "depth_chart_position": "K"
         },
         {
@@ -2715,16 +2763,28 @@
       ],
       "bench": [
         {
-          "player_id": "12474",
-          "name": "Woody Marks",
+          "player_id": "12534",
+          "name": "Kyle Monangai",
           "position": "RB",
-          "team": "HOU",
+          "team": "CHI",
           "status": "Active",
-          "injury_status": "Questionable",
-          "age": 25,
+          "injury_status": "Out",
+          "age": 24,
           "years_exp": 1,
-          "search_rank": 105,
+          "search_rank": 61,
           "depth_chart_position": "RB"
+        },
+        {
+          "player_id": "13276",
+          "name": "Omar Cooper Jr.",
+          "position": "WR",
+          "team": "NYJ",
+          "status": "Active",
+          "injury_status": null,
+          "age": 22,
+          "years_exp": 0,
+          "search_rank": 151,
+          "depth_chart_position": "SWR"
         },
         {
           "player_id": "13293",
@@ -2761,18 +2821,6 @@
           "years_exp": 7,
           "search_rank": 88,
           "depth_chart_position": "QB"
-        },
-        {
-          "player_id": "8110",
-          "name": "Jake Ferguson",
-          "position": "TE",
-          "team": "DAL",
-          "status": "Active",
-          "injury_status": "Out",
-          "age": 27,
-          "years_exp": 4,
-          "search_rank": 97,
-          "depth_chart_position": "TE"
         }
       ],
       "reserve": [
@@ -2789,16 +2837,16 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "12534",
-          "name": "Kyle Monangai",
-          "position": "RB",
-          "team": "CHI",
+          "player_id": "12711",
+          "name": "Tyler Loop",
+          "position": "K",
+          "team": "BAL",
           "status": "Active",
-          "injury_status": "Out",
-          "age": 24,
+          "injury_status": "Questionable",
+          "age": 25,
           "years_exp": 1,
-          "search_rank": 61,
-          "depth_chart_position": "RB"
+          "search_rank": 150,
+          "depth_chart_position": "K"
         },
         {
           "player_id": "9225",
