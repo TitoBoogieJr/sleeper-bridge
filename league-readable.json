@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-04T11:27:36.050479+00:00",
+  "snapshot_generated_at": "2026-11-04T18:49:34.693836+00:00",
   "current_week": 9,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -74,7 +74,7 @@
           "position": "WR",
           "team": "SF",
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "age": 30,
           "years_exp": 7,
           "search_rank": 130,
@@ -98,7 +98,7 @@
           "position": "WR",
           "team": "SF",
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "age": 33,
           "years_exp": 12,
           "search_rank": 60,
@@ -187,7 +187,7 @@
           "injury_status": null,
           "age": 27,
           "years_exp": 4,
-          "search_rank": 122,
+          "search_rank": 121,
           "depth_chart_position": "QB"
         }
       ],
@@ -198,7 +198,7 @@
           "position": "WR",
           "team": "TB",
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "age": 24,
           "years_exp": 1,
           "search_rank": 39,
@@ -210,7 +210,7 @@
           "position": "RB",
           "team": "ARI",
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "age": 25,
           "years_exp": 4,
           "search_rank": 669,
@@ -263,7 +263,7 @@
           "injury_status": null,
           "age": 31,
           "years_exp": 9,
-          "search_rank": 458,
+          "search_rank": 459,
           "depth_chart_position": "RB"
         },
         {
@@ -497,7 +497,7 @@
           "injury_status": null,
           "age": 22,
           "years_exp": 1,
-          "search_rank": 36,
+          "search_rank": 35,
           "depth_chart_position": "TE"
         },
         {
@@ -791,7 +791,7 @@
           "position": "WR",
           "team": "NE",
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "age": 29,
           "years_exp": 7,
           "search_rank": 17,
@@ -820,7 +820,7 @@
           "injury_status": null,
           "age": 38,
           "years_exp": 14,
-          "search_rank": 262,
+          "search_rank": 263,
           "depth_chart_position": "QB"
         },
         {
@@ -1016,7 +1016,7 @@
           "injury_status": "IR",
           "age": 28,
           "years_exp": 6,
-          "search_rank": 27,
+          "search_rank": 28,
           "depth_chart_position": "QB"
         }
       ]
@@ -1058,15 +1058,15 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "12048",
-          "name": "George Holani",
+          "player_id": "11647",
+          "name": "Kimani Vidal",
           "position": "RB",
-          "team": "SEA",
+          "team": "LAC",
           "status": "Active",
           "injury_status": null,
-          "age": 26,
+          "age": 25,
           "years_exp": 2,
-          "search_rank": 457,
+          "search_rank": 141,
           "depth_chart_position": "RB"
         },
         {
@@ -1106,16 +1106,16 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "0",
-          "name": "Unknown (0)",
-          "position": null,
-          "team": null,
-          "status": null,
+          "player_id": "13150",
+          "name": "Darius Cooper",
+          "position": "WR",
+          "team": "PHI",
+          "status": "Active",
           "injury_status": null,
-          "age": null,
-          "years_exp": null,
-          "search_rank": null,
-          "depth_chart_position": null
+          "age": 24,
+          "years_exp": 1,
+          "search_rank": 658,
+          "depth_chart_position": "RWR"
         },
         {
           "player_id": "11533",
@@ -1156,28 +1156,16 @@
           "depth_chart_position": "QB"
         },
         {
-          "player_id": "11647",
-          "name": "Kimani Vidal",
+          "player_id": "12048",
+          "name": "George Holani",
           "position": "RB",
-          "team": "LAC",
+          "team": "SEA",
           "status": "Active",
           "injury_status": null,
-          "age": 25,
+          "age": 26,
           "years_exp": 2,
-          "search_rank": 141,
+          "search_rank": 457,
           "depth_chart_position": "RB"
-        },
-        {
-          "player_id": "13150",
-          "name": "Darius Cooper",
-          "position": "WR",
-          "team": "PHI",
-          "status": "Active",
-          "injury_status": null,
-          "age": 24,
-          "years_exp": 1,
-          "search_rank": 658,
-          "depth_chart_position": "RWR"
         },
         {
           "player_id": "3214",
@@ -1185,7 +1173,7 @@
           "position": "TE",
           "team": "NE",
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "age": 31,
           "years_exp": 10,
           "search_rank": 92,
@@ -1209,10 +1197,10 @@
           "position": "WR",
           "team": "PHI",
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "age": 27,
           "years_exp": 5,
-          "search_rank": 34,
+          "search_rank": 33,
           "depth_chart_position": "LWR"
         }
       ],
@@ -1297,7 +1285,7 @@
           "position": "RB",
           "team": "BUF",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "age": 27,
           "years_exp": 4,
           "search_rank": 5,
@@ -1324,43 +1312,43 @@
           "injury_status": null,
           "age": 27,
           "years_exp": 6,
-          "search_rank": 12,
+          "search_rank": 11,
           "depth_chart_position": "LWR"
         },
         {
-          "player_id": "9482",
-          "name": "Michael Mayer",
+          "player_id": "8131",
+          "name": "Isaiah Likely",
           "position": "TE",
-          "team": "LV",
+          "team": "NYG",
           "status": "Active",
           "injury_status": null,
-          "age": 25,
-          "years_exp": 3,
-          "search_rank": 423,
+          "age": 26,
+          "years_exp": 4,
+          "search_rank": 106,
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "12512",
-          "name": "Quinshon Judkins",
-          "position": "RB",
-          "team": "CLE",
+          "player_id": "8112",
+          "name": "Drake London",
+          "position": "WR",
+          "team": "ATL",
           "status": "Active",
           "injury_status": null,
-          "age": 23,
-          "years_exp": 1,
-          "search_rank": 45,
-          "depth_chart_position": "RB"
+          "age": 25,
+          "years_exp": 4,
+          "search_rank": 19,
+          "depth_chart_position": "LWR"
         },
         {
-          "player_id": "1945",
-          "name": "Chris Boswell",
+          "player_id": "4227",
+          "name": "Harrison Butker",
           "position": "K",
-          "team": "PIT",
+          "team": "KC",
           "status": "Active",
           "injury_status": null,
-          "age": 35,
-          "years_exp": 12,
-          "search_rank": 151,
+          "age": 31,
+          "years_exp": 9,
+          "search_rank": 155,
           "depth_chart_position": "K"
         },
         {
@@ -1377,6 +1365,18 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "12512",
+          "name": "Quinshon Judkins",
+          "position": "RB",
+          "team": "CLE",
+          "status": "Active",
+          "injury_status": null,
+          "age": 23,
+          "years_exp": 1,
+          "search_rank": 45,
+          "depth_chart_position": "RB"
+        },
         {
           "player_id": "13296",
           "name": "Caleb Douglas",
@@ -1402,30 +1402,6 @@
           "depth_chart_position": "SWR"
         },
         {
-          "player_id": "8112",
-          "name": "Drake London",
-          "position": "WR",
-          "team": "ATL",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "age": 25,
-          "years_exp": 4,
-          "search_rank": 19,
-          "depth_chart_position": "LWR"
-        },
-        {
-          "player_id": "8131",
-          "name": "Isaiah Likely",
-          "position": "TE",
-          "team": "NYG",
-          "status": "Active",
-          "injury_status": null,
-          "age": 26,
-          "years_exp": 4,
-          "search_rank": 106,
-          "depth_chart_position": "TE"
-        },
-        {
           "player_id": "9228",
           "name": "Bryce Young",
           "position": "QB",
@@ -1436,6 +1412,18 @@
           "years_exp": 3,
           "search_rank": 134,
           "depth_chart_position": "QB"
+        },
+        {
+          "player_id": "9482",
+          "name": "Michael Mayer",
+          "position": "TE",
+          "team": "LV",
+          "status": "Active",
+          "injury_status": null,
+          "age": 25,
+          "years_exp": 3,
+          "search_rank": 423,
+          "depth_chart_position": "TE"
         }
       ],
       "reserve": [
@@ -1498,7 +1486,7 @@
           "injury_status": null,
           "age": 22,
           "years_exp": 1,
-          "search_rank": 449,
+          "search_rank": 450,
           "depth_chart_position": "RB"
         },
         {
@@ -1519,7 +1507,7 @@
           "position": "WR",
           "team": "NYJ",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "age": 26,
           "years_exp": 4,
           "search_rank": 38,
@@ -1632,7 +1620,7 @@
           "injury_status": null,
           "age": 28,
           "years_exp": 6,
-          "search_rank": 67,
+          "search_rank": 66,
           "depth_chart_position": "QB"
         }
       ],
@@ -1684,7 +1672,7 @@
           "injury_status": null,
           "age": 27,
           "years_exp": 6,
-          "search_rank": 44,
+          "search_rank": 46,
           "depth_chart_position": "RB"
         },
         {
@@ -1708,7 +1696,7 @@
           "injury_status": null,
           "age": 23,
           "years_exp": 2,
-          "search_rank": 26,
+          "search_rank": 28,
           "depth_chart_position": "LWR"
         },
         {
@@ -1748,22 +1736,22 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "650",
-          "name": "Nick Folk",
+          "player_id": "3678",
+          "name": "Wil Lutz",
           "position": "K",
-          "team": "ATL",
+          "team": "DEN",
           "status": "Active",
           "injury_status": null,
-          "age": 41,
-          "years_exp": 19,
-          "search_rank": 249,
+          "age": 32,
+          "years_exp": 10,
+          "search_rank": 177,
           "depth_chart_position": "K"
         },
         {
-          "player_id": "WAS",
-          "name": "Washington Commanders",
+          "player_id": "CHI",
+          "name": "Chicago Bears",
           "position": "DEF",
-          "team": "WAS",
+          "team": "CHI",
           "status": null,
           "injury_status": null,
           "age": null,
@@ -2038,7 +2026,7 @@
           "position": "RB",
           "team": "NYJ",
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "age": 25,
           "years_exp": 4,
           "search_rank": 27,
@@ -2083,15 +2071,15 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "7567",
-          "name": "Kenny Gainwell",
+          "player_id": "12469",
+          "name": "Dylan Sampson",
           "position": "RB",
-          "team": "TB",
+          "team": "CLE",
           "status": "Active",
           "injury_status": null,
-          "age": 27,
-          "years_exp": 5,
-          "search_rank": 86,
+          "age": 22,
+          "years_exp": 1,
+          "search_rank": 129,
           "depth_chart_position": "RB"
         },
         {
@@ -2155,10 +2143,10 @@
           "depth_chart_position": "K"
         },
         {
-          "player_id": "NYJ",
-          "name": "New York Jets",
+          "player_id": "DET",
+          "name": "Detroit Lions",
           "position": "DEF",
-          "team": "NYJ",
+          "team": "DET",
           "status": null,
           "injury_status": null,
           "age": null,
@@ -2169,24 +2157,12 @@
       ],
       "bench": [
         {
-          "player_id": "12469",
-          "name": "Dylan Sampson",
-          "position": "RB",
-          "team": "CLE",
-          "status": "Active",
-          "injury_status": null,
-          "age": 22,
-          "years_exp": 1,
-          "search_rank": 129,
-          "depth_chart_position": "RB"
-        },
-        {
           "player_id": "13287",
           "name": "Jeremiyah Love",
           "position": "RB",
           "team": "ARI",
-          "status": "Active",
-          "injury_status": "Out",
+          "status": "Inactive",
+          "injury_status": "IR",
           "age": 21,
           "years_exp": 0,
           "search_rank": 15,
@@ -2198,10 +2174,10 @@
           "position": "QB",
           "team": "CLE",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "age": 31,
           "years_exp": 9,
-          "search_rank": 290,
+          "search_rank": 291,
           "depth_chart_position": "QB"
         },
         {
@@ -2227,6 +2203,18 @@
           "years_exp": 7,
           "search_rank": 77,
           "depth_chart_position": "RWR"
+        },
+        {
+          "player_id": "7567",
+          "name": "Kenny Gainwell",
+          "position": "RB",
+          "team": "TB",
+          "status": "Active",
+          "injury_status": null,
+          "age": 27,
+          "years_exp": 5,
+          "search_rank": 86,
+          "depth_chart_position": "RB"
         }
       ],
       "reserve": [
@@ -2277,7 +2265,7 @@
           "injury_status": null,
           "age": 26,
           "years_exp": 5,
-          "search_rank": 31,
+          "search_rank": 30,
           "depth_chart_position": "RB"
         },
         {
@@ -2310,7 +2298,7 @@
           "position": "WR",
           "team": "DET",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "age": 27,
           "years_exp": 5,
           "search_rank": 7,
@@ -2349,7 +2337,7 @@
           "injury_status": null,
           "age": 23,
           "years_exp": 2,
-          "search_rank": 133,
+          "search_rank": 131,
           "depth_chart_position": "K"
         },
         {
@@ -2422,10 +2410,10 @@
           "position": "RB",
           "team": "HOU",
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "age": 29,
           "years_exp": 7,
-          "search_rank": 43,
+          "search_rank": 41,
           "depth_chart_position": "RB"
         },
         {
@@ -2570,7 +2558,7 @@
           "position": "RB",
           "team": "NE",
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "age": 24,
           "years_exp": 1,
           "search_rank": 39,
@@ -2697,7 +2685,7 @@
           "injury_status": null,
           "age": 24,
           "years_exp": 3,
-          "search_rank": 7,
+          "search_rank": 5,
           "depth_chart_position": "LWR"
         },
         {
@@ -2730,7 +2718,7 @@
           "position": "RB",
           "team": "HOU",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "age": 25,
           "years_exp": 1,
           "search_rank": 105,
@@ -2768,7 +2756,7 @@
           "position": "RB",
           "team": "CHI",
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "age": 24,
           "years_exp": 1,
           "search_rank": 61,
@@ -2841,8 +2829,8 @@
           "name": "Tyler Loop",
           "position": "K",
           "team": "BAL",
-          "status": "Active",
-          "injury_status": "Questionable",
+          "status": "Inactive",
+          "injury_status": "IR",
           "age": 25,
           "years_exp": 1,
           "search_rank": 150,
