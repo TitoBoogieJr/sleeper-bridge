@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-03T23:06:01.390217+00:00",
+  "snapshot_generated_at": "2026-11-04T03:08:16.423859+00:00",
   "players": [
     {
       "player_id": "9509",
@@ -1139,7 +1139,7 @@
       "owner_user_id": "1263686208978944001",
       "username": "kevkazoo",
       "team_name": "Nacua Matata",
-      "location": "bench",
+      "location": "starter",
       "draft": {
         "draft_id": "1313649397531148288",
         "season": "2026",
@@ -2839,7 +2839,7 @@
       "owner_user_id": "1263686208978944001",
       "username": "kevkazoo",
       "team_name": "Nacua Matata",
-      "location": "starter",
+      "location": "bench",
       "draft": {
         "draft_id": "1313649397531148288",
         "season": "2026",

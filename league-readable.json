@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-03T23:06:01.390217+00:00",
+  "snapshot_generated_at": "2026-11-04T03:08:16.423859+00:00",
   "current_week": 9,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -626,15 +626,15 @@
           "depth_chart_position": "QB"
         },
         {
-          "player_id": "8408",
-          "name": "Jordan Mason",
+          "player_id": "13345",
+          "name": "Jonah Coleman",
           "position": "RB",
-          "team": "MIN",
+          "team": "DEN",
           "status": "Active",
           "injury_status": null,
-          "age": 27,
-          "years_exp": 4,
-          "search_rank": 91,
+          "age": 23,
+          "years_exp": 0,
+          "search_rank": 118,
           "depth_chart_position": "RB"
         },
         {
@@ -686,15 +686,15 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "13345",
-          "name": "Jonah Coleman",
+          "player_id": "8408",
+          "name": "Jordan Mason",
           "position": "RB",
-          "team": "DEN",
+          "team": "MIN",
           "status": "Active",
           "injury_status": null,
-          "age": 23,
-          "years_exp": 0,
-          "search_rank": 118,
+          "age": 27,
+          "years_exp": 4,
+          "search_rank": 91,
           "depth_chart_position": "RB"
         },
         {
@@ -1676,15 +1676,15 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "11620",
-          "name": "Rome Odunze",
+          "player_id": "11632",
+          "name": "Malik Nabers",
           "position": "WR",
-          "team": "CHI",
+          "team": "NYG",
           "status": "Active",
           "injury_status": null,
-          "age": 24,
+          "age": 23,
           "years_exp": 2,
-          "search_rank": 65,
+          "search_rank": 26,
           "depth_chart_position": "LWR"
         },
         {
@@ -1750,15 +1750,15 @@
       ],
       "bench": [
         {
-          "player_id": "11632",
-          "name": "Malik Nabers",
+          "player_id": "11620",
+          "name": "Rome Odunze",
           "position": "WR",
-          "team": "NYG",
+          "team": "CHI",
           "status": "Active",
           "injury_status": null,
-          "age": 23,
+          "age": 24,
           "years_exp": 2,
-          "search_rank": 26,
+          "search_rank": 65,
           "depth_chart_position": "LWR"
         },
         {
