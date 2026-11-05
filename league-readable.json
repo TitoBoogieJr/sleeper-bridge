@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-05T07:14:51.234449+00:00",
+  "snapshot_generated_at": "2026-11-05T15:43:52.416127+00:00",
   "current_week": 9,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -2157,18 +2157,6 @@
       ],
       "bench": [
         {
-          "player_id": "13287",
-          "name": "Jeremiyah Love",
-          "position": "RB",
-          "team": "ARI",
-          "status": "Inactive",
-          "injury_status": "IR",
-          "age": 21,
-          "years_exp": 0,
-          "search_rank": 15,
-          "depth_chart_position": "RB"
-        },
-        {
           "player_id": "4017",
           "name": "Deshaun Watson",
           "position": "QB",
@@ -2215,9 +2203,33 @@
           "years_exp": 5,
           "search_rank": 86,
           "depth_chart_position": "RB"
+        },
+        {
+          "player_id": "9757",
+          "name": "Kendre Miller",
+          "position": "RB",
+          "team": "NO",
+          "status": "Active",
+          "injury_status": null,
+          "age": 24,
+          "years_exp": 3,
+          "search_rank": 180,
+          "depth_chart_position": "RB"
         }
       ],
       "reserve": [
+        {
+          "player_id": "13287",
+          "name": "Jeremiyah Love",
+          "position": "RB",
+          "team": "ARI",
+          "status": "Inactive",
+          "injury_status": "IR",
+          "age": 21,
+          "years_exp": 0,
+          "search_rank": 15,
+          "depth_chart_position": "RB"
+        },
         {
           "player_id": "3286",
           "name": "Demarcus Robinson",
