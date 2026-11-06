@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-06T17:17:36.729391+00:00",
+  "snapshot_generated_at": "2026-11-06T22:17:20.641233+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -1316,29 +1316,6 @@
           }
         },
         {
-          "player_id": "5967",
-          "name": "Tony Pollard",
-          "position": "RB",
-          "nfl_team": "TEN",
-          "location": "bench",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 4,
-            "pick_no": 51,
-            "original_roster_id": 9,
-            "original_owner_user_id": "1263686208978944001",
-            "original_username": "kevkazoo",
-            "original_team_name": "Nacua Matata",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 4,
-            "reason": "Drafted in Round 4"
-          }
-        },
-        {
           "player_id": "11620",
           "name": "Rome Odunze",
           "position": "WR",
@@ -1359,6 +1336,29 @@
             "eligible_next_season": true,
             "cost_round": 5,
             "reason": "Drafted in Round 5"
+          }
+        },
+        {
+          "player_id": "5967",
+          "name": "Tony Pollard",
+          "position": "RB",
+          "nfl_team": "TEN",
+          "location": "bench",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 4,
+            "pick_no": 51,
+            "original_roster_id": 9,
+            "original_owner_user_id": "1263686208978944001",
+            "original_username": "kevkazoo",
+            "original_team_name": "Nacua Matata",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 4,
+            "reason": "Drafted in Round 4"
           }
         },
         {
@@ -2011,29 +2011,6 @@
           }
         },
         {
-          "player_id": "8131",
-          "name": "Isaiah Likely",
-          "position": "TE",
-          "nfl_team": "NYG",
-          "location": "starter",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 9,
-            "pick_no": 121,
-            "original_roster_id": 7,
-            "original_owner_user_id": "713449654771056640",
-            "original_username": "Tonay",
-            "original_team_name": "Relaxed Slims",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 9,
-            "reason": "Drafted in Round 9"
-          }
-        },
-        {
           "player_id": "2449",
           "name": "Stefon Diggs",
           "position": "WR",
@@ -2054,6 +2031,29 @@
             "eligible_next_season": true,
             "cost_round": 8,
             "reason": "Drafted in Round 8"
+          }
+        },
+        {
+          "player_id": "8131",
+          "name": "Isaiah Likely",
+          "position": "TE",
+          "nfl_team": "NYG",
+          "location": "starter",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 9,
+            "pick_no": 121,
+            "original_roster_id": 7,
+            "original_owner_user_id": "713449654771056640",
+            "original_username": "Tonay",
+            "original_team_name": "Relaxed Slims",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 9,
+            "reason": "Drafted in Round 9"
           }
         },
         {
@@ -2288,29 +2288,6 @@
           }
         },
         {
-          "player_id": "11583",
-          "name": "Jonathon Brooks",
-          "position": "RB",
-          "nfl_team": "CAR",
-          "location": "reserve",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 6,
-            "pick_no": 74,
-            "original_roster_id": 14,
-            "original_owner_user_id": "1263695631499665408",
-            "original_username": "jeredoliver",
-            "original_team_name": "JSN Bourne",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 6,
-            "reason": "Drafted in Round 6"
-          }
-        },
-        {
           "player_id": "5849",
           "name": "Kyler Murray",
           "position": "QB",
@@ -2331,6 +2308,29 @@
             "eligible_next_season": true,
             "cost_round": 12,
             "reason": "Drafted in Round 12"
+          }
+        },
+        {
+          "player_id": "11583",
+          "name": "Jonathon Brooks",
+          "position": "RB",
+          "nfl_team": "CAR",
+          "location": "reserve",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 6,
+            "pick_no": 74,
+            "original_roster_id": 14,
+            "original_owner_user_id": "1263695631499665408",
+            "original_username": "jeredoliver",
+            "original_team_name": "JSN Bourne",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 6,
+            "reason": "Drafted in Round 6"
           }
         },
         {
@@ -2380,29 +2380,6 @@
           }
         },
         {
-          "player_id": "13293",
-          "name": "Ja'Kobi Lane",
-          "position": "WR",
-          "nfl_team": "BAL",
-          "location": "bench",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 10,
-            "pick_no": 139,
-            "original_roster_id": 10,
-            "original_owner_user_id": "1263230668070977536",
-            "original_username": "lionelesteban",
-            "original_team_name": "Kittle El Cero Miedo",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 10,
-            "reason": "Drafted in Round 10"
-          }
-        },
-        {
           "player_id": "13276",
           "name": "Omar Cooper Jr.",
           "position": "WR",
@@ -2426,6 +2403,29 @@
             "eligible_next_season": true,
             "cost_round": 14,
             "reason": "Undrafted player; keeper cost is Round 14"
+          }
+        },
+        {
+          "player_id": "13311",
+          "name": "Chris Bell",
+          "position": "WR",
+          "nfl_team": "MIA",
+          "location": "bench",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 14,
+            "pick_no": 196,
+            "original_roster_id": 13,
+            "original_owner_user_id": "1263686571970793472",
+            "original_username": "billyfusco",
+            "original_team_name": "Darkmeat Duck",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 14,
+            "reason": "Drafted in Round 14"
           }
         },
         {
