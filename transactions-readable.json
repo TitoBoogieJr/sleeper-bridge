@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-05T21:52:41.495440+00:00",
+  "snapshot_generated_at": "2026-11-06T02:08:34.709688+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -9720,6 +9720,129 @@
       ],
       "roster_ids": [
         14
+      ]
+    },
+    {
+      "transaction_id": "1424205918521802752",
+      "week": 9,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793919660743,
+      "faab": null,
+      "adds": [
+        {
+          "player": {
+            "player_id": "8119",
+            "name": "Jahan Dotson",
+            "position": "WR",
+            "team": "ATL",
+            "status": "Active",
+            "injury_status": null,
+            "age": 26,
+            "years_exp": 4,
+            "search_rank": 508,
+            "depth_chart_position": "RWR"
+          },
+          "destination": {
+            "roster_id": 12,
+            "owner_user_id": "1263696795716825088",
+            "username": "halfpint83",
+            "team_name": "Little Miss Touchdown"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "player_id": "11631",
+            "name": "Brian Thomas Jr.",
+            "position": "WR",
+            "team": "JAX",
+            "status": "Active",
+            "injury_status": null,
+            "age": 24,
+            "years_exp": 2,
+            "search_rank": 74,
+            "depth_chart_position": "LWR"
+          },
+          "source": {
+            "roster_id": 12,
+            "owner_user_id": "1263696795716825088",
+            "username": "halfpint83",
+            "team_name": "Little Miss Touchdown"
+          }
+        }
+      ],
+      "roster_ids": [
+        12
+      ]
+    },
+    {
+      "transaction_id": "1424205733506953216",
+      "week": 9,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793919616633,
+      "faab": null,
+      "adds": [
+        {
+          "player": {
+            "player_id": "8172",
+            "name": "Greg Dulcich",
+            "position": "TE",
+            "team": "MIA",
+            "status": "Active",
+            "injury_status": null,
+            "age": 26,
+            "years_exp": 4,
+            "search_rank": 230,
+            "depth_chart_position": "TE"
+          },
+          "destination": {
+            "roster_id": 12,
+            "owner_user_id": "1263696795716825088",
+            "username": "halfpint83",
+            "team_name": "Little Miss Touchdown"
+          }
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        12
+      ]
+    },
+    {
+      "transaction_id": "1424205480804306944",
+      "week": 9,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793919556383,
+      "faab": null,
+      "adds": [
+        {
+          "player": {
+            "player_id": "6806",
+            "name": "J.K. Dobbins",
+            "position": "RB",
+            "team": "DEN",
+            "status": "Active",
+            "injury_status": null,
+            "age": 27,
+            "years_exp": 6,
+            "search_rank": 68,
+            "depth_chart_position": "RB"
+          },
+          "destination": {
+            "roster_id": 12,
+            "owner_user_id": "1263696795716825088",
+            "username": "halfpint83",
+            "team_name": "Little Miss Touchdown"
+          }
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        12
       ]
     },
     {

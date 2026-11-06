@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-05T21:52:41.495440+00:00",
+  "snapshot_generated_at": "2026-11-06T02:08:34.709688+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -2839,7 +2839,7 @@
           "name": "Jaylen Warren",
           "position": "RB",
           "nfl_team": "PIT",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -2881,26 +2881,26 @@
           }
         },
         {
-          "player_id": "11631",
-          "name": "Brian Thomas Jr.",
-          "position": "WR",
-          "nfl_team": "JAX",
-          "location": "bench",
+          "player_id": "6806",
+          "name": "J.K. Dobbins",
+          "position": "RB",
+          "nfl_team": "DEN",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
-            "round": 5,
-            "pick_no": 64,
-            "original_roster_id": 12,
-            "original_owner_user_id": "1263696795716825088",
-            "original_username": "halfpint83",
-            "original_team_name": "Little Miss Touchdown",
+            "round": 6,
+            "pick_no": 73,
+            "original_roster_id": 3,
+            "original_owner_user_id": "735686232146886656",
+            "original_username": "ONeal24",
+            "original_team_name": "Ashy Larry strikes again",
             "is_keeper": false
           },
           "keeper": {
             "eligible_next_season": true,
-            "cost_round": 5,
-            "reason": "Drafted in Round 5"
+            "cost_round": 6,
+            "reason": "Drafted in Round 6"
           }
         },
         {
@@ -2908,7 +2908,7 @@
           "name": "Sam Darnold",
           "position": "QB",
           "nfl_team": "SEA",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -2954,7 +2954,7 @@
           "name": "C.J. Stroud",
           "position": "QB",
           "nfl_team": "HOU",
-          "location": "bench",
+          "location": "starter",
           "draft": null,
           "keeper": {
             "eligible_next_season": true,
@@ -3029,6 +3029,32 @@
             "eligible_next_season": true,
             "cost_round": 14,
             "reason": "Drafted in Round 14"
+          }
+        },
+        {
+          "player_id": "8172",
+          "name": "Greg Dulcich",
+          "position": "TE",
+          "nfl_team": "MIA",
+          "location": "bench",
+          "draft": null,
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 14,
+            "reason": "Undrafted player; keeper cost is Round 14"
+          }
+        },
+        {
+          "player_id": "8119",
+          "name": "Jahan Dotson",
+          "position": "WR",
+          "nfl_team": "ATL",
+          "location": "bench",
+          "draft": null,
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 14,
+            "reason": "Undrafted player; keeper cost is Round 14"
           }
         },
         {
