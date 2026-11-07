@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-07T15:51:26.540428+00:00",
+  "snapshot_generated_at": "2026-11-07T20:04:58.640653+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -189,7 +189,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 3,
-            "search_rank": 132,
+            "search_rank": 131,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -736,7 +736,7 @@
             "injury_status": "Questionable",
             "age": 29,
             "years_exp": 7,
-            "search_rank": 87,
+            "search_rank": 88,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -923,7 +923,7 @@
             "injury_status": "Questionable",
             "age": 29,
             "years_exp": 7,
-            "search_rank": 87,
+            "search_rank": 88,
             "depth_chart_position": "QB"
           },
           "source": {
@@ -990,7 +990,7 @@
             "injury_status": null,
             "age": 23,
             "years_exp": 0,
-            "search_rank": 199,
+            "search_rank": 201,
             "depth_chart_position": "RWR"
           },
           "destination": {
@@ -1058,7 +1058,7 @@
             "injury_status": null,
             "age": 36,
             "years_exp": 13,
-            "search_rank": 211,
+            "search_rank": 210,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -1126,7 +1126,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 3,
-            "search_rank": 132,
+            "search_rank": 131,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -1160,7 +1160,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 3,
-            "search_rank": 132,
+            "search_rank": 131,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -1191,7 +1191,7 @@
             "position": "QB",
             "team": "SEA",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "age": 29,
             "years_exp": 7,
             "search_rank": 691,
@@ -1262,7 +1262,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 3,
-            "search_rank": 132,
+            "search_rank": 131,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -1293,7 +1293,7 @@
             "position": "QB",
             "team": "SEA",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "age": 29,
             "years_exp": 7,
             "search_rank": 691,
@@ -1542,7 +1542,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 3,
-            "search_rank": 132,
+            "search_rank": 131,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -1576,7 +1576,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 3,
-            "search_rank": 132,
+            "search_rank": 131,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -1734,7 +1734,7 @@
             "injury_status": "Questionable",
             "age": 29,
             "years_exp": 7,
-            "search_rank": 87,
+            "search_rank": 88,
             "depth_chart_position": "QB"
           },
           "source": {
@@ -1823,7 +1823,7 @@
             "injury_status": null,
             "age": 23,
             "years_exp": 0,
-            "search_rank": 181,
+            "search_rank": 179,
             "depth_chart_position": "SWR"
           },
           "source": {
@@ -2123,7 +2123,7 @@
             "injury_status": null,
             "age": 22,
             "years_exp": 1,
-            "search_rank": 450,
+            "search_rank": 449,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -2145,7 +2145,7 @@
             "injury_status": null,
             "age": 23,
             "years_exp": 0,
-            "search_rank": 199,
+            "search_rank": 197,
             "depth_chart_position": "RWR"
           },
           "source": {
@@ -2212,7 +2212,7 @@
             "injury_status": null,
             "age": 22,
             "years_exp": 1,
-            "search_rank": 450,
+            "search_rank": 449,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -2301,7 +2301,7 @@
             "injury_status": null,
             "age": 22,
             "years_exp": 1,
-            "search_rank": 450,
+            "search_rank": 449,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -2458,7 +2458,7 @@
             "injury_status": null,
             "age": 22,
             "years_exp": 1,
-            "search_rank": 450,
+            "search_rank": 449,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -2636,7 +2636,7 @@
             "injury_status": null,
             "age": 36,
             "years_exp": 13,
-            "search_rank": 211,
+            "search_rank": 210,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -2655,7 +2655,7 @@
             "position": "QB",
             "team": "SEA",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "age": 29,
             "years_exp": 7,
             "search_rank": 691,
@@ -3115,7 +3115,7 @@
             "injury_status": "Questionable",
             "age": 29,
             "years_exp": 7,
-            "search_rank": 87,
+            "search_rank": 88,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -3704,7 +3704,7 @@
             "injury_status": null,
             "age": 31,
             "years_exp": 8,
-            "search_rank": 447,
+            "search_rank": 449,
             "depth_chart_position": "TE"
           },
           "destination": {
@@ -3772,7 +3772,7 @@
             "injury_status": null,
             "age": 31,
             "years_exp": 8,
-            "search_rank": 447,
+            "search_rank": 449,
             "depth_chart_position": "TE"
           },
           "destination": {
@@ -3835,7 +3835,7 @@
             "player_id": "3257",
             "name": "Jacoby Brissett",
             "position": "QB",
-            "team": "ARI",
+            "team": "BAL",
             "status": "Active",
             "injury_status": null,
             "age": 33,
@@ -3874,7 +3874,7 @@
             "injury_status": null,
             "age": 31,
             "years_exp": 8,
-            "search_rank": 447,
+            "search_rank": 449,
             "depth_chart_position": "TE"
           },
           "destination": {
@@ -3984,7 +3984,7 @@
             "injury_status": null,
             "age": 38,
             "years_exp": 14,
-            "search_rank": 262,
+            "search_rank": 263,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -4706,11 +4706,11 @@
             "position": "RB",
             "team": "PHI",
             "status": "Inactive",
-            "injury_status": "IR",
+            "injury_status": "Questionable",
             "age": 26,
             "years_exp": 4,
             "search_rank": 627,
-            "depth_chart_position": "RB"
+            "depth_chart_position": null
           },
           "destination": {
             "roster_id": 13,
@@ -4799,7 +4799,7 @@
             "injury_status": null,
             "age": 38,
             "years_exp": 14,
-            "search_rank": 262,
+            "search_rank": 263,
             "depth_chart_position": "QB"
           },
           "source": {
@@ -4829,11 +4829,11 @@
             "position": "RB",
             "team": "PHI",
             "status": "Inactive",
-            "injury_status": "IR",
+            "injury_status": "Questionable",
             "age": 26,
             "years_exp": 4,
             "search_rank": 627,
-            "depth_chart_position": "RB"
+            "depth_chart_position": null
           },
           "destination": {
             "roster_id": 7,
@@ -4973,11 +4973,11 @@
             "position": "RB",
             "team": "PHI",
             "status": "Inactive",
-            "injury_status": "IR",
+            "injury_status": "Questionable",
             "age": 26,
             "years_exp": 4,
             "search_rank": 627,
-            "depth_chart_position": "RB"
+            "depth_chart_position": null
           },
           "destination": {
             "roster_id": 1,
@@ -5139,7 +5139,7 @@
             "position": "WR",
             "team": "SEA",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": "Out",
             "age": 28,
             "years_exp": 4,
             "search_rank": 150,
@@ -5519,7 +5519,7 @@
             "injury_status": null,
             "age": 29,
             "years_exp": 7,
-            "search_rank": 130,
+            "search_rank": 132,
             "depth_chart_position": "QB"
           },
           "source": {
@@ -5853,7 +5853,7 @@
             "injury_status": "Questionable",
             "age": 29,
             "years_exp": 7,
-            "search_rank": 87,
+            "search_rank": 88,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -5870,7 +5870,7 @@
             "player_id": "3257",
             "name": "Jacoby Brissett",
             "position": "QB",
-            "team": "ARI",
+            "team": "BAL",
             "status": "Active",
             "injury_status": null,
             "age": 33,
@@ -6052,7 +6052,7 @@
             "injury_status": "Questionable",
             "age": 29,
             "years_exp": 7,
-            "search_rank": 87,
+            "search_rank": 88,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -6422,7 +6422,7 @@
             "injury_status": null,
             "age": 31,
             "years_exp": 8,
-            "search_rank": 76,
+            "search_rank": 75,
             "depth_chart_position": "QB"
           },
           "source": {
@@ -6613,7 +6613,7 @@
             "injury_status": null,
             "age": 36,
             "years_exp": 13,
-            "search_rank": 211,
+            "search_rank": 210,
             "depth_chart_position": "QB"
           },
           "source": {
@@ -6668,7 +6668,7 @@
             "injury_status": null,
             "age": 27,
             "years_exp": 3,
-            "search_rank": 127,
+            "search_rank": 125,
             "depth_chart_position": "RB"
           },
           "source": {
@@ -6701,7 +6701,7 @@
             "injury_status": null,
             "age": 38,
             "years_exp": 14,
-            "search_rank": 262,
+            "search_rank": 263,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -7257,7 +7257,7 @@
             "injury_status": "Questionable",
             "age": 29,
             "years_exp": 7,
-            "search_rank": 87,
+            "search_rank": 88,
             "depth_chart_position": "QB"
           },
           "source": {
@@ -7379,7 +7379,7 @@
             "injury_status": null,
             "age": 26,
             "years_exp": 3,
-            "search_rank": 694,
+            "search_rank": 692,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -7453,7 +7453,7 @@
             "position": "WR",
             "team": "PHI",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": "Out",
             "age": 25,
             "years_exp": 3,
             "search_rank": 203,
@@ -7484,7 +7484,7 @@
             "player_id": "3257",
             "name": "Jacoby Brissett",
             "position": "QB",
-            "team": "ARI",
+            "team": "BAL",
             "status": "Active",
             "injury_status": null,
             "age": 33,
@@ -7612,7 +7612,7 @@
             "injury_status": null,
             "age": 23,
             "years_exp": 0,
-            "search_rank": 199,
+            "search_rank": 197,
             "depth_chart_position": "RWR"
           },
           "destination": {
@@ -8002,7 +8002,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 3,
-            "search_rank": 487,
+            "search_rank": 489,
             "depth_chart_position": "SWR"
           },
           "destination": {
@@ -8036,7 +8036,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 0,
-            "search_rank": 378,
+            "search_rank": 377,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -8156,7 +8156,7 @@
             "position": "RB",
             "team": "ARI",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": "Out",
             "age": 25,
             "years_exp": 4,
             "search_rank": 669,
@@ -8694,7 +8694,7 @@
             "injury_status": null,
             "age": 26,
             "years_exp": 3,
-            "search_rank": 694,
+            "search_rank": 692,
             "depth_chart_position": "RB"
           },
           "source": {
@@ -8791,7 +8791,7 @@
             "player_id": "3257",
             "name": "Jacoby Brissett",
             "position": "QB",
-            "team": "ARI",
+            "team": "BAL",
             "status": "Active",
             "injury_status": null,
             "age": 33,
@@ -9214,7 +9214,7 @@
             "injury_status": "Questionable",
             "age": 29,
             "years_exp": 7,
-            "search_rank": 87,
+            "search_rank": 88,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -9355,7 +9355,7 @@
             "position": "RB",
             "team": "ARI",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": "Out",
             "age": 25,
             "years_exp": 4,
             "search_rank": 669,
@@ -9503,7 +9503,7 @@
             "injury_status": "Questionable",
             "age": 29,
             "years_exp": 7,
-            "search_rank": 87,
+            "search_rank": 88,
             "depth_chart_position": "QB"
           },
           "source": {
@@ -9568,7 +9568,7 @@
             "position": "RB",
             "team": "ARI",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": "Out",
             "age": 25,
             "years_exp": 4,
             "search_rank": 669,
@@ -9599,7 +9599,7 @@
             "player_id": "3257",
             "name": "Jacoby Brissett",
             "position": "QB",
-            "team": "ARI",
+            "team": "BAL",
             "status": "Active",
             "injury_status": null,
             "age": 33,
