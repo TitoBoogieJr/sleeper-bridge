@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-08T13:06:27.115695+00:00",
+  "snapshot_generated_at": "2026-11-08T18:26:38.478511+00:00",
   "drafts": [
     {
       "created": 1767560932099,
@@ -341,7 +341,7 @@
         "injury_status": null,
         "age": 24,
         "years_exp": 3,
-        "search_rank": 7,
+        "search_rank": 5,
         "depth_chart_position": "LWR"
       },
       "round": 1,
@@ -566,7 +566,7 @@
         "injury_status": null,
         "age": 27,
         "years_exp": 6,
-        "search_rank": 12,
+        "search_rank": 11,
         "depth_chart_position": "LWR"
       },
       "round": 2,
@@ -641,7 +641,7 @@
         "injury_status": null,
         "age": 23,
         "years_exp": 2,
-        "search_rank": 26,
+        "search_rank": 28,
         "depth_chart_position": "LWR"
       },
       "round": 2,
@@ -891,7 +891,7 @@
         "injury_status": "IR",
         "age": 29,
         "years_exp": 8,
-        "search_rank": 8,
+        "search_rank": 10,
         "depth_chart_position": "QB"
       },
       "round": 3,
@@ -916,7 +916,7 @@
         "injury_status": null,
         "age": 27,
         "years_exp": 6,
-        "search_rank": 44,
+        "search_rank": 46,
         "depth_chart_position": "RB"
       },
       "round": 3,
@@ -1366,7 +1366,7 @@
         "injury_status": null,
         "age": 26,
         "years_exp": 5,
-        "search_rank": 68,
+        "search_rank": 67,
         "depth_chart_position": "TE"
       },
       "round": 4,
@@ -1438,10 +1438,10 @@
         "position": "WR",
         "team": "BUF",
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "age": 29,
         "years_exp": 8,
-        "search_rank": 50,
+        "search_rank": 49,
         "depth_chart_position": "LWR"
       },
       "round": 4,
@@ -1641,7 +1641,7 @@
         "injury_status": "IR",
         "age": 28,
         "years_exp": 6,
-        "search_rank": 27,
+        "search_rank": 28,
         "depth_chart_position": "QB"
       },
       "round": 5,
@@ -1788,7 +1788,7 @@
         "position": "WR",
         "team": "DAL",
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "age": 25,
         "years_exp": 4,
         "search_rank": 23,
@@ -1866,7 +1866,7 @@
         "injury_status": null,
         "age": 24,
         "years_exp": 2,
-        "search_rank": 74,
+        "search_rank": 73,
         "depth_chart_position": "RWR"
       },
       "round": 6,
@@ -3162,8 +3162,8 @@
         "name": "Jordyn Tyson",
         "position": "WR",
         "team": "NO",
-        "status": "Inactive",
-        "injury_status": "IR",
+        "status": "Active",
+        "injury_status": "Questionable",
         "age": 22,
         "years_exp": 0,
         "search_rank": 62,
@@ -3666,7 +3666,7 @@
         "injury_status": null,
         "age": 26,
         "years_exp": 2,
-        "search_rank": 44,
+        "search_rank": 46,
         "depth_chart_position": "QB"
       },
       "round": 11,
@@ -3766,7 +3766,7 @@
         "injury_status": null,
         "age": 23,
         "years_exp": 2,
-        "search_rank": 133,
+        "search_rank": 131,
         "depth_chart_position": "K"
       },
       "round": 11,
@@ -4063,7 +4063,7 @@
         "position": "QB",
         "team": "MIN",
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "age": 29,
         "years_exp": 7,
         "search_rank": 88,
@@ -4162,8 +4162,8 @@
         "name": "Brian Robinson Jr.",
         "position": "RB",
         "team": "ATL",
-        "status": "Active",
-        "injury_status": "Out",
+        "status": "Inactive",
+        "injury_status": "IR",
         "age": 27,
         "years_exp": 4,
         "search_rank": 80,
@@ -4513,7 +4513,7 @@
         "position": "RB",
         "team": "MIN",
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "age": 23,
         "years_exp": 0,
         "search_rank": 176,

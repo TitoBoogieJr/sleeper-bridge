@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-08T13:06:27.115695+00:00",
+  "snapshot_generated_at": "2026-11-08T18:26:38.478511+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -729,29 +729,6 @@
           }
         },
         {
-          "player_id": "9487",
-          "name": "Parker Washington",
-          "position": "WR",
-          "nfl_team": "JAX",
-          "location": "starter",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 14,
-            "pick_no": 192,
-            "original_roster_id": 2,
-            "original_owner_user_id": "1263709493192052736",
-            "original_username": "KarolynRose",
-            "original_team_name": "Magic Skol Bus",
-            "is_keeper": true
-          },
-          "keeper": {
-            "eligible_next_season": false,
-            "cost_round": null,
-            "reason": "Already used as a keeper this season"
-          }
-        },
-        {
           "player_id": "7553",
           "name": "Kyle Pitts Sr.",
           "position": "TE",
@@ -772,6 +749,29 @@
             "eligible_next_season": true,
             "cost_round": 4,
             "reason": "Drafted in Round 4"
+          }
+        },
+        {
+          "player_id": "9487",
+          "name": "Parker Washington",
+          "position": "WR",
+          "nfl_team": "JAX",
+          "location": "starter",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 14,
+            "pick_no": 192,
+            "original_roster_id": 2,
+            "original_owner_user_id": "1263709493192052736",
+            "original_username": "KarolynRose",
+            "original_team_name": "Magic Skol Bus",
+            "is_keeper": true
+          },
+          "keeper": {
+            "eligible_next_season": false,
+            "cost_round": null,
+            "reason": "Already used as a keeper this season"
           }
         },
         {
@@ -802,7 +802,7 @@
           "name": "Jordan Addison",
           "position": "WR",
           "nfl_team": "MIN",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -825,7 +825,7 @@
           "name": "Juwan Johnson",
           "position": "TE",
           "nfl_team": "NO",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -848,6 +848,19 @@
           "name": "Samaje Perine",
           "position": "RB",
           "nfl_team": "CIN",
+          "location": "bench",
+          "draft": null,
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 14,
+            "reason": "Undrafted player; keeper cost is Round 14"
+          }
+        },
+        {
+          "player_id": "7561",
+          "name": "Elijah Mitchell",
+          "position": "RB",
+          "nfl_team": "PHI",
           "location": "starter",
           "draft": null,
           "keeper": {
@@ -861,7 +874,7 @@
           "name": "Houston Texans",
           "position": "DEF",
           "nfl_team": "HOU",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -884,7 +897,7 @@
           "name": "Atlanta Falcons",
           "position": "DEF",
           "nfl_team": "ATL",
-          "location": "starter",
+          "location": "bench",
           "draft": null,
           "keeper": {
             "eligible_next_season": true,
@@ -2315,7 +2328,7 @@
           "name": "Kyler Murray",
           "position": "QB",
           "nfl_team": "MIN",
-          "location": "bench",
+          "location": "reserve",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -2397,6 +2410,19 @@
           "name": "Antonio Williams",
           "position": "WR",
           "nfl_team": "WAS",
+          "location": "bench",
+          "draft": null,
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 14,
+            "reason": "Undrafted player; keeper cost is Round 14"
+          }
+        },
+        {
+          "player_id": "11579",
+          "name": "Audric Estime",
+          "position": "RB",
+          "nfl_team": "NO",
           "location": "bench",
           "draft": null,
           "keeper": {
@@ -2687,19 +2713,6 @@
           "name": "Pat Freiermuth",
           "position": "TE",
           "nfl_team": "PIT",
-          "location": "bench",
-          "draft": null,
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 14,
-            "reason": "Undrafted player; keeper cost is Round 14"
-          }
-        },
-        {
-          "player_id": "8129",
-          "name": "Dameon Pierce",
-          "position": "RB",
-          "nfl_team": "PHI",
           "location": "bench",
           "draft": null,
           "keeper": {

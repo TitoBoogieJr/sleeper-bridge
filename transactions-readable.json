@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-08T13:06:27.115695+00:00",
+  "snapshot_generated_at": "2026-11-08T18:26:38.478511+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -258,7 +258,7 @@
             "age": 24,
             "years_exp": 3,
             "search_rank": 180,
-            "depth_chart_position": "RB"
+            "depth_chart_position": null
           },
           "destination": {
             "roster_id": 14,
@@ -733,7 +733,7 @@
             "position": "QB",
             "team": "MIN",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": "Out",
             "age": 29,
             "years_exp": 7,
             "search_rank": 88,
@@ -865,7 +865,7 @@
             "position": "RB",
             "team": "MIN",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": "Out",
             "age": 23,
             "years_exp": 0,
             "search_rank": 176,
@@ -920,7 +920,7 @@
             "position": "QB",
             "team": "MIN",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": "Out",
             "age": 29,
             "years_exp": 7,
             "search_rank": 88,
@@ -1731,7 +1731,7 @@
             "position": "QB",
             "team": "MIN",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": "Out",
             "age": 29,
             "years_exp": 7,
             "search_rank": 88,
@@ -1764,7 +1764,7 @@
             "position": "RB",
             "team": "MIN",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": "Out",
             "age": 23,
             "years_exp": 0,
             "search_rank": 176,
@@ -1907,8 +1907,8 @@
             "name": "Demarcus Robinson",
             "position": "WR",
             "team": "SF",
-            "status": "Inactive",
-            "injury_status": "IR",
+            "status": "Active",
+            "injury_status": null,
             "age": 32,
             "years_exp": 10,
             "search_rank": 679,
@@ -1941,8 +1941,8 @@
             "name": "Pat Bryant",
             "position": "WR",
             "team": "DEN",
-            "status": "Inactive",
-            "injury_status": "IR",
+            "status": "Active",
+            "injury_status": "Questionable",
             "age": 23,
             "years_exp": 1,
             "search_rank": 172,
@@ -2545,7 +2545,7 @@
             "position": "RB",
             "team": "MIN",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": "Out",
             "age": 23,
             "years_exp": 0,
             "search_rank": 176,
@@ -2886,8 +2886,8 @@
             "name": "Mack Hollins",
             "position": "WR",
             "team": "NE",
-            "status": "Inactive",
-            "injury_status": "IR",
+            "status": "Active",
+            "injury_status": "Questionable",
             "age": 33,
             "years_exp": 9,
             "search_rank": 697,
@@ -3112,7 +3112,7 @@
             "position": "QB",
             "team": "MIN",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": "Out",
             "age": 29,
             "years_exp": 7,
             "search_rank": 88,
@@ -3308,7 +3308,7 @@
             "age": 24,
             "years_exp": 3,
             "search_rank": 180,
-            "depth_chart_position": "RB"
+            "depth_chart_position": null
           },
           "source": {
             "roster_id": 14,
@@ -3413,8 +3413,8 @@
             "name": "Pat Bryant",
             "position": "WR",
             "team": "DEN",
-            "status": "Inactive",
-            "injury_status": "IR",
+            "status": "Active",
+            "injury_status": "Questionable",
             "age": 23,
             "years_exp": 1,
             "search_rank": 172,
@@ -3502,7 +3502,7 @@
             "position": "WR",
             "team": "BUF",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "age": 23,
             "years_exp": 2,
             "search_rank": 206,
@@ -3595,7 +3595,7 @@
             "age": 24,
             "years_exp": 3,
             "search_rank": 180,
-            "depth_chart_position": "RB"
+            "depth_chart_position": null
           },
           "destination": {
             "roster_id": 10,
@@ -3735,7 +3735,7 @@
             "position": "WR",
             "team": "BUF",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "age": 23,
             "years_exp": 2,
             "search_rank": 206,
@@ -4193,7 +4193,7 @@
             "position": "WR",
             "team": "MIN",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": "Out",
             "age": 29,
             "years_exp": 6,
             "search_rank": 123,
@@ -4704,7 +4704,7 @@
             "player_id": "8129",
             "name": "Dameon Pierce",
             "position": "RB",
-            "team": "PHI",
+            "team": null,
             "status": "Inactive",
             "injury_status": "Questionable",
             "age": 26,
@@ -4827,7 +4827,7 @@
             "player_id": "8129",
             "name": "Dameon Pierce",
             "position": "RB",
-            "team": "PHI",
+            "team": null,
             "status": "Inactive",
             "injury_status": "Questionable",
             "age": 26,
@@ -4971,7 +4971,7 @@
             "player_id": "8129",
             "name": "Dameon Pierce",
             "position": "RB",
-            "team": "PHI",
+            "team": null,
             "status": "Inactive",
             "injury_status": "Questionable",
             "age": 26,
@@ -5850,7 +5850,7 @@
             "position": "QB",
             "team": "MIN",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": "Out",
             "age": 29,
             "years_exp": 7,
             "search_rank": 88,
@@ -6049,7 +6049,7 @@
             "position": "QB",
             "team": "MIN",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": "Out",
             "age": 29,
             "years_exp": 7,
             "search_rank": 88,
@@ -6965,8 +6965,8 @@
             "name": "Mack Hollins",
             "position": "WR",
             "team": "NE",
-            "status": "Inactive",
-            "injury_status": "IR",
+            "status": "Active",
+            "injury_status": "Questionable",
             "age": 33,
             "years_exp": 9,
             "search_rank": 697,
@@ -7254,7 +7254,7 @@
             "position": "QB",
             "team": "MIN",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": "Out",
             "age": 29,
             "years_exp": 7,
             "search_rank": 88,
@@ -7379,7 +7379,7 @@
             "injury_status": null,
             "age": 26,
             "years_exp": 3,
-            "search_rank": 692,
+            "search_rank": 694,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -8089,7 +8089,7 @@
             "position": "WR",
             "team": "MIN",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": "Out",
             "age": 29,
             "years_exp": 6,
             "search_rank": 123,
@@ -8694,7 +8694,7 @@
             "injury_status": null,
             "age": 26,
             "years_exp": 3,
-            "search_rank": 692,
+            "search_rank": 694,
             "depth_chart_position": "RB"
           },
           "source": {
@@ -9122,8 +9122,8 @@
             "name": "Brian Robinson Jr.",
             "position": "RB",
             "team": "ATL",
-            "status": "Active",
-            "injury_status": "Out",
+            "status": "Inactive",
+            "injury_status": "IR",
             "age": 27,
             "years_exp": 4,
             "search_rank": 80,
@@ -9211,7 +9211,7 @@
             "position": "QB",
             "team": "MIN",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": "Out",
             "age": 29,
             "years_exp": 7,
             "search_rank": 88,
@@ -9500,7 +9500,7 @@
             "position": "QB",
             "team": "MIN",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": "Out",
             "age": 29,
             "years_exp": 7,
             "search_rank": 88,
@@ -9674,7 +9674,7 @@
             "age": 24,
             "years_exp": 3,
             "search_rank": 180,
-            "depth_chart_position": "RB"
+            "depth_chart_position": null
           },
           "source": {
             "roster_id": 10,
@@ -9720,6 +9720,108 @@
       ],
       "roster_ids": [
         14
+      ]
+    },
+    {
+      "transaction_id": "1425194951565746176",
+      "week": 9,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794155464596,
+      "faab": null,
+      "adds": [
+        {
+          "player": {
+            "player_id": "11579",
+            "name": "Audric Estime",
+            "position": "RB",
+            "team": "NO",
+            "status": "Active",
+            "injury_status": null,
+            "age": 23,
+            "years_exp": 2,
+            "search_rank": 190,
+            "depth_chart_position": "RB"
+          },
+          "destination": {
+            "roster_id": 14,
+            "owner_user_id": "1263695631499665408",
+            "username": "jeredoliver",
+            "team_name": "JSN Bourne"
+          }
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        14
+      ]
+    },
+    {
+      "transaction_id": "1425194740617318400",
+      "week": 9,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794155414302,
+      "faab": null,
+      "adds": [],
+      "drops": [
+        {
+          "player": {
+            "player_id": "12711",
+            "name": "Tyler Loop",
+            "position": "K",
+            "team": "BAL",
+            "status": "Inactive",
+            "injury_status": "IR",
+            "age": 25,
+            "years_exp": 1,
+            "search_rank": 150,
+            "depth_chart_position": "K"
+          },
+          "source": {
+            "roster_id": 14,
+            "owner_user_id": "1263695631499665408",
+            "username": "jeredoliver",
+            "team_name": "JSN Bourne"
+          }
+        }
+      ],
+      "roster_ids": [
+        14
+      ]
+    },
+    {
+      "transaction_id": "1425153552392663040",
+      "week": 9,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794145594265,
+      "faab": null,
+      "adds": [
+        {
+          "player": {
+            "player_id": "7561",
+            "name": "Elijah Mitchell",
+            "position": "RB",
+            "team": "PHI",
+            "status": "Active",
+            "injury_status": null,
+            "age": 28,
+            "years_exp": 5,
+            "search_rank": 532,
+            "depth_chart_position": "RB"
+          },
+          "destination": {
+            "roster_id": 2,
+            "owner_user_id": "1263709493192052736",
+            "username": "KarolynRose",
+            "team_name": "Magic Skol Bus"
+          }
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        2
       ]
     },
     {
@@ -9919,7 +10021,7 @@
             "age": 24,
             "years_exp": 3,
             "search_rank": 180,
-            "depth_chart_position": "RB"
+            "depth_chart_position": null
           },
           "destination": {
             "roster_id": 11,

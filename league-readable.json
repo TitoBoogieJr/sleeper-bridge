@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-08T13:06:27.115695+00:00",
+  "snapshot_generated_at": "2026-11-08T18:26:38.478511+00:00",
   "current_week": 9,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -182,7 +182,7 @@
           "player_id": "8129",
           "name": "Dameon Pierce",
           "position": "RB",
-          "team": "PHI",
+          "team": null,
           "status": "Inactive",
           "injury_status": "Questionable",
           "age": 26,
@@ -251,19 +251,19 @@
           "injury_status": "IR",
           "age": 29,
           "years_exp": 8,
-          "search_rank": 8,
+          "search_rank": 10,
           "depth_chart_position": "QB"
         },
         {
-          "player_id": "4147",
-          "name": "Samaje Perine",
+          "player_id": "7561",
+          "name": "Elijah Mitchell",
           "position": "RB",
-          "team": "CIN",
+          "team": "PHI",
           "status": "Active",
           "injury_status": null,
-          "age": 31,
-          "years_exp": 9,
-          "search_rank": 459,
+          "age": 28,
+          "years_exp": 5,
+          "search_rank": 532,
           "depth_chart_position": "RB"
         },
         {
@@ -311,38 +311,38 @@
           "injury_status": null,
           "age": 26,
           "years_exp": 5,
-          "search_rank": 68,
+          "search_rank": 67,
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "9756",
-          "name": "Jordan Addison",
-          "position": "WR",
-          "team": "MIN",
-          "status": "Active",
-          "injury_status": null,
-          "age": 24,
-          "years_exp": 3,
-          "search_rank": 99,
-          "depth_chart_position": "RWR"
-        },
-        {
-          "player_id": "6650",
-          "name": "Chase McLaughlin",
-          "position": "K",
-          "team": "TB",
+          "player_id": "7002",
+          "name": "Juwan Johnson",
+          "position": "TE",
+          "team": "NO",
           "status": "Active",
           "injury_status": null,
           "age": 30,
-          "years_exp": 7,
-          "search_rank": 199,
+          "years_exp": 6,
+          "search_rank": 103,
+          "depth_chart_position": "TE"
+        },
+        {
+          "player_id": "3451",
+          "name": "Ka'imi Fairbairn",
+          "position": "K",
+          "team": "HOU",
+          "status": "Active",
+          "injury_status": null,
+          "age": 32,
+          "years_exp": 10,
+          "search_rank": 128,
           "depth_chart_position": "K"
         },
         {
-          "player_id": "ATL",
-          "name": "Atlanta Falcons",
+          "player_id": "HOU",
+          "name": "Houston Texans",
           "position": "DEF",
-          "team": "ATL",
+          "team": "HOU",
           "status": null,
           "injury_status": null,
           "age": null,
@@ -365,34 +365,46 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "3451",
-          "name": "Ka'imi Fairbairn",
-          "position": "K",
-          "team": "HOU",
+          "player_id": "4147",
+          "name": "Samaje Perine",
+          "position": "RB",
+          "team": "CIN",
           "status": "Active",
           "injury_status": null,
-          "age": 32,
-          "years_exp": 10,
-          "search_rank": 128,
-          "depth_chart_position": "K"
+          "age": 31,
+          "years_exp": 9,
+          "search_rank": 459,
+          "depth_chart_position": "RB"
         },
         {
-          "player_id": "7002",
-          "name": "Juwan Johnson",
-          "position": "TE",
-          "team": "NO",
+          "player_id": "6650",
+          "name": "Chase McLaughlin",
+          "position": "K",
+          "team": "TB",
           "status": "Active",
           "injury_status": null,
           "age": 30,
-          "years_exp": 6,
-          "search_rank": 103,
-          "depth_chart_position": "TE"
+          "years_exp": 7,
+          "search_rank": 199,
+          "depth_chart_position": "K"
         },
         {
-          "player_id": "HOU",
-          "name": "Houston Texans",
+          "player_id": "9756",
+          "name": "Jordan Addison",
+          "position": "WR",
+          "team": "MIN",
+          "status": "Active",
+          "injury_status": null,
+          "age": 24,
+          "years_exp": 3,
+          "search_rank": 99,
+          "depth_chart_position": "RWR"
+        },
+        {
+          "player_id": "ATL",
+          "name": "Atlanta Falcons",
           "position": "DEF",
-          "team": "HOU",
+          "team": "ATL",
           "status": null,
           "injury_status": null,
           "age": null,
@@ -567,8 +579,8 @@
           "name": "Jordyn Tyson",
           "position": "WR",
           "team": "NO",
-          "status": "Inactive",
-          "injury_status": "IR",
+          "status": "Active",
+          "injury_status": "Questionable",
           "age": 22,
           "years_exp": 0,
           "search_rank": 62,
@@ -729,7 +741,7 @@
           "position": "WR",
           "team": "BUF",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "age": 23,
           "years_exp": 2,
           "search_rank": 206,
@@ -1016,7 +1028,7 @@
           "injury_status": "IR",
           "age": 28,
           "years_exp": 6,
-          "search_rank": 27,
+          "search_rank": 28,
           "depth_chart_position": "QB"
         }
       ]
@@ -1152,7 +1164,7 @@
           "injury_status": null,
           "age": 26,
           "years_exp": 2,
-          "search_rank": 44,
+          "search_rank": 46,
           "depth_chart_position": "QB"
         },
         {
@@ -1312,7 +1324,7 @@
           "injury_status": null,
           "age": 27,
           "years_exp": 6,
-          "search_rank": 12,
+          "search_rank": 11,
           "depth_chart_position": "LWR"
         },
         {
@@ -1495,7 +1507,7 @@
           "position": "WR",
           "team": "DAL",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "age": 25,
           "years_exp": 4,
           "search_rank": 23,
@@ -1510,7 +1522,7 @@
           "injury_status": null,
           "age": 24,
           "years_exp": 2,
-          "search_rank": 74,
+          "search_rank": 73,
           "depth_chart_position": "RWR"
         },
         {
@@ -1672,7 +1684,7 @@
           "injury_status": null,
           "age": 27,
           "years_exp": 6,
-          "search_rank": 44,
+          "search_rank": 46,
           "depth_chart_position": "RB"
         },
         {
@@ -1696,7 +1708,7 @@
           "injury_status": null,
           "age": 23,
           "years_exp": 2,
-          "search_rank": 26,
+          "search_rank": 28,
           "depth_chart_position": "LWR"
         },
         {
@@ -1890,10 +1902,10 @@
           "position": "WR",
           "team": "BUF",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "age": 29,
           "years_exp": 8,
-          "search_rank": 50,
+          "search_rank": 49,
           "depth_chart_position": "LWR"
         },
         {
@@ -2214,7 +2226,7 @@
           "age": 24,
           "years_exp": 3,
           "search_rank": 180,
-          "depth_chart_position": "RB"
+          "depth_chart_position": null
         }
       ],
       "reserve": [
@@ -2235,8 +2247,8 @@
           "name": "Demarcus Robinson",
           "position": "WR",
           "team": "SF",
-          "status": "Inactive",
-          "injury_status": "IR",
+          "status": "Active",
+          "injury_status": null,
           "age": 32,
           "years_exp": 10,
           "search_rank": 679,
@@ -2349,7 +2361,7 @@
           "injury_status": null,
           "age": 23,
           "years_exp": 2,
-          "search_rank": 133,
+          "search_rank": 131,
           "depth_chart_position": "K"
         },
         {
@@ -2721,7 +2733,7 @@
           "injury_status": null,
           "age": 24,
           "years_exp": 3,
-          "search_rank": 7,
+          "search_rank": 5,
           "depth_chart_position": "LWR"
         },
         {
@@ -2787,6 +2799,18 @@
       ],
       "bench": [
         {
+          "player_id": "11579",
+          "name": "Audric Estime",
+          "position": "RB",
+          "team": "NO",
+          "status": "Active",
+          "injury_status": null,
+          "age": 23,
+          "years_exp": 2,
+          "search_rank": 190,
+          "depth_chart_position": "RB"
+        },
+        {
           "player_id": "12534",
           "name": "Kyle Monangai",
           "position": "RB",
@@ -2833,18 +2857,6 @@
           "years_exp": 0,
           "search_rank": 197,
           "depth_chart_position": "LWR"
-        },
-        {
-          "player_id": "5849",
-          "name": "Kyler Murray",
-          "position": "QB",
-          "team": "MIN",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "age": 29,
-          "years_exp": 7,
-          "search_rank": 88,
-          "depth_chart_position": "QB"
         }
       ],
       "reserve": [
@@ -2861,16 +2873,16 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "12711",
-          "name": "Tyler Loop",
-          "position": "K",
-          "team": "BAL",
-          "status": "Inactive",
-          "injury_status": "IR",
-          "age": 25,
-          "years_exp": 1,
-          "search_rank": 150,
-          "depth_chart_position": "K"
+          "player_id": "5849",
+          "name": "Kyler Murray",
+          "position": "QB",
+          "team": "MIN",
+          "status": "Active",
+          "injury_status": "Out",
+          "age": 29,
+          "years_exp": 7,
+          "search_rank": 88,
+          "depth_chart_position": "QB"
         },
         {
           "player_id": "9225",
