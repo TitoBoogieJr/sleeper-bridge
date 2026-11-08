@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-08T05:36:40.763069+00:00",
+  "snapshot_generated_at": "2026-11-08T13:06:27.115695+00:00",
   "current_week": 9,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -21,15 +21,15 @@
       },
       "starters": [
         {
-          "player_id": "11559",
-          "name": "Michael Penix Jr.",
+          "player_id": "8161",
+          "name": "Malik Willis",
           "position": "QB",
-          "team": "ATL",
+          "team": "MIA",
           "status": "Active",
           "injury_status": null,
-          "age": 26,
-          "years_exp": 2,
-          "search_rank": 228,
+          "age": 27,
+          "years_exp": 4,
+          "search_rank": 122,
           "depth_chart_position": "QB"
         },
         {
@@ -69,16 +69,16 @@
           "depth_chart_position": "SWR"
         },
         {
-          "player_id": "5872",
-          "name": "Deebo Samuel Sr.",
+          "player_id": "12514",
+          "name": "Emeka Egbuka",
           "position": "WR",
-          "team": "SF",
+          "team": "TB",
           "status": "Active",
-          "injury_status": "Out",
-          "age": 30,
-          "years_exp": 7,
-          "search_rank": 130,
-          "depth_chart_position": "SWR"
+          "injury_status": "Questionable",
+          "age": 24,
+          "years_exp": 1,
+          "search_rank": 39,
+          "depth_chart_position": "LWR"
         },
         {
           "player_id": "10236",
@@ -93,16 +93,16 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "2216",
-          "name": "Mike Evans",
-          "position": "WR",
-          "team": "SF",
+          "player_id": "6130",
+          "name": "Devin Singletary",
+          "position": "RB",
+          "team": "NYG",
           "status": "Active",
-          "injury_status": "Out",
-          "age": 33,
-          "years_exp": 12,
-          "search_rank": 60,
-          "depth_chart_position": "LWR"
+          "injury_status": null,
+          "age": 29,
+          "years_exp": 7,
+          "search_rank": 660,
+          "depth_chart_position": "RB"
         },
         {
           "player_id": "2020",
@@ -131,6 +131,18 @@
       ],
       "bench": [
         {
+          "player_id": "11559",
+          "name": "Michael Penix Jr.",
+          "position": "QB",
+          "team": "ATL",
+          "status": "Active",
+          "injury_status": null,
+          "age": 26,
+          "years_exp": 2,
+          "search_rank": 228,
+          "depth_chart_position": "QB"
+        },
+        {
           "player_id": "4035",
           "name": "Alvin Kamara",
           "position": "RB",
@@ -140,18 +152,6 @@
           "age": 31,
           "years_exp": 9,
           "search_rank": 119,
-          "depth_chart_position": "RB"
-        },
-        {
-          "player_id": "6130",
-          "name": "Devin Singletary",
-          "position": "RB",
-          "team": "NYG",
-          "status": "Active",
-          "injury_status": null,
-          "age": 29,
-          "years_exp": 7,
-          "search_rank": 660,
           "depth_chart_position": "RB"
         },
         {
@@ -179,30 +179,42 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "8161",
-          "name": "Malik Willis",
-          "position": "QB",
-          "team": "MIA",
-          "status": "Active",
-          "injury_status": null,
-          "age": 27,
+          "player_id": "8129",
+          "name": "Dameon Pierce",
+          "position": "RB",
+          "team": "PHI",
+          "status": "Inactive",
+          "injury_status": "Questionable",
+          "age": 26,
           "years_exp": 4,
-          "search_rank": 122,
-          "depth_chart_position": "QB"
+          "search_rank": 627,
+          "depth_chart_position": null
         }
       ],
       "reserve": [
         {
-          "player_id": "12514",
-          "name": "Emeka Egbuka",
+          "player_id": "2216",
+          "name": "Mike Evans",
           "position": "WR",
-          "team": "TB",
+          "team": "SF",
           "status": "Active",
-          "injury_status": "Questionable",
-          "age": 24,
-          "years_exp": 1,
-          "search_rank": 39,
+          "injury_status": "Out",
+          "age": 33,
+          "years_exp": 12,
+          "search_rank": 60,
           "depth_chart_position": "LWR"
+        },
+        {
+          "player_id": "5872",
+          "name": "Deebo Samuel Sr.",
+          "position": "WR",
+          "team": "SF",
+          "status": "Active",
+          "injury_status": "Out",
+          "age": 30,
+          "years_exp": 7,
+          "search_rank": 130,
+          "depth_chart_position": "SWR"
         },
         {
           "player_id": "8122",
@@ -215,18 +227,6 @@
           "years_exp": 4,
           "search_rank": 669,
           "depth_chart_position": "RB"
-        },
-        {
-          "player_id": "8129",
-          "name": "Dameon Pierce",
-          "position": "RB",
-          "team": "PHI",
-          "status": "Inactive",
-          "injury_status": "Questionable",
-          "age": 26,
-          "years_exp": 4,
-          "search_rank": 627,
-          "depth_chart_position": null
         }
       ]
     },
@@ -1502,16 +1502,16 @@
           "depth_chart_position": "RWR"
         },
         {
-          "player_id": "8146",
-          "name": "Garrett Wilson",
+          "player_id": "11628",
+          "name": "Marvin Harrison Jr.",
           "position": "WR",
-          "team": "NYJ",
+          "team": "HOU",
           "status": "Active",
-          "injury_status": "Out",
-          "age": 26,
-          "years_exp": 4,
-          "search_rank": 38,
-          "depth_chart_position": "LWR"
+          "injury_status": null,
+          "age": 24,
+          "years_exp": 2,
+          "search_rank": 74,
+          "depth_chart_position": "RWR"
         },
         {
           "player_id": "11604",
@@ -1564,18 +1564,6 @@
       ],
       "bench": [
         {
-          "player_id": "11628",
-          "name": "Marvin Harrison Jr.",
-          "position": "WR",
-          "team": "HOU",
-          "status": "Active",
-          "injury_status": null,
-          "age": 24,
-          "years_exp": 2,
-          "search_rank": 74,
-          "depth_chart_position": "RWR"
-        },
-        {
           "player_id": "11834",
           "name": "Devaughn Vele",
           "position": "WR",
@@ -1622,6 +1610,18 @@
           "years_exp": 6,
           "search_rank": 66,
           "depth_chart_position": "QB"
+        },
+        {
+          "player_id": "8146",
+          "name": "Garrett Wilson",
+          "position": "WR",
+          "team": "NYJ",
+          "status": "Active",
+          "injury_status": "Out",
+          "age": 26,
+          "years_exp": 4,
+          "search_rank": 38,
+          "depth_chart_position": "LWR"
         }
       ],
       "reserve": [
