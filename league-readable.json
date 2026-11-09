@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-08T22:23:59.530673+00:00",
+  "snapshot_generated_at": "2026-11-09T01:52:34.030334+00:00",
   "current_week": 9,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -2811,18 +2811,6 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "12534",
-          "name": "Kyle Monangai",
-          "position": "RB",
-          "team": "CHI",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "age": 24,
-          "years_exp": 1,
-          "search_rank": 61,
-          "depth_chart_position": "RB"
-        },
-        {
           "player_id": "13276",
           "name": "Omar Cooper Jr.",
           "position": "WR",
@@ -2857,6 +2845,18 @@
           "years_exp": 0,
           "search_rank": 197,
           "depth_chart_position": "LWR"
+        },
+        {
+          "player_id": "5849",
+          "name": "Kyler Murray",
+          "position": "QB",
+          "team": "MIN",
+          "status": "Active",
+          "injury_status": "Out",
+          "age": 29,
+          "years_exp": 7,
+          "search_rank": 88,
+          "depth_chart_position": "QB"
         }
       ],
       "reserve": [
@@ -2873,16 +2873,16 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "5849",
-          "name": "Kyler Murray",
-          "position": "QB",
-          "team": "MIN",
+          "player_id": "12534",
+          "name": "Kyle Monangai",
+          "position": "RB",
+          "team": "CHI",
           "status": "Active",
-          "injury_status": "Out",
-          "age": 29,
-          "years_exp": 7,
-          "search_rank": 88,
-          "depth_chart_position": "QB"
+          "injury_status": "Questionable",
+          "age": 24,
+          "years_exp": 1,
+          "search_rank": 61,
+          "depth_chart_position": "RB"
         },
         {
           "player_id": "9225",
