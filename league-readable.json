@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-10T11:37:47.387181+00:00",
+  "snapshot_generated_at": "2026-11-10T19:33:22.632790+00:00",
   "current_week": 10,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -373,7 +373,7 @@
           "injury_status": null,
           "age": 31,
           "years_exp": 9,
-          "search_rank": 459,
+          "search_rank": 458,
           "depth_chart_position": "RB"
         },
         {
@@ -501,28 +501,28 @@
           "depth_chart_position": "RWR"
         },
         {
-          "player_id": "12517",
-          "name": "Colston Loveland",
-          "position": "TE",
-          "team": "CHI",
+          "player_id": "0",
+          "name": "Unknown (0)",
+          "position": null,
+          "team": null,
+          "status": null,
+          "injury_status": null,
+          "age": null,
+          "years_exp": null,
+          "search_rank": null,
+          "depth_chart_position": null
+        },
+        {
+          "player_id": "13281",
+          "name": "Jordyn Tyson",
+          "position": "WR",
+          "team": "NO",
           "status": "Active",
           "injury_status": null,
           "age": 22,
-          "years_exp": 1,
-          "search_rank": 37,
-          "depth_chart_position": "TE"
-        },
-        {
-          "player_id": "7526",
-          "name": "Jaylen Waddle",
-          "position": "WR",
-          "team": "DEN",
-          "status": "Active",
-          "injury_status": "Out",
-          "age": 27,
-          "years_exp": 5,
-          "search_rank": 42,
-          "depth_chart_position": "RWR"
+          "years_exp": 0,
+          "search_rank": 62,
+          "depth_chart_position": "LWR"
         },
         {
           "player_id": "7839",
@@ -533,7 +533,7 @@
           "injury_status": null,
           "age": 27,
           "years_exp": 5,
-          "search_rank": 153,
+          "search_rank": 155,
           "depth_chart_position": "K"
         },
         {
@@ -550,6 +550,18 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "12517",
+          "name": "Colston Loveland",
+          "position": "TE",
+          "team": "CHI",
+          "status": "Active",
+          "injury_status": null,
+          "age": 22,
+          "years_exp": 1,
+          "search_rank": 37,
+          "depth_chart_position": "TE"
+        },
         {
           "player_id": "12522",
           "name": "Cam Ward",
@@ -575,18 +587,6 @@
           "depth_chart_position": "RWR"
         },
         {
-          "player_id": "13281",
-          "name": "Jordyn Tyson",
-          "position": "WR",
-          "team": "NO",
-          "status": "Active",
-          "injury_status": null,
-          "age": 22,
-          "years_exp": 0,
-          "search_rank": 62,
-          "depth_chart_position": "LWR"
-        },
-        {
           "player_id": "13285",
           "name": "Malachi Fields",
           "position": "WR",
@@ -595,7 +595,19 @@
           "injury_status": null,
           "age": 23,
           "years_exp": 0,
-          "search_rank": 201,
+          "search_rank": 199,
+          "depth_chart_position": "RWR"
+        },
+        {
+          "player_id": "7526",
+          "name": "Jaylen Waddle",
+          "position": "WR",
+          "team": "DEN",
+          "status": "Active",
+          "injury_status": "Out",
+          "age": 27,
+          "years_exp": 5,
+          "search_rank": 42,
           "depth_chart_position": "RWR"
         },
         {
@@ -780,7 +792,7 @@
           "injury_status": null,
           "age": 25,
           "years_exp": 0,
-          "search_rank": 377,
+          "search_rank": 378,
           "depth_chart_position": "RB"
         },
         {
@@ -832,7 +844,7 @@
           "injury_status": null,
           "age": 38,
           "years_exp": 14,
-          "search_rank": 262,
+          "search_rank": 263,
           "depth_chart_position": "QB"
         },
         {
@@ -1176,7 +1188,7 @@
           "injury_status": null,
           "age": 26,
           "years_exp": 2,
-          "search_rank": 455,
+          "search_rank": 454,
           "depth_chart_position": "RB"
         },
         {
@@ -1285,7 +1297,7 @@
           "position": "RB",
           "team": "GB",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "age": 28,
           "years_exp": 7,
           "search_rank": 20,
@@ -1410,7 +1422,7 @@
           "injury_status": null,
           "age": 32,
           "years_exp": 11,
-          "search_rank": 105,
+          "search_rank": 104,
           "depth_chart_position": "SWR"
         },
         {
@@ -1434,7 +1446,7 @@
           "injury_status": null,
           "age": 25,
           "years_exp": 3,
-          "search_rank": 421,
+          "search_rank": 423,
           "depth_chart_position": "TE"
         }
       ],
@@ -1498,7 +1510,7 @@
           "injury_status": null,
           "age": 22,
           "years_exp": 1,
-          "search_rank": 450,
+          "search_rank": 449,
           "depth_chart_position": "RB"
         },
         {
@@ -1716,7 +1728,7 @@
           "name": "Puka Nacua",
           "position": "WR",
           "team": "LAR",
-          "status": "Active",
+          "status": "Inactive",
           "injury_status": "Questionable",
           "age": 25,
           "years_exp": 3,
@@ -1782,7 +1794,7 @@
           "injury_status": null,
           "age": 24,
           "years_exp": 2,
-          "search_rank": 65,
+          "search_rank": 63,
           "depth_chart_position": "LWR"
         },
         {
@@ -2003,7 +2015,7 @@
           "injury_status": null,
           "age": 25,
           "years_exp": 0,
-          "search_rank": 161,
+          "search_rank": 162,
           "depth_chart_position": "RB"
         },
         {
@@ -2499,7 +2511,7 @@
           "injury_status": null,
           "age": 24,
           "years_exp": 2,
-          "search_rank": 21,
+          "search_rank": 22,
           "depth_chart_position": "QB"
         },
         {
@@ -2544,11 +2556,11 @@
           "position": "WR",
           "team": "ARI",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "age": 26,
           "years_exp": 3,
           "search_rank": 75,
-          "depth_chart_position": "LWR"
+          "depth_chart_position": "SWR"
         },
         {
           "player_id": "5022",
@@ -2645,7 +2657,7 @@
           "injury_status": null,
           "age": 25,
           "years_exp": 3,
-          "search_rank": 489,
+          "search_rank": 487,
           "depth_chart_position": "SWR"
         },
         {

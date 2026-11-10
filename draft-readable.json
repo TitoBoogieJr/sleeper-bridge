@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-10T11:37:47.387181+00:00",
+  "snapshot_generated_at": "2026-11-10T19:33:22.632790+00:00",
   "drafts": [
     {
       "created": 1767560932099,
@@ -212,7 +212,7 @@
         "name": "Puka Nacua",
         "position": "WR",
         "team": "LAR",
-        "status": "Active",
+        "status": "Inactive",
         "injury_status": "Questionable",
         "age": 25,
         "years_exp": 3,
@@ -791,7 +791,7 @@
         "injury_status": null,
         "age": 24,
         "years_exp": 2,
-        "search_rank": 21,
+        "search_rank": 22,
         "depth_chart_position": "QB"
       },
       "round": 3,
@@ -1616,7 +1616,7 @@
         "injury_status": null,
         "age": 24,
         "years_exp": 2,
-        "search_rank": 65,
+        "search_rank": 63,
         "depth_chart_position": "LWR"
       },
       "round": 5,
@@ -2388,7 +2388,7 @@
         "position": "RB",
         "team": "GB",
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "age": 28,
         "years_exp": 7,
         "search_rank": 20,
@@ -2666,7 +2666,7 @@
         "injury_status": null,
         "age": 32,
         "years_exp": 11,
-        "search_rank": 105,
+        "search_rank": 104,
         "depth_chart_position": "SWR"
       },
       "round": 8,
@@ -2766,7 +2766,7 @@
         "injury_status": null,
         "age": 27,
         "years_exp": 3,
-        "search_rank": 125,
+        "search_rank": 127,
         "depth_chart_position": "RB"
       },
       "round": 8,
@@ -2863,11 +2863,11 @@
         "position": "WR",
         "team": "ARI",
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Out",
         "age": 26,
         "years_exp": 3,
         "search_rank": 75,
-        "depth_chart_position": "LWR"
+        "depth_chart_position": "SWR"
       },
       "round": 8,
       "pick_no": 112,
@@ -3191,7 +3191,7 @@
         "injury_status": null,
         "age": 25,
         "years_exp": 0,
-        "search_rank": 161,
+        "search_rank": 162,
         "depth_chart_position": "RB"
       },
       "round": 9,
@@ -3363,7 +3363,7 @@
         "position": "TE",
         "team": "DAL",
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "age": 27,
         "years_exp": 4,
         "search_rank": 97,
@@ -4141,7 +4141,7 @@
         "injury_status": null,
         "age": 27,
         "years_exp": 5,
-        "search_rank": 153,
+        "search_rank": 155,
         "depth_chart_position": "K"
       },
       "round": 12,
@@ -4512,8 +4512,8 @@
         "name": "Demond Claiborne",
         "position": "RB",
         "team": "MIN",
-        "status": "Active",
-        "injury_status": "Out",
+        "status": "Inactive",
+        "injury_status": "IR",
         "age": 23,
         "years_exp": 0,
         "search_rank": 176,
@@ -4616,7 +4616,7 @@
         "injury_status": null,
         "age": 29,
         "years_exp": 7,
-        "search_rank": 132,
+        "search_rank": 133,
         "depth_chart_position": "QB"
       },
       "round": 13,

@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-10T11:37:47.387181+00:00",
+  "snapshot_generated_at": "2026-11-10T19:33:22.632790+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -414,7 +414,7 @@
             "injury_status": null,
             "age": 26,
             "years_exp": 2,
-            "search_rank": 455,
+            "search_rank": 454,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -448,7 +448,7 @@
             "injury_status": null,
             "age": 26,
             "years_exp": 2,
-            "search_rank": 455,
+            "search_rank": 454,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -503,7 +503,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 3,
-            "search_rank": 421,
+            "search_rank": 423,
             "depth_chart_position": "TE"
           },
           "destination": {
@@ -592,7 +592,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 0,
-            "search_rank": 161,
+            "search_rank": 162,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -648,7 +648,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 0,
-            "search_rank": 161,
+            "search_rank": 162,
             "depth_chart_position": "RB"
           },
           "source": {
@@ -681,7 +681,7 @@
             "injury_status": null,
             "age": 31,
             "years_exp": 9,
-            "search_rank": 459,
+            "search_rank": 458,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -864,8 +864,8 @@
             "name": "Demond Claiborne",
             "position": "RB",
             "team": "MIN",
-            "status": "Active",
-            "injury_status": "Out",
+            "status": "Inactive",
+            "injury_status": "IR",
             "age": 23,
             "years_exp": 0,
             "search_rank": 176,
@@ -990,7 +990,7 @@
             "injury_status": null,
             "age": 23,
             "years_exp": 0,
-            "search_rank": 201,
+            "search_rank": 199,
             "depth_chart_position": "RWR"
           },
           "destination": {
@@ -1192,7 +1192,7 @@
             "team": "SEA",
             "status": "Active",
             "injury_status": "Questionable",
-            "age": 29,
+            "age": 30,
             "years_exp": 7,
             "search_rank": 691,
             "depth_chart_position": "QB"
@@ -1294,7 +1294,7 @@
             "team": "SEA",
             "status": "Active",
             "injury_status": "Questionable",
-            "age": 29,
+            "age": 30,
             "years_exp": 7,
             "search_rank": 691,
             "depth_chart_position": "QB"
@@ -1420,7 +1420,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 3,
-            "search_rank": 421,
+            "search_rank": 423,
             "depth_chart_position": "TE"
           },
           "source": {
@@ -1763,8 +1763,8 @@
             "name": "Demond Claiborne",
             "position": "RB",
             "team": "MIN",
-            "status": "Active",
-            "injury_status": "Out",
+            "status": "Inactive",
+            "injury_status": "IR",
             "age": 23,
             "years_exp": 0,
             "search_rank": 176,
@@ -2123,7 +2123,7 @@
             "injury_status": null,
             "age": 22,
             "years_exp": 1,
-            "search_rank": 450,
+            "search_rank": 449,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -2212,7 +2212,7 @@
             "injury_status": null,
             "age": 22,
             "years_exp": 1,
-            "search_rank": 450,
+            "search_rank": 449,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -2301,7 +2301,7 @@
             "injury_status": null,
             "age": 22,
             "years_exp": 1,
-            "search_rank": 450,
+            "search_rank": 449,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -2458,7 +2458,7 @@
             "injury_status": null,
             "age": 22,
             "years_exp": 1,
-            "search_rank": 450,
+            "search_rank": 449,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -2544,8 +2544,8 @@
             "name": "Demond Claiborne",
             "position": "RB",
             "team": "MIN",
-            "status": "Active",
-            "injury_status": "Out",
+            "status": "Inactive",
+            "injury_status": "IR",
             "age": 23,
             "years_exp": 0,
             "search_rank": 176,
@@ -2656,7 +2656,7 @@
             "team": "SEA",
             "status": "Active",
             "injury_status": "Questionable",
-            "age": 29,
+            "age": 30,
             "years_exp": 7,
             "search_rank": 691,
             "depth_chart_position": "QB"
@@ -2835,7 +2835,7 @@
             "injury_status": null,
             "age": 34,
             "years_exp": 11,
-            "search_rank": 355,
+            "search_rank": 357,
             "depth_chart_position": "TE"
           },
           "destination": {
@@ -3984,7 +3984,7 @@
             "injury_status": null,
             "age": 38,
             "years_exp": 14,
-            "search_rank": 262,
+            "search_rank": 263,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -4587,7 +4587,7 @@
             "injury_status": null,
             "age": 31,
             "years_exp": 9,
-            "search_rank": 459,
+            "search_rank": 458,
             "depth_chart_position": "RB"
           },
           "source": {
@@ -4799,7 +4799,7 @@
             "injury_status": null,
             "age": 38,
             "years_exp": 14,
-            "search_rank": 262,
+            "search_rank": 263,
             "depth_chart_position": "QB"
           },
           "source": {
@@ -4888,7 +4888,7 @@
             "injury_status": null,
             "age": 34,
             "years_exp": 11,
-            "search_rank": 355,
+            "search_rank": 357,
             "depth_chart_position": "TE"
           },
           "source": {
@@ -5120,7 +5120,7 @@
             "injury_status": null,
             "age": 42,
             "years_exp": 21,
-            "search_rank": 186,
+            "search_rank": 187,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -5265,7 +5265,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 0,
-            "search_rank": 161,
+            "search_rank": 162,
             "depth_chart_position": "RB"
           },
           "source": {
@@ -5519,7 +5519,7 @@
             "injury_status": null,
             "age": 29,
             "years_exp": 7,
-            "search_rank": 132,
+            "search_rank": 133,
             "depth_chart_position": "QB"
           },
           "source": {
@@ -5586,7 +5586,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 3,
-            "search_rank": 421,
+            "search_rank": 423,
             "depth_chart_position": "TE"
           },
           "destination": {
@@ -5605,7 +5605,7 @@
             "position": "TE",
             "team": "DAL",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": "Out",
             "age": 27,
             "years_exp": 4,
             "search_rank": 97,
@@ -5963,7 +5963,7 @@
             "injury_status": null,
             "age": 31,
             "years_exp": 9,
-            "search_rank": 459,
+            "search_rank": 458,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -6086,7 +6086,7 @@
             "injury_status": null,
             "age": 27,
             "years_exp": 5,
-            "search_rank": 153,
+            "search_rank": 155,
             "depth_chart_position": "K"
           },
           "destination": {
@@ -6345,7 +6345,7 @@
             "injury_status": null,
             "age": 27,
             "years_exp": 5,
-            "search_rank": 153,
+            "search_rank": 155,
             "depth_chart_position": "K"
           },
           "destination": {
@@ -6668,7 +6668,7 @@
             "injury_status": null,
             "age": 27,
             "years_exp": 3,
-            "search_rank": 125,
+            "search_rank": 127,
             "depth_chart_position": "RB"
           },
           "source": {
@@ -6701,7 +6701,7 @@
             "injury_status": null,
             "age": 38,
             "years_exp": 14,
-            "search_rank": 262,
+            "search_rank": 263,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -6735,7 +6735,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 0,
-            "search_rank": 161,
+            "search_rank": 162,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -6853,7 +6853,7 @@
             "player_id": "650",
             "name": "Nick Folk",
             "position": "K",
-            "team": "ATL",
+            "team": null,
             "status": "Active",
             "injury_status": null,
             "age": 42,
@@ -6880,7 +6880,7 @@
             "injury_status": null,
             "age": 27,
             "years_exp": 5,
-            "search_rank": 153,
+            "search_rank": 155,
             "depth_chart_position": "K"
           },
           "source": {
@@ -7379,7 +7379,7 @@
             "injury_status": null,
             "age": 26,
             "years_exp": 3,
-            "search_rank": 692,
+            "search_rank": 694,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -8002,7 +8002,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 3,
-            "search_rank": 489,
+            "search_rank": 487,
             "depth_chart_position": "SWR"
           },
           "destination": {
@@ -8036,7 +8036,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 0,
-            "search_rank": 377,
+            "search_rank": 378,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -8126,7 +8126,7 @@
             "injury_status": null,
             "age": 31,
             "years_exp": 9,
-            "search_rank": 459,
+            "search_rank": 458,
             "depth_chart_position": "RB"
           },
           "source": {
@@ -8694,7 +8694,7 @@
             "injury_status": null,
             "age": 26,
             "years_exp": 3,
-            "search_rank": 692,
+            "search_rank": 694,
             "depth_chart_position": "RB"
           },
           "source": {
@@ -9071,7 +9071,7 @@
             "injury_status": null,
             "age": 42,
             "years_exp": 21,
-            "search_rank": 186,
+            "search_rank": 187,
             "depth_chart_position": "QB"
           },
           "source": {
@@ -9104,7 +9104,7 @@
             "injury_status": null,
             "age": 31,
             "years_exp": 9,
-            "search_rank": 459,
+            "search_rank": 458,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -9423,7 +9423,7 @@
             "position": "TE",
             "team": "DAL",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": "Out",
             "age": 27,
             "years_exp": 4,
             "search_rank": 97,
@@ -10126,7 +10126,7 @@
             "player_id": "650",
             "name": "Nick Folk",
             "position": "K",
-            "team": "ATL",
+            "team": null,
             "status": "Active",
             "injury_status": null,
             "age": 42,
@@ -10306,7 +10306,7 @@
             "position": "TE",
             "team": "DAL",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": "Out",
             "age": 27,
             "years_exp": 4,
             "search_rank": 97,
