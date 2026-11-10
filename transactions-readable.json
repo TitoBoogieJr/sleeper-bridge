@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-09T20:35:35.900362+00:00",
+  "snapshot_generated_at": "2026-11-10T03:21:26.328766+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -252,7 +252,7 @@
             "player_id": "9757",
             "name": "Kendre Miller",
             "position": "RB",
-            "team": "NO",
+            "team": null,
             "status": "Active",
             "injury_status": null,
             "age": 24,
@@ -503,7 +503,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 3,
-            "search_rank": 423,
+            "search_rank": 421,
             "depth_chart_position": "TE"
           },
           "destination": {
@@ -592,7 +592,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 0,
-            "search_rank": 162,
+            "search_rank": 161,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -648,7 +648,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 0,
-            "search_rank": 162,
+            "search_rank": 161,
             "depth_chart_position": "RB"
           },
           "source": {
@@ -1191,7 +1191,7 @@
             "position": "QB",
             "team": "SEA",
             "status": "Active",
-            "injury_status": null,
+            "injury_status": "Questionable",
             "age": 29,
             "years_exp": 7,
             "search_rank": 691,
@@ -1293,7 +1293,7 @@
             "position": "QB",
             "team": "SEA",
             "status": "Active",
-            "injury_status": null,
+            "injury_status": "Questionable",
             "age": 29,
             "years_exp": 7,
             "search_rank": 691,
@@ -1420,7 +1420,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 3,
-            "search_rank": 423,
+            "search_rank": 421,
             "depth_chart_position": "TE"
           },
           "source": {
@@ -1641,7 +1641,7 @@
             "position": "RB",
             "team": "MIA",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "age": 23,
             "years_exp": 0,
             "search_rank": 157,
@@ -1823,7 +1823,7 @@
             "injury_status": null,
             "age": 23,
             "years_exp": 0,
-            "search_rank": 179,
+            "search_rank": 181,
             "depth_chart_position": "SWR"
           },
           "source": {
@@ -1942,7 +1942,7 @@
             "position": "WR",
             "team": "DEN",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "age": 23,
             "years_exp": 1,
             "search_rank": 172,
@@ -2123,7 +2123,7 @@
             "injury_status": null,
             "age": 22,
             "years_exp": 1,
-            "search_rank": 449,
+            "search_rank": 450,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -2145,7 +2145,7 @@
             "injury_status": null,
             "age": 23,
             "years_exp": 0,
-            "search_rank": 197,
+            "search_rank": 199,
             "depth_chart_position": "RWR"
           },
           "source": {
@@ -2175,7 +2175,7 @@
             "position": "RB",
             "team": "MIA",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": "Out",
             "age": 23,
             "years_exp": 2,
             "search_rank": 174,
@@ -2212,7 +2212,7 @@
             "injury_status": null,
             "age": 22,
             "years_exp": 1,
-            "search_rank": 449,
+            "search_rank": 450,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -2301,7 +2301,7 @@
             "injury_status": null,
             "age": 22,
             "years_exp": 1,
-            "search_rank": 449,
+            "search_rank": 450,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -2458,7 +2458,7 @@
             "injury_status": null,
             "age": 22,
             "years_exp": 1,
-            "search_rank": 449,
+            "search_rank": 450,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -2523,7 +2523,7 @@
             "position": "RB",
             "team": "CAR",
             "status": "Active",
-            "injury_status": null,
+            "injury_status": "Out",
             "age": 28,
             "years_exp": 6,
             "search_rank": 688,
@@ -2655,7 +2655,7 @@
             "position": "QB",
             "team": "SEA",
             "status": "Active",
-            "injury_status": null,
+            "injury_status": "Questionable",
             "age": 29,
             "years_exp": 7,
             "search_rank": 691,
@@ -2799,7 +2799,7 @@
             "position": "RB",
             "team": "MIA",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": "Out",
             "age": 23,
             "years_exp": 2,
             "search_rank": 174,
@@ -2887,7 +2887,7 @@
             "position": "WR",
             "team": "NE",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "age": 33,
             "years_exp": 9,
             "search_rank": 697,
@@ -3270,7 +3270,7 @@
             "position": "RB",
             "team": "MIA",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "age": 23,
             "years_exp": 0,
             "search_rank": 157,
@@ -3302,7 +3302,7 @@
             "player_id": "9757",
             "name": "Kendre Miller",
             "position": "RB",
-            "team": "NO",
+            "team": null,
             "status": "Active",
             "injury_status": null,
             "age": 24,
@@ -3414,7 +3414,7 @@
             "position": "WR",
             "team": "DEN",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "age": 23,
             "years_exp": 1,
             "search_rank": 172,
@@ -3589,7 +3589,7 @@
             "player_id": "9757",
             "name": "Kendre Miller",
             "position": "RB",
-            "team": "NO",
+            "team": null,
             "status": "Active",
             "injury_status": null,
             "age": 24,
@@ -3704,7 +3704,7 @@
             "injury_status": null,
             "age": 31,
             "years_exp": 8,
-            "search_rank": 449,
+            "search_rank": 448,
             "depth_chart_position": "TE"
           },
           "destination": {
@@ -3772,7 +3772,7 @@
             "injury_status": null,
             "age": 31,
             "years_exp": 8,
-            "search_rank": 449,
+            "search_rank": 448,
             "depth_chart_position": "TE"
           },
           "destination": {
@@ -3874,7 +3874,7 @@
             "injury_status": null,
             "age": 31,
             "years_exp": 8,
-            "search_rank": 449,
+            "search_rank": 448,
             "depth_chart_position": "TE"
           },
           "destination": {
@@ -3984,7 +3984,7 @@
             "injury_status": null,
             "age": 38,
             "years_exp": 14,
-            "search_rank": 263,
+            "search_rank": 262,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -4385,7 +4385,7 @@
             "position": "RB",
             "team": "CAR",
             "status": "Active",
-            "injury_status": null,
+            "injury_status": "Out",
             "age": 28,
             "years_exp": 6,
             "search_rank": 688,
@@ -4799,7 +4799,7 @@
             "injury_status": null,
             "age": 38,
             "years_exp": 14,
-            "search_rank": 263,
+            "search_rank": 262,
             "depth_chart_position": "QB"
           },
           "source": {
@@ -4866,7 +4866,7 @@
             "injury_status": null,
             "age": 24,
             "years_exp": 1,
-            "search_rank": 115,
+            "search_rank": 116,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -5265,7 +5265,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 0,
-            "search_rank": 162,
+            "search_rank": 161,
             "depth_chart_position": "RB"
           },
           "source": {
@@ -5586,7 +5586,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 3,
-            "search_rank": 423,
+            "search_rank": 421,
             "depth_chart_position": "TE"
           },
           "destination": {
@@ -5927,7 +5927,7 @@
             "position": "RB",
             "team": "GB",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": "Out",
             "age": 25,
             "years_exp": 2,
             "search_rank": 98,
@@ -6086,7 +6086,7 @@
             "injury_status": null,
             "age": 27,
             "years_exp": 5,
-            "search_rank": 155,
+            "search_rank": 153,
             "depth_chart_position": "K"
           },
           "destination": {
@@ -6155,7 +6155,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 2,
-            "search_rank": 23,
+            "search_rank": 22,
             "depth_chart_position": "QB"
           },
           "source": {
@@ -6219,7 +6219,7 @@
             "position": "WR",
             "team": "CLE",
             "status": "Active",
-            "injury_status": null,
+            "injury_status": "Questionable",
             "age": 22,
             "years_exp": 0,
             "search_rank": 111,
@@ -6345,7 +6345,7 @@
             "injury_status": null,
             "age": 27,
             "years_exp": 5,
-            "search_rank": 155,
+            "search_rank": 153,
             "depth_chart_position": "K"
           },
           "destination": {
@@ -6422,7 +6422,7 @@
             "injury_status": null,
             "age": 31,
             "years_exp": 8,
-            "search_rank": 75,
+            "search_rank": 76,
             "depth_chart_position": "QB"
           },
           "source": {
@@ -6508,7 +6508,7 @@
             "position": "WR",
             "team": "CLE",
             "status": "Active",
-            "injury_status": null,
+            "injury_status": "Questionable",
             "age": 22,
             "years_exp": 0,
             "search_rank": 111,
@@ -6542,7 +6542,7 @@
             "position": "RB",
             "team": "MIA",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": "Out",
             "age": 23,
             "years_exp": 2,
             "search_rank": 174,
@@ -6701,7 +6701,7 @@
             "injury_status": null,
             "age": 38,
             "years_exp": 14,
-            "search_rank": 263,
+            "search_rank": 262,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -6735,7 +6735,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 0,
-            "search_rank": 162,
+            "search_rank": 161,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -6880,7 +6880,7 @@
             "injury_status": null,
             "age": 27,
             "years_exp": 5,
-            "search_rank": 155,
+            "search_rank": 153,
             "depth_chart_position": "K"
           },
           "source": {
@@ -6945,7 +6945,7 @@
             "team": "JAX",
             "status": "Active",
             "injury_status": null,
-            "age": 29,
+            "age": 30,
             "years_exp": 7,
             "search_rank": 77,
             "depth_chart_position": "RWR"
@@ -6966,7 +6966,7 @@
             "position": "WR",
             "team": "NE",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "age": 33,
             "years_exp": 9,
             "search_rank": 697,
@@ -7111,7 +7111,7 @@
             "team": "JAX",
             "status": "Active",
             "injury_status": null,
-            "age": 29,
+            "age": 30,
             "years_exp": 7,
             "search_rank": 77,
             "depth_chart_position": "RWR"
@@ -7379,7 +7379,7 @@
             "injury_status": null,
             "age": 26,
             "years_exp": 3,
-            "search_rank": 694,
+            "search_rank": 692,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -7434,7 +7434,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 2,
-            "search_rank": 23,
+            "search_rank": 22,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -7612,7 +7612,7 @@
             "injury_status": null,
             "age": 23,
             "years_exp": 0,
-            "search_rank": 197,
+            "search_rank": 199,
             "depth_chart_position": "RWR"
           },
           "destination": {
@@ -7845,7 +7845,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 2,
-            "search_rank": 23,
+            "search_rank": 22,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -8444,7 +8444,7 @@
             "position": "QB",
             "team": "CLE",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": "Out",
             "age": 31,
             "years_exp": 9,
             "search_rank": 291,
@@ -8694,7 +8694,7 @@
             "injury_status": null,
             "age": 26,
             "years_exp": 3,
-            "search_rank": 694,
+            "search_rank": 692,
             "depth_chart_position": "RB"
           },
           "source": {
@@ -8826,7 +8826,7 @@
             "position": "QB",
             "team": "MIA",
             "status": "Active",
-            "injury_status": null,
+            "injury_status": "Questionable",
             "age": 27,
             "years_exp": 4,
             "search_rank": 122,
@@ -9267,7 +9267,7 @@
             "position": "QB",
             "team": "LAC",
             "status": "Active",
-            "injury_status": null,
+            "injury_status": "Questionable",
             "age": 28,
             "years_exp": 6,
             "search_rank": 34,
@@ -9668,7 +9668,7 @@
             "player_id": "9757",
             "name": "Kendre Miller",
             "position": "RB",
-            "team": "NO",
+            "team": null,
             "status": "Active",
             "injury_status": null,
             "age": 24,
@@ -9809,7 +9809,7 @@
             "age": 28,
             "years_exp": 5,
             "search_rank": 532,
-            "depth_chart_position": "RB"
+            "depth_chart_position": null
           },
           "destination": {
             "roster_id": 2,
@@ -10015,7 +10015,7 @@
             "player_id": "9757",
             "name": "Kendre Miller",
             "position": "RB",
-            "team": "NO",
+            "team": null,
             "status": "Active",
             "injury_status": null,
             "age": 24,

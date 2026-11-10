@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-09T20:35:35.900362+00:00",
+  "snapshot_generated_at": "2026-11-10T03:21:26.328766+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -1164,19 +1164,6 @@
             "eligible_next_season": true,
             "cost_round": 14,
             "reason": "Drafted in Round 14"
-          }
-        },
-        {
-          "player_id": "9757",
-          "name": "Kendre Miller",
-          "position": "RB",
-          "nfl_team": "NO",
-          "location": "bench",
-          "draft": null,
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 14,
-            "reason": "Undrafted player; keeper cost is Round 14"
           }
         },
         {
