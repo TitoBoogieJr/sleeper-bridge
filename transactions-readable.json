@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-11T00:30:30.319804+00:00",
+  "snapshot_generated_at": "2026-11-11T07:38:37.039189+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -9709,6 +9709,74 @@
             "years_exp": 3,
             "search_rank": 681,
             "depth_chart_position": "RB"
+          },
+          "source": {
+            "roster_id": 14,
+            "owner_user_id": "1263695631499665408",
+            "username": "jeredoliver",
+            "team_name": "JSN Bourne"
+          }
+        }
+      ],
+      "roster_ids": [
+        14
+      ]
+    },
+    {
+      "transaction_id": "1426110811398488064",
+      "week": 9,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794373822597,
+      "faab": null,
+      "adds": [],
+      "drops": [
+        {
+          "player": {
+            "player_id": "8161",
+            "name": "Malik Willis",
+            "position": "QB",
+            "team": "MIA",
+            "status": "Active",
+            "injury_status": "Questionable",
+            "age": 27,
+            "years_exp": 4,
+            "search_rank": 122,
+            "depth_chart_position": "QB"
+          },
+          "source": {
+            "roster_id": 1,
+            "owner_user_id": "1263601129552355328",
+            "username": "nathan697",
+            "team_name": "Egbuka, I hardly know ya"
+          }
+        }
+      ],
+      "roster_ids": [
+        1
+      ]
+    },
+    {
+      "transaction_id": "1426044692151148544",
+      "week": 9,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794358058539,
+      "faab": null,
+      "adds": [],
+      "drops": [
+        {
+          "player": {
+            "player_id": "5849",
+            "name": "Kyler Murray",
+            "position": "QB",
+            "team": "MIN",
+            "status": "Active",
+            "injury_status": "Out",
+            "age": 29,
+            "years_exp": 7,
+            "search_rank": 88,
+            "depth_chart_position": "QB"
           },
           "source": {
             "roster_id": 14,

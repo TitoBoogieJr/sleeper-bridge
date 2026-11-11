@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-11T00:30:30.319804+00:00",
+  "snapshot_generated_at": "2026-11-11T07:38:37.039189+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -1653,7 +1653,7 @@
           "name": "Hunter Henry",
           "position": "TE",
           "nfl_team": "NE",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -1748,7 +1748,7 @@
           "name": "Darius Cooper",
           "position": "WR",
           "nfl_team": "PHI",
-          "location": "starter",
+          "location": "bench",
           "draft": null,
           "keeper": {
             "eligible_next_season": true,
@@ -2298,29 +2298,6 @@
           }
         },
         {
-          "player_id": "5849",
-          "name": "Kyler Murray",
-          "position": "QB",
-          "nfl_team": "MIN",
-          "location": "bench",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 12,
-            "pick_no": 160,
-            "original_roster_id": 7,
-            "original_owner_user_id": "713449654771056640",
-            "original_username": "Tonay",
-            "original_team_name": "Relaxed Slims",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 12,
-            "reason": "Drafted in Round 12"
-          }
-        },
-        {
           "player_id": "12474",
           "name": "Woody Marks",
           "position": "RB",
@@ -2546,7 +2523,7 @@
           "name": "Rico Dowdle",
           "position": "RB",
           "nfl_team": "PIT",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -2634,19 +2611,6 @@
           }
         },
         {
-          "player_id": "8161",
-          "name": "Malik Willis",
-          "position": "QB",
-          "nfl_team": "MIA",
-          "location": "starter",
-          "draft": null,
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 14,
-            "reason": "Undrafted player; keeper cost is Round 14"
-          }
-        },
-        {
           "player_id": "5872",
           "name": "Deebo Samuel Sr.",
           "position": "WR",
@@ -2674,7 +2638,7 @@
           "name": "Michael Penix Jr.",
           "position": "QB",
           "nfl_team": "ATL",
-          "location": "bench",
+          "location": "starter",
           "draft": null,
           "keeper": {
             "eligible_next_season": true,
@@ -2700,7 +2664,7 @@
           "name": "Devin Singletary",
           "position": "RB",
           "nfl_team": "NYG",
-          "location": "starter",
+          "location": "bench",
           "draft": null,
           "keeper": {
             "eligible_next_season": true,
