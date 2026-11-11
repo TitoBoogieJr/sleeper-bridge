@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-11T07:38:37.039189+00:00",
+  "snapshot_generated_at": "2026-11-11T15:59:24.148160+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -9723,6 +9723,150 @@
       ]
     },
     {
+      "transaction_id": "1426118273124032512",
+      "week": 9,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1794375601611,
+      "faab": 15,
+      "adds": [
+        {
+          "player": {
+            "player_id": "9502",
+            "name": "Tank Dell",
+            "position": "WR",
+            "team": "HOU",
+            "status": "Active",
+            "injury_status": null,
+            "age": 27,
+            "years_exp": 3,
+            "search_rank": 187,
+            "depth_chart_position": "SWR"
+          },
+          "destination": {
+            "roster_id": 10,
+            "owner_user_id": "1263230668070977536",
+            "username": "lionelesteban",
+            "team_name": "Kittle El Cero Miedo"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "player_id": "13414",
+            "name": "Kaelon Black",
+            "position": "RB",
+            "team": "SF",
+            "status": "Active",
+            "injury_status": null,
+            "age": 25,
+            "years_exp": 0,
+            "search_rank": 162,
+            "depth_chart_position": "RB"
+          },
+          "source": {
+            "roster_id": 10,
+            "owner_user_id": "1263230668070977536",
+            "username": "lionelesteban",
+            "team_name": "Kittle El Cero Miedo"
+          }
+        }
+      ],
+      "roster_ids": [
+        10
+      ]
+    },
+    {
+      "transaction_id": "1426114604852838400",
+      "week": 9,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1794374727026,
+      "faab": 1,
+      "adds": [
+        {
+          "player": {
+            "player_id": "11653",
+            "name": "Charlie Smyth",
+            "position": "K",
+            "team": "NO",
+            "status": "Active",
+            "injury_status": null,
+            "age": 25,
+            "years_exp": 2,
+            "search_rank": 242,
+            "depth_chart_position": null
+          },
+          "destination": {
+            "roster_id": 1,
+            "owner_user_id": "1263601129552355328",
+            "username": "nathan697",
+            "team_name": "Egbuka, I hardly know ya"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "player_id": "8129",
+            "name": "Dameon Pierce",
+            "position": "RB",
+            "team": null,
+            "status": "Inactive",
+            "injury_status": "Questionable",
+            "age": 26,
+            "years_exp": 4,
+            "search_rank": 627,
+            "depth_chart_position": null
+          },
+          "source": {
+            "roster_id": 1,
+            "owner_user_id": "1263601129552355328",
+            "username": "nathan697",
+            "team_name": "Egbuka, I hardly know ya"
+          }
+        }
+      ],
+      "roster_ids": [
+        1
+      ]
+    },
+    {
+      "transaction_id": "1426112677549211648",
+      "week": 9,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1794374267522,
+      "faab": 1,
+      "adds": [
+        {
+          "player": {
+            "player_id": "5854",
+            "name": "Drew Lock",
+            "position": "QB",
+            "team": "SEA",
+            "status": "Active",
+            "injury_status": "Questionable",
+            "age": 30,
+            "years_exp": 7,
+            "search_rank": 691,
+            "depth_chart_position": "QB"
+          },
+          "destination": {
+            "roster_id": 1,
+            "owner_user_id": "1263601129552355328",
+            "username": "nathan697",
+            "team_name": "Egbuka, I hardly know ya"
+          }
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        1
+      ]
+    },
+    {
       "transaction_id": "1426110811398488064",
       "week": 9,
       "type": "free_agent",
@@ -9754,6 +9898,299 @@
       ],
       "roster_ids": [
         1
+      ]
+    },
+    {
+      "transaction_id": "1426083093122392064",
+      "week": 9,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1794367214045,
+      "faab": 8,
+      "adds": [
+        {
+          "player": {
+            "player_id": "12504",
+            "name": "Kaleb Johnson",
+            "position": "RB",
+            "team": "GB",
+            "status": "Active",
+            "injury_status": null,
+            "age": 23,
+            "years_exp": 1,
+            "search_rank": 173,
+            "depth_chart_position": "RB"
+          },
+          "destination": {
+            "roster_id": 14,
+            "owner_user_id": "1263695631499665408",
+            "username": "jeredoliver",
+            "team_name": "JSN Bourne"
+          }
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        14
+      ]
+    },
+    {
+      "transaction_id": "1426080859391287296",
+      "week": 9,
+      "type": "waiver",
+      "status": "failed",
+      "created": 1794366681482,
+      "faab": 3,
+      "adds": [
+        {
+          "player": {
+            "player_id": "10219",
+            "name": "Chris Rodriguez Jr.",
+            "position": "RB",
+            "team": "JAX",
+            "status": "Active",
+            "injury_status": null,
+            "age": 27,
+            "years_exp": 3,
+            "search_rank": 127,
+            "depth_chart_position": "RB"
+          },
+          "destination": {
+            "roster_id": 9,
+            "owner_user_id": "1263686208978944001",
+            "username": "kevkazoo",
+            "team_name": "Nacua Matata"
+          }
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        9
+      ]
+    },
+    {
+      "transaction_id": "1426080403516579840",
+      "week": 9,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1794366572793,
+      "faab": 9,
+      "adds": [
+        {
+          "player": {
+            "player_id": "12718",
+            "name": "Konata Mumpfield",
+            "position": "WR",
+            "team": "LAR",
+            "status": "Active",
+            "injury_status": null,
+            "age": 24,
+            "years_exp": 1,
+            "search_rank": 678,
+            "depth_chart_position": "SWR"
+          },
+          "destination": {
+            "roster_id": 9,
+            "owner_user_id": "1263686208978944001",
+            "username": "kevkazoo",
+            "team_name": "Nacua Matata"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "player_id": "4993",
+            "name": "Mike Gesicki",
+            "position": "TE",
+            "team": "CIN",
+            "status": "Active",
+            "injury_status": null,
+            "age": 31,
+            "years_exp": 8,
+            "search_rank": 448,
+            "depth_chart_position": "TE"
+          },
+          "source": {
+            "roster_id": 9,
+            "owner_user_id": "1263686208978944001",
+            "username": "kevkazoo",
+            "team_name": "Nacua Matata"
+          }
+        }
+      ],
+      "roster_ids": [
+        9
+      ]
+    },
+    {
+      "transaction_id": "1426079151864938517",
+      "week": 9,
+      "type": "waiver",
+      "status": "failed",
+      "created": 1794366274375,
+      "faab": 1,
+      "adds": [
+        {
+          "player": {
+            "player_id": "12492",
+            "name": "Pat Bryant",
+            "position": "WR",
+            "team": "DEN",
+            "status": "Active",
+            "injury_status": null,
+            "age": 23,
+            "years_exp": 1,
+            "search_rank": 172,
+            "depth_chart_position": "SWR"
+          },
+          "destination": {
+            "roster_id": 14,
+            "owner_user_id": "1263695631499665408",
+            "username": "jeredoliver",
+            "team_name": "JSN Bourne"
+          }
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        14
+      ]
+    },
+    {
+      "transaction_id": "1426079016175038464",
+      "week": 9,
+      "type": "waiver",
+      "status": "failed",
+      "created": 1794366242024,
+      "faab": 1,
+      "adds": [
+        {
+          "player": {
+            "player_id": "13269",
+            "name": "Fernando Mendoza",
+            "position": "QB",
+            "team": "LV",
+            "status": "Active",
+            "injury_status": null,
+            "age": 23,
+            "years_exp": 0,
+            "search_rank": 109,
+            "depth_chart_position": "QB"
+          },
+          "destination": {
+            "roster_id": 14,
+            "owner_user_id": "1263695631499665408",
+            "username": "jeredoliver",
+            "team_name": "JSN Bourne"
+          }
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        14
+      ]
+    },
+    {
+      "transaction_id": "1426078823207698432",
+      "week": 9,
+      "type": "waiver",
+      "status": "failed",
+      "created": 1794366196018,
+      "faab": 1,
+      "adds": [
+        {
+          "player": {
+            "player_id": "BAL",
+            "name": "Baltimore Ravens",
+            "position": "DEF",
+            "team": "BAL",
+            "status": null,
+            "injury_status": null,
+            "age": null,
+            "years_exp": null,
+            "search_rank": null,
+            "depth_chart_position": null
+          },
+          "destination": {
+            "roster_id": 14,
+            "owner_user_id": "1263695631499665408",
+            "username": "jeredoliver",
+            "team_name": "JSN Bourne"
+          }
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        14
+      ]
+    },
+    {
+      "transaction_id": "1426078771189919744",
+      "week": 9,
+      "type": "waiver",
+      "status": "failed",
+      "created": 1794366183616,
+      "faab": 1,
+      "adds": [
+        {
+          "player": {
+            "player_id": "9502",
+            "name": "Tank Dell",
+            "position": "WR",
+            "team": "HOU",
+            "status": "Active",
+            "injury_status": null,
+            "age": 27,
+            "years_exp": 3,
+            "search_rank": 187,
+            "depth_chart_position": "SWR"
+          },
+          "destination": {
+            "roster_id": 14,
+            "owner_user_id": "1263695631499665408",
+            "username": "jeredoliver",
+            "team_name": "JSN Bourne"
+          }
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        14
+      ]
+    },
+    {
+      "transaction_id": "1426059798561980416",
+      "week": 9,
+      "type": "waiver",
+      "status": "failed",
+      "created": 1794361660188,
+      "faab": 1,
+      "adds": [
+        {
+          "player": {
+            "player_id": "12504",
+            "name": "Kaleb Johnson",
+            "position": "RB",
+            "team": "GB",
+            "status": "Active",
+            "injury_status": null,
+            "age": 23,
+            "years_exp": 1,
+            "search_rank": 173,
+            "depth_chart_position": "RB"
+          },
+          "destination": {
+            "roster_id": 4,
+            "owner_user_id": "979940216863608832",
+            "username": "Naz514",
+            "team_name": "Maye-B not so lucky"
+          }
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        4
       ]
     },
     {
@@ -9822,6 +10259,116 @@
       ],
       "roster_ids": [
         10
+      ]
+    },
+    {
+      "transaction_id": "1425867246617497600",
+      "week": 9,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1794315752228,
+      "faab": 1,
+      "adds": [
+        {
+          "player": {
+            "player_id": "1945",
+            "name": "Chris Boswell",
+            "position": "K",
+            "team": "PIT",
+            "status": "Active",
+            "injury_status": null,
+            "age": 35,
+            "years_exp": 12,
+            "search_rank": 151,
+            "depth_chart_position": "K"
+          },
+          "destination": {
+            "roster_id": 9,
+            "owner_user_id": "1263686208978944001",
+            "username": "kevkazoo",
+            "team_name": "Nacua Matata"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "player_id": "3678",
+            "name": "Wil Lutz",
+            "position": "K",
+            "team": "DEN",
+            "status": "Active",
+            "injury_status": null,
+            "age": 32,
+            "years_exp": 10,
+            "search_rank": 177,
+            "depth_chart_position": "K"
+          },
+          "source": {
+            "roster_id": 9,
+            "owner_user_id": "1263686208978944001",
+            "username": "kevkazoo",
+            "team_name": "Nacua Matata"
+          }
+        }
+      ],
+      "roster_ids": [
+        9
+      ]
+    },
+    {
+      "transaction_id": "1425867145350250496",
+      "week": 9,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1794315728084,
+      "faab": 2,
+      "adds": [
+        {
+          "player": {
+            "player_id": "GB",
+            "name": "Green Bay Packers",
+            "position": "DEF",
+            "team": "GB",
+            "status": null,
+            "injury_status": null,
+            "age": null,
+            "years_exp": null,
+            "search_rank": null,
+            "depth_chart_position": null
+          },
+          "destination": {
+            "roster_id": 9,
+            "owner_user_id": "1263686208978944001",
+            "username": "kevkazoo",
+            "team_name": "Nacua Matata"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "player_id": "CHI",
+            "name": "Chicago Bears",
+            "position": "DEF",
+            "team": "CHI",
+            "status": null,
+            "injury_status": null,
+            "age": null,
+            "years_exp": null,
+            "search_rank": null,
+            "depth_chart_position": null
+          },
+          "source": {
+            "roster_id": 9,
+            "owner_user_id": "1263686208978944001",
+            "username": "kevkazoo",
+            "team_name": "Nacua Matata"
+          }
+        }
+      ],
+      "roster_ids": [
+        9
       ]
     },
     {
@@ -10468,6 +11015,171 @@
             "years_exp": 6,
             "search_rank": 68,
             "depth_chart_position": "RB"
+          },
+          "source": {
+            "roster_id": 3,
+            "owner_user_id": "735686232146886656",
+            "username": "ONeal24",
+            "team_name": "Ashy Larry strikes again"
+          }
+        }
+      ],
+      "roster_ids": [
+        3
+      ]
+    },
+    {
+      "transaction_id": "1426218318259326976",
+      "week": 10,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794399454229,
+      "faab": null,
+      "adds": [
+        {
+          "player": {
+            "player_id": "BAL",
+            "name": "Baltimore Ravens",
+            "position": "DEF",
+            "team": "BAL",
+            "status": null,
+            "injury_status": null,
+            "age": null,
+            "years_exp": null,
+            "search_rank": null,
+            "depth_chart_position": null
+          },
+          "destination": {
+            "roster_id": 7,
+            "owner_user_id": "713449654771056640",
+            "username": "Tonay",
+            "team_name": "Relaxed Slims"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "player_id": "TB",
+            "name": "Tampa Bay Buccaneers",
+            "position": "DEF",
+            "team": "TB",
+            "status": null,
+            "injury_status": null,
+            "age": null,
+            "years_exp": null,
+            "search_rank": null,
+            "depth_chart_position": null
+          },
+          "source": {
+            "roster_id": 7,
+            "owner_user_id": "713449654771056640",
+            "username": "Tonay",
+            "team_name": "Relaxed Slims"
+          }
+        }
+      ],
+      "roster_ids": [
+        7
+      ]
+    },
+    {
+      "transaction_id": "1426217841589239808",
+      "week": 10,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794399340582,
+      "faab": null,
+      "adds": [
+        {
+          "player": {
+            "player_id": "8116",
+            "name": "Pierre Strong Jr.",
+            "position": "RB",
+            "team": "GB",
+            "status": "Active",
+            "injury_status": null,
+            "age": 27,
+            "years_exp": 4,
+            "search_rank": 631,
+            "depth_chart_position": "RB"
+          },
+          "destination": {
+            "roster_id": 7,
+            "owner_user_id": "713449654771056640",
+            "username": "Tonay",
+            "team_name": "Relaxed Slims"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "player_id": "9482",
+            "name": "Michael Mayer",
+            "position": "TE",
+            "team": "LV",
+            "status": "Active",
+            "injury_status": null,
+            "age": 25,
+            "years_exp": 3,
+            "search_rank": 423,
+            "depth_chart_position": "TE"
+          },
+          "source": {
+            "roster_id": 7,
+            "owner_user_id": "713449654771056640",
+            "username": "Tonay",
+            "team_name": "Relaxed Slims"
+          }
+        }
+      ],
+      "roster_ids": [
+        7
+      ]
+    },
+    {
+      "transaction_id": "1426163130450313216",
+      "week": 10,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794386296430,
+      "faab": null,
+      "adds": [
+        {
+          "player": {
+            "player_id": "2505",
+            "name": "Darren Waller",
+            "position": "TE",
+            "team": "CAR",
+            "status": "Active",
+            "injury_status": null,
+            "age": 34,
+            "years_exp": 11,
+            "search_rank": 357,
+            "depth_chart_position": "TE"
+          },
+          "destination": {
+            "roster_id": 3,
+            "owner_user_id": "735686232146886656",
+            "username": "ONeal24",
+            "team_name": "Ashy Larry strikes again"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "player_id": "7526",
+            "name": "Jaylen Waddle",
+            "position": "WR",
+            "team": "DEN",
+            "status": "Active",
+            "injury_status": "Out",
+            "age": 27,
+            "years_exp": 5,
+            "search_rank": 42,
+            "depth_chart_position": "RWR"
           },
           "source": {
             "roster_id": 3,
