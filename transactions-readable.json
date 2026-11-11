@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-11T15:59:24.148160+00:00",
+  "snapshot_generated_at": "2026-11-11T22:37:39.519805+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -252,7 +252,7 @@
             "player_id": "9757",
             "name": "Kendre Miller",
             "position": "RB",
-            "team": null,
+            "team": "DAL",
             "status": "Active",
             "injury_status": null,
             "age": 24,
@@ -733,7 +733,7 @@
             "position": "QB",
             "team": "MIN",
             "status": "Active",
-            "injury_status": "Out",
+            "injury_status": "Doubtful",
             "age": 29,
             "years_exp": 7,
             "search_rank": 88,
@@ -920,7 +920,7 @@
             "position": "QB",
             "team": "MIN",
             "status": "Active",
-            "injury_status": "Out",
+            "injury_status": "Doubtful",
             "age": 29,
             "years_exp": 7,
             "search_rank": 88,
@@ -990,7 +990,7 @@
             "injury_status": null,
             "age": 23,
             "years_exp": 0,
-            "search_rank": 199,
+            "search_rank": 201,
             "depth_chart_position": "RWR"
           },
           "destination": {
@@ -1092,7 +1092,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 3,
-            "search_rank": 101,
+            "search_rank": 102,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -1731,7 +1731,7 @@
             "position": "QB",
             "team": "MIN",
             "status": "Active",
-            "injury_status": "Out",
+            "injury_status": "Doubtful",
             "age": 29,
             "years_exp": 7,
             "search_rank": 88,
@@ -1823,7 +1823,7 @@
             "injury_status": null,
             "age": 23,
             "years_exp": 0,
-            "search_rank": 181,
+            "search_rank": 179,
             "depth_chart_position": "SWR"
           },
           "source": {
@@ -2123,7 +2123,7 @@
             "injury_status": null,
             "age": 22,
             "years_exp": 1,
-            "search_rank": 449,
+            "search_rank": 448,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -2145,7 +2145,7 @@
             "injury_status": null,
             "age": 23,
             "years_exp": 0,
-            "search_rank": 199,
+            "search_rank": 197,
             "depth_chart_position": "RWR"
           },
           "source": {
@@ -2175,7 +2175,7 @@
             "position": "RB",
             "team": "MIA",
             "status": "Active",
-            "injury_status": "Out",
+            "injury_status": "Questionable",
             "age": 23,
             "years_exp": 2,
             "search_rank": 174,
@@ -2212,7 +2212,7 @@
             "injury_status": null,
             "age": 22,
             "years_exp": 1,
-            "search_rank": 449,
+            "search_rank": 448,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -2301,7 +2301,7 @@
             "injury_status": null,
             "age": 22,
             "years_exp": 1,
-            "search_rank": 449,
+            "search_rank": 448,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -2330,7 +2330,7 @@
             "player_id": "1479",
             "name": "Keenan Allen",
             "position": "WR",
-            "team": "IND",
+            "team": "SF",
             "status": "Active",
             "injury_status": null,
             "age": 34,
@@ -2458,7 +2458,7 @@
             "injury_status": null,
             "age": 22,
             "years_exp": 1,
-            "search_rank": 449,
+            "search_rank": 448,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -2523,7 +2523,7 @@
             "position": "RB",
             "team": "CAR",
             "status": "Active",
-            "injury_status": "Out",
+            "injury_status": null,
             "age": 28,
             "years_exp": 6,
             "search_rank": 688,
@@ -2799,7 +2799,7 @@
             "position": "RB",
             "team": "MIA",
             "status": "Active",
-            "injury_status": "Out",
+            "injury_status": "Questionable",
             "age": 23,
             "years_exp": 2,
             "search_rank": 174,
@@ -2835,7 +2835,7 @@
             "injury_status": null,
             "age": 34,
             "years_exp": 11,
-            "search_rank": 357,
+            "search_rank": 356,
             "depth_chart_position": "TE"
           },
           "destination": {
@@ -3047,7 +3047,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 3,
-            "search_rank": 101,
+            "search_rank": 102,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -3112,7 +3112,7 @@
             "position": "QB",
             "team": "MIN",
             "status": "Active",
-            "injury_status": "Out",
+            "injury_status": "Doubtful",
             "age": 29,
             "years_exp": 7,
             "search_rank": 88,
@@ -3302,7 +3302,7 @@
             "player_id": "9757",
             "name": "Kendre Miller",
             "position": "RB",
-            "team": null,
+            "team": "DAL",
             "status": "Active",
             "injury_status": null,
             "age": 24,
@@ -3558,7 +3558,7 @@
             "position": "RB",
             "team": "TEN",
             "status": "Active",
-            "injury_status": "Out",
+            "injury_status": "Questionable",
             "age": 25,
             "years_exp": 3,
             "search_rank": 122,
@@ -3589,7 +3589,7 @@
             "player_id": "9757",
             "name": "Kendre Miller",
             "position": "RB",
-            "team": null,
+            "team": "DAL",
             "status": "Active",
             "injury_status": null,
             "age": 24,
@@ -3611,7 +3611,7 @@
             "player_id": "1479",
             "name": "Keenan Allen",
             "position": "WR",
-            "team": "IND",
+            "team": "SF",
             "status": "Active",
             "injury_status": null,
             "age": 34,
@@ -3704,7 +3704,7 @@
             "injury_status": null,
             "age": 31,
             "years_exp": 8,
-            "search_rank": 448,
+            "search_rank": 450,
             "depth_chart_position": "TE"
           },
           "destination": {
@@ -3772,7 +3772,7 @@
             "injury_status": null,
             "age": 31,
             "years_exp": 8,
-            "search_rank": 448,
+            "search_rank": 450,
             "depth_chart_position": "TE"
           },
           "destination": {
@@ -3874,7 +3874,7 @@
             "injury_status": null,
             "age": 31,
             "years_exp": 8,
-            "search_rank": 448,
+            "search_rank": 450,
             "depth_chart_position": "TE"
           },
           "destination": {
@@ -3979,12 +3979,12 @@
             "player_id": "1166",
             "name": "Kirk Cousins",
             "position": "QB",
-            "team": "LV",
+            "team": "MIN",
             "status": "Active",
             "injury_status": null,
             "age": 38,
             "years_exp": 14,
-            "search_rank": 263,
+            "search_rank": 262,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -4193,7 +4193,7 @@
             "position": "WR",
             "team": "MIN",
             "status": "Active",
-            "injury_status": "Out",
+            "injury_status": "Questionable",
             "age": 29,
             "years_exp": 6,
             "search_rank": 123,
@@ -4385,7 +4385,7 @@
             "position": "RB",
             "team": "CAR",
             "status": "Active",
-            "injury_status": "Out",
+            "injury_status": null,
             "age": 28,
             "years_exp": 6,
             "search_rank": 688,
@@ -4794,12 +4794,12 @@
             "player_id": "1166",
             "name": "Kirk Cousins",
             "position": "QB",
-            "team": "LV",
+            "team": "MIN",
             "status": "Active",
             "injury_status": null,
             "age": 38,
             "years_exp": 14,
-            "search_rank": 263,
+            "search_rank": 262,
             "depth_chart_position": "QB"
           },
           "source": {
@@ -4888,7 +4888,7 @@
             "injury_status": null,
             "age": 34,
             "years_exp": 11,
-            "search_rank": 357,
+            "search_rank": 356,
             "depth_chart_position": "TE"
           },
           "source": {
@@ -5120,7 +5120,7 @@
             "injury_status": null,
             "age": 42,
             "years_exp": 21,
-            "search_rank": 187,
+            "search_rank": 186,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -5139,7 +5139,7 @@
             "position": "WR",
             "team": "SEA",
             "status": "Active",
-            "injury_status": "Out",
+            "injury_status": "Questionable",
             "age": 28,
             "years_exp": 4,
             "search_rank": 150,
@@ -5293,7 +5293,7 @@
             "player_id": "1479",
             "name": "Keenan Allen",
             "position": "WR",
-            "team": "IND",
+            "team": "SF",
             "status": "Active",
             "injury_status": null,
             "age": 34,
@@ -5693,7 +5693,7 @@
             "position": "WR",
             "team": "NYJ",
             "status": "Active",
-            "injury_status": null,
+            "injury_status": "Questionable",
             "age": 22,
             "years_exp": 0,
             "search_rank": 151,
@@ -5727,7 +5727,7 @@
             "position": "WR",
             "team": "NYJ",
             "status": "Active",
-            "injury_status": null,
+            "injury_status": "Questionable",
             "age": 22,
             "years_exp": 0,
             "search_rank": 151,
@@ -5850,7 +5850,7 @@
             "position": "QB",
             "team": "MIN",
             "status": "Active",
-            "injury_status": "Out",
+            "injury_status": "Doubtful",
             "age": 29,
             "years_exp": 7,
             "search_rank": 88,
@@ -5905,7 +5905,7 @@
             "position": "WR",
             "team": "NYJ",
             "status": "Active",
-            "injury_status": null,
+            "injury_status": "Questionable",
             "age": 22,
             "years_exp": 0,
             "search_rank": 151,
@@ -5927,7 +5927,7 @@
             "position": "RB",
             "team": "GB",
             "status": "Active",
-            "injury_status": "Out",
+            "injury_status": "Questionable",
             "age": 25,
             "years_exp": 2,
             "search_rank": 98,
@@ -6049,7 +6049,7 @@
             "position": "QB",
             "team": "MIN",
             "status": "Active",
-            "injury_status": "Out",
+            "injury_status": "Doubtful",
             "age": 29,
             "years_exp": 7,
             "search_rank": 88,
@@ -6219,7 +6219,7 @@
             "position": "WR",
             "team": "CLE",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "age": 22,
             "years_exp": 0,
             "search_rank": 111,
@@ -6308,7 +6308,7 @@
             "position": "WR",
             "team": "NYJ",
             "status": "Active",
-            "injury_status": null,
+            "injury_status": "Questionable",
             "age": 22,
             "years_exp": 0,
             "search_rank": 151,
@@ -6422,7 +6422,7 @@
             "injury_status": null,
             "age": 31,
             "years_exp": 8,
-            "search_rank": 76,
+            "search_rank": 75,
             "depth_chart_position": "QB"
           },
           "source": {
@@ -6508,7 +6508,7 @@
             "position": "WR",
             "team": "CLE",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "age": 22,
             "years_exp": 0,
             "search_rank": 111,
@@ -6542,7 +6542,7 @@
             "position": "RB",
             "team": "MIA",
             "status": "Active",
-            "injury_status": "Out",
+            "injury_status": "Questionable",
             "age": 23,
             "years_exp": 2,
             "search_rank": 174,
@@ -6668,7 +6668,7 @@
             "injury_status": null,
             "age": 27,
             "years_exp": 3,
-            "search_rank": 127,
+            "search_rank": 125,
             "depth_chart_position": "RB"
           },
           "source": {
@@ -6696,12 +6696,12 @@
             "player_id": "1166",
             "name": "Kirk Cousins",
             "position": "QB",
-            "team": "LV",
+            "team": "MIN",
             "status": "Active",
             "injury_status": null,
             "age": 38,
             "years_exp": 14,
-            "search_rank": 263,
+            "search_rank": 262,
             "depth_chart_position": "QB"
           },
           "destination": {
@@ -6859,7 +6859,7 @@
             "age": 42,
             "years_exp": 19,
             "search_rank": 249,
-            "depth_chart_position": "K"
+            "depth_chart_position": null
           },
           "destination": {
             "roster_id": 9,
@@ -7088,7 +7088,7 @@
             "position": "RB",
             "team": "TEN",
             "status": "Active",
-            "injury_status": "Out",
+            "injury_status": "Questionable",
             "age": 25,
             "years_exp": 3,
             "search_rank": 122,
@@ -7254,7 +7254,7 @@
             "position": "QB",
             "team": "MIN",
             "status": "Active",
-            "injury_status": "Out",
+            "injury_status": "Doubtful",
             "age": 29,
             "years_exp": 7,
             "search_rank": 88,
@@ -7379,7 +7379,7 @@
             "injury_status": null,
             "age": 26,
             "years_exp": 3,
-            "search_rank": 694,
+            "search_rank": 692,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -7612,7 +7612,7 @@
             "injury_status": null,
             "age": 23,
             "years_exp": 0,
-            "search_rank": 199,
+            "search_rank": 197,
             "depth_chart_position": "RWR"
           },
           "destination": {
@@ -8002,7 +8002,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 3,
-            "search_rank": 487,
+            "search_rank": 488,
             "depth_chart_position": "SWR"
           },
           "destination": {
@@ -8036,7 +8036,7 @@
             "injury_status": null,
             "age": 25,
             "years_exp": 0,
-            "search_rank": 378,
+            "search_rank": 377,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -8089,7 +8089,7 @@
             "position": "WR",
             "team": "MIN",
             "status": "Active",
-            "injury_status": "Out",
+            "injury_status": "Questionable",
             "age": 29,
             "years_exp": 6,
             "search_rank": 123,
@@ -8156,7 +8156,7 @@
             "position": "RB",
             "team": "ARI",
             "status": "Active",
-            "injury_status": "Out",
+            "injury_status": "Questionable",
             "age": 25,
             "years_exp": 4,
             "search_rank": 669,
@@ -8444,7 +8444,7 @@
             "position": "QB",
             "team": "CLE",
             "status": "Active",
-            "injury_status": "Out",
+            "injury_status": null,
             "age": 31,
             "years_exp": 9,
             "search_rank": 291,
@@ -8694,7 +8694,7 @@
             "injury_status": null,
             "age": 26,
             "years_exp": 3,
-            "search_rank": 694,
+            "search_rank": 692,
             "depth_chart_position": "RB"
           },
           "source": {
@@ -8825,8 +8825,8 @@
             "name": "Malik Willis",
             "position": "QB",
             "team": "MIA",
-            "status": "Active",
-            "injury_status": "Questionable",
+            "status": "Inactive",
+            "injury_status": "IR",
             "age": 27,
             "years_exp": 4,
             "search_rank": 122,
@@ -9071,7 +9071,7 @@
             "injury_status": null,
             "age": 42,
             "years_exp": 21,
-            "search_rank": 187,
+            "search_rank": 186,
             "depth_chart_position": "QB"
           },
           "source": {
@@ -9211,7 +9211,7 @@
             "position": "QB",
             "team": "MIN",
             "status": "Active",
-            "injury_status": "Out",
+            "injury_status": "Doubtful",
             "age": 29,
             "years_exp": 7,
             "search_rank": 88,
@@ -9270,7 +9270,7 @@
             "injury_status": "Questionable",
             "age": 28,
             "years_exp": 6,
-            "search_rank": 34,
+            "search_rank": 33,
             "depth_chart_position": "QB"
           },
           "source": {
@@ -9355,7 +9355,7 @@
             "position": "RB",
             "team": "ARI",
             "status": "Active",
-            "injury_status": "Out",
+            "injury_status": "Questionable",
             "age": 25,
             "years_exp": 4,
             "search_rank": 669,
@@ -9500,7 +9500,7 @@
             "position": "QB",
             "team": "MIN",
             "status": "Active",
-            "injury_status": "Out",
+            "injury_status": "Doubtful",
             "age": 29,
             "years_exp": 7,
             "search_rank": 88,
@@ -9534,7 +9534,7 @@
             "position": "RB",
             "team": "TEN",
             "status": "Active",
-            "injury_status": "Out",
+            "injury_status": "Questionable",
             "age": 25,
             "years_exp": 3,
             "search_rank": 122,
@@ -9568,7 +9568,7 @@
             "position": "RB",
             "team": "ARI",
             "status": "Active",
-            "injury_status": "Out",
+            "injury_status": "Questionable",
             "age": 25,
             "years_exp": 4,
             "search_rank": 669,
@@ -9668,7 +9668,7 @@
             "player_id": "9757",
             "name": "Kendre Miller",
             "position": "RB",
-            "team": null,
+            "team": "DAL",
             "status": "Active",
             "injury_status": null,
             "age": 24,
@@ -9881,8 +9881,8 @@
             "name": "Malik Willis",
             "position": "QB",
             "team": "MIA",
-            "status": "Active",
-            "injury_status": "Questionable",
+            "status": "Inactive",
+            "injury_status": "IR",
             "age": 27,
             "years_exp": 4,
             "search_rank": 122,
@@ -9952,7 +9952,7 @@
             "injury_status": null,
             "age": 27,
             "years_exp": 3,
-            "search_rank": 127,
+            "search_rank": 125,
             "depth_chart_position": "RB"
           },
           "destination": {
@@ -10008,7 +10008,7 @@
             "injury_status": null,
             "age": 31,
             "years_exp": 8,
-            "search_rank": 448,
+            "search_rank": 450,
             "depth_chart_position": "TE"
           },
           "source": {
@@ -10209,7 +10209,7 @@
             "position": "QB",
             "team": "MIN",
             "status": "Active",
-            "injury_status": "Out",
+            "injury_status": "Doubtful",
             "age": 29,
             "years_exp": 7,
             "search_rank": 88,
@@ -10664,7 +10664,7 @@
             "player_id": "9757",
             "name": "Kendre Miller",
             "position": "RB",
-            "team": null,
+            "team": "DAL",
             "status": "Active",
             "injury_status": null,
             "age": 24,
@@ -10781,7 +10781,7 @@
             "age": 42,
             "years_exp": 19,
             "search_rank": 249,
-            "depth_chart_position": "K"
+            "depth_chart_position": null
           },
           "source": {
             "roster_id": 9,
@@ -11029,6 +11029,61 @@
       ]
     },
     {
+      "transaction_id": "1426331209633398784",
+      "week": 10,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794426369630,
+      "faab": null,
+      "adds": [
+        {
+          "player": {
+            "player_id": "96",
+            "name": "Aaron Rodgers",
+            "position": "QB",
+            "team": "PIT",
+            "status": "Active",
+            "injury_status": null,
+            "age": 42,
+            "years_exp": 21,
+            "search_rank": 186,
+            "depth_chart_position": "QB"
+          },
+          "destination": {
+            "roster_id": 2,
+            "owner_user_id": "1263709493192052736",
+            "username": "KarolynRose",
+            "team_name": "Magic Skol Bus"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "player_id": "7561",
+            "name": "Elijah Mitchell",
+            "position": "RB",
+            "team": "PHI",
+            "status": "Active",
+            "injury_status": null,
+            "age": 28,
+            "years_exp": 5,
+            "search_rank": 532,
+            "depth_chart_position": null
+          },
+          "source": {
+            "roster_id": 2,
+            "owner_user_id": "1263709493192052736",
+            "username": "KarolynRose",
+            "team_name": "Magic Skol Bus"
+          }
+        }
+      ],
+      "roster_ids": [
+        2
+      ]
+    },
+    {
       "transaction_id": "1426218318259326976",
       "week": 10,
       "type": "free_agent",
@@ -11156,7 +11211,7 @@
             "injury_status": null,
             "age": 34,
             "years_exp": 11,
-            "search_rank": 357,
+            "search_rank": 356,
             "depth_chart_position": "TE"
           },
           "destination": {
