@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-12T03:42:06.848557+00:00",
+  "snapshot_generated_at": "2026-11-12T12:26:11.541445+00:00",
   "current_week": 10,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -622,7 +622,7 @@
         "wins": 4,
         "losses": 14,
         "ties": 0,
-        "faab_used": 97
+        "faab_used": 98
       },
       "starters": [
         {
@@ -736,18 +736,6 @@
       ],
       "bench": [
         {
-          "player_id": "11635",
-          "name": "Ladd McConkey",
-          "position": "WR",
-          "team": "LAC",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "age": 25,
-          "years_exp": 2,
-          "search_rank": 35,
-          "depth_chart_position": "SWR"
-        },
-        {
           "player_id": "12545",
           "name": "Tyler Shough",
           "position": "QB",
@@ -769,6 +757,18 @@
           "age": 23,
           "years_exp": 0,
           "search_rank": 118,
+          "depth_chart_position": "RB"
+        },
+        {
+          "player_id": "13414",
+          "name": "Kaelon Black",
+          "position": "RB",
+          "team": "SF",
+          "status": "Active",
+          "injury_status": null,
+          "age": 25,
+          "years_exp": 0,
+          "search_rank": 162,
           "depth_chart_position": "RB"
         },
         {

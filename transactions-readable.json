@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-12T03:42:06.848557+00:00",
+  "snapshot_generated_at": "2026-11-12T12:26:11.541445+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -11081,6 +11081,61 @@
       ],
       "roster_ids": [
         2
+      ]
+    },
+    {
+      "transaction_id": "1426226754543951872",
+      "week": 10,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1794401465596,
+      "faab": 1,
+      "adds": [
+        {
+          "player": {
+            "player_id": "13414",
+            "name": "Kaelon Black",
+            "position": "RB",
+            "team": "SF",
+            "status": "Active",
+            "injury_status": null,
+            "age": 25,
+            "years_exp": 0,
+            "search_rank": 162,
+            "depth_chart_position": "RB"
+          },
+          "destination": {
+            "roster_id": 4,
+            "owner_user_id": "979940216863608832",
+            "username": "Naz514",
+            "team_name": "Maye-B not so lucky"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "player_id": "11635",
+            "name": "Ladd McConkey",
+            "position": "WR",
+            "team": "LAC",
+            "status": "Active",
+            "injury_status": "Questionable",
+            "age": 25,
+            "years_exp": 2,
+            "search_rank": 35,
+            "depth_chart_position": "SWR"
+          },
+          "source": {
+            "roster_id": 4,
+            "owner_user_id": "979940216863608832",
+            "username": "Naz514",
+            "team_name": "Maye-B not so lucky"
+          }
+        }
+      ],
+      "roster_ids": [
+        4
       ]
     },
     {
