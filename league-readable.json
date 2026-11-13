@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-13T01:23:41.047628+00:00",
+  "snapshot_generated_at": "2026-11-13T08:38:55.672289+00:00",
   "current_week": 10,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -2480,15 +2480,15 @@
       },
       "starters": [
         {
-          "player_id": "11560",
-          "name": "Caleb Williams",
+          "player_id": "1373",
+          "name": "Geno Smith",
           "position": "QB",
-          "team": "CHI",
+          "team": "NYJ",
           "status": "Active",
           "injury_status": null,
-          "age": 24,
-          "years_exp": 2,
-          "search_rank": 22,
+          "age": 36,
+          "years_exp": 13,
+          "search_rank": 210,
           "depth_chart_position": "QB"
         },
         {
@@ -2528,27 +2528,27 @@
           "depth_chart_position": "LWR"
         },
         {
-          "player_id": "10232",
-          "name": "Michael Wilson",
+          "player_id": "13298",
+          "name": "KC Concepcion Jr.",
           "position": "WR",
-          "team": "ARI",
-          "status": "Inactive",
-          "injury_status": "IR",
-          "age": 26,
-          "years_exp": 3,
-          "search_rank": 75,
-          "depth_chart_position": "PR"
-        },
-        {
-          "player_id": "5022",
-          "name": "Dallas Goedert",
-          "position": "TE",
-          "team": "PHI",
+          "team": "CLE",
           "status": "Active",
           "injury_status": null,
-          "age": 31,
-          "years_exp": 8,
-          "search_rank": 94,
+          "age": 22,
+          "years_exp": 0,
+          "search_rank": 111,
+          "depth_chart_position": "SWR"
+        },
+        {
+          "player_id": "9480",
+          "name": "Brenton Strange",
+          "position": "TE",
+          "team": "JAX",
+          "status": "Active",
+          "injury_status": null,
+          "age": 25,
+          "years_exp": 3,
+          "search_rank": 104,
           "depth_chart_position": "TE"
         },
         {
@@ -2590,39 +2590,27 @@
       ],
       "bench": [
         {
-          "player_id": "12529",
-          "name": "TreVeyon Henderson",
-          "position": "RB",
-          "team": "NE",
+          "player_id": "11560",
+          "name": "Caleb Williams",
+          "position": "QB",
+          "team": "CHI",
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": null,
           "age": 24,
-          "years_exp": 1,
-          "search_rank": 39,
-          "depth_chart_position": "RB"
+          "years_exp": 2,
+          "search_rank": 22,
+          "depth_chart_position": "QB"
         },
         {
-          "player_id": "13298",
-          "name": "KC Concepcion Jr.",
-          "position": "WR",
-          "team": "CLE",
-          "status": "Active",
-          "injury_status": null,
-          "age": 22,
-          "years_exp": 0,
-          "search_rank": 111,
-          "depth_chart_position": "SWR"
-        },
-        {
-          "player_id": "9480",
-          "name": "Brenton Strange",
+          "player_id": "5022",
+          "name": "Dallas Goedert",
           "position": "TE",
-          "team": "JAX",
+          "team": "PHI",
           "status": "Active",
           "injury_status": null,
-          "age": 25,
-          "years_exp": 3,
-          "search_rank": 104,
+          "age": 31,
+          "years_exp": 8,
+          "search_rank": 94,
           "depth_chart_position": "TE"
         },
         {
@@ -2651,6 +2639,30 @@
         }
       ],
       "reserve": [
+        {
+          "player_id": "10232",
+          "name": "Michael Wilson",
+          "position": "WR",
+          "team": "ARI",
+          "status": "Inactive",
+          "injury_status": "IR",
+          "age": 26,
+          "years_exp": 3,
+          "search_rank": 75,
+          "depth_chart_position": "PR"
+        },
+        {
+          "player_id": "12529",
+          "name": "TreVeyon Henderson",
+          "position": "RB",
+          "team": "NE",
+          "status": "Active",
+          "injury_status": "Out",
+          "age": 24,
+          "years_exp": 1,
+          "search_rank": 39,
+          "depth_chart_position": "RB"
+        },
         {
           "player_id": "5927",
           "name": "Terry McLaurin",
