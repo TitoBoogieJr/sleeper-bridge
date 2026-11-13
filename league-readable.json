@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-12T20:20:09.605115+00:00",
+  "snapshot_generated_at": "2026-11-13T01:23:41.047628+00:00",
   "current_week": 10,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -1773,6 +1773,18 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "10219",
+          "name": "Chris Rodriguez Jr.",
+          "position": "RB",
+          "team": "JAX",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "age": 27,
+          "years_exp": 3,
+          "search_rank": 125,
+          "depth_chart_position": "RB"
+        },
         {
           "player_id": "11620",
           "name": "Rome Odunze",

@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-12T20:20:09.605115+00:00",
+  "snapshot_generated_at": "2026-11-13T01:23:41.047628+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -11026,6 +11026,40 @@
       ],
       "roster_ids": [
         3
+      ]
+    },
+    {
+      "transaction_id": "1426718925235712000",
+      "week": 10,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794518808233,
+      "faab": null,
+      "adds": [
+        {
+          "player": {
+            "player_id": "10219",
+            "name": "Chris Rodriguez Jr.",
+            "position": "RB",
+            "team": "JAX",
+            "status": "Active",
+            "injury_status": "Questionable",
+            "age": 27,
+            "years_exp": 3,
+            "search_rank": 125,
+            "depth_chart_position": "RB"
+          },
+          "destination": {
+            "roster_id": 9,
+            "owner_user_id": "1263686208978944001",
+            "username": "kevkazoo",
+            "team_name": "Nacua Matata"
+          }
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        9
       ]
     },
     {

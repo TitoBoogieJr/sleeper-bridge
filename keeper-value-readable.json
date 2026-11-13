@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-12T20:20:09.605115+00:00",
+  "snapshot_generated_at": "2026-11-13T01:23:41.047628+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -1428,6 +1428,29 @@
             "eligible_next_season": true,
             "cost_round": 7,
             "reason": "Drafted in Round 7"
+          }
+        },
+        {
+          "player_id": "10219",
+          "name": "Chris Rodriguez Jr.",
+          "position": "RB",
+          "nfl_team": "JAX",
+          "location": "bench",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 8,
+            "pick_no": 108,
+            "original_roster_id": 2,
+            "original_owner_user_id": "1263709493192052736",
+            "original_username": "KarolynRose",
+            "original_team_name": "Magic Skol Bus",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 8,
+            "reason": "Drafted in Round 8"
           }
         },
         {
