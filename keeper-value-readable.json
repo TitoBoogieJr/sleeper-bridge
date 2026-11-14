@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-14T16:41:24.100277+00:00",
+  "snapshot_generated_at": "2026-11-14T21:15:35.363206+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -64,7 +64,7 @@
           "name": "Breece Hall",
           "position": "RB",
           "nfl_team": "NYJ",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -202,7 +202,7 @@
           "name": "Emmett Johnson",
           "position": "RB",
           "nfl_team": "KC",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -1926,7 +1926,7 @@
           "name": "Josh Jacobs",
           "position": "RB",
           "nfl_team": "GB",
-          "location": "bench",
+          "location": "reserve",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",

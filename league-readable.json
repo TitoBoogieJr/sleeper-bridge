@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-14T16:41:24.100277+00:00",
+  "snapshot_generated_at": "2026-11-14T21:15:35.363206+00:00",
   "current_week": 10,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -1378,18 +1378,6 @@
           "depth_chart_position": "SWR"
         },
         {
-          "player_id": "5850",
-          "name": "Josh Jacobs",
-          "position": "RB",
-          "team": "GB",
-          "status": "Active",
-          "injury_status": "Out",
-          "age": 28,
-          "years_exp": 7,
-          "search_rank": 20,
-          "depth_chart_position": "RB"
-        },
-        {
           "player_id": "8116",
           "name": "Pierre Strong Jr.",
           "position": "RB",
@@ -1415,6 +1403,18 @@
         }
       ],
       "reserve": [
+        {
+          "player_id": "5850",
+          "name": "Josh Jacobs",
+          "position": "RB",
+          "team": "GB",
+          "status": "Active",
+          "injury_status": "Out",
+          "age": 28,
+          "years_exp": 7,
+          "search_rank": 20,
+          "depth_chart_position": "RB"
+        },
         {
           "player_id": "8142",
           "name": "Alec Pierce",
@@ -1910,15 +1910,15 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "8155",
-          "name": "Breece Hall",
+          "player_id": "13337",
+          "name": "Emmett Johnson",
           "position": "RB",
-          "team": "NYJ",
+          "team": "KC",
           "status": "Active",
           "injury_status": null,
-          "age": 25,
-          "years_exp": 4,
-          "search_rank": 27,
+          "age": 23,
+          "years_exp": 0,
+          "search_rank": 113,
           "depth_chart_position": "RB"
         },
         {
@@ -1960,18 +1960,6 @@
           "depth_chart_position": "RWR"
         },
         {
-          "player_id": "13337",
-          "name": "Emmett Johnson",
-          "position": "RB",
-          "team": "KC",
-          "status": "Active",
-          "injury_status": null,
-          "age": 23,
-          "years_exp": 0,
-          "search_rank": 113,
-          "depth_chart_position": "RB"
-        },
-        {
           "player_id": "8136",
           "name": "Rachaad White",
           "position": "RB",
@@ -1981,6 +1969,18 @@
           "age": 27,
           "years_exp": 4,
           "search_rank": 125,
+          "depth_chart_position": "RB"
+        },
+        {
+          "player_id": "8155",
+          "name": "Breece Hall",
+          "position": "RB",
+          "team": "NYJ",
+          "status": "Active",
+          "injury_status": null,
+          "age": 25,
+          "years_exp": 4,
+          "search_rank": 27,
           "depth_chart_position": "RB"
         },
         {
