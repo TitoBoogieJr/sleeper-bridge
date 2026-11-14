@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-13T22:47:44.824623+00:00",
+  "snapshot_generated_at": "2026-11-14T02:58:34.344726+00:00",
   "players": [
     {
       "player_id": "9226",
@@ -15880,30 +15880,6 @@
       "injury_status": null,
       "age": null,
       "years_exp": 1,
-      "search_rank": null,
-      "depth_chart_position": null,
-      "rostered": false,
-      "roster_id": null,
-      "owner_user_id": null,
-      "username": null,
-      "team_name": null,
-      "location": "free_agent",
-      "draft": null,
-      "keeper": {
-        "eligible_next_season": true,
-        "cost_round": 14,
-        "reason": "Undrafted player; keeper cost is Round 14"
-      }
-    },
-    {
-      "player_id": "TB",
-      "name": "Tampa Bay Buccaneers",
-      "position": "DEF",
-      "team": "TB",
-      "status": null,
-      "injury_status": null,
-      "age": null,
-      "years_exp": null,
       "search_rank": null,
       "depth_chart_position": null,
       "rostered": false,

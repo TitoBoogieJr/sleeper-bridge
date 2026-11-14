@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-13T22:47:44.824623+00:00",
+  "snapshot_generated_at": "2026-11-14T02:58:34.344726+00:00",
   "current_week": 10,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -1996,18 +1996,6 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "5844",
-          "name": "T.J. Hockenson",
-          "position": "TE",
-          "team": "MIN",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "age": 29,
-          "years_exp": 7,
-          "search_rank": 128,
-          "depth_chart_position": "TE"
-        },
-        {
           "player_id": "8136",
           "name": "Rachaad White",
           "position": "RB",
@@ -2030,6 +2018,18 @@
           "years_exp": 3,
           "search_rank": 187,
           "depth_chart_position": "SWR"
+        },
+        {
+          "player_id": "TB",
+          "name": "Tampa Bay Buccaneers",
+          "position": "DEF",
+          "team": "TB",
+          "status": null,
+          "injury_status": null,
+          "age": null,
+          "years_exp": null,
+          "search_rank": null,
+          "depth_chart_position": null
         }
       ],
       "reserve": [
@@ -2044,6 +2044,18 @@
           "years_exp": 12,
           "search_rank": 46,
           "depth_chart_position": "LWR"
+        },
+        {
+          "player_id": "5844",
+          "name": "T.J. Hockenson",
+          "position": "TE",
+          "team": "MIN",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "age": 29,
+          "years_exp": 7,
+          "search_rank": 128,
+          "depth_chart_position": "TE"
         }
       ]
     },

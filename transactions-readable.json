@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-13T22:47:44.824623+00:00",
+  "snapshot_generated_at": "2026-11-14T02:58:34.344726+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -11026,6 +11026,40 @@
       ],
       "roster_ids": [
         3
+      ]
+    },
+    {
+      "transaction_id": "1427154022858510336",
+      "week": 10,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794622543591,
+      "faab": null,
+      "adds": [
+        {
+          "player": {
+            "player_id": "TB",
+            "name": "Tampa Bay Buccaneers",
+            "position": "DEF",
+            "team": "TB",
+            "status": null,
+            "injury_status": null,
+            "age": null,
+            "years_exp": null,
+            "search_rank": null,
+            "depth_chart_position": null
+          },
+          "destination": {
+            "roster_id": 10,
+            "owner_user_id": "1263230668070977536",
+            "username": "lionelesteban",
+            "team_name": "Kittle El Cero Miedo"
+          }
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        10
       ]
     },
     {
