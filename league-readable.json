@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-15T01:13:38.639163+00:00",
+  "snapshot_generated_at": "2026-11-15T08:19:53.124402+00:00",
   "current_week": 10,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -1454,18 +1454,6 @@
           "depth_chart_position": "QB"
         },
         {
-          "player_id": "8151",
-          "name": "Kenneth Walker III",
-          "position": "RB",
-          "team": "KC",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "age": 26,
-          "years_exp": 4,
-          "search_rank": 19,
-          "depth_chart_position": "RB"
-        },
-        {
           "player_id": "12495",
           "name": "Ollie Gordon II",
           "position": "RB",
@@ -1475,6 +1463,18 @@
           "age": 22,
           "years_exp": 1,
           "search_rank": 448,
+          "depth_chart_position": "RB"
+        },
+        {
+          "player_id": "12491",
+          "name": "Corey Kiner",
+          "position": "RB",
+          "team": "NE",
+          "status": "Active",
+          "injury_status": null,
+          "age": 24,
+          "years_exp": 1,
+          "search_rank": 487,
           "depth_chart_position": "RB"
         },
         {
@@ -1490,16 +1490,16 @@
           "depth_chart_position": "RWR"
         },
         {
-          "player_id": "11628",
-          "name": "Marvin Harrison Jr.",
+          "player_id": "8146",
+          "name": "Garrett Wilson",
           "position": "WR",
-          "team": "HOU",
+          "team": "NYJ",
           "status": "Active",
-          "injury_status": "Out",
-          "age": 24,
-          "years_exp": 2,
-          "search_rank": 73,
-          "depth_chart_position": "RWR"
+          "injury_status": "Questionable",
+          "age": 26,
+          "years_exp": 4,
+          "search_rank": 38,
+          "depth_chart_position": "LWR"
         },
         {
           "player_id": "11604",
@@ -1552,6 +1552,18 @@
       ],
       "bench": [
         {
+          "player_id": "11628",
+          "name": "Marvin Harrison Jr.",
+          "position": "WR",
+          "team": "HOU",
+          "status": "Active",
+          "injury_status": "Out",
+          "age": 24,
+          "years_exp": 2,
+          "search_rank": 73,
+          "depth_chart_position": "RWR"
+        },
+        {
           "player_id": "11834",
           "name": "Devaughn Vele",
           "position": "WR",
@@ -1562,18 +1574,6 @@
           "years_exp": 2,
           "search_rank": 209,
           "depth_chart_position": "SWR"
-        },
-        {
-          "player_id": "12491",
-          "name": "Corey Kiner",
-          "position": "RB",
-          "team": "NE",
-          "status": "Active",
-          "injury_status": null,
-          "age": 24,
-          "years_exp": 1,
-          "search_rank": 487,
-          "depth_chart_position": "RB"
         },
         {
           "player_id": "12542",
@@ -1600,16 +1600,16 @@
           "depth_chart_position": "QB"
         },
         {
-          "player_id": "8146",
-          "name": "Garrett Wilson",
-          "position": "WR",
-          "team": "NYJ",
+          "player_id": "8151",
+          "name": "Kenneth Walker III",
+          "position": "RB",
+          "team": "KC",
           "status": "Active",
           "injury_status": "Questionable",
           "age": 26,
           "years_exp": 4,
-          "search_rank": 38,
-          "depth_chart_position": "LWR"
+          "search_rank": 19,
+          "depth_chart_position": "RB"
         }
       ],
       "reserve": [
@@ -2800,6 +2800,18 @@
           "depth_chart_position": "RB"
         },
         {
+          "player_id": "11635",
+          "name": "Ladd McConkey",
+          "position": "WR",
+          "team": "LAC",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "age": 25,
+          "years_exp": 2,
+          "search_rank": 35,
+          "depth_chart_position": "SWR"
+        },
+        {
           "player_id": "12504",
           "name": "Kaleb Johnson",
           "position": "RB",
@@ -2833,18 +2845,6 @@
           "age": 22,
           "years_exp": 0,
           "search_rank": 156,
-          "depth_chart_position": "LWR"
-        },
-        {
-          "player_id": "13311",
-          "name": "Chris Bell",
-          "position": "WR",
-          "team": "MIA",
-          "status": "Active",
-          "injury_status": "Doubtful",
-          "age": 22,
-          "years_exp": 0,
-          "search_rank": 197,
           "depth_chart_position": "LWR"
         }
       ],

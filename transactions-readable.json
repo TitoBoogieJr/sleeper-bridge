@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-15T01:13:38.639163+00:00",
+  "snapshot_generated_at": "2026-11-15T08:19:53.124402+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -11026,6 +11026,61 @@
       ],
       "roster_ids": [
         3
+      ]
+    },
+    {
+      "transaction_id": "1427553216253399040",
+      "week": 10,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794717718712,
+      "faab": null,
+      "adds": [
+        {
+          "player": {
+            "player_id": "11635",
+            "name": "Ladd McConkey",
+            "position": "WR",
+            "team": "LAC",
+            "status": "Active",
+            "injury_status": "Questionable",
+            "age": 25,
+            "years_exp": 2,
+            "search_rank": 35,
+            "depth_chart_position": "SWR"
+          },
+          "destination": {
+            "roster_id": 14,
+            "owner_user_id": "1263695631499665408",
+            "username": "jeredoliver",
+            "team_name": "JSN Bourne"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "player_id": "13311",
+            "name": "Chris Bell",
+            "position": "WR",
+            "team": "MIA",
+            "status": "Active",
+            "injury_status": "Doubtful",
+            "age": 22,
+            "years_exp": 0,
+            "search_rank": 197,
+            "depth_chart_position": "LWR"
+          },
+          "source": {
+            "roster_id": 14,
+            "owner_user_id": "1263695631499665408",
+            "username": "jeredoliver",
+            "team_name": "JSN Bourne"
+          }
+        }
+      ],
+      "roster_ids": [
+        14
       ]
     },
     {
