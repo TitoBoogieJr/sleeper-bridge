@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-15T15:48:58.242790+00:00",
+  "snapshot_generated_at": "2026-11-15T20:56:21.067920+00:00",
   "current_week": 10,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -114,7 +114,7 @@
           "age": 25,
           "years_exp": 2,
           "search_rank": 242,
-          "depth_chart_position": null
+          "depth_chart_position": "K"
         },
         {
           "player_id": "LAR",
@@ -172,7 +172,7 @@
           "position": "TE",
           "team": "PIT",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "age": 28,
           "years_exp": 5,
           "search_rank": 230,
@@ -227,7 +227,7 @@
           "injury_status": null,
           "age": 42,
           "years_exp": 21,
-          "search_rank": 186,
+          "search_rank": 187,
           "depth_chart_position": "QB"
         },
         {
@@ -239,7 +239,7 @@
           "injury_status": null,
           "age": 24,
           "years_exp": 1,
-          "search_rank": 37,
+          "search_rank": 36,
           "depth_chart_position": "RB"
         },
         {
@@ -296,7 +296,7 @@
           "position": "WR",
           "team": "MIN",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "age": 24,
           "years_exp": 3,
           "search_rank": 99,
@@ -425,7 +425,7 @@
           "injury_status": null,
           "age": 32,
           "years_exp": 10,
-          "search_rank": 61,
+          "search_rank": 62,
           "depth_chart_position": "QB"
         },
         {
@@ -485,20 +485,20 @@
           "injury_status": null,
           "age": 34,
           "years_exp": 11,
-          "search_rank": 355,
+          "search_rank": 356,
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "13279",
-          "name": "Carnell Tate",
+          "player_id": "13281",
+          "name": "Jordyn Tyson",
           "position": "WR",
-          "team": "TEN",
+          "team": "NO",
           "status": "Active",
-          "injury_status": "Out",
-          "age": 21,
+          "injury_status": null,
+          "age": 22,
           "years_exp": 0,
-          "search_rank": 61,
-          "depth_chart_position": "RWR"
+          "search_rank": 62,
+          "depth_chart_position": "LWR"
         },
         {
           "player_id": "7839",
@@ -551,16 +551,16 @@
           "depth_chart_position": "QB"
         },
         {
-          "player_id": "13281",
-          "name": "Jordyn Tyson",
+          "player_id": "13279",
+          "name": "Carnell Tate",
           "position": "WR",
-          "team": "NO",
+          "team": "TEN",
           "status": "Active",
-          "injury_status": null,
-          "age": 22,
+          "injury_status": "Out",
+          "age": 21,
           "years_exp": 0,
-          "search_rank": 62,
-          "depth_chart_position": "LWR"
+          "search_rank": 61,
+          "depth_chart_position": "RWR"
         },
         {
           "player_id": "13285",
@@ -571,7 +571,7 @@
           "injury_status": null,
           "age": 23,
           "years_exp": 0,
-          "search_rank": 199,
+          "search_rank": 201,
           "depth_chart_position": "RWR"
         },
         {
@@ -607,7 +607,7 @@
           "position": "QB",
           "team": "NE",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "age": 24,
           "years_exp": 2,
           "search_rank": 9,
@@ -631,7 +631,7 @@
           "position": "RB",
           "team": "NE",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "age": 28,
           "years_exp": 5,
           "search_rank": 58,
@@ -670,7 +670,7 @@
           "injury_status": null,
           "age": 26,
           "years_exp": 3,
-          "search_rank": 64,
+          "search_rank": 65,
           "depth_chart_position": "TE"
         },
         {
@@ -679,7 +679,7 @@
           "position": "WR",
           "team": "NE",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "age": 29,
           "years_exp": 7,
           "search_rank": 17,
@@ -768,7 +768,7 @@
           "injury_status": null,
           "age": 25,
           "years_exp": 0,
-          "search_rank": 379,
+          "search_rank": 380,
           "depth_chart_position": "RB"
         }
       ],
@@ -811,15 +811,15 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "13305",
-          "name": "Mike Washington Jr.",
+          "player_id": "4035",
+          "name": "Alvin Kamara",
           "position": "RB",
-          "team": "LV",
+          "team": "NO",
           "status": "Active",
           "injury_status": null,
-          "age": 23,
-          "years_exp": 0,
-          "search_rank": 123,
+          "age": 31,
+          "years_exp": 9,
+          "search_rank": 119,
           "depth_chart_position": "RB"
         },
         {
@@ -883,10 +883,10 @@
           "depth_chart_position": "K"
         },
         {
-          "player_id": "DEN",
-          "name": "Denver Broncos",
+          "player_id": "IND",
+          "name": "Indianapolis Colts",
           "position": "DEF",
-          "team": "DEN",
+          "team": "IND",
           "status": null,
           "injury_status": null,
           "age": null,
@@ -896,6 +896,18 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "13305",
+          "name": "Mike Washington Jr.",
+          "position": "RB",
+          "team": "LV",
+          "status": "Active",
+          "injury_status": null,
+          "age": 23,
+          "years_exp": 0,
+          "search_rank": 123,
+          "depth_chart_position": "RB"
+        },
         {
           "player_id": "1479",
           "name": "Keenan Allen",
@@ -907,18 +919,6 @@
           "years_exp": 13,
           "search_rank": 180,
           "depth_chart_position": "RWR"
-        },
-        {
-          "player_id": "4037",
-          "name": "Chris Godwin Jr.",
-          "position": "WR",
-          "team": "TB",
-          "status": "Active",
-          "injury_status": null,
-          "age": 30,
-          "years_exp": 9,
-          "search_rank": 88,
-          "depth_chart_position": "SWR"
         },
         {
           "player_id": "4866",
@@ -933,28 +933,28 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "5189",
-          "name": "Eddy Pineiro",
-          "position": "K",
-          "team": "SF",
+          "player_id": "7526",
+          "name": "Jaylen Waddle",
+          "position": "WR",
+          "team": "DEN",
           "status": "Active",
-          "injury_status": null,
-          "age": 31,
-          "years_exp": 8,
-          "search_rank": 174,
-          "depth_chart_position": "K"
+          "injury_status": "Out",
+          "age": 27,
+          "years_exp": 5,
+          "search_rank": 42,
+          "depth_chart_position": "RWR"
         },
         {
-          "player_id": "9511",
-          "name": "Keaton Mitchell",
-          "position": "RB",
-          "team": "LAC",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "age": 24,
-          "years_exp": 3,
-          "search_rank": 148,
-          "depth_chart_position": "RB"
+          "player_id": "DEN",
+          "name": "Denver Broncos",
+          "position": "DEF",
+          "team": "DEN",
+          "status": null,
+          "injury_status": null,
+          "age": null,
+          "years_exp": null,
+          "search_rank": null,
+          "depth_chart_position": null
         }
       ],
       "reserve": [
@@ -1101,7 +1101,7 @@
           "injury_status": null,
           "age": 31,
           "years_exp": 3,
-          "search_rank": 91,
+          "search_rank": 89,
           "depth_chart_position": "K"
         },
         {
@@ -1209,8 +1209,8 @@
           "name": "Travis Etienne Jr.",
           "position": "RB",
           "team": "NO",
-          "status": "Inactive",
-          "injury_status": "IR",
+          "status": "Active",
+          "injury_status": null,
           "age": 27,
           "years_exp": 5,
           "search_rank": 34,
@@ -1349,7 +1349,7 @@
           "injury_status": null,
           "age": 23,
           "years_exp": 0,
-          "search_rank": 199,
+          "search_rank": 197,
           "depth_chart_position": "RWR"
         },
         {
@@ -1361,8 +1361,20 @@
           "injury_status": null,
           "age": 32,
           "years_exp": 11,
-          "search_rank": 104,
+          "search_rank": 105,
           "depth_chart_position": "SWR"
+        },
+        {
+          "player_id": "7562",
+          "name": "Tutu Atwell",
+          "position": "WR",
+          "team": "LAR",
+          "status": "Active",
+          "injury_status": null,
+          "age": 27,
+          "years_exp": 5,
+          "search_rank": 691,
+          "depth_chart_position": "RWR"
         },
         {
           "player_id": "8116",
@@ -1370,7 +1382,7 @@
           "position": "RB",
           "team": "GB",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "age": 27,
           "years_exp": 4,
           "search_rank": 631,
@@ -1449,7 +1461,7 @@
           "injury_status": null,
           "age": 22,
           "years_exp": 1,
-          "search_rank": 448,
+          "search_rank": 449,
           "depth_chart_position": "RB"
         },
         {
@@ -1482,7 +1494,7 @@
           "position": "WR",
           "team": "NYJ",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "age": 26,
           "years_exp": 4,
           "search_rank": 38,
@@ -1592,10 +1604,10 @@
           "position": "RB",
           "team": "KC",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "age": 26,
           "years_exp": 4,
-          "search_rank": 19,
+          "search_rank": 17,
           "depth_chart_position": "RB"
         }
       ],
@@ -1671,7 +1683,7 @@
           "injury_status": null,
           "age": 23,
           "years_exp": 2,
-          "search_rank": 28,
+          "search_rank": 26,
           "depth_chart_position": "LWR"
         },
         {
@@ -1745,7 +1757,7 @@
           "injury_status": null,
           "age": 27,
           "years_exp": 3,
-          "search_rank": 127,
+          "search_rank": 125,
           "depth_chart_position": "RB"
         },
         {
@@ -1757,7 +1769,7 @@
           "injury_status": null,
           "age": 24,
           "years_exp": 2,
-          "search_rank": 63,
+          "search_rank": 65,
           "depth_chart_position": "LWR"
         },
         {
@@ -1769,7 +1781,7 @@
           "injury_status": null,
           "age": 22,
           "years_exp": 0,
-          "search_rank": 91,
+          "search_rank": 89,
           "depth_chart_position": "SWR"
         },
         {
@@ -1781,7 +1793,7 @@
           "injury_status": null,
           "age": 38,
           "years_exp": 17,
-          "search_rank": 66,
+          "search_rank": 65,
           "depth_chart_position": "QB"
         },
         {
@@ -1793,7 +1805,7 @@
           "injury_status": null,
           "age": 27,
           "years_exp": 6,
-          "search_rank": 46,
+          "search_rank": 44,
           "depth_chart_position": "RB"
         }
       ],
@@ -2286,7 +2298,7 @@
           "position": "WR",
           "team": "DET",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "age": 27,
           "years_exp": 5,
           "search_rank": 7,
@@ -2360,7 +2372,7 @@
           "position": "RB",
           "team": "HOU",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "age": 29,
           "years_exp": 7,
           "search_rank": 42,
@@ -2425,7 +2437,7 @@
           "injury_status": "Out",
           "age": 29,
           "years_exp": 8,
-          "search_rank": 93,
+          "search_rank": 92,
           "depth_chart_position": "QB"
         },
         {
@@ -2496,7 +2508,7 @@
           "position": "WR",
           "team": "CLE",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "age": 22,
           "years_exp": 0,
           "search_rank": 153,
@@ -2624,15 +2636,15 @@
           "age": 26,
           "years_exp": 3,
           "search_rank": 75,
-          "depth_chart_position": "PR"
+          "depth_chart_position": null
         },
         {
           "player_id": "12529",
           "name": "TreVeyon Henderson",
           "position": "RB",
           "team": "NE",
-          "status": "Active",
-          "injury_status": "Out",
+          "status": "Inactive",
+          "injury_status": "IR",
           "age": 24,
           "years_exp": 1,
           "search_rank": 39,
@@ -2816,7 +2828,7 @@
           "position": "WR",
           "team": "NYJ",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "age": 22,
           "years_exp": 0,
           "search_rank": 151,
