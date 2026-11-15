@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-15T08:19:53.124402+00:00",
+  "snapshot_generated_at": "2026-11-15T15:48:58.242790+00:00",
   "players": [
     {
       "player_id": "9509",
@@ -561,7 +561,7 @@
       "owner_user_id": "979940216863608832",
       "username": "Naz514",
       "team_name": "Maye-B not so lucky",
-      "location": "starter",
+      "location": "bench",
       "draft": {
         "draft_id": "1313649397531148288",
         "season": "2026",
@@ -799,7 +799,7 @@
       "owner_user_id": "979940216863608832",
       "username": "Naz514",
       "team_name": "Maye-B not so lucky",
-      "location": "bench",
+      "location": "starter",
       "draft": {
         "draft_id": "1313649397531148288",
         "season": "2026",
@@ -2499,7 +2499,7 @@
       "owner_user_id": "979940216863608832",
       "username": "Naz514",
       "team_name": "Maye-B not so lucky",
-      "location": "reserve",
+      "location": "starter",
       "draft": {
         "draft_id": "1313649397531148288",
         "season": "2026",
@@ -7308,12 +7308,12 @@
       "years_exp": 2,
       "search_rank": 206,
       "depth_chart_position": "LWR",
-      "rostered": true,
-      "roster_id": 4,
-      "owner_user_id": "979940216863608832",
-      "username": "Naz514",
-      "team_name": "Maye-B not so lucky",
-      "location": "starter",
+      "rostered": false,
+      "roster_id": null,
+      "owner_user_id": null,
+      "username": null,
+      "team_name": null,
+      "location": "free_agent",
       "draft": null,
       "keeper": {
         "eligible_next_season": true,

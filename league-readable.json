@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-15T08:19:53.124402+00:00",
+  "snapshot_generated_at": "2026-11-15T15:48:58.242790+00:00",
   "current_week": 10,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -626,15 +626,15 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "12507",
-          "name": "Omarion Hampton",
+          "player_id": "7611",
+          "name": "Rhamondre Stevenson",
           "position": "RB",
-          "team": "LAC",
+          "team": "NE",
           "status": "Active",
-          "injury_status": null,
-          "age": 23,
-          "years_exp": 1,
-          "search_rank": 12,
+          "injury_status": "Questionable",
+          "age": 28,
+          "years_exp": 5,
+          "search_rank": 58,
           "depth_chart_position": "RB"
         },
         {
@@ -674,15 +674,15 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "11637",
-          "name": "Keon Coleman",
+          "player_id": "5859",
+          "name": "A.J. Brown",
           "position": "WR",
-          "team": "BUF",
+          "team": "NE",
           "status": "Active",
-          "injury_status": null,
-          "age": 23,
-          "years_exp": 2,
-          "search_rank": 206,
+          "injury_status": "Questionable",
+          "age": 29,
+          "years_exp": 7,
+          "search_rank": 17,
           "depth_chart_position": "LWR"
         },
         {
@@ -711,6 +711,18 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "12507",
+          "name": "Omarion Hampton",
+          "position": "RB",
+          "team": "LAC",
+          "status": "Active",
+          "injury_status": null,
+          "age": 23,
+          "years_exp": 1,
+          "search_rank": 12,
+          "depth_chart_position": "RB"
+        },
         {
           "player_id": "12545",
           "name": "Tyler Shough",
@@ -758,34 +770,9 @@
           "years_exp": 0,
           "search_rank": 379,
           "depth_chart_position": "RB"
-        },
-        {
-          "player_id": "5859",
-          "name": "A.J. Brown",
-          "position": "WR",
-          "team": "NE",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "age": 29,
-          "years_exp": 7,
-          "search_rank": 17,
-          "depth_chart_position": "LWR"
         }
       ],
-      "reserve": [
-        {
-          "player_id": "7611",
-          "name": "Rhamondre Stevenson",
-          "position": "RB",
-          "team": "NE",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "age": 28,
-          "years_exp": 5,
-          "search_rank": 58,
-          "depth_chart_position": "RB"
-        }
-      ]
+      "reserve": []
     },
     {
       "roster_id": 5,

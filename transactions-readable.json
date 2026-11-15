@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-15T08:19:53.124402+00:00",
+  "snapshot_generated_at": "2026-11-15T15:48:58.242790+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -11026,6 +11026,40 @@
       ],
       "roster_ids": [
         3
+      ]
+    },
+    {
+      "transaction_id": "1427699834801901568",
+      "week": 10,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794752675298,
+      "faab": null,
+      "adds": [],
+      "drops": [
+        {
+          "player": {
+            "player_id": "11637",
+            "name": "Keon Coleman",
+            "position": "WR",
+            "team": "BUF",
+            "status": "Active",
+            "injury_status": null,
+            "age": 23,
+            "years_exp": 2,
+            "search_rank": 206,
+            "depth_chart_position": "LWR"
+          },
+          "source": {
+            "roster_id": 4,
+            "owner_user_id": "979940216863608832",
+            "username": "Naz514",
+            "team_name": "Maye-B not so lucky"
+          }
+        }
+      ],
+      "roster_ids": [
+        4
       ]
     },
     {
