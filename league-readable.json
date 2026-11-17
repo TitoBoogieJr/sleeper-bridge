@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-17T10:34:19.173692+00:00",
+  "snapshot_generated_at": "2026-11-17T19:42:42.401946+00:00",
   "current_week": 11,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -114,7 +114,7 @@
           "age": 25,
           "years_exp": 2,
           "search_rank": 242,
-          "depth_chart_position": "K"
+          "depth_chart_position": null
         },
         {
           "player_id": "LAR",
@@ -227,7 +227,7 @@
           "injury_status": null,
           "age": 42,
           "years_exp": 21,
-          "search_rank": 185,
+          "search_rank": 187,
           "depth_chart_position": "QB"
         },
         {
@@ -239,7 +239,7 @@
           "injury_status": null,
           "age": 24,
           "years_exp": 1,
-          "search_rank": 36,
+          "search_rank": 37,
           "depth_chart_position": "RB"
         },
         {
@@ -295,7 +295,7 @@
           "name": "Jordan Addison",
           "position": "WR",
           "team": "MIN",
-          "status": "Active",
+          "status": "Inactive",
           "injury_status": "Out",
           "age": 24,
           "years_exp": 3,
@@ -465,27 +465,27 @@
           "depth_chart_position": "RWR"
         },
         {
-          "player_id": "12501",
-          "name": "Matthew Golden",
+          "player_id": "13285",
+          "name": "Malachi Fields",
           "position": "WR",
-          "team": "GB",
+          "team": "NYG",
           "status": "Active",
           "injury_status": null,
           "age": 23,
-          "years_exp": 1,
-          "search_rank": 118,
+          "years_exp": 0,
+          "search_rank": 201,
           "depth_chart_position": "RWR"
         },
         {
-          "player_id": "2505",
-          "name": "Darren Waller",
+          "player_id": "12517",
+          "name": "Colston Loveland",
           "position": "TE",
-          "team": "CAR",
+          "team": "CHI",
           "status": "Active",
           "injury_status": null,
-          "age": 34,
-          "years_exp": 11,
-          "search_rank": 356,
+          "age": 22,
+          "years_exp": 1,
+          "search_rank": 36,
           "depth_chart_position": "TE"
         },
         {
@@ -509,14 +509,14 @@
           "injury_status": null,
           "age": 27,
           "years_exp": 5,
-          "search_rank": 155,
+          "search_rank": 153,
           "depth_chart_position": "K"
         },
         {
-          "player_id": "SF",
-          "name": "San Francisco 49ers",
+          "player_id": "PIT",
+          "name": "Pittsburgh Steelers",
           "position": "DEF",
-          "team": "SF",
+          "team": "PIT",
           "status": null,
           "injury_status": null,
           "age": null,
@@ -527,16 +527,16 @@
       ],
       "bench": [
         {
-          "player_id": "12517",
-          "name": "Colston Loveland",
-          "position": "TE",
-          "team": "CHI",
+          "player_id": "12501",
+          "name": "Matthew Golden",
+          "position": "WR",
+          "team": "GB",
           "status": "Active",
           "injury_status": null,
-          "age": 22,
+          "age": 23,
           "years_exp": 1,
-          "search_rank": 36,
-          "depth_chart_position": "TE"
+          "search_rank": 118,
+          "depth_chart_position": "RWR"
         },
         {
           "player_id": "12522",
@@ -563,22 +563,22 @@
           "depth_chart_position": "RWR"
         },
         {
-          "player_id": "13285",
-          "name": "Malachi Fields",
-          "position": "WR",
-          "team": "NYG",
+          "player_id": "2505",
+          "name": "Darren Waller",
+          "position": "TE",
+          "team": "CAR",
           "status": "Active",
           "injury_status": null,
-          "age": 23,
-          "years_exp": 0,
-          "search_rank": 201,
-          "depth_chart_position": "RWR"
+          "age": 34,
+          "years_exp": 11,
+          "search_rank": 355,
+          "depth_chart_position": "TE"
         },
         {
-          "player_id": "PIT",
-          "name": "Pittsburgh Steelers",
+          "player_id": "SF",
+          "name": "San Francisco 49ers",
           "position": "DEF",
-          "team": "PIT",
+          "team": "SF",
           "status": null,
           "injury_status": null,
           "age": null,
@@ -756,7 +756,7 @@
           "injury_status": null,
           "age": 25,
           "years_exp": 0,
-          "search_rank": 162,
+          "search_rank": 161,
           "depth_chart_position": "RB"
         },
         {
@@ -768,7 +768,7 @@
           "injury_status": null,
           "age": 25,
           "years_exp": 0,
-          "search_rank": 380,
+          "search_rank": 377,
           "depth_chart_position": "RB"
         }
       ],
@@ -1101,7 +1101,7 @@
           "injury_status": null,
           "age": 31,
           "years_exp": 3,
-          "search_rank": 89,
+          "search_rank": 91,
           "depth_chart_position": "K"
         },
         {
@@ -1287,7 +1287,7 @@
           "injury_status": null,
           "age": 27,
           "years_exp": 6,
-          "search_rank": 11,
+          "search_rank": 12,
           "depth_chart_position": "LWR"
         },
         {
@@ -1349,7 +1349,7 @@
           "injury_status": null,
           "age": 23,
           "years_exp": 0,
-          "search_rank": 197,
+          "search_rank": 199,
           "depth_chart_position": "RWR"
         },
         {
@@ -1595,7 +1595,7 @@
           "injury_status": null,
           "age": 28,
           "years_exp": 6,
-          "search_rank": 65,
+          "search_rank": 67,
           "depth_chart_position": "QB"
         },
         {
@@ -1607,7 +1607,7 @@
           "injury_status": "Out",
           "age": 26,
           "years_exp": 4,
-          "search_rank": 17,
+          "search_rank": 19,
           "depth_chart_position": "RB"
         }
       ],
@@ -1781,7 +1781,7 @@
           "injury_status": null,
           "age": 22,
           "years_exp": 0,
-          "search_rank": 89,
+          "search_rank": 91,
           "depth_chart_position": "SWR"
         },
         {
@@ -2337,7 +2337,7 @@
           "injury_status": null,
           "age": 23,
           "years_exp": 2,
-          "search_rank": 131,
+          "search_rank": 133,
           "depth_chart_position": "K"
         },
         {
@@ -2467,15 +2467,15 @@
       },
       "starters": [
         {
-          "player_id": "1373",
-          "name": "Geno Smith",
+          "player_id": "11560",
+          "name": "Caleb Williams",
           "position": "QB",
-          "team": "NYJ",
+          "team": "CHI",
           "status": "Active",
-          "injury_status": "Out",
-          "age": 36,
-          "years_exp": 13,
-          "search_rank": 209,
+          "injury_status": null,
+          "age": 24,
+          "years_exp": 2,
+          "search_rank": 22,
           "depth_chart_position": "QB"
         },
         {
@@ -2503,16 +2503,16 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "13346",
-          "name": "Denzel Boston",
+          "player_id": "10229",
+          "name": "Rashee Rice",
           "position": "WR",
-          "team": "CLE",
+          "team": "KC",
           "status": "Active",
           "injury_status": null,
-          "age": 22,
-          "years_exp": 0,
-          "search_rank": 153,
-          "depth_chart_position": "LWR"
+          "age": 26,
+          "years_exp": 3,
+          "search_rank": 29,
+          "depth_chart_position": "SWR"
         },
         {
           "player_id": "13298",
@@ -2539,16 +2539,16 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "10229",
-          "name": "Rashee Rice",
-          "position": "WR",
-          "team": "KC",
+          "player_id": "5022",
+          "name": "Dallas Goedert",
+          "position": "TE",
+          "team": "PHI",
           "status": "Active",
           "injury_status": null,
-          "age": 26,
-          "years_exp": 3,
-          "search_rank": 29,
-          "depth_chart_position": "SWR"
+          "age": 31,
+          "years_exp": 8,
+          "search_rank": 94,
+          "depth_chart_position": "TE"
         },
         {
           "player_id": "11792",
@@ -2563,10 +2563,10 @@
           "depth_chart_position": "K"
         },
         {
-          "player_id": "JAX",
-          "name": "Jacksonville Jaguars",
+          "player_id": "CAR",
+          "name": "Carolina Panthers",
           "position": "DEF",
-          "team": "JAX",
+          "team": "CAR",
           "status": null,
           "injury_status": null,
           "age": null,
@@ -2577,28 +2577,28 @@
       ],
       "bench": [
         {
-          "player_id": "11560",
-          "name": "Caleb Williams",
-          "position": "QB",
-          "team": "CHI",
+          "player_id": "13346",
+          "name": "Denzel Boston",
+          "position": "WR",
+          "team": "CLE",
           "status": "Active",
           "injury_status": null,
-          "age": 24,
-          "years_exp": 2,
-          "search_rank": 22,
-          "depth_chart_position": "QB"
+          "age": 22,
+          "years_exp": 0,
+          "search_rank": 153,
+          "depth_chart_position": "LWR"
         },
         {
-          "player_id": "5022",
-          "name": "Dallas Goedert",
-          "position": "TE",
-          "team": "PHI",
+          "player_id": "1373",
+          "name": "Geno Smith",
+          "position": "QB",
+          "team": "NYJ",
           "status": "Active",
-          "injury_status": null,
-          "age": 31,
-          "years_exp": 8,
-          "search_rank": 94,
-          "depth_chart_position": "TE"
+          "injury_status": "Out",
+          "age": 36,
+          "years_exp": 13,
+          "search_rank": 209,
+          "depth_chart_position": "QB"
         },
         {
           "player_id": "9501",
@@ -2613,10 +2613,10 @@
           "depth_chart_position": "SWR"
         },
         {
-          "player_id": "CAR",
-          "name": "Carolina Panthers",
+          "player_id": "JAX",
+          "name": "Jacksonville Jaguars",
           "position": "DEF",
-          "team": "CAR",
+          "team": "JAX",
           "status": null,
           "injury_status": null,
           "age": null,
@@ -2685,7 +2685,7 @@
           "injury_status": null,
           "age": 25,
           "years_exp": 2,
-          "search_rank": 22,
+          "search_rank": 21,
           "depth_chart_position": "QB"
         },
         {
@@ -2721,7 +2721,7 @@
           "injury_status": null,
           "age": 24,
           "years_exp": 3,
-          "search_rank": 5,
+          "search_rank": 7,
           "depth_chart_position": "LWR"
         },
         {

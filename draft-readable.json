@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-17T10:34:19.173692+00:00",
+  "snapshot_generated_at": "2026-11-17T19:42:42.401946+00:00",
   "drafts": [
     {
       "created": 1767560932099,
@@ -341,7 +341,7 @@
         "injury_status": null,
         "age": 24,
         "years_exp": 3,
-        "search_rank": 5,
+        "search_rank": 7,
         "depth_chart_position": "LWR"
       },
       "round": 1,
@@ -391,7 +391,7 @@
         "injury_status": "Out",
         "age": 26,
         "years_exp": 4,
-        "search_rank": 17,
+        "search_rank": 19,
         "depth_chart_position": "RB"
       },
       "round": 1,
@@ -566,7 +566,7 @@
         "injury_status": null,
         "age": 27,
         "years_exp": 6,
-        "search_rank": 11,
+        "search_rank": 12,
         "depth_chart_position": "LWR"
       },
       "round": 2,
@@ -666,7 +666,7 @@
         "injury_status": null,
         "age": 24,
         "years_exp": 1,
-        "search_rank": 36,
+        "search_rank": 37,
         "depth_chart_position": "RB"
       },
       "round": 2,
@@ -1991,7 +1991,7 @@
         "injury_status": null,
         "age": 25,
         "years_exp": 2,
-        "search_rank": 22,
+        "search_rank": 21,
         "depth_chart_position": "QB"
       },
       "round": 6,
@@ -2266,7 +2266,7 @@
         "injury_status": null,
         "age": 31,
         "years_exp": 3,
-        "search_rank": 89,
+        "search_rank": 91,
         "depth_chart_position": "K"
       },
       "round": 7,
@@ -2287,7 +2287,7 @@
         "name": "Jordan Addison",
         "position": "WR",
         "team": "MIN",
-        "status": "Active",
+        "status": "Inactive",
         "injury_status": "Out",
         "age": 24,
         "years_exp": 3,
@@ -2316,7 +2316,7 @@
         "injury_status": null,
         "age": 22,
         "years_exp": 0,
-        "search_rank": 89,
+        "search_rank": 91,
         "depth_chart_position": "SWR"
       },
       "round": 7,
@@ -3191,7 +3191,7 @@
         "injury_status": null,
         "age": 25,
         "years_exp": 0,
-        "search_rank": 162,
+        "search_rank": 161,
         "depth_chart_position": "RB"
       },
       "round": 9,
@@ -3266,7 +3266,7 @@
         "injury_status": null,
         "age": 28,
         "years_exp": 6,
-        "search_rank": 65,
+        "search_rank": 67,
         "depth_chart_position": "QB"
       },
       "round": 10,
@@ -3766,7 +3766,7 @@
         "injury_status": null,
         "age": 23,
         "years_exp": 2,
-        "search_rank": 131,
+        "search_rank": 133,
         "depth_chart_position": "K"
       },
       "round": 11,
@@ -3966,7 +3966,7 @@
         "injury_status": null,
         "age": 23,
         "years_exp": 0,
-        "search_rank": 197,
+        "search_rank": 199,
         "depth_chart_position": "RWR"
       },
       "round": 12,
@@ -4141,7 +4141,7 @@
         "injury_status": null,
         "age": 27,
         "years_exp": 5,
-        "search_rank": 155,
+        "search_rank": 153,
         "depth_chart_position": "K"
       },
       "round": 12,
@@ -4741,7 +4741,7 @@
         "injury_status": null,
         "age": 23,
         "years_exp": 0,
-        "search_rank": 179,
+        "search_rank": 181,
         "depth_chart_position": "SWR"
       },
       "round": 14,
