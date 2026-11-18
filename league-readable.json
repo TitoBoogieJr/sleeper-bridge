@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-17T19:42:42.401946+00:00",
+  "snapshot_generated_at": "2026-11-18T02:16:45.992882+00:00",
   "current_week": 11,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -45,15 +45,15 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "9753",
-          "name": "Zach Charbonnet",
+          "player_id": "7021",
+          "name": "Rico Dowdle",
           "position": "RB",
-          "team": "SEA",
+          "team": "PIT",
           "status": "Active",
           "injury_status": null,
-          "age": 25,
-          "years_exp": 3,
-          "search_rank": 101,
+          "age": 28,
+          "years_exp": 6,
+          "search_rank": 65,
           "depth_chart_position": "RB"
         },
         {
@@ -93,16 +93,16 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "7021",
-          "name": "Rico Dowdle",
-          "position": "RB",
-          "team": "PIT",
+          "player_id": "12514",
+          "name": "Emeka Egbuka",
+          "position": "WR",
+          "team": "TB",
           "status": "Active",
           "injury_status": null,
-          "age": 28,
-          "years_exp": 6,
-          "search_rank": 65,
-          "depth_chart_position": "RB"
+          "age": 24,
+          "years_exp": 1,
+          "search_rank": 39,
+          "depth_chart_position": "LWR"
         },
         {
           "player_id": "11653",
@@ -143,18 +143,6 @@
           "depth_chart_position": "QB"
         },
         {
-          "player_id": "12514",
-          "name": "Emeka Egbuka",
-          "position": "WR",
-          "team": "TB",
-          "status": "Active",
-          "injury_status": null,
-          "age": 24,
-          "years_exp": 1,
-          "search_rank": 39,
-          "depth_chart_position": "LWR"
-        },
-        {
           "player_id": "6130",
           "name": "Devin Singletary",
           "position": "RB",
@@ -188,6 +176,18 @@
           "age": 25,
           "years_exp": 4,
           "search_rank": 669,
+          "depth_chart_position": "RB"
+        },
+        {
+          "player_id": "9753",
+          "name": "Zach Charbonnet",
+          "position": "RB",
+          "team": "SEA",
+          "status": "Active",
+          "injury_status": null,
+          "age": 25,
+          "years_exp": 3,
+          "search_rank": 101,
           "depth_chart_position": "RB"
         }
       ],
@@ -1849,15 +1849,15 @@
           "depth_chart_position": "QB"
         },
         {
-          "player_id": "9509",
-          "name": "Bijan Robinson",
+          "player_id": "13337",
+          "name": "Emmett Johnson",
           "position": "RB",
-          "team": "ATL",
+          "team": "KC",
           "status": "Active",
           "injury_status": null,
-          "age": 24,
-          "years_exp": 3,
-          "search_rank": 1,
+          "age": 23,
+          "years_exp": 0,
+          "search_rank": 113,
           "depth_chart_position": "RB"
         },
         {
@@ -1909,15 +1909,15 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "13337",
-          "name": "Emmett Johnson",
+          "player_id": "8155",
+          "name": "Breece Hall",
           "position": "RB",
-          "team": "KC",
+          "team": "NYJ",
           "status": "Active",
           "injury_status": null,
-          "age": 23,
-          "years_exp": 0,
-          "search_rank": 113,
+          "age": 25,
+          "years_exp": 4,
+          "search_rank": 27,
           "depth_chart_position": "RB"
         },
         {
@@ -1971,18 +1971,6 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "8155",
-          "name": "Breece Hall",
-          "position": "RB",
-          "team": "NYJ",
-          "status": "Active",
-          "injury_status": null,
-          "age": 25,
-          "years_exp": 4,
-          "search_rank": 27,
-          "depth_chart_position": "RB"
-        },
-        {
           "player_id": "9502",
           "name": "Tank Dell",
           "position": "WR",
@@ -1993,6 +1981,18 @@
           "years_exp": 3,
           "search_rank": 187,
           "depth_chart_position": "SWR"
+        },
+        {
+          "player_id": "9509",
+          "name": "Bijan Robinson",
+          "position": "RB",
+          "team": "ATL",
+          "status": "Active",
+          "injury_status": null,
+          "age": 24,
+          "years_exp": 3,
+          "search_rank": 1,
+          "depth_chart_position": "RB"
         },
         {
           "player_id": "TB",

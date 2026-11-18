@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-17T19:42:42.401946+00:00",
+  "snapshot_generated_at": "2026-11-18T02:16:45.992882+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -18,7 +18,7 @@
           "name": "Bijan Robinson",
           "position": "RB",
           "nfl_team": "ATL",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -64,7 +64,7 @@
           "name": "Breece Hall",
           "position": "RB",
           "nfl_team": "NYJ",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -2529,7 +2529,7 @@
           "name": "Emeka Egbuka",
           "position": "WR",
           "nfl_team": "TB",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -2644,7 +2644,7 @@
           "name": "Zach Charbonnet",
           "position": "RB",
           "nfl_team": "SEA",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
