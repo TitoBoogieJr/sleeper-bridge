@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-19T01:23:48.412540+00:00",
+  "snapshot_generated_at": "2026-11-19T09:20:02.244135+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -12194,6 +12194,40 @@
       ]
     },
     {
+      "transaction_id": "1428825543024848896",
+      "week": 11,
+      "type": "waiver",
+      "status": "failed",
+      "created": 1795021065053,
+      "faab": 6,
+      "adds": [
+        {
+          "player": {
+            "player_id": "JAX",
+            "name": "Jacksonville Jaguars",
+            "position": "DEF",
+            "team": "JAX",
+            "status": null,
+            "injury_status": null,
+            "age": null,
+            "years_exp": null,
+            "search_rank": null,
+            "depth_chart_position": null
+          },
+          "destination": {
+            "roster_id": 1,
+            "owner_user_id": "1263601129552355328",
+            "username": "nathan697",
+            "team_name": "Egbuka, I hardly know ya"
+          }
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        1
+      ]
+    },
+    {
       "transaction_id": "1428823359524704256",
       "week": 11,
       "type": "free_agent",
@@ -12246,6 +12280,61 @@
       ],
       "roster_ids": [
         1
+      ]
+    },
+    {
+      "transaction_id": "1428823287453990912",
+      "week": 11,
+      "type": "waiver",
+      "status": "complete",
+      "created": 1795020527283,
+      "faab": 15,
+      "adds": [
+        {
+          "player": {
+            "player_id": "JAX",
+            "name": "Jacksonville Jaguars",
+            "position": "DEF",
+            "team": "JAX",
+            "status": null,
+            "injury_status": null,
+            "age": null,
+            "years_exp": null,
+            "search_rank": null,
+            "depth_chart_position": null
+          },
+          "destination": {
+            "roster_id": 6,
+            "owner_user_id": "1263688729139097600",
+            "username": "KHurrie",
+            "team_name": "LaPorta Pottie"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "player_id": "13150",
+            "name": "Darius Cooper",
+            "position": "WR",
+            "team": "PHI",
+            "status": "Active",
+            "injury_status": null,
+            "age": 24,
+            "years_exp": 1,
+            "search_rank": 658,
+            "depth_chart_position": "RWR"
+          },
+          "source": {
+            "roster_id": 6,
+            "owner_user_id": "1263688729139097600",
+            "username": "KHurrie",
+            "team_name": "LaPorta Pottie"
+          }
+        }
+      ],
+      "roster_ids": [
+        6
       ]
     },
     {
@@ -12424,6 +12513,40 @@
       ],
       "roster_ids": [
         11
+      ]
+    },
+    {
+      "transaction_id": "1428798727866298368",
+      "week": 11,
+      "type": "waiver",
+      "status": "failed",
+      "created": 1795014671822,
+      "faab": 9,
+      "adds": [
+        {
+          "player": {
+            "player_id": "JAX",
+            "name": "Jacksonville Jaguars",
+            "position": "DEF",
+            "team": "JAX",
+            "status": null,
+            "injury_status": null,
+            "age": null,
+            "years_exp": null,
+            "search_rank": null,
+            "depth_chart_position": null
+          },
+          "destination": {
+            "roster_id": 7,
+            "owner_user_id": "713449654771056640",
+            "username": "Tonay",
+            "team_name": "Relaxed Slims"
+          }
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        7
       ]
     },
     {
@@ -12692,6 +12815,40 @@
             "years_exp": 3,
             "search_rank": 679,
             "depth_chart_position": "LWR"
+          },
+          "destination": {
+            "roster_id": 4,
+            "owner_user_id": "979940216863608832",
+            "username": "Naz514",
+            "team_name": "Maye-B not so lucky"
+          }
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        4
+      ]
+    },
+    {
+      "transaction_id": "1428697945535946752",
+      "week": 11,
+      "type": "waiver",
+      "status": "failed",
+      "created": 1794990643441,
+      "faab": 1,
+      "adds": [
+        {
+          "player": {
+            "player_id": "JAX",
+            "name": "Jacksonville Jaguars",
+            "position": "DEF",
+            "team": "JAX",
+            "status": null,
+            "injury_status": null,
+            "age": null,
+            "years_exp": null,
+            "search_rank": null,
+            "depth_chart_position": null
           },
           "destination": {
             "roster_id": 4,
