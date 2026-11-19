@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-19T09:20:02.244135+00:00",
+  "snapshot_generated_at": "2026-11-19T18:33:03.736459+00:00",
   "current_week": 11,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -117,10 +117,10 @@
           "depth_chart_position": "K"
         },
         {
-          "player_id": "LAR",
-          "name": "Los Angeles Rams",
+          "player_id": "NYJ",
+          "name": "New York Jets",
           "position": "DEF",
-          "team": "LAR",
+          "team": "NYJ",
           "status": null,
           "injury_status": null,
           "age": null,
@@ -130,18 +130,6 @@
         }
       ],
       "bench": [
-        {
-          "player_id": "11559",
-          "name": "Michael Penix Jr.",
-          "position": "QB",
-          "team": "ATL",
-          "status": "Active",
-          "injury_status": null,
-          "age": 26,
-          "years_exp": 2,
-          "search_rank": 228,
-          "depth_chart_position": "QB"
-        },
         {
           "player_id": "2216",
           "name": "Mike Evans",
@@ -189,6 +177,18 @@
           "years_exp": 3,
           "search_rank": 101,
           "depth_chart_position": "RB"
+        },
+        {
+          "player_id": "LAR",
+          "name": "Los Angeles Rams",
+          "position": "DEF",
+          "team": "LAR",
+          "status": null,
+          "injury_status": null,
+          "age": null,
+          "years_exp": null,
+          "search_rank": null,
+          "depth_chart_position": null
         }
       ],
       "reserve": []
@@ -1129,10 +1129,10 @@
           "depth_chart_position": "K"
         },
         {
-          "player_id": "SEA",
-          "name": "Seattle Seahawks",
+          "player_id": "JAX",
+          "name": "Jacksonville Jaguars",
           "position": "DEF",
-          "team": "SEA",
+          "team": "JAX",
           "status": null,
           "injury_status": null,
           "age": null,
@@ -1191,10 +1191,10 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "JAX",
-          "name": "Jacksonville Jaguars",
+          "player_id": "SEA",
+          "name": "Seattle Seahawks",
           "position": "DEF",
-          "team": "JAX",
+          "team": "SEA",
           "status": null,
           "injury_status": null,
           "age": null,
@@ -2317,27 +2317,27 @@
           "depth_chart_position": "SWR"
         },
         {
-          "player_id": "12506",
-          "name": "Harold Fannin Jr.",
+          "player_id": "8172",
+          "name": "Greg Dulcich",
           "position": "TE",
-          "team": "CLE",
+          "team": "MIA",
           "status": "Active",
           "injury_status": null,
-          "age": 22,
-          "years_exp": 1,
-          "search_rank": 63,
+          "age": 26,
+          "years_exp": 4,
+          "search_rank": 230,
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "11576",
-          "name": "Braelon Allen",
+          "player_id": "5892",
+          "name": "David Montgomery",
           "position": "RB",
-          "team": "NYJ",
+          "team": "HOU",
           "status": "Active",
           "injury_status": null,
-          "age": 22,
-          "years_exp": 2,
-          "search_rank": 135,
+          "age": 29,
+          "years_exp": 7,
+          "search_rank": 42,
           "depth_chart_position": "RB"
         },
         {
@@ -2367,6 +2367,30 @@
       ],
       "bench": [
         {
+          "player_id": "11576",
+          "name": "Braelon Allen",
+          "position": "RB",
+          "team": "NYJ",
+          "status": "Active",
+          "injury_status": null,
+          "age": 22,
+          "years_exp": 2,
+          "search_rank": 135,
+          "depth_chart_position": "RB"
+        },
+        {
+          "player_id": "12506",
+          "name": "Harold Fannin Jr.",
+          "position": "TE",
+          "team": "CLE",
+          "status": "Active",
+          "injury_status": null,
+          "age": 22,
+          "years_exp": 1,
+          "search_rank": 63,
+          "depth_chart_position": "TE"
+        },
+        {
           "player_id": "13833",
           "name": "Dominic Zvada",
           "position": "K",
@@ -2377,18 +2401,6 @@
           "years_exp": 0,
           "search_rank": 330,
           "depth_chart_position": "K"
-        },
-        {
-          "player_id": "5892",
-          "name": "David Montgomery",
-          "position": "RB",
-          "team": "HOU",
-          "status": "Active",
-          "injury_status": null,
-          "age": 29,
-          "years_exp": 7,
-          "search_rank": 42,
-          "depth_chart_position": "RB"
         },
         {
           "player_id": "6806",
@@ -2413,18 +2425,6 @@
           "years_exp": 4,
           "search_rank": 508,
           "depth_chart_position": "RWR"
-        },
-        {
-          "player_id": "8172",
-          "name": "Greg Dulcich",
-          "position": "TE",
-          "team": "MIA",
-          "status": "Active",
-          "injury_status": null,
-          "age": 26,
-          "years_exp": 4,
-          "search_rank": 230,
-          "depth_chart_position": "TE"
         }
       ],
       "reserve": [

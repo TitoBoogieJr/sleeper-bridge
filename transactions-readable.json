@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-19T09:20:02.244135+00:00",
+  "snapshot_generated_at": "2026-11-19T18:33:03.736459+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -12136,6 +12136,61 @@
       ],
       "roster_ids": [
         3
+      ]
+    },
+    {
+      "transaction_id": "1429131524703281152",
+      "week": 11,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795094016770,
+      "faab": null,
+      "adds": [
+        {
+          "player": {
+            "player_id": "NYJ",
+            "name": "New York Jets",
+            "position": "DEF",
+            "team": "NYJ",
+            "status": null,
+            "injury_status": null,
+            "age": null,
+            "years_exp": null,
+            "search_rank": null,
+            "depth_chart_position": null
+          },
+          "destination": {
+            "roster_id": 1,
+            "owner_user_id": "1263601129552355328",
+            "username": "nathan697",
+            "team_name": "Egbuka, I hardly know ya"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "player_id": "11559",
+            "name": "Michael Penix Jr.",
+            "position": "QB",
+            "team": "ATL",
+            "status": "Active",
+            "injury_status": null,
+            "age": 26,
+            "years_exp": 2,
+            "search_rank": 228,
+            "depth_chart_position": "QB"
+          },
+          "source": {
+            "roster_id": 1,
+            "owner_user_id": "1263601129552355328",
+            "username": "nathan697",
+            "team_name": "Egbuka, I hardly know ya"
+          }
+        }
+      ],
+      "roster_ids": [
+        1
       ]
     },
     {
