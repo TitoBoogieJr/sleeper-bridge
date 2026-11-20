@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-20T01:08:14.405633+00:00",
+  "snapshot_generated_at": "2026-11-20T09:01:54.876885+00:00",
   "current_week": 11,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -278,16 +278,16 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "11586",
-          "name": "Blake Corum",
-          "position": "RB",
-          "team": "LAR",
+          "player_id": "4037",
+          "name": "Chris Godwin Jr.",
+          "position": "WR",
+          "team": "TB",
           "status": "Active",
           "injury_status": null,
-          "age": 25,
-          "years_exp": 2,
-          "search_rank": 68,
-          "depth_chart_position": "RB"
+          "age": 30,
+          "years_exp": 9,
+          "search_rank": 88,
+          "depth_chart_position": "SWR"
         },
         {
           "player_id": "3451",
@@ -315,6 +315,18 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "11586",
+          "name": "Blake Corum",
+          "position": "RB",
+          "team": "LAR",
+          "status": "Active",
+          "injury_status": null,
+          "age": 25,
+          "years_exp": 2,
+          "search_rank": 68,
+          "depth_chart_position": "RB"
+        },
         {
           "player_id": "6650",
           "name": "Chase McLaughlin",

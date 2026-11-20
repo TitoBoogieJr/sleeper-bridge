@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-20T01:08:14.405633+00:00",
+  "snapshot_generated_at": "2026-11-20T09:01:54.876885+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -795,7 +795,7 @@
           "name": "Blake Corum",
           "position": "RB",
           "nfl_team": "LAR",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -805,6 +805,29 @@
             "original_owner_user_id": "1263709493192052736",
             "original_username": "KarolynRose",
             "original_team_name": "Magic Skol Bus",
+            "is_keeper": false
+          },
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 6,
+            "reason": "Drafted in Round 6"
+          }
+        },
+        {
+          "player_id": "4037",
+          "name": "Chris Godwin Jr.",
+          "position": "WR",
+          "nfl_team": "TB",
+          "location": "starter",
+          "draft": {
+            "draft_id": "1313649397531148288",
+            "season": "2026",
+            "round": 6,
+            "pick_no": 78,
+            "original_roster_id": 5,
+            "original_owner_user_id": "1263686542304485376",
+            "original_username": "WestManBruce",
+            "original_team_name": "WestManBruce",
             "is_keeper": false
           },
           "keeper": {
