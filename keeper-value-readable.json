@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-21T15:13:18.676889+00:00",
+  "snapshot_generated_at": "2026-11-21T21:01:11.409364+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -3069,6 +3069,19 @@
           "name": "Greg Dulcich",
           "position": "TE",
           "nfl_team": "MIA",
+          "location": "bench",
+          "draft": null,
+          "keeper": {
+            "eligible_next_season": true,
+            "cost_round": 14,
+            "reason": "Undrafted player; keeper cost is Round 14"
+          }
+        },
+        {
+          "player_id": "2505",
+          "name": "Darren Waller",
+          "position": "TE",
+          "nfl_team": "CAR",
           "location": "starter",
           "draft": null,
           "keeper": {
