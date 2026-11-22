@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-22T08:44:37.640744+00:00",
+  "snapshot_generated_at": "2026-11-22T17:00:30.165704+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -12136,6 +12136,61 @@
       ],
       "roster_ids": [
         3
+      ]
+    },
+    {
+      "transaction_id": "1430262656115183616",
+      "week": 11,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795363699515,
+      "faab": null,
+      "adds": [
+        {
+          "player": {
+            "player_id": "6039",
+            "name": "Ty Johnson",
+            "position": "RB",
+            "team": "BUF",
+            "status": "Active",
+            "injury_status": null,
+            "age": 29,
+            "years_exp": 7,
+            "search_rank": 534,
+            "depth_chart_position": "RB"
+          },
+          "destination": {
+            "roster_id": 8,
+            "owner_user_id": "995178101929816064",
+            "username": "ChaseyChase73",
+            "team_name": "ChaseyChase73"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "player_id": "11834",
+            "name": "Devaughn Vele",
+            "position": "WR",
+            "team": "NO",
+            "status": "Active",
+            "injury_status": null,
+            "age": 28,
+            "years_exp": 2,
+            "search_rank": 209,
+            "depth_chart_position": "SWR"
+          },
+          "source": {
+            "roster_id": 8,
+            "owner_user_id": "995178101929816064",
+            "username": "ChaseyChase73",
+            "team_name": "ChaseyChase73"
+          }
+        }
+      ],
+      "roster_ids": [
+        8
       ]
     },
     {
