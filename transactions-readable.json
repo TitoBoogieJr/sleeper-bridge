@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-22T01:30:05.975867+00:00",
+  "snapshot_generated_at": "2026-11-22T08:44:37.640744+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -12136,6 +12136,40 @@
       ],
       "roster_ids": [
         3
+      ]
+    },
+    {
+      "transaction_id": "1430087422711971840",
+      "week": 11,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795321920616,
+      "faab": null,
+      "adds": [],
+      "drops": [
+        {
+          "player": {
+            "player_id": "9502",
+            "name": "Tank Dell",
+            "position": "WR",
+            "team": "HOU",
+            "status": "Active",
+            "injury_status": null,
+            "age": 27,
+            "years_exp": 3,
+            "search_rank": 187,
+            "depth_chart_position": "SWR"
+          },
+          "source": {
+            "roster_id": 10,
+            "owner_user_id": "1263230668070977536",
+            "username": "lionelesteban",
+            "team_name": "Kittle El Cero Miedo"
+          }
+        }
+      ],
+      "roster_ids": [
+        10
       ]
     },
     {

@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-22T01:30:05.975867+00:00",
+  "snapshot_generated_at": "2026-11-22T08:44:37.640744+00:00",
   "current_week": 11,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -1983,6 +1983,18 @@
           "depth_chart_position": "SWR"
         },
         {
+          "player_id": "5844",
+          "name": "T.J. Hockenson",
+          "position": "TE",
+          "team": "MIN",
+          "status": "Active",
+          "injury_status": null,
+          "age": 29,
+          "years_exp": 7,
+          "search_rank": 128,
+          "depth_chart_position": "TE"
+        },
+        {
           "player_id": "8136",
           "name": "Rachaad White",
           "position": "RB",
@@ -1993,18 +2005,6 @@
           "years_exp": 4,
           "search_rank": 125,
           "depth_chart_position": "RB"
-        },
-        {
-          "player_id": "9502",
-          "name": "Tank Dell",
-          "position": "WR",
-          "team": "HOU",
-          "status": "Active",
-          "injury_status": null,
-          "age": 27,
-          "years_exp": 3,
-          "search_rank": 187,
-          "depth_chart_position": "SWR"
         },
         {
           "player_id": "9509",
@@ -2043,18 +2043,6 @@
           "years_exp": 12,
           "search_rank": 46,
           "depth_chart_position": "LWR"
-        },
-        {
-          "player_id": "5844",
-          "name": "T.J. Hockenson",
-          "position": "TE",
-          "team": "MIN",
-          "status": "Active",
-          "injury_status": null,
-          "age": 29,
-          "years_exp": 7,
-          "search_rank": 128,
-          "depth_chart_position": "TE"
         }
       ]
     },
@@ -2749,16 +2737,16 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "11635",
-          "name": "Ladd McConkey",
+          "player_id": "12499",
+          "name": "Elic Ayomanor",
           "position": "WR",
-          "team": "LAC",
+          "team": "TEN",
           "status": "Active",
-          "injury_status": "Questionable",
-          "age": 25,
-          "years_exp": 2,
-          "search_rank": 35,
-          "depth_chart_position": "SWR"
+          "injury_status": null,
+          "age": 23,
+          "years_exp": 1,
+          "search_rank": 185,
+          "depth_chart_position": "LWR"
         },
         {
           "player_id": "12519",
@@ -2785,15 +2773,15 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "12499",
-          "name": "Elic Ayomanor",
+          "player_id": "13301",
+          "name": "Antonio Williams",
           "position": "WR",
-          "team": "TEN",
+          "team": "WAS",
           "status": "Active",
           "injury_status": null,
-          "age": 23,
-          "years_exp": 1,
-          "search_rank": 185,
+          "age": 22,
+          "years_exp": 0,
+          "search_rank": 156,
           "depth_chart_position": "LWR"
         },
         {
@@ -2823,6 +2811,18 @@
       ],
       "bench": [
         {
+          "player_id": "11635",
+          "name": "Ladd McConkey",
+          "position": "WR",
+          "team": "LAC",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "age": 25,
+          "years_exp": 2,
+          "search_rank": 35,
+          "depth_chart_position": "SWR"
+        },
+        {
           "player_id": "12504",
           "name": "Kaleb Johnson",
           "position": "RB",
@@ -2845,18 +2845,6 @@
           "years_exp": 0,
           "search_rank": 151,
           "depth_chart_position": "SWR"
-        },
-        {
-          "player_id": "13301",
-          "name": "Antonio Williams",
-          "position": "WR",
-          "team": "WAS",
-          "status": "Active",
-          "injury_status": null,
-          "age": 22,
-          "years_exp": 0,
-          "search_rank": 156,
-          "depth_chart_position": "LWR"
         },
         {
           "player_id": "8150",
