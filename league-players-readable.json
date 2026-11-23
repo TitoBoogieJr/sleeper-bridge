@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-22T22:43:03.721115+00:00",
+  "snapshot_generated_at": "2026-11-23T03:37:36.405937+00:00",
   "players": [
     {
       "player_id": "9509",
@@ -6706,12 +6706,12 @@
       "years_exp": 3,
       "search_rank": 184,
       "depth_chart_position": "LWR",
-      "rostered": true,
-      "roster_id": 6,
-      "owner_user_id": "1263688729139097600",
-      "username": "KHurrie",
-      "team_name": "LaPorta Pottie",
-      "location": "bench",
+      "rostered": false,
+      "roster_id": null,
+      "owner_user_id": null,
+      "username": null,
+      "team_name": null,
+      "location": "free_agent",
       "draft": {
         "draft_id": "1313649397531148288",
         "season": "2026",
@@ -19567,7 +19567,7 @@
       "owner_user_id": "1263688729139097600",
       "username": "KHurrie",
       "team_name": "LaPorta Pottie",
-      "location": "reserve",
+      "location": "bench",
       "draft": null,
       "keeper": {
         "eligible_next_season": true,

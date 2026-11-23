@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-22T22:43:03.721115+00:00",
+  "snapshot_generated_at": "2026-11-23T03:37:36.405937+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -12136,6 +12136,40 @@
       ],
       "roster_ids": [
         3
+      ]
+    },
+    {
+      "transaction_id": "1430382410117177344",
+      "week": 11,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795392251093,
+      "faab": null,
+      "adds": [],
+      "drops": [
+        {
+          "player": {
+            "player_id": "10213",
+            "name": "Tre Tucker",
+            "position": "WR",
+            "team": "LV",
+            "status": "Active",
+            "injury_status": null,
+            "age": 25,
+            "years_exp": 3,
+            "search_rank": 184,
+            "depth_chart_position": "LWR"
+          },
+          "source": {
+            "roster_id": 6,
+            "owner_user_id": "1263688729139097600",
+            "username": "KHurrie",
+            "team_name": "LaPorta Pottie"
+          }
+        }
+      ],
+      "roster_ids": [
+        6
       ]
     },
     {

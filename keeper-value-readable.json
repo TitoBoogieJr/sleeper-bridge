@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-22T22:43:03.721115+00:00",
+  "snapshot_generated_at": "2026-11-23T03:37:36.405937+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -1757,34 +1757,11 @@
           }
         },
         {
-          "player_id": "10213",
-          "name": "Tre Tucker",
-          "position": "WR",
-          "nfl_team": "LV",
-          "location": "bench",
-          "draft": {
-            "draft_id": "1313649397531148288",
-            "season": "2026",
-            "round": 14,
-            "pick_no": 193,
-            "original_roster_id": 6,
-            "original_owner_user_id": "1263688729139097600",
-            "original_username": "KHurrie",
-            "original_team_name": "LaPorta Pottie",
-            "is_keeper": false
-          },
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 14,
-            "reason": "Drafted in Round 14"
-          }
-        },
-        {
           "player_id": "11630",
           "name": "Roman Wilson",
           "position": "WR",
           "nfl_team": "PIT",
-          "location": "reserve",
+          "location": "bench",
           "draft": null,
           "keeper": {
             "eligible_next_season": true,
