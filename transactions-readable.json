@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-24T12:17:08.330865+00:00",
+  "snapshot_generated_at": "2026-11-24T22:41:44.589483+00:00",
   "transactions": [
     {
       "transaction_id": "1405791454936289280",
@@ -411,7 +411,7 @@
             "position": "RB",
             "team": "SEA",
             "status": "Active",
-            "injury_status": "Out",
+            "injury_status": "IR",
             "age": 26,
             "years_exp": 2,
             "search_rank": 454,
@@ -445,7 +445,7 @@
             "position": "RB",
             "team": "SEA",
             "status": "Active",
-            "injury_status": "Out",
+            "injury_status": "IR",
             "age": 26,
             "years_exp": 2,
             "search_rank": 454,
@@ -3392,7 +3392,7 @@
             "position": "RB",
             "team": "PHI",
             "status": "Active",
-            "injury_status": null,
+            "injury_status": "Questionable",
             "age": 24,
             "years_exp": 2,
             "search_rank": 686,
@@ -3803,7 +3803,7 @@
             "position": "RB",
             "team": "PHI",
             "status": "Active",
-            "injury_status": null,
+            "injury_status": "Questionable",
             "age": 24,
             "years_exp": 2,
             "search_rank": 686,
@@ -4036,7 +4036,7 @@
             "position": "RB",
             "team": "PHI",
             "status": "Active",
-            "injury_status": null,
+            "injury_status": "Questionable",
             "age": 24,
             "years_exp": 2,
             "search_rank": 686,
@@ -7398,7 +7398,7 @@
             "position": "RB",
             "team": "PHI",
             "status": "Active",
-            "injury_status": null,
+            "injury_status": "Questionable",
             "age": 24,
             "years_exp": 2,
             "search_rank": 686,
@@ -12139,6 +12139,40 @@
       ]
     },
     {
+      "transaction_id": "1431019530494160896",
+      "week": 11,
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795544152429,
+      "faab": null,
+      "adds": [],
+      "drops": [
+        {
+          "player": {
+            "player_id": "8172",
+            "name": "Greg Dulcich",
+            "position": "TE",
+            "team": "MIA",
+            "status": "Active",
+            "injury_status": null,
+            "age": 26,
+            "years_exp": 4,
+            "search_rank": 230,
+            "depth_chart_position": "TE"
+          },
+          "source": {
+            "roster_id": 12,
+            "owner_user_id": "1263696795716825088",
+            "username": "halfpint83",
+            "team_name": "Little Miss Touchdown"
+          }
+        }
+      ],
+      "roster_ids": [
+        12
+      ]
+    },
+    {
       "transaction_id": "1430382410117177344",
       "week": 11,
       "type": "free_agent",
@@ -12934,7 +12968,7 @@
             "position": "RB",
             "team": "SEA",
             "status": "Active",
-            "injury_status": "Out",
+            "injury_status": "IR",
             "age": 26,
             "years_exp": 2,
             "search_rank": 454,

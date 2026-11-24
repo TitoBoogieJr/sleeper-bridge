@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-24T12:17:08.330865+00:00",
+  "snapshot_generated_at": "2026-11-24T22:41:44.589483+00:00",
   "current_week": 12,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -45,15 +45,15 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "7021",
-          "name": "Rico Dowdle",
+          "player_id": "9753",
+          "name": "Zach Charbonnet",
           "position": "RB",
-          "team": "PIT",
+          "team": "SEA",
           "status": "Active",
           "injury_status": null,
-          "age": 28,
-          "years_exp": 6,
-          "search_rank": 65,
+          "age": 25,
+          "years_exp": 3,
+          "search_rank": 101,
           "depth_chart_position": "RB"
         },
         {
@@ -93,15 +93,15 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "12514",
-          "name": "Emeka Egbuka",
+          "player_id": "2216",
+          "name": "Mike Evans",
           "position": "WR",
-          "team": "TB",
+          "team": "SF",
           "status": "Active",
           "injury_status": null,
-          "age": 24,
-          "years_exp": 1,
-          "search_rank": 38,
+          "age": 33,
+          "years_exp": 12,
+          "search_rank": 60,
           "depth_chart_position": "LWR"
         },
         {
@@ -131,15 +131,15 @@
       ],
       "bench": [
         {
-          "player_id": "2216",
-          "name": "Mike Evans",
+          "player_id": "12514",
+          "name": "Emeka Egbuka",
           "position": "WR",
-          "team": "SF",
+          "team": "TB",
           "status": "Active",
           "injury_status": null,
-          "age": 33,
-          "years_exp": 12,
-          "search_rank": 60,
+          "age": 24,
+          "years_exp": 1,
+          "search_rank": 38,
           "depth_chart_position": "LWR"
         },
         {
@@ -155,6 +155,18 @@
           "depth_chart_position": "QB"
         },
         {
+          "player_id": "7021",
+          "name": "Rico Dowdle",
+          "position": "RB",
+          "team": "PIT",
+          "status": "Active",
+          "injury_status": null,
+          "age": 28,
+          "years_exp": 6,
+          "search_rank": 65,
+          "depth_chart_position": "RB"
+        },
+        {
           "player_id": "8122",
           "name": "Zonovan Knight",
           "position": "RB",
@@ -164,18 +176,6 @@
           "age": 25,
           "years_exp": 4,
           "search_rank": 669,
-          "depth_chart_position": "RB"
-        },
-        {
-          "player_id": "9753",
-          "name": "Zach Charbonnet",
-          "position": "RB",
-          "team": "SEA",
-          "status": "Active",
-          "injury_status": null,
-          "age": 25,
-          "years_exp": 3,
-          "search_rank": 101,
           "depth_chart_position": "RB"
         },
         {
@@ -477,15 +477,15 @@
           "depth_chart_position": "RWR"
         },
         {
-          "player_id": "13285",
-          "name": "Malachi Fields",
+          "player_id": "12501",
+          "name": "Matthew Golden",
           "position": "WR",
-          "team": "NYG",
+          "team": "GB",
           "status": "Active",
           "injury_status": null,
           "age": 23,
-          "years_exp": 0,
-          "search_rank": 201,
+          "years_exp": 1,
+          "search_rank": 118,
           "depth_chart_position": "RWR"
         },
         {
@@ -525,10 +525,10 @@
           "depth_chart_position": "K"
         },
         {
-          "player_id": "PIT",
-          "name": "Pittsburgh Steelers",
+          "player_id": "SF",
+          "name": "San Francisco 49ers",
           "position": "DEF",
-          "team": "PIT",
+          "team": "SF",
           "status": null,
           "injury_status": null,
           "age": null,
@@ -538,18 +538,6 @@
         }
       ],
       "bench": [
-        {
-          "player_id": "12501",
-          "name": "Matthew Golden",
-          "position": "WR",
-          "team": "GB",
-          "status": "Active",
-          "injury_status": null,
-          "age": 23,
-          "years_exp": 1,
-          "search_rank": 118,
-          "depth_chart_position": "RWR"
-        },
         {
           "player_id": "12522",
           "name": "Cam Ward",
@@ -587,10 +575,22 @@
           "depth_chart_position": "LWR"
         },
         {
-          "player_id": "SF",
-          "name": "San Francisco 49ers",
+          "player_id": "13285",
+          "name": "Malachi Fields",
+          "position": "WR",
+          "team": "NYG",
+          "status": "Active",
+          "injury_status": null,
+          "age": 23,
+          "years_exp": 0,
+          "search_rank": 201,
+          "depth_chart_position": "RWR"
+        },
+        {
+          "player_id": "PIT",
+          "name": "Pittsburgh Steelers",
           "position": "DEF",
-          "team": "SF",
+          "team": "PIT",
           "status": null,
           "injury_status": null,
           "age": null,
@@ -1123,7 +1123,7 @@
           "position": "TE",
           "team": "DET",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "age": 25,
           "years_exp": 3,
           "search_rank": 58,
@@ -1154,10 +1154,10 @@
           "depth_chart_position": "K"
         },
         {
-          "player_id": "JAX",
-          "name": "Jacksonville Jaguars",
+          "player_id": "SEA",
+          "name": "Seattle Seahawks",
           "position": "DEF",
-          "team": "JAX",
+          "team": "SEA",
           "status": null,
           "injury_status": null,
           "age": null,
@@ -1176,7 +1176,7 @@
           "injury_status": null,
           "age": 26,
           "years_exp": 2,
-          "search_rank": 44,
+          "search_rank": 46,
           "depth_chart_position": "QB"
         },
         {
@@ -1216,10 +1216,10 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "SEA",
-          "name": "Seattle Seahawks",
+          "player_id": "JAX",
+          "name": "Jacksonville Jaguars",
           "position": "DEF",
-          "team": "SEA",
+          "team": "JAX",
           "status": null,
           "injury_status": null,
           "age": null,
@@ -1280,15 +1280,15 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "5995",
-          "name": "Justice Hill",
+          "player_id": "12512",
+          "name": "Quinshon Judkins",
           "position": "RB",
-          "team": "BAL",
+          "team": "CLE",
           "status": "Active",
           "injury_status": null,
-          "age": 29,
-          "years_exp": 7,
-          "search_rank": 220,
+          "age": 23,
+          "years_exp": 1,
+          "search_rank": 45,
           "depth_chart_position": "RB"
         },
         {
@@ -1312,7 +1312,7 @@
           "injury_status": null,
           "age": 27,
           "years_exp": 6,
-          "search_rank": 12,
+          "search_rank": 11,
           "depth_chart_position": "LWR"
         },
         {
@@ -1328,16 +1328,16 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "2449",
-          "name": "Stefon Diggs",
+          "player_id": "8112",
+          "name": "Drake London",
           "position": "WR",
-          "team": "WAS",
+          "team": "ATL",
           "status": "Active",
-          "injury_status": null,
-          "age": 32,
-          "years_exp": 11,
-          "search_rank": 105,
-          "depth_chart_position": "SWR"
+          "injury_status": "Questionable",
+          "age": 25,
+          "years_exp": 4,
+          "search_rank": 19,
+          "depth_chart_position": "LWR"
         },
         {
           "player_id": "4227",
@@ -1366,18 +1366,6 @@
       ],
       "bench": [
         {
-          "player_id": "12512",
-          "name": "Quinshon Judkins",
-          "position": "RB",
-          "team": "CLE",
-          "status": "Active",
-          "injury_status": null,
-          "age": 23,
-          "years_exp": 1,
-          "search_rank": 45,
-          "depth_chart_position": "RB"
-        },
-        {
           "player_id": "13296",
           "name": "Caleb Douglas",
           "position": "WR",
@@ -1390,16 +1378,28 @@
           "depth_chart_position": "RWR"
         },
         {
-          "player_id": "8112",
-          "name": "Drake London",
+          "player_id": "2449",
+          "name": "Stefon Diggs",
           "position": "WR",
-          "team": "ATL",
+          "team": "WAS",
           "status": "Active",
-          "injury_status": "Questionable",
-          "age": 25,
-          "years_exp": 4,
-          "search_rank": 19,
-          "depth_chart_position": "LWR"
+          "injury_status": null,
+          "age": 32,
+          "years_exp": 11,
+          "search_rank": 105,
+          "depth_chart_position": "SWR"
+        },
+        {
+          "player_id": "5995",
+          "name": "Justice Hill",
+          "position": "RB",
+          "team": "BAL",
+          "status": "Active",
+          "injury_status": null,
+          "age": 29,
+          "years_exp": 7,
+          "search_rank": 220,
+          "depth_chart_position": "RB"
         },
         {
           "player_id": "9228",
@@ -1684,7 +1684,7 @@
           "injury_status": null,
           "age": 27,
           "years_exp": 6,
-          "search_rank": 44,
+          "search_rank": 46,
           "depth_chart_position": "RB"
         },
         {
@@ -1696,7 +1696,7 @@
           "injury_status": null,
           "age": 23,
           "years_exp": 2,
-          "search_rank": 26,
+          "search_rank": 28,
           "depth_chart_position": "LWR"
         },
         {
@@ -1862,15 +1862,15 @@
           "depth_chart_position": "QB"
         },
         {
-          "player_id": "13337",
-          "name": "Emmett Johnson",
+          "player_id": "9509",
+          "name": "Bijan Robinson",
           "position": "RB",
-          "team": "KC",
+          "team": "ATL",
           "status": "Active",
           "injury_status": null,
-          "age": 23,
-          "years_exp": 0,
-          "search_rank": 113,
+          "age": 24,
+          "years_exp": 3,
+          "search_rank": 1,
           "depth_chart_position": "RB"
         },
         {
@@ -1972,6 +1972,18 @@
           "depth_chart_position": "SWR"
         },
         {
+          "player_id": "13337",
+          "name": "Emmett Johnson",
+          "position": "RB",
+          "team": "KC",
+          "status": "Active",
+          "injury_status": null,
+          "age": 23,
+          "years_exp": 0,
+          "search_rank": 113,
+          "depth_chart_position": "RB"
+        },
+        {
           "player_id": "5844",
           "name": "T.J. Hockenson",
           "position": "TE",
@@ -1989,22 +2001,10 @@
           "position": "RB",
           "team": "WAS",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "age": 27,
           "years_exp": 4,
           "search_rank": 125,
-          "depth_chart_position": "RB"
-        },
-        {
-          "player_id": "9509",
-          "name": "Bijan Robinson",
-          "position": "RB",
-          "team": "ATL",
-          "status": "Active",
-          "injury_status": null,
-          "age": 24,
-          "years_exp": 3,
-          "search_rank": 1,
           "depth_chart_position": "RB"
         },
         {
@@ -2072,15 +2072,15 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "7567",
-          "name": "Kenny Gainwell",
+          "player_id": "12469",
+          "name": "Dylan Sampson",
           "position": "RB",
-          "team": "TB",
+          "team": "CLE",
           "status": "Active",
           "injury_status": null,
-          "age": 27,
-          "years_exp": 5,
-          "search_rank": 86,
+          "age": 22,
+          "years_exp": 1,
+          "search_rank": 129,
           "depth_chart_position": "RB"
         },
         {
@@ -2096,16 +2096,16 @@
           "depth_chart_position": "RWR"
         },
         {
-          "player_id": "5947",
-          "name": "Jakobi Meyers",
+          "player_id": "8167",
+          "name": "Christian Watson",
           "position": "WR",
-          "team": "JAX",
+          "team": "GB",
           "status": "Active",
           "injury_status": null,
-          "age": 30,
-          "years_exp": 7,
-          "search_rank": 77,
-          "depth_chart_position": "RWR"
+          "age": 27,
+          "years_exp": 4,
+          "search_rank": 64,
+          "depth_chart_position": "LWR"
         },
         {
           "player_id": "5012",
@@ -2120,16 +2120,16 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "9500",
-          "name": "Josh Downs",
+          "player_id": "5947",
+          "name": "Jakobi Meyers",
           "position": "WR",
-          "team": "KC",
+          "team": "JAX",
           "status": "Active",
           "injury_status": null,
-          "age": 25,
-          "years_exp": 3,
-          "search_rank": 111,
-          "depth_chart_position": "LWR"
+          "age": 30,
+          "years_exp": 7,
+          "search_rank": 77,
+          "depth_chart_position": "RWR"
         },
         {
           "player_id": "13968",
@@ -2170,18 +2170,6 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "12469",
-          "name": "Dylan Sampson",
-          "position": "RB",
-          "team": "CLE",
-          "status": "Active",
-          "injury_status": null,
-          "age": 22,
-          "years_exp": 1,
-          "search_rank": 129,
-          "depth_chart_position": "RB"
-        },
-        {
           "player_id": "2747",
           "name": "Jason Myers",
           "position": "K",
@@ -2206,15 +2194,27 @@
           "depth_chart_position": "LWR"
         },
         {
-          "player_id": "8167",
-          "name": "Christian Watson",
-          "position": "WR",
-          "team": "GB",
+          "player_id": "7567",
+          "name": "Kenny Gainwell",
+          "position": "RB",
+          "team": "TB",
           "status": "Active",
           "injury_status": null,
           "age": 27,
-          "years_exp": 4,
-          "search_rank": 64,
+          "years_exp": 5,
+          "search_rank": 86,
+          "depth_chart_position": "RB"
+        },
+        {
+          "player_id": "9500",
+          "name": "Josh Downs",
+          "position": "WR",
+          "team": "KC",
+          "status": "Active",
+          "injury_status": null,
+          "age": 25,
+          "years_exp": 3,
+          "search_rank": 111,
           "depth_chart_position": "LWR"
         }
       ],
@@ -2306,15 +2306,15 @@
           "depth_chart_position": "SWR"
         },
         {
-          "player_id": "2505",
-          "name": "Darren Waller",
+          "player_id": "12506",
+          "name": "Harold Fannin Jr.",
           "position": "TE",
-          "team": "CAR",
+          "team": "CLE",
           "status": "Active",
           "injury_status": null,
-          "age": 34,
-          "years_exp": 11,
-          "search_rank": 356,
+          "age": 22,
+          "years_exp": 1,
+          "search_rank": 63,
           "depth_chart_position": "TE"
         },
         {
@@ -2368,15 +2368,15 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "12506",
-          "name": "Harold Fannin Jr.",
+          "player_id": "2505",
+          "name": "Darren Waller",
           "position": "TE",
-          "team": "CLE",
+          "team": "CAR",
           "status": "Active",
           "injury_status": null,
-          "age": 22,
-          "years_exp": 1,
-          "search_rank": 63,
+          "age": 34,
+          "years_exp": 11,
+          "search_rank": 356,
           "depth_chart_position": "TE"
         },
         {
@@ -2402,18 +2402,6 @@
           "years_exp": 4,
           "search_rank": 508,
           "depth_chart_position": "RWR"
-        },
-        {
-          "player_id": "8172",
-          "name": "Greg Dulcich",
-          "position": "TE",
-          "team": "MIA",
-          "status": "Active",
-          "injury_status": null,
-          "age": 26,
-          "years_exp": 4,
-          "search_rank": 230,
-          "depth_chart_position": "TE"
         }
       ],
       "reserve": [
@@ -2545,7 +2533,7 @@
           "position": "TE",
           "team": "PHI",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "age": 31,
           "years_exp": 8,
           "search_rank": 94,
@@ -2595,7 +2583,7 @@
           "position": "WR",
           "team": "CLE",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "age": 22,
           "years_exp": 0,
           "search_rank": 153,
@@ -2758,7 +2746,7 @@
           "injury_status": null,
           "age": 24,
           "years_exp": 1,
-          "search_rank": 49,
+          "search_rank": 48,
           "depth_chart_position": "TE"
         },
         {
@@ -2856,7 +2844,7 @@
           "injury_status": null,
           "age": 24,
           "years_exp": 3,
-          "search_rank": 7,
+          "search_rank": 5,
           "depth_chart_position": "LWR"
         }
       ],

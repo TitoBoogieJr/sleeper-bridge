@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-24T12:17:08.330865+00:00",
+  "snapshot_generated_at": "2026-11-24T22:41:44.589483+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -18,7 +18,7 @@
           "name": "Bijan Robinson",
           "position": "RB",
           "nfl_team": "ATL",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -202,7 +202,7 @@
           "name": "Emmett Johnson",
           "position": "RB",
           "nfl_team": "KC",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -1036,7 +1036,7 @@
           "name": "Christian Watson",
           "position": "WR",
           "nfl_team": "GB",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -1105,7 +1105,7 @@
           "name": "Kenny Gainwell",
           "position": "RB",
           "nfl_team": "TB",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -1151,7 +1151,7 @@
           "name": "Josh Downs",
           "position": "WR",
           "nfl_team": "KC",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -1174,7 +1174,7 @@
           "name": "Dylan Sampson",
           "position": "RB",
           "nfl_team": "CLE",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -1787,7 +1787,7 @@
           "name": "Seattle Seahawks",
           "position": "DEF",
           "nfl_team": "SEA",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -1810,7 +1810,7 @@
           "name": "Jacksonville Jaguars",
           "position": "DEF",
           "nfl_team": "JAX",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -1887,7 +1887,7 @@
           "name": "Drake London",
           "position": "WR",
           "nfl_team": "ATL",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -1979,7 +1979,7 @@
           "name": "Quinshon Judkins",
           "position": "RB",
           "nfl_team": "CLE",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -2025,7 +2025,7 @@
           "name": "Stefon Diggs",
           "position": "WR",
           "nfl_team": "WAS",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -2084,7 +2084,7 @@
           "name": "Justice Hill",
           "position": "RB",
           "nfl_team": "BAL",
-          "location": "starter",
+          "location": "bench",
           "draft": null,
           "keeper": {
             "eligible_next_season": true,
@@ -2513,7 +2513,7 @@
           "name": "Emeka Egbuka",
           "position": "WR",
           "nfl_team": "TB",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -2559,7 +2559,7 @@
           "name": "Mike Evans",
           "position": "WR",
           "nfl_team": "SF",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -2582,7 +2582,7 @@
           "name": "Rico Dowdle",
           "position": "RB",
           "nfl_team": "PIT",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -2628,7 +2628,7 @@
           "name": "Zach Charbonnet",
           "position": "RB",
           "nfl_team": "SEA",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -2849,7 +2849,7 @@
           "name": "Harold Fannin Jr.",
           "position": "TE",
           "nfl_team": "CLE",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -3019,24 +3019,11 @@
           }
         },
         {
-          "player_id": "8172",
-          "name": "Greg Dulcich",
-          "position": "TE",
-          "nfl_team": "MIA",
-          "location": "bench",
-          "draft": null,
-          "keeper": {
-            "eligible_next_season": true,
-            "cost_round": 14,
-            "reason": "Undrafted player; keeper cost is Round 14"
-          }
-        },
-        {
           "player_id": "2505",
           "name": "Darren Waller",
           "position": "TE",
           "nfl_team": "CAR",
-          "location": "starter",
+          "location": "bench",
           "draft": null,
           "keeper": {
             "eligible_next_season": true,
@@ -3949,7 +3936,7 @@
           "name": "Matthew Golden",
           "position": "WR",
           "nfl_team": "GB",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -3985,7 +3972,7 @@
           "name": "Malachi Fields",
           "position": "WR",
           "nfl_team": "NYG",
-          "location": "starter",
+          "location": "bench",
           "draft": null,
           "keeper": {
             "eligible_next_season": true,
@@ -3998,7 +3985,7 @@
           "name": "Pittsburgh Steelers",
           "position": "DEF",
           "nfl_team": "PIT",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -4021,7 +4008,7 @@
           "name": "San Francisco 49ers",
           "position": "DEF",
           "nfl_team": "SF",
-          "location": "bench",
+          "location": "starter",
           "draft": null,
           "keeper": {
             "eligible_next_season": true,
