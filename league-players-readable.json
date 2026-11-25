@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-24T22:41:44.589483+00:00",
+  "snapshot_generated_at": "2026-11-25T05:19:43.160952+00:00",
   "players": [
     {
       "player_id": "9509",
@@ -3009,7 +3009,7 @@
       "owner_user_id": "1263709493192052736",
       "username": "KarolynRose",
       "team_name": "Magic Skol Bus",
-      "location": "bench",
+      "location": "starter",
       "draft": {
         "draft_id": "1313649397531148288",
         "season": "2026",
@@ -3077,7 +3077,7 @@
       "owner_user_id": "1263709493192052736",
       "username": "KarolynRose",
       "team_name": "Magic Skol Bus",
-      "location": "bench",
+      "location": "starter",
       "draft": {
         "draft_id": "1313649397531148288",
         "season": "2026",
@@ -3577,7 +3577,7 @@
       "owner_user_id": "1263709493192052736",
       "username": "KarolynRose",
       "team_name": "Magic Skol Bus",
-      "location": "starter",
+      "location": "bench",
       "draft": {
         "draft_id": "1313649397531148288",
         "season": "2026",
@@ -4305,7 +4305,7 @@
       "owner_user_id": "1263709493192052736",
       "username": "KarolynRose",
       "team_name": "Magic Skol Bus",
-      "location": "starter",
+      "location": "bench",
       "draft": {
         "draft_id": "1313649397531148288",
         "season": "2026",
@@ -4441,7 +4441,7 @@
       "owner_user_id": "1263695631499665408",
       "username": "jeredoliver",
       "team_name": "JSN Bourne",
-      "location": "reserve",
+      "location": "bench",
       "draft": {
         "draft_id": "1313649397531148288",
         "season": "2026",
@@ -5839,7 +5839,7 @@
       "owner_user_id": "1263695631499665408",
       "username": "jeredoliver",
       "team_name": "JSN Bourne",
-      "location": "bench",
+      "location": "reserve",
       "draft": null,
       "keeper": {
         "eligible_next_season": true,
