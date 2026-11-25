@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-25T05:19:43.160952+00:00",
+  "snapshot_generated_at": "2026-11-25T15:57:09.071008+00:00",
   "current_week": 12,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -215,7 +215,7 @@
         "wins": 7,
         "losses": 15,
         "ties": 0,
-        "faab_used": 0
+        "faab_used": 1
       },
       "starters": [
         {
@@ -329,6 +329,18 @@
       ],
       "bench": [
         {
+          "player_id": "11565",
+          "name": "J.J. McCarthy",
+          "position": "QB",
+          "team": "NYG",
+          "status": "Active",
+          "injury_status": null,
+          "age": 23,
+          "years_exp": 2,
+          "search_rank": 224,
+          "depth_chart_position": "QB"
+        },
+        {
           "player_id": "4037",
           "name": "Chris Godwin Jr.",
           "position": "WR",
@@ -375,18 +387,6 @@
           "years_exp": 3,
           "search_rank": 99,
           "depth_chart_position": "RWR"
-        },
-        {
-          "player_id": "ATL",
-          "name": "Atlanta Falcons",
-          "position": "DEF",
-          "team": "ATL",
-          "status": null,
-          "injury_status": null,
-          "age": null,
-          "years_exp": null,
-          "search_rank": null,
-          "depth_chart_position": null
         }
       ],
       "reserve": [
@@ -539,6 +539,18 @@
       ],
       "bench": [
         {
+          "player_id": "11577",
+          "name": "Will Shipley",
+          "position": "RB",
+          "team": "PHI",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "age": 24,
+          "years_exp": 2,
+          "search_rank": 686,
+          "depth_chart_position": "RB"
+        },
+        {
           "player_id": "12522",
           "name": "Cam Ward",
           "position": "QB",
@@ -585,18 +597,6 @@
           "years_exp": 0,
           "search_rank": 201,
           "depth_chart_position": "RWR"
-        },
-        {
-          "player_id": "PIT",
-          "name": "Pittsburgh Steelers",
-          "position": "DEF",
-          "team": "PIT",
-          "status": null,
-          "injury_status": null,
-          "age": null,
-          "years_exp": null,
-          "search_rank": null,
-          "depth_chart_position": null
         }
       ],
       "reserve": []
@@ -1478,15 +1478,15 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "6039",
-          "name": "Ty Johnson",
+          "player_id": "8151",
+          "name": "Kenneth Walker III",
           "position": "RB",
-          "team": "BUF",
+          "team": "KC",
           "status": "Active",
-          "injury_status": null,
-          "age": 29,
-          "years_exp": 7,
-          "search_rank": 534,
+          "injury_status": "Out",
+          "age": 26,
+          "years_exp": 4,
+          "search_rank": 17,
           "depth_chart_position": "RB"
         },
         {
@@ -1514,15 +1514,15 @@
           "depth_chart_position": "LWR"
         },
         {
-          "player_id": "13330",
-          "name": "Kenyon Sadiq",
+          "player_id": "11604",
+          "name": "Brock Bowers",
           "position": "TE",
-          "team": "NYJ",
+          "team": "LV",
           "status": "Active",
-          "injury_status": null,
-          "age": 21,
-          "years_exp": 0,
-          "search_rank": 109,
+          "injury_status": "Out",
+          "age": 23,
+          "years_exp": 2,
+          "search_rank": 19,
           "depth_chart_position": "TE"
         },
         {
@@ -1564,18 +1564,6 @@
       ],
       "bench": [
         {
-          "player_id": "11604",
-          "name": "Brock Bowers",
-          "position": "TE",
-          "team": "LV",
-          "status": "Active",
-          "injury_status": "Out",
-          "age": 23,
-          "years_exp": 2,
-          "search_rank": 19,
-          "depth_chart_position": "TE"
-        },
-        {
           "player_id": "11628",
           "name": "Marvin Harrison Jr.",
           "position": "WR",
@@ -1600,6 +1588,30 @@
           "depth_chart_position": "RB"
         },
         {
+          "player_id": "13330",
+          "name": "Kenyon Sadiq",
+          "position": "TE",
+          "team": "NYJ",
+          "status": "Active",
+          "injury_status": null,
+          "age": 21,
+          "years_exp": 0,
+          "search_rank": 109,
+          "depth_chart_position": "TE"
+        },
+        {
+          "player_id": "6039",
+          "name": "Ty Johnson",
+          "position": "RB",
+          "team": "BUF",
+          "status": "Active",
+          "injury_status": null,
+          "age": 29,
+          "years_exp": 7,
+          "search_rank": 534,
+          "depth_chart_position": "RB"
+        },
+        {
           "player_id": "6804",
           "name": "Jordan Love",
           "position": "QB",
@@ -1610,18 +1622,6 @@
           "years_exp": 6,
           "search_rank": 66,
           "depth_chart_position": "QB"
-        },
-        {
-          "player_id": "8151",
-          "name": "Kenneth Walker III",
-          "position": "RB",
-          "team": "KC",
-          "status": "Active",
-          "injury_status": "Out",
-          "age": 26,
-          "years_exp": 4,
-          "search_rank": 17,
-          "depth_chart_position": "RB"
         }
       ],
       "reserve": [
@@ -1700,16 +1700,16 @@
           "depth_chart_position": "LWR"
         },
         {
-          "player_id": "11783",
-          "name": "Ryan Flournoy",
+          "player_id": "11620",
+          "name": "Rome Odunze",
           "position": "WR",
-          "team": "DAL",
+          "team": "CHI",
           "status": "Active",
           "injury_status": null,
-          "age": 27,
+          "age": 24,
           "years_exp": 2,
-          "search_rank": 199,
-          "depth_chart_position": "SWR"
+          "search_rank": 65,
+          "depth_chart_position": "LWR"
         },
         {
           "player_id": "1466",
@@ -1724,16 +1724,16 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "11620",
-          "name": "Rome Odunze",
-          "position": "WR",
-          "team": "CHI",
+          "player_id": "10219",
+          "name": "Chris Rodriguez Jr.",
+          "position": "RB",
+          "team": "JAX",
           "status": "Active",
           "injury_status": null,
-          "age": 24,
-          "years_exp": 2,
-          "search_rank": 65,
-          "depth_chart_position": "LWR"
+          "age": 27,
+          "years_exp": 3,
+          "search_rank": 125,
+          "depth_chart_position": "RB"
         },
         {
           "player_id": "1945",
@@ -1748,10 +1748,10 @@
           "depth_chart_position": "K"
         },
         {
-          "player_id": "BUF",
-          "name": "Buffalo Bills",
-          "position": "DEF",
-          "team": "BUF",
+          "player_id": "0",
+          "name": "Unknown (0)",
+          "position": null,
+          "team": null,
           "status": null,
           "injury_status": null,
           "age": null,
@@ -1762,16 +1762,16 @@
       ],
       "bench": [
         {
-          "player_id": "10219",
-          "name": "Chris Rodriguez Jr.",
-          "position": "RB",
-          "team": "JAX",
+          "player_id": "11783",
+          "name": "Ryan Flournoy",
+          "position": "WR",
+          "team": "DAL",
           "status": "Active",
           "injury_status": null,
           "age": 27,
-          "years_exp": 3,
-          "search_rank": 125,
-          "depth_chart_position": "RB"
+          "years_exp": 2,
+          "search_rank": 199,
+          "depth_chart_position": "SWR"
         },
         {
           "player_id": "12718",
@@ -1820,6 +1820,18 @@
           "years_exp": 4,
           "search_rank": 89,
           "depth_chart_position": "RB"
+        },
+        {
+          "player_id": "CLE",
+          "name": "Cleveland Browns",
+          "position": "DEF",
+          "team": "CLE",
+          "status": null,
+          "injury_status": null,
+          "age": null,
+          "years_exp": null,
+          "search_rank": null,
+          "depth_chart_position": null
         }
       ],
       "reserve": [
@@ -1846,7 +1858,7 @@
         "wins": 15,
         "losses": 7,
         "ties": 0,
-        "faab_used": 94
+        "faab_used": 95
       },
       "starters": [
         {
@@ -1996,16 +2008,16 @@
           "depth_chart_position": "TE"
         },
         {
-          "player_id": "8136",
-          "name": "Rachaad White",
-          "position": "RB",
-          "team": "WAS",
+          "player_id": "9502",
+          "name": "Tank Dell",
+          "position": "WR",
+          "team": "HOU",
           "status": "Active",
           "injury_status": null,
           "age": 27,
-          "years_exp": 4,
-          "search_rank": 125,
-          "depth_chart_position": "RB"
+          "years_exp": 3,
+          "search_rank": 187,
+          "depth_chart_position": "SWR"
         },
         {
           "player_id": "TB",
