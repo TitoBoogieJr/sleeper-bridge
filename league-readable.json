@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-26T00:10:18.965388+00:00",
+  "snapshot_generated_at": "2026-11-26T08:48:03.007708+00:00",
   "current_week": 12,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -613,15 +613,15 @@
           "depth_chart_position": "QB"
         },
         {
-          "player_id": "8408",
-          "name": "Jordan Mason",
+          "player_id": "12507",
+          "name": "Omarion Hampton",
           "position": "RB",
-          "team": "MIN",
+          "team": "LAC",
           "status": "Active",
           "injury_status": null,
-          "age": 27,
-          "years_exp": 4,
-          "search_rank": 91,
+          "age": 23,
+          "years_exp": 1,
+          "search_rank": 12,
           "depth_chart_position": "RB"
         },
         {
@@ -711,18 +711,6 @@
       ],
       "bench": [
         {
-          "player_id": "12507",
-          "name": "Omarion Hampton",
-          "position": "RB",
-          "team": "LAC",
-          "status": "Active",
-          "injury_status": null,
-          "age": 23,
-          "years_exp": 1,
-          "search_rank": 12,
-          "depth_chart_position": "RB"
-        },
-        {
           "player_id": "13269",
           "name": "Fernando Mendoza",
           "position": "QB",
@@ -744,6 +732,18 @@
           "age": 25,
           "years_exp": 0,
           "search_rank": 161,
+          "depth_chart_position": "RB"
+        },
+        {
+          "player_id": "8408",
+          "name": "Jordan Mason",
+          "position": "RB",
+          "team": "MIN",
+          "status": "Active",
+          "injury_status": null,
+          "age": 27,
+          "years_exp": 4,
+          "search_rank": 91,
           "depth_chart_position": "RB"
         },
         {
