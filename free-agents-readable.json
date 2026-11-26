@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-26T08:48:03.007708+00:00",
+  "snapshot_generated_at": "2026-11-26T18:55:04.601034+00:00",
   "players": [
     {
       "player_id": "9226",
@@ -220,7 +220,7 @@
         "original_roster_id": 7,
         "original_owner_user_id": "713449654771056640",
         "original_username": "Tonay",
-        "original_team_name": "Relaxed Slims",
+        "original_team_name": "Bech Don\u2019t Kill My Vibe",
         "is_keeper": false
       },
       "keeper": {
@@ -278,7 +278,7 @@
         "original_roster_id": 7,
         "original_owner_user_id": "713449654771056640",
         "original_username": "Tonay",
-        "original_team_name": "Relaxed Slims",
+        "original_team_name": "Bech Don\u2019t Kill My Vibe",
         "is_keeper": false
       },
       "keeper": {
@@ -312,7 +312,7 @@
         "original_roster_id": 7,
         "original_owner_user_id": "713449654771056640",
         "original_username": "Tonay",
-        "original_team_name": "Relaxed Slims",
+        "original_team_name": "Bech Don\u2019t Kill My Vibe",
         "is_keeper": false
       },
       "keeper": {
@@ -1142,7 +1142,7 @@
         "original_roster_id": 7,
         "original_owner_user_id": "713449654771056640",
         "original_username": "Tonay",
-        "original_team_name": "Relaxed Slims",
+        "original_team_name": "Bech Don\u2019t Kill My Vibe",
         "is_keeper": false
       },
       "keeper": {
@@ -1956,30 +1956,6 @@
       "years_exp": 2,
       "search_rank": 206,
       "depth_chart_position": "LWR",
-      "rostered": false,
-      "roster_id": null,
-      "owner_user_id": null,
-      "username": null,
-      "team_name": null,
-      "location": "free_agent",
-      "draft": null,
-      "keeper": {
-        "eligible_next_season": true,
-        "cost_round": 14,
-        "reason": "Undrafted player; keeper cost is Round 14"
-      }
-    },
-    {
-      "player_id": "12483",
-      "name": "Jack Bech",
-      "position": "WR",
-      "team": "LV",
-      "status": "Active",
-      "injury_status": null,
-      "age": 23,
-      "years_exp": 1,
-      "search_rank": 208,
-      "depth_chart_position": "SWR",
       "rostered": false,
       "roster_id": null,
       "owner_user_id": null,
@@ -3777,6 +3753,30 @@
       "status": "Active",
       "injury_status": null,
       "age": 26,
+      "years_exp": 3,
+      "search_rank": 417,
+      "depth_chart_position": "TE",
+      "rostered": false,
+      "roster_id": null,
+      "owner_user_id": null,
+      "username": null,
+      "team_name": null,
+      "location": "free_agent",
+      "draft": null,
+      "keeper": {
+        "eligible_next_season": true,
+        "cost_round": 14,
+        "reason": "Undrafted player; keeper cost is Round 14"
+      }
+    },
+    {
+      "player_id": "9482",
+      "name": "Michael Mayer",
+      "position": "TE",
+      "team": "LV",
+      "status": "Active",
+      "injury_status": null,
+      "age": 25,
       "years_exp": 3,
       "search_rank": 417,
       "depth_chart_position": "TE",

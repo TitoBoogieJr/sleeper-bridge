@@ -8513,6 +8513,32 @@
     "status": "complete",
     "type": "free_agent",
     "metadata": null,
+    "created": 1795702322783,
+    "settings": null,
+    "leg": 12,
+    "draft_picks": [],
+    "creator": "713449654771056640",
+    "transaction_id": "1431682945042620416",
+    "adds": {
+      "12483": 7
+    },
+    "drops": {
+      "9482": 7
+    },
+    "consenter_ids": [
+      7
+    ],
+    "roster_ids": [
+      7
+    ],
+    "status_updated": 1795702322783,
+    "waiver_budget": [],
+    "week": 12
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "metadata": null,
     "created": 1795644226804,
     "settings": null,
     "leg": 12,

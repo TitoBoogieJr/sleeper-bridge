@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-26T08:48:03.007708+00:00",
+  "snapshot_generated_at": "2026-11-26T18:55:04.601034+00:00",
   "keeper_rules": {
     "minimum_draft_round": 3,
     "undrafted_cost_round": 14,
@@ -864,7 +864,7 @@
           "name": "Aaron Rodgers",
           "position": "QB",
           "nfl_team": "PIT",
-          "location": "starter",
+          "location": "bench",
           "draft": null,
           "keeper": {
             "eligible_next_season": true,
@@ -877,7 +877,7 @@
           "name": "J.J. McCarthy",
           "position": "QB",
           "nfl_team": "NYG",
-          "location": "bench",
+          "location": "starter",
           "draft": null,
           "keeper": {
             "eligible_next_season": true,
@@ -1834,7 +1834,7 @@
       "roster_id": 7,
       "owner_user_id": "713449654771056640",
       "username": "Tonay",
-      "team_name": "Relaxed Slims",
+      "team_name": "Bech Don\u2019t Kill My Vibe",
       "players": [
         {
           "player_id": "8138",
@@ -1850,7 +1850,7 @@
             "original_roster_id": 7,
             "original_owner_user_id": "713449654771056640",
             "original_username": "Tonay",
-            "original_team_name": "Relaxed Slims",
+            "original_team_name": "Bech Don\u2019t Kill My Vibe",
             "is_keeper": false
           },
           "keeper": {
@@ -1873,7 +1873,7 @@
             "original_roster_id": 7,
             "original_owner_user_id": "713449654771056640",
             "original_username": "Tonay",
-            "original_team_name": "Relaxed Slims",
+            "original_team_name": "Bech Don\u2019t Kill My Vibe",
             "is_keeper": false
           },
           "keeper": {
@@ -1896,7 +1896,7 @@
             "original_roster_id": 7,
             "original_owner_user_id": "713449654771056640",
             "original_username": "Tonay",
-            "original_team_name": "Relaxed Slims",
+            "original_team_name": "Bech Don\u2019t Kill My Vibe",
             "is_keeper": false
           },
           "keeper": {
@@ -1919,7 +1919,7 @@
             "original_roster_id": 7,
             "original_owner_user_id": "713449654771056640",
             "original_username": "Tonay",
-            "original_team_name": "Relaxed Slims",
+            "original_team_name": "Bech Don\u2019t Kill My Vibe",
             "is_keeper": false
           },
           "keeper": {
@@ -1942,7 +1942,7 @@
             "original_roster_id": 7,
             "original_owner_user_id": "713449654771056640",
             "original_username": "Tonay",
-            "original_team_name": "Relaxed Slims",
+            "original_team_name": "Bech Don\u2019t Kill My Vibe",
             "is_keeper": false
           },
           "keeper": {
@@ -1965,7 +1965,7 @@
             "original_roster_id": 7,
             "original_owner_user_id": "713449654771056640",
             "original_username": "Tonay",
-            "original_team_name": "Relaxed Slims",
+            "original_team_name": "Bech Don\u2019t Kill My Vibe",
             "is_keeper": false
           },
           "keeper": {
@@ -1988,7 +1988,7 @@
             "original_roster_id": 7,
             "original_owner_user_id": "713449654771056640",
             "original_username": "Tonay",
-            "original_team_name": "Relaxed Slims",
+            "original_team_name": "Bech Don\u2019t Kill My Vibe",
             "is_keeper": true
           },
           "keeper": {
@@ -2011,7 +2011,7 @@
             "original_roster_id": 7,
             "original_owner_user_id": "713449654771056640",
             "original_username": "Tonay",
-            "original_team_name": "Relaxed Slims",
+            "original_team_name": "Bech Don\u2019t Kill My Vibe",
             "is_keeper": false
           },
           "keeper": {
@@ -2034,7 +2034,7 @@
             "original_roster_id": 7,
             "original_owner_user_id": "713449654771056640",
             "original_username": "Tonay",
-            "original_team_name": "Relaxed Slims",
+            "original_team_name": "Bech Don\u2019t Kill My Vibe",
             "is_keeper": false
           },
           "keeper": {
@@ -2080,10 +2080,10 @@
           }
         },
         {
-          "player_id": "5995",
-          "name": "Justice Hill",
-          "position": "RB",
-          "nfl_team": "BAL",
+          "player_id": "12483",
+          "name": "Jack Bech",
+          "position": "WR",
+          "nfl_team": "LV",
           "location": "bench",
           "draft": null,
           "keeper": {
@@ -2093,10 +2093,10 @@
           }
         },
         {
-          "player_id": "9482",
-          "name": "Michael Mayer",
-          "position": "TE",
-          "nfl_team": "LV",
+          "player_id": "5995",
+          "name": "Justice Hill",
+          "position": "RB",
+          "nfl_team": "BAL",
           "location": "bench",
           "draft": null,
           "keeper": {
@@ -4006,7 +4006,7 @@
           "name": "Kenneth Walker III",
           "position": "RB",
           "nfl_team": "KC",
-          "location": "starter",
+          "location": "bench",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",
@@ -4121,7 +4121,7 @@
           "name": "Jadarian Price",
           "position": "RB",
           "nfl_team": "SEA",
-          "location": "bench",
+          "location": "starter",
           "draft": {
             "draft_id": "1313649397531148288",
             "season": "2026",

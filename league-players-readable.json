@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-26T08:48:03.007708+00:00",
+  "snapshot_generated_at": "2026-11-26T18:55:04.601034+00:00",
   "players": [
     {
       "player_id": "9509",
@@ -254,7 +254,7 @@
       "roster_id": 7,
       "owner_user_id": "713449654771056640",
       "username": "Tonay",
-      "team_name": "Relaxed Slims",
+      "team_name": "Bech Don\u2019t Kill My Vibe",
       "location": "starter",
       "draft": {
         "draft_id": "1313649397531148288",
@@ -264,7 +264,7 @@
         "original_roster_id": 7,
         "original_owner_user_id": "713449654771056640",
         "original_username": "Tonay",
-        "original_team_name": "Relaxed Slims",
+        "original_team_name": "Bech Don\u2019t Kill My Vibe",
         "is_keeper": false
       },
       "keeper": {
@@ -628,7 +628,7 @@
       "roster_id": 7,
       "owner_user_id": "713449654771056640",
       "username": "Tonay",
-      "team_name": "Relaxed Slims",
+      "team_name": "Bech Don\u2019t Kill My Vibe",
       "location": "starter",
       "draft": {
         "draft_id": "1313649397531148288",
@@ -638,7 +638,7 @@
         "original_roster_id": 7,
         "original_owner_user_id": "713449654771056640",
         "original_username": "Tonay",
-        "original_team_name": "Relaxed Slims",
+        "original_team_name": "Bech Don\u2019t Kill My Vibe",
         "is_keeper": false
       },
       "keeper": {
@@ -832,7 +832,7 @@
       "roster_id": 7,
       "owner_user_id": "713449654771056640",
       "username": "Tonay",
-      "team_name": "Relaxed Slims",
+      "team_name": "Bech Don\u2019t Kill My Vibe",
       "location": "starter",
       "draft": {
         "draft_id": "1313649397531148288",
@@ -842,7 +842,7 @@
         "original_roster_id": 7,
         "original_owner_user_id": "713449654771056640",
         "original_username": "Tonay",
-        "original_team_name": "Relaxed Slims",
+        "original_team_name": "Bech Don\u2019t Kill My Vibe",
         "is_keeper": false
       },
       "keeper": {
@@ -867,7 +867,7 @@
       "owner_user_id": "995178101929816064",
       "username": "ChaseyChase73",
       "team_name": "ChaseyChase73",
-      "location": "starter",
+      "location": "bench",
       "draft": {
         "draft_id": "1313649397531148288",
         "season": "2026",
@@ -934,7 +934,7 @@
       "roster_id": 7,
       "owner_user_id": "713449654771056640",
       "username": "Tonay",
-      "team_name": "Relaxed Slims",
+      "team_name": "Bech Don\u2019t Kill My Vibe",
       "location": "reserve",
       "draft": {
         "draft_id": "1313649397531148288",
@@ -944,7 +944,7 @@
         "original_roster_id": 7,
         "original_owner_user_id": "713449654771056640",
         "original_username": "Tonay",
-        "original_team_name": "Relaxed Slims",
+        "original_team_name": "Bech Don\u2019t Kill My Vibe",
         "is_keeper": false
       },
       "keeper": {
@@ -1682,7 +1682,7 @@
       "roster_id": 7,
       "owner_user_id": "713449654771056640",
       "username": "Tonay",
-      "team_name": "Relaxed Slims",
+      "team_name": "Bech Don\u2019t Kill My Vibe",
       "location": "starter",
       "draft": {
         "draft_id": "1313649397531148288",
@@ -1692,7 +1692,7 @@
         "original_roster_id": 7,
         "original_owner_user_id": "713449654771056640",
         "original_username": "Tonay",
-        "original_team_name": "Relaxed Slims",
+        "original_team_name": "Bech Don\u2019t Kill My Vibe",
         "is_keeper": false
       },
       "keeper": {
@@ -1784,7 +1784,7 @@
       "roster_id": 7,
       "owner_user_id": "713449654771056640",
       "username": "Tonay",
-      "team_name": "Relaxed Slims",
+      "team_name": "Bech Don\u2019t Kill My Vibe",
       "location": "starter",
       "draft": {
         "draft_id": "1313649397531148288",
@@ -1794,7 +1794,7 @@
         "original_roster_id": 7,
         "original_owner_user_id": "713449654771056640",
         "original_username": "Tonay",
-        "original_team_name": "Relaxed Slims",
+        "original_team_name": "Bech Don\u2019t Kill My Vibe",
         "is_keeper": false
       },
       "keeper": {
@@ -2056,7 +2056,7 @@
       "roster_id": 7,
       "owner_user_id": "713449654771056640",
       "username": "Tonay",
-      "team_name": "Relaxed Slims",
+      "team_name": "Bech Don\u2019t Kill My Vibe",
       "location": "starter",
       "draft": {
         "draft_id": "1313649397531148288",
@@ -2066,7 +2066,7 @@
         "original_roster_id": 7,
         "original_owner_user_id": "713449654771056640",
         "original_username": "Tonay",
-        "original_team_name": "Relaxed Slims",
+        "original_team_name": "Bech Don\u2019t Kill My Vibe",
         "is_keeper": true
       },
       "keeper": {
@@ -2261,7 +2261,7 @@
       "owner_user_id": "995178101929816064",
       "username": "ChaseyChase73",
       "team_name": "ChaseyChase73",
-      "location": "bench",
+      "location": "starter",
       "draft": {
         "draft_id": "1313649397531148288",
         "season": "2026",
@@ -3756,7 +3756,7 @@
         "original_roster_id": 7,
         "original_owner_user_id": "713449654771056640",
         "original_username": "Tonay",
-        "original_team_name": "Relaxed Slims",
+        "original_team_name": "Bech Don\u2019t Kill My Vibe",
         "is_keeper": false
       },
       "keeper": {
@@ -3950,7 +3950,7 @@
         "original_roster_id": 7,
         "original_owner_user_id": "713449654771056640",
         "original_username": "Tonay",
-        "original_team_name": "Relaxed Slims",
+        "original_team_name": "Bech Don\u2019t Kill My Vibe",
         "is_keeper": false
       },
       "keeper": {
@@ -4086,7 +4086,7 @@
         "original_roster_id": 7,
         "original_owner_user_id": "713449654771056640",
         "original_username": "Tonay",
-        "original_team_name": "Relaxed Slims",
+        "original_team_name": "Bech Don\u2019t Kill My Vibe",
         "is_keeper": false
       },
       "keeper": {
@@ -4406,7 +4406,7 @@
       "roster_id": 7,
       "owner_user_id": "713449654771056640",
       "username": "Tonay",
-      "team_name": "Relaxed Slims",
+      "team_name": "Bech Don\u2019t Kill My Vibe",
       "location": "starter",
       "draft": {
         "draft_id": "1313649397531148288",
@@ -4416,7 +4416,7 @@
         "original_roster_id": 7,
         "original_owner_user_id": "713449654771056640",
         "original_username": "Tonay",
-        "original_team_name": "Relaxed Slims",
+        "original_team_name": "Bech Don\u2019t Kill My Vibe",
         "is_keeper": false
       },
       "keeper": {
@@ -4474,7 +4474,7 @@
       "roster_id": 7,
       "owner_user_id": "713449654771056640",
       "username": "Tonay",
-      "team_name": "Relaxed Slims",
+      "team_name": "Bech Don\u2019t Kill My Vibe",
       "location": "bench",
       "draft": {
         "draft_id": "1313649397531148288",
@@ -4484,7 +4484,7 @@
         "original_roster_id": 7,
         "original_owner_user_id": "713449654771056640",
         "original_username": "Tonay",
-        "original_team_name": "Relaxed Slims",
+        "original_team_name": "Bech Don\u2019t Kill My Vibe",
         "is_keeper": false
       },
       "keeper": {
@@ -5370,7 +5370,7 @@
       "roster_id": 7,
       "owner_user_id": "713449654771056640",
       "username": "Tonay",
-      "team_name": "Relaxed Slims",
+      "team_name": "Bech Don\u2019t Kill My Vibe",
       "location": "bench",
       "draft": null,
       "keeper": {
@@ -6166,7 +6166,7 @@
         "original_roster_id": 7,
         "original_owner_user_id": "713449654771056640",
         "original_username": "Tonay",
-        "original_team_name": "Relaxed Slims",
+        "original_team_name": "Bech Don\u2019t Kill My Vibe",
         "is_keeper": false
       },
       "keeper": {
@@ -6793,7 +6793,7 @@
       "owner_user_id": "1263709493192052736",
       "username": "KarolynRose",
       "team_name": "Magic Skol Bus",
-      "location": "starter",
+      "location": "bench",
       "draft": null,
       "keeper": {
         "eligible_next_season": true,
@@ -7090,7 +7090,7 @@
       "roster_id": 7,
       "owner_user_id": "713449654771056640",
       "username": "Tonay",
-      "team_name": "Relaxed Slims",
+      "team_name": "Bech Don\u2019t Kill My Vibe",
       "location": "bench",
       "draft": {
         "draft_id": "1313649397531148288",
@@ -7322,12 +7322,12 @@
       "years_exp": 1,
       "search_rank": 208,
       "depth_chart_position": "SWR",
-      "rostered": false,
-      "roster_id": null,
-      "owner_user_id": null,
-      "username": null,
-      "team_name": null,
-      "location": "free_agent",
+      "rostered": true,
+      "roster_id": 7,
+      "owner_user_id": "713449654771056640",
+      "username": "Tonay",
+      "team_name": "Bech Don\u2019t Kill My Vibe",
+      "location": "bench",
       "draft": null,
       "keeper": {
         "eligible_next_season": true,
@@ -7494,7 +7494,7 @@
       "roster_id": 7,
       "owner_user_id": "713449654771056640",
       "username": "Tonay",
-      "team_name": "Relaxed Slims",
+      "team_name": "Bech Don\u2019t Kill My Vibe",
       "location": "bench",
       "draft": null,
       "keeper": {
@@ -7543,7 +7543,7 @@
       "owner_user_id": "1263709493192052736",
       "username": "KarolynRose",
       "team_name": "Magic Skol Bus",
-      "location": "bench",
+      "location": "starter",
       "draft": null,
       "keeper": {
         "eligible_next_season": true,
@@ -9338,12 +9338,12 @@
       "years_exp": 3,
       "search_rank": 417,
       "depth_chart_position": "TE",
-      "rostered": true,
-      "roster_id": 7,
-      "owner_user_id": "713449654771056640",
-      "username": "Tonay",
-      "team_name": "Relaxed Slims",
-      "location": "bench",
+      "rostered": false,
+      "roster_id": null,
+      "owner_user_id": null,
+      "username": null,
+      "team_name": null,
+      "location": "free_agent",
       "draft": null,
       "keeper": {
         "eligible_next_season": true,
@@ -21818,7 +21818,7 @@
       "roster_id": 7,
       "owner_user_id": "713449654771056640",
       "username": "Tonay",
-      "team_name": "Relaxed Slims",
+      "team_name": "Bech Don\u2019t Kill My Vibe",
       "location": "starter",
       "draft": {
         "draft_id": "1313649397531148288",

@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-26T08:48:03.007708+00:00",
+  "snapshot_generated_at": "2026-11-26T18:55:04.601034+00:00",
   "current_week": 12,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -206,15 +206,15 @@
       },
       "starters": [
         {
-          "player_id": "96",
-          "name": "Aaron Rodgers",
+          "player_id": "11565",
+          "name": "J.J. McCarthy",
           "position": "QB",
-          "team": "PIT",
+          "team": "NYG",
           "status": "Active",
           "injury_status": null,
-          "age": 42,
-          "years_exp": 21,
-          "search_rank": 186,
+          "age": 23,
+          "years_exp": 2,
+          "search_rank": 224,
           "depth_chart_position": "QB"
         },
         {
@@ -316,18 +316,6 @@
       ],
       "bench": [
         {
-          "player_id": "11565",
-          "name": "J.J. McCarthy",
-          "position": "QB",
-          "team": "NYG",
-          "status": "Active",
-          "injury_status": null,
-          "age": 23,
-          "years_exp": 2,
-          "search_rank": 224,
-          "depth_chart_position": "QB"
-        },
-        {
           "player_id": "4037",
           "name": "Chris Godwin Jr.",
           "position": "WR",
@@ -362,6 +350,18 @@
           "years_exp": 6,
           "search_rank": 103,
           "depth_chart_position": "TE"
+        },
+        {
+          "player_id": "96",
+          "name": "Aaron Rodgers",
+          "position": "QB",
+          "team": "PIT",
+          "status": "Active",
+          "injury_status": null,
+          "age": 42,
+          "years_exp": 21,
+          "search_rank": 186,
+          "depth_chart_position": "QB"
         },
         {
           "player_id": "9756",
@@ -1222,7 +1222,7 @@
       "roster_id": 7,
       "owner_user_id": "713449654771056640",
       "username": "Tonay",
-      "team_name": "Relaxed Slims",
+      "team_name": "Bech Don\u2019t Kill My Vibe",
       "record": {
         "wins": 15,
         "losses": 7,
@@ -1341,6 +1341,18 @@
       ],
       "bench": [
         {
+          "player_id": "12483",
+          "name": "Jack Bech",
+          "position": "WR",
+          "team": "LV",
+          "status": "Active",
+          "injury_status": null,
+          "age": 23,
+          "years_exp": 1,
+          "search_rank": 208,
+          "depth_chart_position": "SWR"
+        },
+        {
           "player_id": "13296",
           "name": "Caleb Douglas",
           "position": "WR",
@@ -1387,18 +1399,6 @@
           "years_exp": 3,
           "search_rank": 130,
           "depth_chart_position": "QB"
-        },
-        {
-          "player_id": "9482",
-          "name": "Michael Mayer",
-          "position": "TE",
-          "team": "LV",
-          "status": "Active",
-          "injury_status": null,
-          "age": 25,
-          "years_exp": 3,
-          "search_rank": 417,
-          "depth_chart_position": "TE"
         }
       ],
       "reserve": [
@@ -1453,15 +1453,15 @@
           "depth_chart_position": "RB"
         },
         {
-          "player_id": "8151",
-          "name": "Kenneth Walker III",
+          "player_id": "13286",
+          "name": "Jadarian Price",
           "position": "RB",
-          "team": "KC",
+          "team": "SEA",
           "status": "Active",
-          "injury_status": "Out",
-          "age": 26,
-          "years_exp": 4,
-          "search_rank": 19,
+          "injury_status": null,
+          "age": 23,
+          "years_exp": 0,
+          "search_rank": 52,
           "depth_chart_position": "RB"
         },
         {
@@ -1551,18 +1551,6 @@
           "depth_chart_position": "RWR"
         },
         {
-          "player_id": "13286",
-          "name": "Jadarian Price",
-          "position": "RB",
-          "team": "SEA",
-          "status": "Active",
-          "injury_status": null,
-          "age": 23,
-          "years_exp": 0,
-          "search_rank": 52,
-          "depth_chart_position": "RB"
-        },
-        {
           "player_id": "13330",
           "name": "Kenyon Sadiq",
           "position": "TE",
@@ -1597,6 +1585,18 @@
           "years_exp": 6,
           "search_rank": 66,
           "depth_chart_position": "QB"
+        },
+        {
+          "player_id": "8151",
+          "name": "Kenneth Walker III",
+          "position": "RB",
+          "team": "KC",
+          "status": "Active",
+          "injury_status": "Out",
+          "age": 26,
+          "years_exp": 4,
+          "search_rank": 19,
+          "depth_chart_position": "RB"
         }
       ],
       "reserve": [
