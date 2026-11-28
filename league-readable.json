@@ -1,5 +1,5 @@
 {
-  "snapshot_generated_at": "2026-11-27T20:11:47.217799+00:00",
+  "snapshot_generated_at": "2026-11-28T02:54:06.356311+00:00",
   "current_week": 12,
   "league": {
     "name": "North Winnipeg Fantasy Football",
@@ -21,15 +21,15 @@
       },
       "starters": [
         {
-          "player_id": "6797",
-          "name": "Justin Herbert",
+          "player_id": "1373",
+          "name": "Geno Smith",
           "position": "QB",
-          "team": "LAC",
+          "team": "NYJ",
           "status": "Active",
-          "injury_status": "Questionable",
-          "age": 28,
-          "years_exp": 6,
-          "search_rank": 34,
+          "injury_status": null,
+          "age": 36,
+          "years_exp": 13,
+          "search_rank": 210,
           "depth_chart_position": "QB"
         },
         {
@@ -191,7 +191,20 @@
           "depth_chart_position": null
         }
       ],
-      "reserve": []
+      "reserve": [
+        {
+          "player_id": "6797",
+          "name": "Justin Herbert",
+          "position": "QB",
+          "team": "LAC",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "age": 28,
+          "years_exp": 6,
+          "search_rank": 34,
+          "depth_chart_position": "QB"
+        }
+      ]
     },
     {
       "roster_id": 2,
@@ -1825,15 +1838,15 @@
       },
       "starters": [
         {
-          "player_id": "8183",
-          "name": "Brock Purdy",
+          "player_id": "4017",
+          "name": "Deshaun Watson",
           "position": "QB",
-          "team": "SF",
+          "team": "CLE",
           "status": "Active",
-          "injury_status": "Questionable",
-          "age": 26,
-          "years_exp": 4,
-          "search_rank": 56,
+          "injury_status": null,
+          "age": 31,
+          "years_exp": 9,
+          "search_rank": 291,
           "depth_chart_position": "QB"
         },
         {
@@ -2007,6 +2020,18 @@
           "years_exp": 12,
           "search_rank": 46,
           "depth_chart_position": "LWR"
+        },
+        {
+          "player_id": "8183",
+          "name": "Brock Purdy",
+          "position": "QB",
+          "team": "SF",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "age": 26,
+          "years_exp": 4,
+          "search_rank": 56,
+          "depth_chart_position": "QB"
         }
       ]
     },
